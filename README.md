@@ -4,13 +4,17 @@ A curated, Apple Calendar-compatible feed for Big Bear events that are useful to
 
 The source of truth is `data/events.json`. `scripts/generate_calendar.py` turns it into `public/big-bear-events.ics`. Netlify serves that file from one stable HTTPS URL so existing Apple Calendar subscriptions receive later published updates.
 
+- Subscription page: https://big-bear-events.netlify.app/
+- Calendar feed: https://big-bear-events.netlify.app/big-bear-events.ics
+- Repository: https://github.com/bry-rip/big-bear-events-calendar
+
 ## Subscribe
 
 On a Mac:
 
 1. Open Calendar.
 2. Choose **File → New Calendar Subscription**.
-3. Paste the live `.ics` URL shown on the subscription page.
+3. Paste `https://big-bear-events.netlify.app/big-bear-events.ics`.
 4. Choose **iCloud** as the Location to make it appear on devices signed into the same Apple Account.
 5. Choose an automatic refresh interval such as every hour or every day.
 
