@@ -1,0 +1,2 @@
+# RFC 5545 requires CRLF; do not flag the generated feed's carriage returns as whitespace errors.
+*.ics -text -diff whitespace=-trailing-space

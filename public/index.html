@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#18352f">
+    <title>Big Bear Local Events Calendar</title>
+    <style>
+      :root { color-scheme: light; --pine: #18352f; --cream: #f4eddf; --sun: #eda947; --ink: #18211f; }
+      * { box-sizing: border-box; }
+      body { margin: 0; min-height: 100vh; background: var(--cream); color: var(--ink); font: 17px/1.55 ui-rounded, "SF Pro Rounded", system-ui, sans-serif; }
+      main { width: min(760px, calc(100% - 32px)); margin: 0 auto; padding: 64px 0 80px; }
+      .eyebrow { color: #48655e; font-weight: 750; letter-spacing: .12em; text-transform: uppercase; font-size: .76rem; }
+      h1 { margin: .3rem 0 1rem; color: var(--pine); font-family: Georgia, serif; font-size: clamp(2.5rem, 8vw, 5rem); line-height: .98; letter-spacing: -.035em; }
+      .lede { font-size: 1.2rem; max-width: 620px; }
+      .actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 32px 0 44px; }
+      a.button { display: inline-block; border: 2px solid var(--pine); border-radius: 999px; padding: 12px 20px; color: white; background: var(--pine); font-weight: 750; text-decoration: none; }
+      a.button.secondary { color: var(--pine); background: transparent; }
+      section { border-top: 1px solid #c9c0ae; padding: 28px 0; }
+      h2 { color: var(--pine); font-size: 1.25rem; margin: 0 0 12px; }
+      ol { padding-left: 1.4rem; }
+      code { overflow-wrap: anywhere; font-size: .9em; }
+      .note { background: #fff9ed; border-left: 5px solid var(--sun); padding: 16px 18px; }
+      footer { color: #5c6763; font-size: .9rem; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <p class="eyebrow">Bryan’s mountain-town field guide</p>
+      <h1>Big Bear<br>Local Events</h1>
+      <p class="lede">A curated calendar for concerts, festivals, oddball mountain happenings, volunteer days, motorsports, and the events actually worth knowing about.</p>
+      <div class="actions">
+        <a class="button" id="subscribe" href="big-bear-events.ics">Subscribe in Apple Calendar</a>
+        <a class="button secondary" href="big-bear-events.ics">View or download the feed</a>
+      </div>
+
+      <section>
+        <h2>Subscribe once on your Mac</h2>
+        <ol>
+          <li>Choose <strong>File → New Calendar Subscription</strong> in Calendar.</li>
+          <li>Paste this site’s calendar URL if it is not filled automatically.</li>
+          <li>Choose <strong>iCloud</strong> for Location so it also appears on your iPhone.</li>
+          <li>Set Auto-refresh to every hour or every day.</li>
+        </ol>
+      </section>
+
+      <section>
+        <h2>What makes this useful</h2>
+        <p>Open an event to see the actual lineup, price, venue, schedule, practical notes, official links, competing events, and any details that are still TBD. Calendar updates arrive through the same subscription URL.</p>
+        <p class="note"><strong>Reality check:</strong> Big Bear organizers change schedules. Each entry says when it was last checked and links back to its official source.</p>
+      </section>
+
+      <footer>This is an independent, curated calendar—not an official City of Big Bear Lake or Visit Big Bear publication.</footer>
+    </main>
+    <script>
+      const feed = `${location.origin}/big-bear-events.ics`;
+      document.getElementById("subscribe").href = feed.replace(/^https?:/, "webcal:");
+    </script>
+  </body>
+</html>
