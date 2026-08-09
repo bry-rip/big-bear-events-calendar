@@ -282,7 +282,6 @@
         "Village public lots are available but fill; the City recommends the free Mountain Transit Red, Blue and Gold lines"
       ],
       "tbd": ["Which artist plays the 6:00 slot and which plays the 7:30 slot is not explicitly published"],
-      "conflicts": ["rodeo-kickoff-2026"],
       "sources": [
         {
           "label": "City lineup announcement",
@@ -303,8 +302,8 @@
       ],
       "categories": ["Live Music", "Free", "Village", "Reggae"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-09T23:00:00Z",
+      "sequence": 1
     },
     {
       "id": "music-in-the-mountains-bowie-elton-2026",
@@ -934,13 +933,13 @@
       "tbd": ["Rotary’s calendar says 7:00–9:00 PM while Visit Big Bear says 7:30–9:00 PM and explicitly says the parade begins at 7:30; this event uses the safer wider block"],
       "conflicts": ["rodeo-night-two-2026", "skyline-at-sundown-2026-09-06", "labor-day-glow-golf-2026-09-06"],
       "sources": [
-        {"label": "Dedicated event page and route map", "url": "https://www.bigbear.com/events/big-bear-rotary-labor-day-weekend-boat-parade-of-lights/"},
-        {"label": "Rotary Club host calendar", "url": "https://bigbearlakerotary.org/"}
+        {"label": "Rotary Club host calendar", "url": "https://bigbearlakerotary.org/"},
+        {"label": "Dedicated event page and route map", "url": "https://www.bigbear.com/events/big-bear-rotary-labor-day-weekend-boat-parade-of-lights/"}
       ],
       "categories": ["Lake", "Parade", "Free", "TBD"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-09T23:00:00Z",
+      "sequence": 1
     },
     {
       "id": "labor-day-drone-show-2026",

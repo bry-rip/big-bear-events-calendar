@@ -4,10 +4,12 @@
 from __future__ import annotations
 
 import json
+import re
 from copy import deepcopy
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlparse
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -63,11 +65,31 @@ def ical_date(value: str) -> str:
 
 
 def ical_datetime(value: str) -> str:
-    return datetime.fromisoformat(value).strftime("%Y%m%dT%H%M%S")
+    return local_datetime(value).strftime("%Y%m%dT%H%M%S")
+
+
+def local_datetime(value: str) -> datetime:
+    """Parse a naive Big Bear wall-clock time, never an offset-aware timestamp."""
+    if not isinstance(value, str) or not re.fullmatch(
+        r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(?::\d{2})?", value
+    ):
+        raise ValueError("expected YYYY-MM-DDTHH:MM or YYYY-MM-DDTHH:MM:SS")
+    parsed = datetime.fromisoformat(value)
+    if parsed.tzinfo is not None:
+        raise ValueError("local event times cannot contain a UTC offset")
+    return parsed
+
+
+def revision_datetime(value: str) -> datetime:
+    """Parse a revision date/timestamp and normalize it to naive UTC."""
+    parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    if parsed.tzinfo is not None:
+        parsed = parsed.astimezone(timezone.utc).replace(tzinfo=None)
+    return parsed
 
 
 def display_datetime(value: str) -> str:
-    parsed = datetime.fromisoformat(value)
+    parsed = local_datetime(value)
     return parsed.strftime("%a, %b %-d, %Y at %-I:%M %p")
 
 
@@ -79,11 +101,11 @@ def event_when(event: dict[str, Any]) -> str:
             return first.strftime("%a, %b %-d, %Y (all day)")
         return f"{first.strftime('%a, %b %-d')}–{last.strftime('%a, %b %-d, %Y')} (all day)"
 
-    start = datetime.fromisoformat(event["start"])
+    start = local_datetime(event["start"])
     end_raw = event.get("end")
     if not end_raw:
         return display_datetime(event["start"])
-    end = datetime.fromisoformat(end_raw)
+    end = local_datetime(end_raw)
     if start.date() == end.date():
         return (
             f"{start.strftime('%a, %b %-d, %Y, %-I:%M %p')}–"
@@ -117,11 +139,11 @@ def build_description(event: dict[str, Any], event_by_id: dict[str, dict[str, An
 
     conflict_lines: list[str] = []
     for conflict in event.get("conflicts", []):
-        if isinstance(conflict, str) and conflict in event_by_id:
+        if isinstance(conflict, str):
             other = event_by_id[conflict]
             conflict_lines.append(f"Overlaps or competes with: {other['title']} ({event_when(other)}).")
         else:
-            conflict_lines.append(str(conflict))
+            conflict_lines.append(conflict["note"])
     if conflict_lines:
         blocks.append(format_section("CONFLICTS / SAME-DAY OPTIONS", conflict_lines))
 
@@ -147,7 +169,7 @@ def event_lines(
     event: dict[str, Any], calendar: dict[str, Any], event_by_id: dict[str, dict[str, Any]]
 ) -> list[str]:
     timezone = calendar["timezone"]
-    last_modified = datetime.fromisoformat(event.get("last_modified", event["last_verified"]))
+    last_modified = revision_datetime(event.get("last_modified", event["last_verified"]))
     timestamp = last_modified.strftime("%Y%m%dT%H%M%SZ")
     status = "TENTATIVE" if event.get("status") == "tentative" else "CONFIRMED"
 
@@ -238,6 +260,19 @@ def expand_occurrences(source_events: list[dict[str, Any]]) -> list[dict[str, An
 
 
 def validate_source(data: dict[str, Any]) -> None:
+    calendar = data.get("calendar")
+    if not isinstance(calendar, dict):
+        raise ValueError("The calendar metadata is missing")
+    for key in ("name", "description", "timezone", "product_id", "refresh_interval", "last_updated"):
+        if not isinstance(calendar.get(key), str) or not calendar[key].strip():
+            raise ValueError(f"calendar.{key} must be a nonempty string")
+    if calendar["timezone"] != "America/Los_Angeles":
+        raise ValueError("calendar.timezone must be America/Los_Angeles")
+    try:
+        iso_date(calendar["last_updated"])
+    except (TypeError, ValueError) as exc:
+        raise ValueError("calendar.last_updated must be an ISO date") from exc
+
     events = data.get("events", [])
     ids = [event.get("id") for event in events]
     if not events:
@@ -246,23 +281,98 @@ def validate_source(data: dict[str, Any]) -> None:
         raise ValueError("Every event id must be unique")
 
     for event in events:
-        required = {"id", "title", "summary", "sources", "last_verified"}
+        required = {"id", "title", "status", "summary", "sources", "last_verified"}
         missing = required - event.keys()
         if missing:
             raise ValueError(f"{event.get('id', '<unknown>')}: missing {sorted(missing)}")
-        if not event["sources"]:
+        event_id = event["id"]
+        for key in ("id", "title", "summary"):
+            if not isinstance(event[key], str) or not event[key].strip():
+                raise ValueError(f"{event_id}: {key} must be a nonempty string")
+
+        if not isinstance(event["sources"], list) or not event["sources"]:
             raise ValueError(f"{event['id']}: at least one source is required")
+        for source in event["sources"]:
+            if not isinstance(source, dict):
+                raise ValueError(f"{event_id}: every source must be an object")
+            if not isinstance(source.get("label"), str) or not source["label"].strip():
+                raise ValueError(f"{event_id}: every source needs a nonempty label")
+            url = source.get("url")
+            parsed_url = urlparse(url) if isinstance(url, str) else None
+            if not parsed_url or parsed_url.scheme not in {"http", "https"} or not parsed_url.netloc:
+                raise ValueError(f"{event_id}: source URL must be absolute HTTP(S): {url!r}")
+
+        if event["status"] not in {"confirmed", "tentative", "details_tbd"}:
+            raise ValueError(f"{event['id']}: unsupported status {event['status']!r}")
+
+        sequence = event.get("sequence", 0)
+        if isinstance(sequence, bool) or not isinstance(sequence, int) or sequence < 0:
+            raise ValueError(f"{event_id}: sequence must be a nonnegative integer")
+        try:
+            iso_date(event["last_verified"])
+        except (TypeError, ValueError) as exc:
+            raise ValueError(f"{event_id}: last_verified must be an ISO date") from exc
+        try:
+            revision_datetime(event.get("last_modified", event["last_verified"]))
+        except (TypeError, ValueError) as exc:
+            raise ValueError(f"{event_id}: last_modified must be an ISO date or timestamp") from exc
+
+        location = event.get("location")
+        if not isinstance(location, dict) or not any(
+            isinstance(location.get(key), str) and location[key].strip() for key in ("name", "address")
+        ):
+            raise ValueError(f"{event_id}: location needs a nonempty name or address")
+
+        categories = event.get("categories", ["Big Bear Events"])
+        if not isinstance(categories, list) or not categories or any(
+            not isinstance(category, str) or not category.strip() for category in categories
+        ):
+            raise ValueError(f"{event_id}: categories must be a nonempty list of strings")
+
+        for field in ("pricing", "schedule", "details", "tips", "tbd"):
+            values = event.get(field)
+            if values is not None and (
+                not isinstance(values, list)
+                or any(not isinstance(value, str) or not value.strip() for value in values)
+            ):
+                raise ValueError(f"{event_id}: {field} must be a list of nonempty strings")
+
         if event.get("all_day"):
             if "start_date" not in event:
                 raise ValueError(f"{event['id']}: all-day event needs start_date")
+            if "start" in event or "end" in event:
+                raise ValueError(f"{event_id}: all-day event cannot use timed start/end")
+            try:
+                start_date = iso_date(event["start_date"])
+                end_date = iso_date(event.get("end_date", event["start_date"]))
+            except (TypeError, ValueError) as exc:
+                raise ValueError(f"{event_id}: all-day dates must use YYYY-MM-DD") from exc
+            if end_date < start_date:
+                raise ValueError(f"{event_id}: end_date cannot be before start_date")
         elif "start" not in event:
             raise ValueError(f"{event['id']}: timed event needs start")
+        else:
+            if "start_date" in event or "end_date" in event:
+                raise ValueError(f"{event_id}: timed event cannot use all-day dates")
+            try:
+                start = local_datetime(event["start"])
+                end = local_datetime(event["end"]) if event.get("end") else None
+            except (TypeError, ValueError) as exc:
+                raise ValueError(f"{event_id}: timed values must be ISO local date-times") from exc
+            if end is not None and end <= start:
+                raise ValueError(f"{event_id}: end must be after start")
 
     event_ids = set(ids)
     for event in events:
-        for conflict in event.get("conflicts", []):
-            if isinstance(conflict, str) and conflict not in event_ids:
-                raise ValueError(f"{event['id']}: unknown conflict id {conflict}")
+        conflicts = event.get("conflicts", [])
+        if not isinstance(conflicts, list):
+            raise ValueError(f"{event['id']}: conflicts must be a list")
+        for conflict in conflicts:
+            if isinstance(conflict, str):
+                if conflict not in event_ids:
+                    raise ValueError(f"{event['id']}: unknown conflict id {conflict}")
+            elif not isinstance(conflict, dict) or not isinstance(conflict.get("note"), str) or not conflict["note"].strip():
+                raise ValueError(f"{event['id']}: conflict must be an event id or a nonempty note object")
 
 
 def generate() -> tuple[int, Path]:

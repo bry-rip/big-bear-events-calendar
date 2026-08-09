@@ -18,13 +18,20 @@ On a Mac:
 4. Choose **iCloud** as the Location to make it appear on devices signed into the same Apple Account.
 5. Choose an automatic refresh interval such as every hour or every day.
 
+On an iPhone or iPad running iOS/iPadOS 26 or later:
+
+1. In Calendar, tap **Calendars**.
+2. Tap **Add Calendar → Add Subscription Calendar**.
+3. Enter `https://big-bear-events.netlify.app/big-bear-events.ics`, then tap **Find**.
+4. Choose **iCloud** next to Account, choose a name/color, and tap **Done**.
+
 Do not use **File → Import** for the downloaded file if you want updates. Importing is a one-time copy; subscribing follows the hosted feed.
 
 ## Edit or add an event
 
 1. Edit `data/events.json`.
 2. Give every event a permanent, unique `id`. Never change an existing ID just to rename an event; the ID keeps Apple Calendar from making a duplicate.
-3. Update `last_verified`. When event content changes, also update `last_modified` and increment `sequence`.
+3. Update `last_verified`. When event content changes, also increment `sequence` and set `last_modified` to a later UTC ISO timestamp, such as `2026-08-09T23:00:00Z`. The automated check rejects changed events without both revision updates so Apple Calendar can recognize the change.
 4. Run:
 
    ```sh
@@ -41,7 +48,7 @@ Do not use **File → Import** for the downloaded file if you want updates. Impo
 - All-day event: `all_day: true`, `start_date`, and optional inclusive `end_date`.
 - `status`: use `confirmed` when the event itself is confirmed, `tentative` when the event may not happen, or `details_tbd` when the event is real but some details remain unknown.
 - `tbd`: exact uncertainties the subscriber should recheck.
-- `conflicts`: another event ID or a plain-language same-day note.
+- `conflicts`: another event ID, or an explicit free-text object such as `{ "note": "Same-day traffic may be heavy." }`.
 - `sources`: official organizer pages first; a ticket page or authoritative venue page may follow.
 
 Descriptions in the feed are plain text because that is what Apple Calendar displays most reliably. They are assembled from the structured price, schedule, details, tips, TBD, conflict, and source fields.

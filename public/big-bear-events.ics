@@ -982,9 +982,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-concert-reggae-locals-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260809T230000Z
+LAST-MODIFIED:20260809T230000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260903T173000
 DTEND;TZID=America/Los_Angeles:20260903T203000
 SUMMARY:Summer Concert Series — Long Beach Dub Allstars + Common Sense
@@ -1003,16 +1003,13 @@ DESCRIPTION:Reggae Locals Night: Long Beach Dub Allstars and Common Sense b
   available but fill\; the City recommends the free Mountain Transit Red\, 
  Blue and Gold lines\n\nTBD / VERIFY BEFORE GOING\n• Which artist plays t
  he 6:00 slot and which plays the 7:30 slot is not explicitly published\n\n
- CONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: Big Bear Rode
- o — Free Carnival Kickoff + Brian Gaylord (Fri\, Sep 4\, 2026\, 11:30 AM
- –10:00 PM).\n\nOFFICIAL SOURCES\n• City lineup announcement: https://b
- igbearlake.gov/index.php/en/news-and-announcements/830-2026-big-bear-lake-
- summer-concert-series-lineup-announcement\n• Visit Big Bear event page: 
- https://www.bigbear.com/events/summer-concert-series/\n• Long Beach Dub 
- Allstars: https://www.lbdamusic.com/story\n• Common Sense: https://www.c
- ommonsensereggaeband.com/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2
- 026-08-09\nDetails can change. Recheck the official source before making a
-  special trip.
+ OFFICIAL SOURCES\n• City lineup announcement: https://bigbearlake.gov/in
+ dex.php/en/news-and-announcements/830-2026-big-bear-lake-summer-concert-se
+ ries-lineup-announcement\n• Visit Big Bear event page: https://www.bigbe
+ ar.com/events/summer-concert-series/\n• Long Beach Dub Allstars: https:/
+ /www.lbdamusic.com/story\n• Common Sense: https://www.commonsensereggaeb
+ and.com/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-09\nDetail
+ s can change. Recheck the official source before making a special trip.
 URL:https://bigbearlake.gov/index.php/en/news-and-announcements/830-2026-bi
  g-bear-lake-summer-concert-series-lineup-announcement
 CATEGORIES:Live Music,Free,Village,Reggae
@@ -1633,9 +1630,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:boat-parade-of-lights-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260809T230000Z
+LAST-MODIFIED:20260809T230000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260906T190000
 DTEND;TZID=America/Los_Angeles:20260906T210000
 SUMMARY:Big Bear Boat Parade of Lights — 7:30 Launch
@@ -1661,13 +1658,12 @@ DESCRIPTION:Illuminated boats travel from Garstin Island along the shorelin
  verlaps or competes with: Skyline at Sundown — Mountaintop BBQ + Live Mu
  sic (Sun\, Sep 6\, 2026\, 4:30 PM–7:30 PM).\n• Overlaps or competes wi
  th: Labor Day Weekend Glow Golf — 9 Holes (Sun\, Sep 6\, 2026\, 7:00 PM
- –10:00 PM).\n\nOFFICIAL SOURCES\n• Dedicated event page and route map:
-  https://www.bigbear.com/events/big-bear-rotary-labor-day-weekend-boat-par
- ade-of-lights/\n• Rotary Club host calendar: https://bigbearlakerotary.o
- rg/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-09\nDetails can
+ –10:00 PM).\n\nOFFICIAL SOURCES\n• Rotary Club host calendar: https://
+ bigbearlakerotary.org/\n• Dedicated event page and route map: https://ww
+ w.bigbear.com/events/big-bear-rotary-labor-day-weekend-boat-parade-of-ligh
+ ts/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-09\nDetails can
   change. Recheck the official source before making a special trip.
-URL:https://www.bigbear.com/events/big-bear-rotary-labor-day-weekend-boat-p
- arade-of-lights/
+URL:https://bigbearlakerotary.org/
 CATEGORIES:Lake,Parade,Free,TBD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

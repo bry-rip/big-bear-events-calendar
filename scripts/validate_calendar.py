@@ -58,10 +58,34 @@ def validate() -> tuple[int, int]:
     if not (len(summaries) == len(descriptions) == len(urls) == expected):
         raise ValueError("Every event must have a summary, description, and URL")
 
-    date_pattern = re.compile(r"^DTSTART(?:;VALUE=DATE|;TZID=America/Los_Angeles):\d{8}(?:T\d{6})?$")
+    date_pattern = re.compile(
+        r"^DTSTART(?:;VALUE=DATE:\d{8}|;TZID=America/Los_Angeles:\d{8}T\d{6})$"
+    )
     starts = [line for line in lines if line.startswith("DTSTART") and "1970" not in line]
     if len(starts) != expected or any(not date_pattern.match(line) for line in starts):
         raise ValueError("One or more event start values are malformed")
+
+    expected_ends = sum(
+        len(event.get("occurrences", [None]))
+        for event in data["events"]
+        if event.get("all_day") or event.get("end") or event.get("occurrences")
+    )
+    end_pattern = re.compile(
+        r"^DTEND(?:;VALUE=DATE:\d{8}|;TZID=America/Los_Angeles:\d{8}T\d{6})$"
+    )
+    ends = [line for line in lines if line.startswith("DTEND")]
+    if len(ends) != expected_ends or any(not end_pattern.match(line) for line in ends):
+        raise ValueError("One or more event end values are missing or malformed")
+
+    statuses = [line for line in lines if line.startswith("STATUS:")]
+    if len(statuses) != expected or any(line not in {"STATUS:CONFIRMED", "STATUS:TENTATIVE"} for line in statuses):
+        raise ValueError("One or more event status values are missing or malformed")
+
+    revisions = [line for line in lines if line.startswith("LAST-MODIFIED:")]
+    if len(revisions) != expected or any(
+        not re.match(r"^LAST-MODIFIED:\d{8}T\d{6}Z$", line) for line in revisions
+    ):
+        raise ValueError("One or more event revision timestamps are missing or malformed")
 
     return actual, len(raw)
 

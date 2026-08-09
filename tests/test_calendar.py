@@ -60,6 +60,66 @@ class CalendarGeneratorTests(unittest.TestCase):
         self.assertEqual(events[0]["start"], "2026-09-04T16:30")
         self.assertEqual(events[1]["status"], "details_tbd")
 
+    def test_conflict_note_is_rendered(self):
+        event = {
+            "title": "Test",
+            "summary": "Summary",
+            "start": "2026-09-01T10:00",
+            "conflicts": [{"note": "Same-day traffic may be heavy."}],
+            "sources": [{"label": "Official", "url": "https://example.com"}],
+            "status": "confirmed",
+            "last_verified": "2026-08-09",
+        }
+        description = generator.build_description(event, {})
+        self.assertIn("Same-day traffic may be heavy.", description)
+
+    def test_source_semantics_reject_invalid_values(self):
+        base_event = {
+            "id": "test",
+            "title": "Test",
+            "status": "confirmed",
+            "summary": "Summary",
+            "start": "2026-09-01T10:00",
+            "end": "2026-09-01T11:00",
+            "location": {"name": "Test venue"},
+            "sources": [{"label": "Official", "url": "https://example.com"}],
+            "categories": ["Community"],
+            "last_verified": "2026-08-09",
+            "last_modified": "2026-08-09",
+            "sequence": 0,
+        }
+        calendar = {
+            "name": "Test",
+            "description": "Test feed",
+            "timezone": "America/Los_Angeles",
+            "product_id": "-//Test//EN",
+            "refresh_interval": "PT1H",
+            "last_updated": "2026-08-09",
+        }
+        mutations = [
+            ("status", "unknown"),
+            ("end", "2026-09-01T09:00"),
+            ("start", "2026-09-01"),
+            ("start", "2026-09-01T17:00+00:00"),
+            ("sources", [{"label": "Official", "url": "example.com"}]),
+            ("sequence", -1),
+            ("details", "Not a list"),
+            ("conflicts", {"test": "Not a list"}),
+        ]
+        for field, value in mutations:
+            with self.subTest(field=field):
+                event = dict(base_event)
+                event[field] = value
+                with self.assertRaises(ValueError):
+                    generator.validate_source({"calendar": calendar, "events": [event]})
+
+        all_day = dict(base_event)
+        all_day.pop("start")
+        all_day.pop("end")
+        all_day.update(all_day=True, start_date="2026-09-02", end_date="2026-09-01")
+        with self.assertRaises(ValueError):
+            generator.validate_source({"calendar": calendar, "events": [all_day]})
+
 
 if __name__ == "__main__":
     unittest.main()
