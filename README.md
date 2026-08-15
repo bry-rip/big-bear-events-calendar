@@ -42,6 +42,24 @@ Do not use **File → Import** for the downloaded file if you want updates. Impo
 
 5. Commit and push. Netlify rebuilds and publishes the feed.
 
+## Retire an event
+
+Events are never deleted casually — a removed ID vanishes from every subscriber's
+calendar. To drop one deliberately:
+
+1. Delete the event object from `events`.
+2. Remove every `conflicts` reference pointing at it, including references to the
+   dated occurrence IDs a series expands into.
+3. Add an entry to the top-level `retired` list with `id`, `reason` and `retired_on`.
+   Retiring a series parent covers all the dated occurrences it expands to.
+4. Bump `sequence` and `last_modified` on every event whose `conflicts` you edited —
+   their descriptions changed, so subscribers need the revision.
+
+`scripts/validate_updates.py` rejects any removal whose ID is not in `retired`, so an
+accidental deletion still fails the build. Use this for curation calls; an event that
+is genuinely cancelled by its organizer is a different case and still needs a real
+cancellation workflow.
+
 ## Event fields
 
 - Timed event: `start` and optional `end` in local Big Bear time, such as `2026-08-27T10:00`.
