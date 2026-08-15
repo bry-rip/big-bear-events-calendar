@@ -29,6 +29,53 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:big-bear-romp-2026@big-bear-events.bry.rip
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260817
+SUMMARY:Big Bear ROMP — LGBTQ+ Weekend
+LOCATION:Holiday Inn Resort\, The Lodge at Big Bear Lake — 40650 Village 
+ Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A four-day LGBTQ+ resort takeover in the Village: pool parties\
+ , themed dance nights\, a lake cruise\, comedy\, drag bingo and trivia\, a
+ ll based out of the Holiday Inn Resort.\n\nWHEN\nThu\, Aug 13–Sun\, Aug 
+ 16\, 2026 (all day)\n\nPRICE / ADMISSION\n• Weekend Pass covers all sche
+ duled events Thursday through Sunday\n• Free Hotel Access Pass lets you 
+ buy individual event tickets on-site\n• Some events are walk-up priced\,
+  such as $20 for the Sunday pool party\n• Exact weekend-pass pricing is 
+ not published on the organizer's schedule page\n\nSCHEDULE\n• Sunday 7:0
+ 0–10:00 AM — Morning Mischief in the host hotel lobby\, complimentary\
+ n• Sunday 10:00 AM–5:00 PM — Last Splash Pool Party\, included with 
+ a pass or $20 walk-up\n• Sunday 11:00 AM–1:00 PM — Drag Bingo in the
+  Ball-Room\, included\n• Sunday 5:00 PM — Diehards & Stayouts Party at
+  Whiskey Dave's\, no pass required\n• Sunday 5:00–10:00 PM — Open Mi
+ c Night at Stillwell's Bar\, no pass required\n\nWHAT TO EXPECT\n• Weeke
+ nd programming includes a Big Bear Queen lake cruise\, the BEEFWITCH dance
+  party\, a Bear Soup pool party\, Mountains of Laughs comedy night\, ROMP 
+ In The Dark\, and bingo and trivia nights\n• The game room\, hot tub and
+  pool run long hours through the weekend\n• Several Sunday events are op
+ en without any pass\, including the Whiskey Dave's party and open mic\n\nU
+ SEFUL NOTES\n• The no-pass-required Sunday events at Whiskey Dave's and 
+ Stillwell's are the easiest way to drop in on the weekend without buying a
+ nything\n• The host hotel reliably sells out well in advance for this we
+ ekend\, which is worth knowing when planning lodging in mid-August\n\nTBD 
+ / VERIFY BEFORE GOING\n• The organizer's own schedule page is marked sub
+ ject to change and was missing the full Saturday listing when checked\n•
+  Weekend-pass and individual-event pricing are not published on the schedu
+ le page\; see the Eventbrite listing\n\nOFFICIAL SOURCES\n• Official eve
+ nt schedule: https://www.bigbearromp.com/event-schedule\n• Registration 
+ and passes: https://www.eventbrite.com/e/big-bear-romp-2026-tickets-198933
+ 6393705\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-15\nDetails
+  can change. Recheck the official source before making a special trip.
+URL:https://www.bigbearromp.com/event-schedule
+CATEGORIES:LGBTQ+,Festival,Nightlife,Village,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
 UID:skyline-at-sundown-2026-08-13@big-bear-events.bry.rip
 DTSTAMP:20260809T000000Z
 LAST-MODIFIED:20260809T000000Z
@@ -162,33 +209,39 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:conquer-the-wall-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260815T090000
 SUMMARY:Conquer the Wall — Uphill Race
 LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
 DESCRIPTION:A wonderfully ridiculous one-mile race straight up Snow Summit
  ’s steep Wall\, beginning around 7\,000 feet. Competitive runners\, kids
   and families are welcome\; proceeds benefit Big Bear High School Cross Co
- untry.\n\nWHEN\nSat\, Aug 15\, 2026 at 9:00 AM\n\nPRICE / ADMISSION\n• 2
- 026 registration price and working registration URL are still TBD\n\nSCHED
- ULE\n• Friday 4:00–7:00 PM — advance packet pickup at Mystic Rose\n
- • Saturday 9:00 AM — published race start\; end time not confirmed\n\n
- WHAT TO EXPECT\n• Paid runners receive a shirt and a free Scenic Sky Cha
- ir ride down\n• Spectators may buy a discounted chair ticket up or hike 
- Bobsled Trail for free\n• Awards span age 13-and-under through 70+\, plu
- s teams\n• Free parking\n\nTBD / VERIFY BEFORE GOING\n• One official l
- isting says 9:00 AM–noon but its body says 9:00–10:00 AM\; the canonic
- al page omits an end time\n• The current registration link points to a 2
- 025 Active page\; verify 2026 registration and price\n\nCONFLICTS / SAME-D
- AY OPTIONS\n• Overlaps or competes with: SkyFest Big Bear — Saturday (
- Sat\, Aug 15\, 2026\, 12:00 PM–11:00 PM).\n\nOFFICIAL SOURCES\n• Offic
- ial event page: https://www.bigbear.com/events/conquer-the-wall/\n• Offi
- cial listing with conflicting time: https://www.bigbear.com/events/conquer
- -the-wall-5/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-09\nDe
- tails can change. Recheck the official source before making a special trip
- .
+ untry.\n\nWHEN\nSat\, Aug 15\, 2026 at 9:00 AM\n\nPRICE / ADMISSION\n• R
+ egistration is open through the official Active.com link\, but no 2026 ent
+ ry price is published\n• Free parking at Snow Summit\n• Entry includes
+  a shirt and a free Scenic Sky Chair ride down\n\nSCHEDULE\n• Friday 4:0
+ 0–7:00 PM — advance packet pickup at Mystic Rose\n• Saturday before 
+ the race — same-day packet pickup at Snow Summit\n• Saturday 9:00 AM 
+ — published race start\; end time not confirmed\n\nWHAT TO EXPECT\n• P
+ aid runners receive a shirt and a free Scenic Sky Chair ride down\n• Spe
+ ctators may buy a discounted chair ticket up or hike Bobsled Trail for fre
+ e\n• Awards span age 13-and-under through 70+\, plus teams\n• Free par
+ king\n• The official page states registration is open and lists same-day
+  pickup at Snow Summit before the race\, so a walk-up entry looks possible
+ \n\nTBD / VERIFY BEFORE GOING\n• One official listing says 9:00 AM–noo
+ n but its body says 9:00–10:00 AM\; the canonical page omits an end time
+ \n• Registration is confirmed open and routes to Active.com\, but no 202
+ 6 entry price is published on any official page\n\nCONFLICTS / SAME-DAY OP
+ TIONS\n• Overlaps or competes with: SkyFest Big Bear — Saturday (Sat\,
+  Aug 15\, 2026\, 12:00 PM–11:00 PM).\n• Overlaps or competes with: Faw
+ nskin Doo Dah Parade — 50th Anniversary (Sat\, Aug 15\, 2026\, 10:00 AM
+ –3:00 PM).\n\nOFFICIAL SOURCES\n• Official event page: https://www.big
+ bear.com/events/conquer-the-wall/\n• Official listing with conflicting t
+ ime: https://www.bigbear.com/events/conquer-the-wall-5/\n\nCALENDAR STATUS
+ : DETAILS_TBD\nLast checked: 2026-08-15\nDetails can change. Recheck the o
+ fficial source before making a special trip.
 URL:https://www.bigbear.com/events/conquer-the-wall/
 CATEGORIES:Race,Outdoors,Fundraiser,TBD
 STATUS:CONFIRMED
@@ -196,10 +249,55 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:skyfest-2026-08-15@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
+UID:doo-dah-parade-2026@big-bear-events.bry.rip
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
 SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260815T100000
+DTEND;TZID=America/Los_Angeles:20260815T150000
+SUMMARY:Fawnskin Doo Dah Parade — 50th Anniversary
+LOCATION:Fawnskin Fire Station to the Moose Lodge — 39188 Rim of the Worl
+ d Dr\, Fawnskin\, CA 92333
+DESCRIPTION:Fifty years of small-town silliness: a quarter-mile parody of t
+ he Rose Parade where the entry requirements are a costume and a straight f
+ ace. Anyone can join on the spot\, and participants get a wacky swag bag.\
+ n\nWHEN\nSat\, Aug 15\, 2026\, 10:00 AM–3:00 PM\n\nPRICE / ADMISSION\n
+ • Free to watch and free to march — no entry fee either way\n• Food 
+ and vendor booths sold separately\; proceeds support Moose charities\n\nSC
+ HEDULE\n• 9:00–9:45 AM — lineup at the Fawnskin Fire Station\n• 10
+ :00–10:45 AM — parade travels through downtown Fawnskin to the Moose L
+ odge\n• 10:00 AM–3:00 PM — mini petting zoo\, food and vendor booths
+ \, fire trucks to climb and ride\, and live music after the parade\n\nWHAT
+  TO EXPECT\n• The route is barely a quarter-mile end to end\; it was onc
+ e billed as the world's shortest parade\n• Entries are deliberately absu
+ rd — costumes\, decorated vehicles\, questionable themes\n• No pre-reg
+ istration is required\; show up at the fire station during lineup with an 
+ idea\n• The Moose Lodge and fire station plaza carry the day after the p
+ arade ends\n\nUSEFUL NOTES\n• This is the low-effort\, high-payoff optio
+ n for a visiting friend: free\, walkable\, over by 11\, and unmistakably l
+ ocal\n• Fawnskin is on the north shore\, about 15 minutes from the Villa
+ ge\n• Entry questions: Denise Marsicano\, 323-251-2829 or Denisemarsican
+ o965@gmail.com\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes w
+ ith: Conquer the Wall — Uphill Race (Sat\, Aug 15\, 2026 at 9:00 AM).\n
+ • Overlaps or competes with: SkyFest Big Bear — Saturday (Sat\, Aug 15
+ \, 2026\, 12:00 PM–11:00 PM).\n\nOFFICIAL SOURCES\n• Big Bear Grizzly 
+ 50th-anniversary coverage: https://www.bigbeargrizzly.net/news/doodah-para
+ de-celebrates-50-years-of-small-town-silliness/article_3819c0ad-d6f9-4eac-
+ 8178-467e04d046b0.html\n• Fawnskin community site: https://www.fawnskin.
+ org/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-15\nDetails can 
+ change. Recheck the official source before making a special trip.
+URL:https://www.bigbeargrizzly.net/news/doodah-parade-celebrates-50-years-o
+ f-small-town-silliness/article_3819c0ad-d6f9-4eac-8178-467e04d046b0.html
+CATEGORIES:Parade,Free,Family,Community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:skyfest-2026-08-15@big-bear-events.bry.rip
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260815T120000
 DTEND;TZID=America/Los_Angeles:20260815T230000
 SUMMARY:SkyFest Big Bear — Saturday
@@ -209,42 +307,51 @@ DESCRIPTION:SkyFest’s fullest day pairs dark-sky and astrobiology talks w
  ith the AstroDome\, free family wildlife programming\, mountaintop telesco
  pes and live painting\, plus separately ticketed mindfulness and photograp
  hy sessions.\n\nWHEN\nSat\, Aug 15\, 2026\, 12:00 PM–11:00 PM\n\nPRICE /
-  ADMISSION\n• Saturday 1-day SkyFest pass: $70 and sold out when checked
-  August 9\n• AstroFestival-only: $50\; Stargaze-only: $50 and sold out f
- or Saturday\n• Child age 12 and under: $15 with a full-price adult\; exc
- ludes sound bath and workshop\n• Nighttime DiscoverFest: free\n• Fores
- t Sound Bath: $40\; intermediate/advanced astrophotography workshop: $40\,
-  subject to availability\n\nSCHEDULE\n• 9:00 AM — Conquer the Wall beg
- ins separately at Snow Summit\n• 12:00–4:00 PM — AstroFestival & Exp
- o at Big Bear Lake Convention Center\, 42900 Big Bear Blvd\n• 1:00 PM 
- — Michael Rymer of DarkSky International: Dark Skies — Our Relationshi
- p and Responsibility to the Stars\n• 2:00 PM — astrophysicist Brandon 
- Holloman: Is Anybody Out There? The Search for Life Beyond Earth\n• 5:00
- –8:00 PM — free Nighttime DiscoverFest at Big Bear Discovery Center\, 
- 40971 North Shore Dr\n• 6:30–8:00 PM — separately ticketed Forest So
- und Bath at Snow Summit\n• 8:00–11:00 PM — Stargaze at the Summit: S
- ky Chair\, telescopes\, guided night hikes\, night-sky talks and live pain
- ting\n• 8:30–10:30 PM — intermediate/advanced astrophotography works
- hop\; separately ticketed\n\nWHAT TO EXPECT\n• A festival pass covers As
- troFestival and Stargaze at the Summit\, not the sound bath or astrophotog
- raphy workshop\n• The 3-day pass was $99 and sold out when checked\n\nUS
- EFUL NOTES\n• Tickets and reservations are activity- and date-specific\;
-  check live availability before going\n• No authoritative event-specific
-  parking or accessibility instructions were found on the current event and
-  ticket pages\n\nTBD / VERIFY BEFORE GOING\n• The ticket page describes 
- DiscoverFest as 4:00–9:00 PM and appears to imply all three days\; the d
- etailed program says Friday/Saturday only\, 5:00–8:00 PM. This calendar 
- uses the detailed program\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or
-  competes with: Conquer the Wall — Uphill Race (Sat\, Aug 15\, 2026 at 9
- :00 AM).\n• Overlaps or competes with: Skyline at Sundown — Mountainto
- p BBQ + Live Music (Sat\, Aug 15\, 2026\, 4:30 PM–7:30 PM).\n\nOFFICIAL 
- SOURCES\n• Official detailed program: https://www.bigbear.com/events/sky
- fest/\n• Live tickets and availability: https://visitbigbear.ticketspice
- .com/skyfest-big-bear\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-
- 08-09\nDetails can change. Recheck the official source before making a spe
- cial trip.
+  ADMISSION\n• SOLD OUT — the official page now states that all 2026 Sk
+ yFest tickets are sold out\; no Saturday pass\, add-on or workshop remains
+  purchasable\n• Nighttime DiscoverFest: free and needs no ticket — thi
+ s is the only Saturday SkyFest programming still open to walk-ups\n• For
+  reference\, pre-sellout prices were: 1-day pass $70\, AstroFestival-only 
+ $50\, Stargaze-only $50\, child 12 and under $15 with a full-price adult\,
+  Forest Sound Bath $40\, astrophotography workshop $40\n\nSCHEDULE\n• 9:
+ 00 AM — Conquer the Wall begins separately at Snow Summit\n• 12:00–4
+ :00 PM — AstroFestival & Expo at Big Bear Lake Convention Center\, 42900
+  Big Bear Blvd\n• 1:00 PM — Michael Rymer of DarkSky International: Da
+ rk Skies — Our Relationship and Responsibility to the Stars\n• 2:00 PM
+  — astrophysicist Brandon Holloman: Is Anybody Out There? The Search for
+  Life Beyond Earth\n• 5:00–8:00 PM — free Nighttime DiscoverFest at 
+ Big Bear Discovery Center\, 40971 North Shore Dr\n• 6:30–8:00 PM — s
+ eparately ticketed Forest Sound Bath at Snow Summit\n• 8:00–11:00 PM 
+ — Stargaze at the Summit: Sky Chair\, telescopes\, guided night hikes\, 
+ night-sky talks and live painting\n• 8:30–10:30 PM — intermediate/ad
+ vanced astrophotography workshop\; separately ticketed\n\nWHAT TO EXPECT\n
+ • A festival pass covered AstroFestival and Stargaze at the Summit\, not
+  the sound bath or astrophotography workshop\n• Without a pass\, the fre
+ e 5:00–8:00 PM Nighttime DiscoverFest at the Discovery Center is still w
+ orth the trip: family nature walks and nocturnal-wildlife programming unde
+ r the same dark sky\n\nUSEFUL NOTES\n• Ticketed SkyFest is closed for 20
+ 26\; go to the free DiscoverFest instead\, or drive to a dark pullout alon
+ g North Shore Drive and stargaze for nothing\n• No authoritative event-s
+ pecific parking or accessibility instructions were found on the current ev
+ ent and ticket pages\n\nTBD / VERIFY BEFORE GOING\n• The ticket page des
+ cribes DiscoverFest as 4:00–9:00 PM and appears to imply all three days\
+ ; the detailed program says Friday/Saturday only\, 5:00–8:00 PM. This ca
+ lendar uses the detailed program\n\nCONFLICTS / SAME-DAY OPTIONS\n• Over
+ laps or competes with: Conquer the Wall — Uphill Race (Sat\, Aug 15\, 20
+ 26 at 9:00 AM).\n• Overlaps or competes with: Skyline at Sundown — Mou
+ ntaintop BBQ + Live Music (Sat\, Aug 15\, 2026\, 4:30 PM–7:30 PM).\n• 
+ Overlaps or competes with: Fawnskin Doo Dah Parade — 50th Anniversary (S
+ at\, Aug 15\, 2026\, 10:00 AM–3:00 PM).\n• Overlaps or competes with: 
+ The Travelin' Band (CCR Tribute) at The Cave (Sat\, Aug 15\, 2026\, 8:00 P
+ M–10:00 PM).\n• Overlaps or competes with: Creating Worlds Playwright 
+ Festival — Saturday Night (Sat\, Aug 15\, 2026\, 7:30 PM–9:30 PM).\n\n
+ OFFICIAL SOURCES\n• Official detailed program: https://www.bigbear.com/e
+ vents/skyfest/\n• Live tickets and availability: https://visitbigbear.ti
+ cketspice.com/skyfest-big-bear\n\nCALENDAR STATUS: DETAILS_TBD\nLast check
+ ed: 2026-08-15\nDetails can change. Recheck the official source before mak
+ ing a special trip.
 URL:https://www.bigbear.com/events/skyfest/
-CATEGORIES:Astronomy,Festival,Family,Outdoors,TBD
+CATEGORIES:Astronomy,Festival,Family,Outdoors,Sold Out
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
@@ -291,10 +398,89 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:skyfest-2026-08-16@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
+UID:creating-worlds-playwright-2026-08-15@big-bear-events.bry.rip
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
 SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260815T193000
+DTEND;TZID=America/Los_Angeles:20260815T213000
+SUMMARY:Creating Worlds Playwright Festival — Saturday Night
+LOCATION:Big Bear Performing Arts Center\, Black Box Theater — 39707 Big 
+ Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:The inaugural festival of brand-new plays written and developed
+  in Big Bear\, staged in the Performing Arts Center's black box. Every pie
+ ce is premiering for the first time.\n\nWHEN\nSat\, Aug 15\, 2026\, 7:30 P
+ M–9:30 PM\n\nPRICE / ADMISSION\n• General admission: $25 plus $1.84 fe
+ e\n• Seniors: $15 plus $1.46 fee\n• Students: $5 plus $1.09 fee\n• P
+ ay-What-You-Can tickets are offered at $0\n\nSCHEDULE\n• 7:30 PM — cur
+ tain\n• Approximately 9:30 PM — end\; the published runtime is two hou
+ rs\n\nWHAT TO EXPECT\n• Big Bear Theatre Project describes the festival 
+ as a celebration of original voices and brand-new stories developed locall
+ y\n• The run covers August 13–16\; this is the Saturday-evening perfor
+ mance\n• Wheelchair seating\, assisted listening devices and service ani
+ mals are accommodated\n\nUSEFUL NOTES\n• The Pay-What-You-Can tier means
+  the price is never the reason to skip it\n• Box office opens one hour b
+ efore curtain: 909-805-4300 or info@bigbeartheatreproject.org\n\nCONFLICTS
+  / SAME-DAY OPTIONS\n• Overlaps or competes with: SkyFest Big Bear — S
+ aturday (Sat\, Aug 15\, 2026\, 12:00 PM–11:00 PM).\n• Overlaps or comp
+ etes with: The Travelin' Band (CCR Tribute) at The Cave (Sat\, Aug 15\, 20
+ 26\, 8:00 PM–10:00 PM).\n\nOFFICIAL SOURCES\n• Tickets and showtimes: 
+ https://bbtp.booktix.com/dept/BBTPMain/e/CWPF\n• Visit Big Bear listing:
+  https://www.bigbear.com/events/big-bear-theatre-project-creating-worlds-p
+ laywright-festival/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-1
+ 5\nDetails can change. Recheck the official source before making a special
+  trip.
+URL:https://bbtp.booktix.com/dept/BBTPMain/e/CWPF
+CATEGORIES:Theatre,Arts,Community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:travelin-band-the-cave-2026-08-15@big-bear-events.bry.rip
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260815T200000
+DTEND;TZID=America/Los_Angeles:20260815T220000
+SUMMARY:The Travelin' Band (CCR Tribute) at The Cave
+LOCATION:The Cave — 40789 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Chris Rose & The Travelin' Band play Creedence Clearwater Reviv
+ al in the Village's converted movie-theater music room — the only live-m
+ usic show in the Village this weekend.\n\nWHEN\nSat\, Aug 15\, 2026\, 8:00
+  PM–10:00 PM\n\nPRICE / ADMISSION\n• Ticket price is not published on 
+ the Visit Big Bear listing\; check the venue page or box office\n\nSCHEDUL
+ E\n• 8:00–10:00 PM — performance\n\nWHAT TO EXPECT\n• Four-piece C
+ CR tribute: Chris Rose on lead vocals and acoustic guitar\, Kris Siordia o
+ n lead guitar\, Henry Cortez on bass\, Larry Wilburn on drums\n• The Cav
+ e occupies the former Village Movie Theater building and advertises a larg
+ e investment in lighting and sound\n• The venue reopened with a new food
+  and drink menu and a full show calendar\n\nUSEFUL NOTES\n• This is walk
+ able from anywhere in the Village\, which makes it the easy nightcap for a
+  visiting friend\n• Some third-party directories still list The Cave as 
+ closed\; the venue's own calendar and the official tourism listing both sh
+ ow it operating\n\nTBD / VERIFY BEFORE GOING\n• Ticket price\, whether t
+ he show is ticketed or walk-in\, and any age restriction are all unpublish
+ ed — call the venue before counting on entry\n\nCONFLICTS / SAME-DAY OPT
+ IONS\n• Overlaps or competes with: SkyFest Big Bear — Saturday (Sat\, 
+ Aug 15\, 2026\, 12:00 PM–11:00 PM).\n• Overlaps or competes with: Crea
+ ting Worlds Playwright Festival — Saturday Night (Sat\, Aug 15\, 2026\, 
+ 7:30 PM–9:30 PM).\n\nOFFICIAL SOURCES\n• Visit Big Bear listing: https
+ ://www.bigbear.com/events/the-travelin-band-live-at-the-cave/\n• Venue e
+ vent page: https://thecavebbl.com/event/the-travelin-band/\n\nCALENDAR STA
+ TUS: DETAILS_TBD\nLast checked: 2026-08-15\nDetails can change. Recheck th
+ e official source before making a special trip.
+URL:https://www.bigbear.com/events/the-travelin-band-live-at-the-cave/
+CATEGORIES:Live Music,Village,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:skyfest-2026-08-16@big-bear-events.bry.rip
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260816T120000
 DTEND;TZID=America/Los_Angeles:20260816T230000
 SUMMARY:SkyFest Big Bear — Sunday
@@ -302,27 +488,65 @@ LOCATION:Convention Center & Snow Summit — Big Bear Lake\, CA 92315
 DESCRIPTION:SkyFest finale with local solar-observatory science and dark-sk
  y documentary work by day\, followed by a separately ticketed forest sound
   bath and the last night of mountaintop telescope viewing.\n\nWHEN\nSun\, 
- Aug 16\, 2026\, 12:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• 1-day SkyFes
- t pass: $70\; Sunday had availability when checked August 9\n• AstroFest
- ival-only: $50\; Stargaze-only: $50\n• Child age 12 and under: $15 with 
- a full-price adult\; excludes the sound bath\n• Forest Sound Bath: $40\n
- \nSCHEDULE\n• 12:00–4:00 PM — AstroFestival & Expo at Big Bear Lake 
- Convention Center\, 42900 Big Bear Blvd\; Friday/Saturday live-painting wo
- rk is displayed\n• 1:00 PM — Taylor Baildon: Big Bear Solar Observator
- y\n• 2:00 PM — Matt McCabe: Capturing the Night in Documentary\n• 6:
- 30–8:00 PM — separately ticketed Forest Sound Bath at Snow Summit\n•
-  8:00–11:00 PM — Stargaze at the Summit at Snow Summit\, 880 Summit Bl
- vd\n\nWHAT TO EXPECT\n• Stargaze at the Summit includes Sky Chair access
- \, telescopes\, guided night hikes and night-sky talks\n• The official d
- etailed program does not schedule the free DiscoverFest on Sunday\n\nUSEFU
- L NOTES\n• Ticket availability can change\; Sunday was the remaining opt
- ion for several sold-out pass types when checked\n\nOFFICIAL SOURCES\n• 
- Official detailed program: https://www.bigbear.com/events/skyfest/\n• Li
- ve tickets and availability: https://visitbigbear.ticketspice.com/skyfest-
- big-bear\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-09\nDetails 
- can change. Recheck the official source before making a special trip.
+ Aug 16\, 2026\, 12:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• SOLD OUT —
+  Sunday still had availability on August 9 but the official page now says 
+ all 2026 SkyFest tickets are sold out\n• For reference\, pre-sellout pri
+ ces were: 1-day pass $70\, AstroFestival-only $50\, Stargaze-only $50\, ch
+ ild 12 and under $15 with a full-price adult\, Forest Sound Bath $40\n\nSC
+ HEDULE\n• 12:00–4:00 PM — AstroFestival & Expo at Big Bear Lake Conv
+ ention Center\, 42900 Big Bear Blvd\; Friday/Saturday live-painting work i
+ s displayed\n• 1:00 PM — Taylor Baildon: Big Bear Solar Observatory\n
+ • 2:00 PM — Matt McCabe: Capturing the Night in Documentary\n• 6:30
+ –8:00 PM — separately ticketed Forest Sound Bath at Snow Summit\n• 8
+ :00–11:00 PM — Stargaze at the Summit at Snow Summit\, 880 Summit Blvd
+ \n\nWHAT TO EXPECT\n• Stargaze at the Summit includes Sky Chair access\,
+  telescopes\, guided night hikes and night-sky talks\n• The official det
+ ailed program does not schedule the free DiscoverFest on Sunday\, so there
+  is no free SkyFest programming today\n\nUSEFUL NOTES\n• Sunday sold out
+  between August 9 and August 15\; if SkyFest matters to you next year\, bu
+ y in the first days of sales\n• Nothing ticketed remains\, but the sky i
+ tself is free — Big Bear's dark-sky pullouts along North Shore Drive cos
+ t nothing\n\nOFFICIAL SOURCES\n• Official detailed program: https://www.
+ bigbear.com/events/skyfest/\n• Live tickets and availability: https://vi
+ sitbigbear.ticketspice.com/skyfest-big-bear\n\nCALENDAR STATUS: CONFIRMED\
+ nLast checked: 2026-08-15\nDetails can change. Recheck the official source
+  before making a special trip.
 URL:https://www.bigbear.com/events/skyfest/
-CATEGORIES:Astronomy,Festival,Outdoors
+CATEGORIES:Astronomy,Festival,Outdoors,Sold Out
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:creating-worlds-playwright-2026-08-16@big-bear-events.bry.rip
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260816T140000
+DTEND;TZID=America/Los_Angeles:20260816T160000
+SUMMARY:Creating Worlds Playwright Festival — Closing Matinee
+LOCATION:Big Bear Performing Arts Center\, Black Box Theater — 39707 Big 
+ Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:The closing matinee of Big Bear's first new-play festival\, and
+  the last chance to see this year's locally written premieres.\n\nWHEN\nSu
+ n\, Aug 16\, 2026\, 2:00 PM–4:00 PM\n\nPRICE / ADMISSION\n• General ad
+ mission: $25 plus $1.84 fee\n• Seniors: $15 plus $1.46 fee\n• Students
+ : $5 plus $1.09 fee\n• Pay-What-You-Can tickets are offered at $0\n\nSCH
+ EDULE\n• 2:00 PM — curtain\n• Approximately 4:00 PM — end\; the pu
+ blished runtime is two hours\n\nWHAT TO EXPECT\n• This is the only matin
+ ee of the run and the festival's final performance\n• Wheelchair seating
+ \, assisted listening devices and service animals are accommodated\n\nUSEF
+ UL NOTES\n• A 2:00 PM start makes this the rare Sunday option that does 
+ not eat the drive home down the hill\n• Box office opens one hour before
+  curtain: 909-805-4300\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or co
+ mpetes with: SkyFest Big Bear — Sunday (Sun\, Aug 16\, 2026\, 12:00 PM
+ –11:00 PM).\n\nOFFICIAL SOURCES\n• Tickets and showtimes: https://bbtp
+ .booktix.com/dept/BBTPMain/e/CWPF\n• Visit Big Bear listing: https://www
+ .bigbear.com/events/big-bear-theatre-project-creating-worlds-playwright-fe
+ stival/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-15\nDetails c
+ an change. Recheck the official source before making a special trip.
+URL:https://bbtp.booktix.com/dept/BBTPMain/e/CWPF
+CATEGORIES:Theatre,Arts,Community
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
@@ -396,9 +620,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-grand-prix-practice-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260820T063000
 DTEND;TZID=America/Los_Angeles:20260820T164500
 SUMMARY:Big Bear MX Grand Prix — Practice Day
@@ -409,18 +633,24 @@ DESCRIPTION:Practice day across vintage\, age\, displacement\, women\, yout
  • $30 facility wristband valid Thursday–Sunday\; age 5 and under free\
  n• $25 spectator parking at Moonridge Lot with free shuttle\n\nSCHEDULE\
  n• 6:30 AM — gates\n• 7:00 AM — registration\n• 7:30 AM — ride
- r meeting\n• 8:00 AM–approximately 4:45 PM — practice sessions\n\nWH
- AT TO EXPECT\n• Spectators view from The Deck with food\, beverages\, sp
- onsor demonstrations/sales and event merchandise\n• Everyone first repor
- ts to Brownie Lot\; spectators then use paid Moonridge Lot parking and the
-  free shuttle\n\nTBD / VERIFY BEFORE GOING\n• The detailed schedule is e
- xplicitly subject to change\n• A published 11:30 PM practice slot is pos
- itioned among morning sessions and is almost certainly an AM typo\; verify
-  the live schedule\n\nOFFICIAL SOURCES\n• BBMR detailed event page: http
- s://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-grand-pr
- ix\n• Visit Big Bear overview: https://www.bigbear.com/events/mx-grand-p
- rix/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-09\nDetails ca
- n change. Recheck the official source before making a special trip.
+ r meeting\n• 7:00 AM–6:00 PM — free Moonridge Lot shuttle\n• 7:00
+ –11:00 AM — Easy Street Coffee & Breakfast\n• 8:00 AM–approximatel
+ y 4:45 PM — practice sessions across 14 sessions at roughly 35-minute in
+ tervals\n• 10:00 AM–5:00 PM — Laybacks Bar\n• 11:00 AM–5:00 PM 
+ — BBQ in the Park\n\nWHAT TO EXPECT\n• Spectators view from The Deck w
+ ith food\, beverages\, sponsor demonstrations/sales and event merchandise\
+ n• Everyone first reports to Brownie Lot\; spectators then use paid Moon
+ ridge Lot parking and the free shuttle\n• One $30 wristband covers this 
+ day and the rest of the weekend — it is per person\, not per day\n• Th
+ e chairlift does not run for spectators today\; Saturday is the only lift 
+ day\n\nTBD / VERIFY BEFORE GOING\n• The detailed schedule is explicitly 
+ subject to change\n• A published 11:30 PM practice slot is positioned am
+ ong morning sessions and is almost certainly an AM typo\; verify the live 
+ schedule\n\nOFFICIAL SOURCES\n• BBMR detailed event page: https://www.bi
+ gbearmountainresort.com/things-to-do/events/big-bear-mx-grand-prix\n• Vi
+ sit Big Bear overview: https://www.bigbear.com/events/mx-grand-prix/\n\nCA
+ LENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-15\nDetails can change. 
+ Recheck the official source before making a special trip.
 URL:https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-g
  rand-prix
 CATEGORIES:Motorsports,Outdoors,TBD
@@ -430,9 +660,9 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-grand-prix-races-friday-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260821T063000
 DTEND;TZID=America/Los_Angeles:20260821T220000
 SUMMARY:Big Bear MX Grand Prix — Friday Races + Bench Racing Party
@@ -444,20 +674,25 @@ DESCRIPTION:First race day on Bear Mountain’s technical motocross loop\,
  30 facility wristband valid Thursday–Sunday\; age 5 and under free\n• 
  $25 spectator parking at Moonridge Lot with free shuttle\n\nSCHEDULE\n• 
  6:30 AM — gates\n• 7:00 AM — registration\n• 7:30 AM — rider mee
- ting\n• 8:00 AM — sight lap\n• 8:30 AM–approximately 3:30 PM — r
- acing\n• 4:00–10:00 PM — Bench Racing Party at Wyatt’s Grill & Sal
- oon in The Village\n\nWHAT TO EXPECT\n• Spectator viewing from The Deck 
- includes food/beverage service and sponsor exhibits\n• Everyone first re
- ports to Brownie Lot\; spectators park at Moonridge Lot and shuttle to the
-  venue\n\nTBD / VERIFY BEFORE GOING\n• Detailed class/order schedule rem
- ains subject to change\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or co
- mpetes with: Skyline at Sundown — Mountaintop BBQ + Live Music (Fri\, Au
- g 21\, 2026\, 4:30 PM–7:30 PM).\n\nOFFICIAL SOURCES\n• BBMR detailed e
- vent page: https://www.bigbearmountainresort.com/things-to-do/events/big-b
- ear-mx-grand-prix\n• Visit Big Bear overview: https://www.bigbear.com/ev
- ents/mx-grand-prix/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-0
- 9\nDetails can change. Recheck the official source before making a special
-  trip.
+ ting\n• 7:00 AM–4:00 PM — free Moonridge Lot shuttle\n• 8:00 AM 
+ — sight lap for races 1–4\n• 8:30 AM–approximately 2:55 PM — sev
+ en race heats\, 35–40 minutes each\n• 9:00 AM–3:00 PM — free STACY
+ C kids track\n• 12:00–4:00 PM — beer garden\n• 12:30 PM — track 
+ maintenance break\n• 4:00–10:00 PM — Bench Racing Party at Wyatt’s
+  Grill & Saloon in The Village\n\nWHAT TO EXPECT\n• Spectator viewing fr
+ om The Deck includes food/beverage service and sponsor exhibits\n• Every
+ one first reports to Brownie Lot\; spectators park at Moonridge Lot and sh
+ uttle to the venue\n• Friday adds Flat Bottom Dough and the Outlaw Luau 
+ and Tiki Bar to the Thursday food lineup\n• The chairlift does not run f
+ or spectators today\; Saturday is the only lift day\n\nTBD / VERIFY BEFORE
+  GOING\n• Detailed class/order schedule remains subject to change\n\nCON
+ FLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: Skyline at Sundo
+ wn — Mountaintop BBQ + Live Music (Fri\, Aug 21\, 2026\, 4:30 PM–7:30 
+ PM).\n\nOFFICIAL SOURCES\n• BBMR detailed event page: https://www.bigbea
+ rmountainresort.com/things-to-do/events/big-bear-mx-grand-prix\n• Visit 
+ Big Bear overview: https://www.bigbear.com/events/mx-grand-prix/\n\nCALEND
+ AR STATUS: CONFIRMED\nLast checked: 2026-08-15\nDetails can change. Rechec
+ k the official source before making a special trip.
 URL:https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-g
  rand-prix
 CATEGORIES:Motorsports,Outdoors,Nightlife
@@ -508,37 +743,58 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-grand-prix-races-saturday-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260822T063000
 DTEND;TZID=America/Los_Angeles:20260822T190000
 SUMMARY:Big Bear MX Grand Prix — Saturday Races + Those Guys
 LOCATION:Bear Mountain — 43101 Goldmine Dr\, Big Bear Lake\, CA 92315
 DESCRIPTION:The marquee MX day covers vintage/hooligan\, 30+\, 40+/50+ and 
- 250/450 pro classes\, Midway Chair spectator access and an included post-r
- ace concert by Those Guys.\n\nWHEN\nSat\, Aug 22\, 2026\, 6:30 AM–7:00 P
- M\n\nPRICE / ADMISSION\n• $30 facility wristband valid Thursday–Sunday
- \; age 5 and under free\n• $25 spectator parking at Moonridge Lot with f
- ree shuttle\n• 5 PM Those Guys concert included with facility wristband\
- n\nSCHEDULE\n• 6:30 AM — gates\n• 7:00 AM — registration\n• 7:30
-  AM — rider meeting\n• 8:00 AM — sight lap and Midway Chair 5 specta
- tor access begins\n• 8:30 AM–approximately 3:30 PM — racing\n• 5:0
- 0–7:00 PM — Those Guys perform at the podium\n\nWHAT TO EXPECT\n• Sp
- ectator viewing from The Deck includes food/beverage service and sponsor e
- xhibits\n• Midway Chair 5 spectator access is published for 8:00 AM–3:
- 30 PM\n\nTBD / VERIFY BEFORE GOING\n• Detailed class/order schedule rema
- ins subject to change\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or com
- petes with: Climate & Cocktails — Locations TBD (Sat\, Aug 22\, 2026\, 1
- :00 PM–5:00 PM).\n• Overlaps or competes with: Skyline at Sundown — 
- Mountaintop BBQ + Live Music (Sat\, Aug 22\, 2026\, 4:30 PM–7:30 PM).\n
- • Overlaps or competes with: Music in the Mountains — Journey + Bryan 
- Adams Tributes (Sat\, Aug 22\, 2026\, 5:00 PM–9:30 PM).\n\nOFFICIAL SOUR
- CES\n• BBMR detailed event page: https://www.bigbearmountainresort.com/t
- hings-to-do/events/big-bear-mx-grand-prix\n• Visit Big Bear overview: ht
- tps://www.bigbear.com/events/mx-grand-prix/\n\nCALENDAR STATUS: CONFIRMED\
- nLast checked: 2026-08-09\nDetails can change. Recheck the official source
-  before making a special trip.
+ 250/450 pro classes\, and it is the one day the chairlift runs for spectat
+ ors — ride Midway Chair 5 up for an overhead view of the course. An incl
+ uded post-race concert by Those Guys closes it out.\n\nWHEN\nSat\, Aug 22\
+ , 2026\, 6:30 AM–7:00 PM\n\nPRICE / ADMISSION\n• $30 facility wristban
+ d valid Thursday–Sunday\; age 5 and under free\n• $25 spectator parkin
+ g at Moonridge Lot with free shuttle\n• Scenic Sky Chair ride to the on-
+ hill viewing area: included with the wristband\, Saturday only\n• 5 PM T
+ hose Guys concert included with facility wristband\n\nSCHEDULE\n• 6:30 A
+ M — gates\n• 7:00 AM — registration\n• 7:30 AM — rider meeting\n
+ • 8:00 AM — sight lap\; Midway Chair 5 opens to spectators\n• 8:00 A
+ M–3:30 PM — Sky Chair spectator access window\n• 8:30 AM–approxima
+ tely 3:30 PM — racing\n• 10:00 AM–3:00 PM — bar service at the on-
+ hill viewing area\n• 4:00–6:30 PM — concert bar\n• 5:00–7:00 PM 
+ — Those Guys perform at the podium\n\nWHAT TO EXPECT\n• New for 2026: 
+ the chairlift runs on Saturday so any wristband holder can ride to the top
+  of the course for a vantage point that did not exist last year\n• The l
+ ift takes you up\; a short walk or shuttle then reaches the designated vie
+ wing area at the top of Central Park\, which overlooks sections of the tre
+ e-lined course and the Pro Line\n• All spectators must ride the chair ba
+ ck down — there is no walking descent from the viewing area\n• Food an
+ d beverage service is available at the top\, and the viewing-area bar runs
+  10:00 AM–3:00 PM\n• Spectator viewing from The Deck at the base also 
+ includes food/beverage service and sponsor exhibits\n\nUSEFUL NOTES\n• S
+ aturday is the day to buy if you only come once: chairlift access\, the de
+ epest pro classes and the included concert all land on this date\n• The 
+ published lift window closes at 3:30 PM\, so ride up well before then\; ra
+ cing runs until about 3:30 PM anyway\n\nTBD / VERIFY BEFORE GOING\n• Det
+ ailed class/order schedule remains subject to change\n• No spectator cam
+ era or photography policy is published on the resort\, BBMXGP or Visit Big
+  Bear pages. Personal cameras are not listed among any prohibited items\, 
+ but commercial or credentialed media access is not described either — co
+ ntact the organizer if you plan to shoot anything beyond personal photos\n
+ \nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: Climate & C
+ ocktails — Locations TBD (Sat\, Aug 22\, 2026\, 1:00 PM–5:00 PM).\n•
+  Overlaps or competes with: Skyline at Sundown — Mountaintop BBQ + Live 
+ Music (Sat\, Aug 22\, 2026\, 4:30 PM–7:30 PM).\n• Overlaps or competes
+  with: Music in the Mountains — Journey + Bryan Adams Tributes (Sat\, Au
+ g 22\, 2026\, 5:00 PM–9:30 PM).\n\nOFFICIAL SOURCES\n• BBMR detailed e
+ vent page: https://www.bigbearmountainresort.com/things-to-do/events/big-b
+ ear-mx-grand-prix\n• Visit Big Bear overview: https://www.bigbear.com/ev
+ ents/mx-grand-prix/\n• Motocross Action spectator guide: https://motocro
+ ssactionmag.com/headed-to-the-2026-big-bear-mx-grand-prix-heres-your-spect
+ ator-guide/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-15\nDetai
+ ls can change. Recheck the official source before making a special trip.
 URL:https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-g
  rand-prix
 CATEGORIES:Motorsports,Outdoors,Live Music
@@ -687,9 +943,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-grand-prix-races-sunday-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T150000Z
+LAST-MODIFIED:20260815T150000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260823T063000
 DTEND;TZID=America/Los_Angeles:20260823T153000
 SUMMARY:Big Bear MX Grand Prix — Sunday Races
@@ -700,17 +956,21 @@ DESCRIPTION:Final race day featuring youth\, women\, amateur/expert and tea
  ON\n• $30 facility wristband valid Thursday–Sunday\; age 5 and under f
  ree\n• $25 spectator parking at Moonridge Lot with free shuttle\n\nSCHED
  ULE\n• 6:30 AM — gates\n• 7:00 AM — registration\n• 7:30 AM — 
- rider meeting\n• 8:00 AM — sight lap\n• 8:30 AM–approximately 3:30
-  PM — racing\n\nWHAT TO EXPECT\n• Spectator viewing from The Deck incl
- udes food/beverage service and sponsor exhibits\n• Everyone first report
- s to Brownie Lot\; spectators park at Moonridge Lot and use the free shutt
- le\n\nTBD / VERIFY BEFORE GOING\n• The source misnumbers one race and si
- ght-lap grouping\; verify the live running order\n• Detailed schedule re
- mains subject to change\n\nOFFICIAL SOURCES\n• BBMR detailed event page:
-  https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-gra
- nd-prix\n• Visit Big Bear overview: https://www.bigbear.com/events/mx-gr
- and-prix/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-09\nDetai
- ls can change. Recheck the official source before making a special trip.
+ rider meeting\n• 7:00 AM–5:00 PM — free Moonridge Lot shuttle\n• 8
+ :00 AM — sight lap for races 15–18\n• 8:30 AM–approximately 2:55 P
+ M — seven race heats\, 35–40 minutes each\n• 9:00 AM–3:00 PM — f
+ ree STACYC kids track\n• 12:30 PM — track maintenance break\n\nWHAT TO
+  EXPECT\n• Spectator viewing from The Deck includes food/beverage servic
+ e and sponsor exhibits\n• Everyone first reports to Brownie Lot\; specta
+ tors park at Moonridge Lot and use the free shuttle\n• The chairlift doe
+ s not run for spectators today\; Saturday is the only lift day\n\nTBD / VE
+ RIFY BEFORE GOING\n• The source misnumbers one race and sight-lap groupi
+ ng\; verify the live running order\n• Detailed schedule remains subject 
+ to change\n\nOFFICIAL SOURCES\n• BBMR detailed event page: https://www.b
+ igbearmountainresort.com/things-to-do/events/big-bear-mx-grand-prix\n• V
+ isit Big Bear overview: https://www.bigbear.com/events/mx-grand-prix/\n\nC
+ ALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-15\nDetails can change.
+  Recheck the official source before making a special trip.
 URL:https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-g
  rand-prix
 CATEGORIES:Motorsports,Outdoors,TBD
