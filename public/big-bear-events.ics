@@ -76,49 +76,10 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:skyline-at-sundown-2026-08-13@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260813T163000
-DTEND;TZID=America/Los_Angeles:20260813T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nThu\, Aug 13\, 2026\, 4:30 PM–7:30 PM\n
- \nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$
- 50\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n•
-  9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begin
- s guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM 
- — last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — 
- chair downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPEC
- T\n• Menu examples include roast tri-tip and grilled salmon\; a full bar
-  is available\n• Reservations are date-specific\, nonrefundable and nont
- ransferable\n• No local\, passholder or employee discount is advertised\
- n• Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befo
- re the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticke
- t\n• Pets are not allowed\n• Non-electric wheelchairs and strollers ar
- e allowed on the chairlift\n• Lift operations can pause for nearby light
- ning\; check mountain status in questionable weather\n\nTBD / VERIFY BEFOR
- E GOING\n• Live entertainer is not named for each remaining date on the 
- current public pages\n\nOFFICIAL SOURCES\n• BBMR reservations\, prices a
- nd access rules: https://www.bigbearmountainresort.com/things-to-do/skylin
- e-at-sundown\n• Official remaining-date list: https://www.bigbear.com/ev
- ents/skyline-at-sundown/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026
- -08-09\nDetails can change. Recheck the official source before making a sp
- ecial trip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:skyfest-2026-08-14@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260814T120000
 DTEND;TZID=America/Los_Angeles:20260814T230000
 SUMMARY:SkyFest Big Bear — Friday
@@ -154,58 +115,16 @@ DESCRIPTION:Day one of Big Bear’s dark-sky festival: NASA/Caltech science
  s\n\nTBD / VERIFY BEFORE GOING\n• The ticket page describes DiscoverFest
   as 4:00–9:00 PM and appears to imply all three days\; the more detailed
   official program says Friday/Saturday only\, 5:00–8:00 PM. This calenda
- r uses the detailed program\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps 
- or competes with: Skyline at Sundown — Mountaintop BBQ + Live Music (Fri
- \, Aug 14\, 2026\, 4:30 PM–7:30 PM).\n\nOFFICIAL SOURCES\n• Official d
- etailed program: https://www.bigbear.com/events/skyfest/\n• Live tickets
-  and availability: https://visitbigbear.ticketspice.com/skyfest-big-bear\n
- \nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-09\nDetails can chan
- ge. Recheck the official source before making a special trip.
+ r uses the detailed program\n\nOFFICIAL SOURCES\n• Official detailed pro
+ gram: https://www.bigbear.com/events/skyfest/\n• Live tickets and availa
+ bility: https://visitbigbear.ticketspice.com/skyfest-big-bear\n\nCALENDAR 
+ STATUS: DETAILS_TBD\nLast checked: 2026-08-09\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://www.bigbear.com/events/skyfest/
 CATEGORIES:Astronomy,Festival,Family,Outdoors,TBD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
-END:VEVENT
-BEGIN:VEVENT
-UID:skyline-at-sundown-2026-08-14@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260814T163000
-DTEND;TZID=America/Los_Angeles:20260814T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nFri\, Aug 14\, 2026\, 4:30 PM–7:30 PM\n
- \nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$
- 50\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n•
-  9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begin
- s guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM 
- — last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — 
- chair downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPEC
- T\n• Menu examples include roast tri-tip and grilled salmon\; a full bar
-  is available\n• Reservations are date-specific\, nonrefundable and nont
- ransferable\n• No local\, passholder or employee discount is advertised\
- n• Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befo
- re the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticke
- t\n• Pets are not allowed\n• Non-electric wheelchairs and strollers ar
- e allowed on the chairlift\n• Lift operations can pause for nearby light
- ning\; check mountain status in questionable weather\n\nTBD / VERIFY BEFOR
- E GOING\n• Live entertainer is not named for each remaining date on the 
- current public pages\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or comp
- etes with: SkyFest Big Bear — Friday (Fri\, Aug 14\, 2026\, 12:00 PM–1
- 1:00 PM).\n\nOFFICIAL SOURCES\n• BBMR reservations\, prices and access r
- ules: https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundow
- n\n• Official remaining-date list: https://www.bigbear.com/events/skylin
- e-at-sundown/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-09\nDet
- ails can change. Recheck the official source before making a special trip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:conquer-the-wall-2026@big-bear-events.bry.rip
@@ -295,9 +214,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:skyfest-2026-08-15@big-bear-events.bry.rip
-DTSTAMP:20260815T150000Z
-LAST-MODIFIED:20260815T150000Z
-SEQUENCE:1
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:2
 DTSTART;TZID=America/Los_Angeles:20260815T120000
 DTEND;TZID=America/Los_Angeles:20260815T230000
 SUMMARY:SkyFest Big Bear — Saturday
@@ -338,64 +257,21 @@ DESCRIPTION:SkyFest’s fullest day pairs dark-sky and astrobiology talks w
  ; the detailed program says Friday/Saturday only\, 5:00–8:00 PM. This ca
  lendar uses the detailed program\n\nCONFLICTS / SAME-DAY OPTIONS\n• Over
  laps or competes with: Conquer the Wall — Uphill Race (Sat\, Aug 15\, 20
- 26 at 9:00 AM).\n• Overlaps or competes with: Skyline at Sundown — Mou
- ntaintop BBQ + Live Music (Sat\, Aug 15\, 2026\, 4:30 PM–7:30 PM).\n• 
- Overlaps or competes with: Fawnskin Doo Dah Parade — 50th Anniversary (S
- at\, Aug 15\, 2026\, 10:00 AM–3:00 PM).\n• Overlaps or competes with: 
- The Travelin' Band (CCR Tribute) at The Cave (Sat\, Aug 15\, 2026\, 8:00 P
- M–10:00 PM).\n• Overlaps or competes with: Creating Worlds Playwright 
- Festival — Saturday Night (Sat\, Aug 15\, 2026\, 7:30 PM–9:30 PM).\n\n
- OFFICIAL SOURCES\n• Official detailed program: https://www.bigbear.com/e
- vents/skyfest/\n• Live tickets and availability: https://visitbigbear.ti
- cketspice.com/skyfest-big-bear\n\nCALENDAR STATUS: DETAILS_TBD\nLast check
- ed: 2026-08-15\nDetails can change. Recheck the official source before mak
- ing a special trip.
+ 26 at 9:00 AM).\n• Overlaps or competes with: Fawnskin Doo Dah Parade 
+ — 50th Anniversary (Sat\, Aug 15\, 2026\, 10:00 AM–3:00 PM).\n• Over
+ laps or competes with: The Travelin' Band (CCR Tribute) at The Cave (Sat\,
+  Aug 15\, 2026\, 8:00 PM–10:00 PM).\n• Overlaps or competes with: Crea
+ ting Worlds Playwright Festival — Saturday Night (Sat\, Aug 15\, 2026\, 
+ 7:30 PM–9:30 PM).\n\nOFFICIAL SOURCES\n• Official detailed program: ht
+ tps://www.bigbear.com/events/skyfest/\n• Live tickets and availability: 
+ https://visitbigbear.ticketspice.com/skyfest-big-bear\n\nCALENDAR STATUS: 
+ DETAILS_TBD\nLast checked: 2026-08-15\nDetails can change. Recheck the off
+ icial source before making a special trip.
 URL:https://www.bigbear.com/events/skyfest/
 CATEGORIES:Astronomy,Festival,Family,Outdoors,Sold Out
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
-END:VEVENT
-BEGIN:VEVENT
-UID:skyline-at-sundown-2026-08-15@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260815T163000
-DTEND;TZID=America/Los_Angeles:20260815T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nSat\, Aug 15\, 2026\, 4:30 PM–7:30 PM\n
- \nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$
- 50\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n•
-  9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begin
- s guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM 
- — last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — 
- chair downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPEC
- T\n• Menu examples include roast tri-tip and grilled salmon\; a full bar
-  is available\n• Reservations are date-specific\, nonrefundable and nont
- ransferable\n• No local\, passholder or employee discount is advertised\
- n• Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befo
- re the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticke
- t\n• Pets are not allowed\n• Non-electric wheelchairs and strollers ar
- e allowed on the chairlift\n• Lift operations can pause for nearby light
- ning\; check mountain status in questionable weather\n\nTBD / VERIFY BEFOR
- E GOING\n• Live entertainer is not named for each remaining date on the 
- current public pages\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or comp
- etes with: SkyFest Big Bear — Saturday (Sat\, Aug 15\, 2026\, 12:00 PM
- –11:00 PM).\n\nOFFICIAL SOURCES\n• BBMR reservations\, prices and acce
- ss rules: https://www.bigbearmountainresort.com/things-to-do/skyline-at-su
- ndown\n• Official remaining-date list: https://www.bigbear.com/events/sk
- yline-at-sundown/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-09\
- nDetails can change. Recheck the official source before making a special t
- rip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:creating-worlds-playwright-2026-08-15@big-bear-events.bry.rip
@@ -678,9 +554,9 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:mx-grand-prix-races-friday-2026@big-bear-events.bry.rip
-DTSTAMP:20260815T163000Z
-LAST-MODIFIED:20260815T163000Z
-SEQUENCE:2
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260821T063000
 DTEND;TZID=America/Los_Angeles:20260821T220000
 SUMMARY:Big Bear MX Grand Prix — Friday Races + Bench Racing Party
@@ -711,14 +587,12 @@ DESCRIPTION:First race day on Bear Mountain’s technical motocross loop\,
  Lot check-in can be bypassed or the venue reached without the shuttle\, so
   confirm with the organizer\n\nTBD / VERIFY BEFORE GOING\n• Detailed cla
  ss/order schedule remains subject to change\n• No official source addres
- ses spectators arriving by bike\, on foot or by drop-off\n\nCONFLICTS / SA
- ME-DAY OPTIONS\n• Overlaps or competes with: Skyline at Sundown — Moun
- taintop BBQ + Live Music (Fri\, Aug 21\, 2026\, 4:30 PM–7:30 PM).\n\nOFF
- ICIAL SOURCES\n• BBMR detailed event page: https://www.bigbearmountainre
- sort.com/things-to-do/events/big-bear-mx-grand-prix\n• Visit Big Bear ov
- erview: https://www.bigbear.com/events/mx-grand-prix/\n\nCALENDAR STATUS: 
- CONFIRMED\nLast checked: 2026-08-15\nDetails can change. Recheck the offic
- ial source before making a special trip.
+ ses spectators arriving by bike\, on foot or by drop-off\n\nOFFICIAL SOURC
+ ES\n• BBMR detailed event page: https://www.bigbearmountainresort.com/th
+ ings-to-do/events/big-bear-mx-grand-prix\n• Visit Big Bear overview: htt
+ ps://www.bigbear.com/events/mx-grand-prix/\n\nCALENDAR STATUS: CONFIRMED\n
+ Last checked: 2026-08-15\nDetails can change. Recheck the official source 
+ before making a special trip.
 URL:https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-g
  rand-prix
 CATEGORIES:Motorsports,Outdoors,Nightlife
@@ -727,51 +601,10 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:skyline-at-sundown-2026-08-21@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260821T163000
-DTEND;TZID=America/Los_Angeles:20260821T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nFri\, Aug 21\, 2026\, 4:30 PM–7:30 PM\n
- \nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$
- 50\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n•
-  9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begin
- s guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM 
- — last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — 
- chair downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPEC
- T\n• Menu examples include roast tri-tip and grilled salmon\; a full bar
-  is available\n• Reservations are date-specific\, nonrefundable and nont
- ransferable\n• No local\, passholder or employee discount is advertised\
- n• Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befo
- re the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticke
- t\n• Pets are not allowed\n• Non-electric wheelchairs and strollers ar
- e allowed on the chairlift\n• Lift operations can pause for nearby light
- ning\; check mountain status in questionable weather\n\nTBD / VERIFY BEFOR
- E GOING\n• Live entertainer is not named for each remaining date on the 
- current public pages\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or comp
- etes with: Big Bear MX Grand Prix — Friday Races + Bench Racing Party (F
- ri\, Aug 21\, 2026\, 6:30 AM–10:00 PM).\n\nOFFICIAL SOURCES\n• BBMR re
- servations\, prices and access rules: https://www.bigbearmountainresort.co
- m/things-to-do/skyline-at-sundown\n• Official remaining-date list: https
- ://www.bigbear.com/events/skyline-at-sundown/\n\nCALENDAR STATUS: CONFIRME
- D\nLast checked: 2026-08-09\nDetails can change. Recheck the official sour
- ce before making a special trip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:mx-grand-prix-races-saturday-2026@big-bear-events.bry.rip
-DTSTAMP:20260815T163000Z
-LAST-MODIFIED:20260815T163000Z
-SEQUENCE:2
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260822T063000
 DTEND;TZID=America/Los_Angeles:20260822T190000
 SUMMARY:Big Bear MX Grand Prix — Saturday Races + Those Guys
@@ -820,16 +653,15 @@ DESCRIPTION:The marquee MX day covers vintage/hooligan\, 30+\, 40+/50+ and
  e addresses spectators arriving by bike\, on foot or by drop-off\n\nCONFLI
  CTS / SAME-DAY OPTIONS\n• Overlaps or competes with: Climate & Cocktails
   — Locations TBD (Sat\, Aug 22\, 2026\, 1:00 PM–5:00 PM).\n• Overlap
- s or competes with: Skyline at Sundown — Mountaintop BBQ + Live Music (S
- at\, Aug 22\, 2026\, 4:30 PM–7:30 PM).\n• Overlaps or competes with: M
- usic in the Mountains — Journey + Bryan Adams Tributes (Sat\, Aug 22\, 2
- 026\, 5:00 PM–9:30 PM).\n\nOFFICIAL SOURCES\n• BBMR detailed event pag
- e: https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-g
- rand-prix\n• Visit Big Bear overview: https://www.bigbear.com/events/mx-
- grand-prix/\n• Motocross Action spectator guide: https://motocrossaction
- mag.com/headed-to-the-2026-big-bear-mx-grand-prix-heres-your-spectator-gui
- de/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-15\nDetails can c
- hange. Recheck the official source before making a special trip.
+ s or competes with: Music in the Mountains — Journey + Bryan Adams Tribu
+ tes (Sat\, Aug 22\, 2026\, 5:00 PM–9:30 PM).\n\nOFFICIAL SOURCES\n• BB
+ MR detailed event page: https://www.bigbearmountainresort.com/things-to-do
+ /events/big-bear-mx-grand-prix\n• Visit Big Bear overview: https://www.b
+ igbear.com/events/mx-grand-prix/\n• Motocross Action spectator guide: ht
+ tps://motocrossactionmag.com/headed-to-the-2026-big-bear-mx-grand-prix-her
+ es-your-spectator-guide/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026
+ -08-15\nDetails can change. Recheck the official source before making a sp
+ ecial trip.
 URL:https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-g
  rand-prix
 CATEGORIES:Motorsports,Outdoors,Live Music
@@ -839,9 +671,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:climate-cocktails-august-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260822T130000
 DTEND;TZID=America/Los_Angeles:20260822T170000
 SUMMARY:Climate & Cocktails — Locations TBD
@@ -863,15 +695,13 @@ DESCRIPTION:Spend two hours collecting trash on a Big Bear trail\, shorelin
  P form still appeared oriented to July when checked\; confirm that August 
  registration is open\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or comp
  etes with: Big Bear MX Grand Prix — Saturday Races + Those Guys (Sat\, A
- ug 22\, 2026\, 6:30 AM–7:00 PM).\n• Overlaps or competes with: Skyline
-  at Sundown — Mountaintop BBQ + Live Music (Sat\, Aug 22\, 2026\, 4:30 P
- M–7:30 PM).\n• Overlaps or competes with: Music in the Mountains — J
- ourney + Bryan Adams Tributes (Sat\, Aug 22\, 2026\, 5:00 PM–9:30 PM).\n
- \nOFFICIAL SOURCES\n• Official event page: https://www.bigbear.com/event
- s/climate-cocktails/\n• Care for Big Bear RSVP hub: https://www.bigbear.
- com/care-for-big-bear/our-events/\n\nCALENDAR STATUS: DETAILS_TBD\nLast ch
- ecked: 2026-08-09\nDetails can change. Recheck the official source before 
- making a special trip.
+ ug 22\, 2026\, 6:30 AM–7:00 PM).\n• Overlaps or competes with: Music i
+ n the Mountains — Journey + Bryan Adams Tributes (Sat\, Aug 22\, 2026\, 
+ 5:00 PM–9:30 PM).\n\nOFFICIAL SOURCES\n• Official event page: https://
+ www.bigbear.com/events/climate-cocktails/\n• Care for Big Bear RSVP hub:
+  https://www.bigbear.com/care-for-big-bear/our-events/\n\nCALENDAR STATUS:
+  DETAILS_TBD\nLast checked: 2026-08-09\nDetails can change. Recheck the of
+ ficial source before making a special trip.
 URL:https://www.bigbear.com/events/climate-cocktails/
 CATEGORIES:Volunteer,Environment,Social,TBD
 STATUS:CONFIRMED
@@ -879,54 +709,10 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:skyline-at-sundown-2026-08-22@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260822T163000
-DTEND;TZID=America/Los_Angeles:20260822T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nSat\, Aug 22\, 2026\, 4:30 PM–7:30 PM\n
- \nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$
- 50\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n•
-  9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begin
- s guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM 
- — last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — 
- chair downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPEC
- T\n• Menu examples include roast tri-tip and grilled salmon\; a full bar
-  is available\n• Reservations are date-specific\, nonrefundable and nont
- ransferable\n• No local\, passholder or employee discount is advertised\
- n• Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befo
- re the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticke
- t\n• Pets are not allowed\n• Non-electric wheelchairs and strollers ar
- e allowed on the chairlift\n• Lift operations can pause for nearby light
- ning\; check mountain status in questionable weather\n\nTBD / VERIFY BEFOR
- E GOING\n• Live entertainer is not named for each remaining date on the 
- current public pages\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or comp
- etes with: Big Bear MX Grand Prix — Saturday Races + Those Guys (Sat\, A
- ug 22\, 2026\, 6:30 AM–7:00 PM).\n• Overlaps or competes with: Climate
-  & Cocktails — Locations TBD (Sat\, Aug 22\, 2026\, 1:00 PM–5:00 PM).\
- n• Overlaps or competes with: Music in the Mountains — Journey + Bryan
-  Adams Tributes (Sat\, Aug 22\, 2026\, 5:00 PM–9:30 PM).\n\nOFFICIAL SOU
- RCES\n• BBMR reservations\, prices and access rules: https://www.bigbear
- mountainresort.com/things-to-do/skyline-at-sundown\n• Official remaining
- -date list: https://www.bigbear.com/events/skyline-at-sundown/\n\nCALENDAR
-  STATUS: CONFIRMED\nLast checked: 2026-08-09\nDetails can change. Recheck 
- the official source before making a special trip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:music-in-the-mountains-journey-bryan-adams-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260822T170000
 DTEND;TZID=America/Los_Angeles:20260822T213000
 SUMMARY:Music in the Mountains — Journey + Bryan Adams Tributes
@@ -962,13 +748,12 @@ DESCRIPTION:A polished classic-rock tribute night in the forest: DSB perfor
  laps or competes with: Big Bear MX Grand Prix — Saturday Races + Those G
  uys (Sat\, Aug 22\, 2026\, 6:30 AM–7:00 PM).\n• Overlaps or competes w
  ith: Climate & Cocktails — Locations TBD (Sat\, Aug 22\, 2026\, 1:00 PM
- –5:00 PM).\n• Overlaps or competes with: Skyline at Sundown — Mounta
- intop BBQ + Live Music (Sat\, Aug 22\, 2026\, 4:30 PM–7:30 PM).\n\nOFFIC
- IAL SOURCES\n• Organizer tickets and policies: https://www.eventbrite.co
- m/e/music-in-the-mountains-journey-bryan-adams-august-22-tickets-198737338
- 1282\n• Visit Big Bear overview: https://www.bigbear.com/events/music-in
- -mountains/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-09\nDetai
- ls can change. Recheck the official source before making a special trip.
+ –5:00 PM).\n\nOFFICIAL SOURCES\n• Organizer tickets and policies: http
+ s://www.eventbrite.com/e/music-in-the-mountains-journey-bryan-adams-august
+ -22-tickets-1987373381282\n• Visit Big Bear overview: https://www.bigbea
+ r.com/events/music-in-mountains/\n\nCALENDAR STATUS: CONFIRMED\nLast check
+ ed: 2026-08-09\nDetails can change. Recheck the official source before mak
+ ing a special trip.
 URL:https://www.eventbrite.com/e/music-in-the-mountains-journey-bryan-adams
  -august-22-tickets-1987373381282
 CATEGORIES:Live Music,Outdoors,Fundraiser
@@ -1055,9 +840,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lakefest-friday-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260828T150000
 DTEND;TZID=America/Los_Angeles:20260828T203000
 SUMMARY:Lakefest — New Americana Night
@@ -1087,57 +872,14 @@ DESCRIPTION:Lakefest’s Friday opening combines an afternoon farmers marke
  e registration-page contact form for accommodations\n\nTBD / VERIFY BEFORE
   GOING\n• Satellite parking/shuttle operating days need confirmation bec
  ause the official tourism page says Saturday and Sunday for a Friday–Sat
- urday festival\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes w
- ith: Skyline at Sundown — Mountaintop BBQ + Live Music (Fri\, Aug 28\, 2
- 026\, 4:30 PM–7:30 PM).\n\nOFFICIAL SOURCES\n• Current registration an
- d schedule: https://runsignup.com/TicketEvent/BigBearsLakefest\n• Visit 
- Big Bear logistics: https://www.bigbear.com/events/lakefest-big-bear-lake/
- \n• Spencer Someday: https://spencersomeday.com/\n\nCALENDAR STATUS: CON
- FIRMED\nLast checked: 2026-08-09\nDetails can change. Recheck the official
-  source before making a special trip.
+ urday festival\n\nOFFICIAL SOURCES\n• Current registration and schedule:
+  https://runsignup.com/TicketEvent/BigBearsLakefest\n• Visit Big Bear lo
+ gistics: https://www.bigbear.com/events/lakefest-big-bear-lake/\n• Spenc
+ er Someday: https://spencersomeday.com/\n\nCALENDAR STATUS: CONFIRMED\nLas
+ t checked: 2026-08-09\nDetails can change. Recheck the official source bef
+ ore making a special trip.
 URL:https://runsignup.com/TicketEvent/BigBearsLakefest
 CATEGORIES:Festival,Live Music,Comedy,Family
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:skyline-at-sundown-2026-08-28@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260828T163000
-DTEND;TZID=America/Los_Angeles:20260828T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nFri\, Aug 28\, 2026\, 4:30 PM–7:30 PM\n
- \nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$
- 50\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n•
-  9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begin
- s guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM 
- — last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — 
- chair downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPEC
- T\n• Menu examples include roast tri-tip and grilled salmon\; a full bar
-  is available\n• Reservations are date-specific\, nonrefundable and nont
- ransferable\n• No local\, passholder or employee discount is advertised\
- n• Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befo
- re the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticke
- t\n• Pets are not allowed\n• Non-electric wheelchairs and strollers ar
- e allowed on the chairlift\n• Lift operations can pause for nearby light
- ning\; check mountain status in questionable weather\n\nTBD / VERIFY BEFOR
- E GOING\n• Live entertainer is not named for each remaining date on the 
- current public pages\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or comp
- etes with: Lakefest — New Americana Night (Fri\, Aug 28\, 2026\, 3:00 PM
- –8:30 PM).\n\nOFFICIAL SOURCES\n• BBMR reservations\, prices and acces
- s rules: https://www.bigbearmountainresort.com/things-to-do/skyline-at-sun
- down\n• Official remaining-date list: https://www.bigbear.com/events/sky
- line-at-sundown/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-09\n
- Details can change. Recheck the official source before making a special tr
- ip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
@@ -1246,45 +988,6 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:skyline-at-sundown-2026-08-30@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260830T163000
-DTEND;TZID=America/Los_Angeles:20260830T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nSun\, Aug 30\, 2026\, 4:30 PM–7:30 PM\n
- \nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$
- 50\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n•
-  9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begin
- s guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM 
- — last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — 
- chair downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPEC
- T\n• Menu examples include roast tri-tip and grilled salmon\; a full bar
-  is available\n• Reservations are date-specific\, nonrefundable and nont
- ransferable\n• No local\, passholder or employee discount is advertised\
- n• Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befo
- re the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticke
- t\n• Pets are not allowed\n• Non-electric wheelchairs and strollers ar
- e allowed on the chairlift\n• Lift operations can pause for nearby light
- ning\; check mountain status in questionable weather\n\nTBD / VERIFY BEFOR
- E GOING\n• Live entertainer is not named for each remaining date on the 
- current public pages\n\nOFFICIAL SOURCES\n• BBMR reservations\, prices a
- nd access rules: https://www.bigbearmountainresort.com/things-to-do/skylin
- e-at-sundown\n• Official remaining-date list: https://www.bigbear.com/ev
- ents/skyline-at-sundown/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026
- -08-09\nDetails can change. Recheck the official source before making a sp
- ecial trip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:summer-concert-reggae-locals-2026@big-bear-events.bry.rip
 DTSTAMP:20260809T230000Z
 LAST-MODIFIED:20260809T230000Z
@@ -1323,9 +1026,9 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:rodeo-kickoff-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260904T113000
 DTEND;TZID=America/Los_Angeles:20260904T220000
 SUMMARY:Big Bear Rodeo — Free Carnival Kickoff + Brian Gaylord
@@ -1350,17 +1053,15 @@ DESCRIPTION:The rodeo weekend opens with a Chamber ribbon cutting\, free ca
  G\n• Official FAQ permits sealed water or empty containers\, but current
   ticket-purchase terms prohibit all opened and unopened water bottles\; ve
  rify before arrival and treat the stricter rule as safer\n\nCONFLICTS / SA
- ME-DAY OPTIONS\n• Overlaps or competes with: Skyline at Sundown — Moun
- taintop BBQ + Live Music (Fri\, Sep 4\, 2026\, 4:30 PM–7:30 PM).\n• Ov
- erlaps or competes with: Driving Range After Dark (Fri\, Sep 4\, 2026\, 7:
- 00 PM–9:30 PM).\n• Overlaps or competes with: Labor Day Weekend Glow G
- olf — 9 Holes (Fri\, Sep 4\, 2026\, 7:00 PM–10:00 PM).\n\nOFFICIAL SOU
- RCES\n• Official rodeo schedule: https://bigbearrodeo.com/schedule\n• 
- Official directions and parking: https://bigbearrodeo.com/directions-parki
- ng\n• Current tickets and entry rules: https://visitbigbear.ticketspice.
- com/big-bear-rodeo-carnival\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2
- 026-08-09\nDetails can change. Recheck the official source before making a
-  special trip.
+ ME-DAY OPTIONS\n• Overlaps or competes with: Driving Range After Dark (F
+ ri\, Sep 4\, 2026\, 7:00 PM–9:30 PM).\n• Overlaps or competes with: La
+ bor Day Weekend Glow Golf — 9 Holes (Fri\, Sep 4\, 2026\, 7:00 PM–10:0
+ 0 PM).\n\nOFFICIAL SOURCES\n• Official rodeo schedule: https://bigbearro
+ deo.com/schedule\n• Official directions and parking: https://bigbearrode
+ o.com/directions-parking\n• Current tickets and entry rules: https://vis
+ itbigbear.ticketspice.com/big-bear-rodeo-carnival\n\nCALENDAR STATUS: CONF
+ IRMED\nLast checked: 2026-08-09\nDetails can change. Recheck the official 
+ source before making a special trip.
 URL:https://bigbearrodeo.com/schedule
 CATEGORIES:Rodeo,Carnival,Live Music,Free
 STATUS:CONFIRMED
@@ -1368,54 +1069,10 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:skyline-at-sundown-2026-09-04@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260904T163000
-DTEND;TZID=America/Los_Angeles:20260904T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nFri\, Sep 4\, 2026\, 4:30 PM–7:30 PM\n\
- nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$5
- 0\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n• 
- 9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begins
-  guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM —
-  last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — cha
- ir downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPECT\n
- • Menu examples include roast tri-tip and grilled salmon\; a full bar is
-  available\n• Reservations are date-specific\, nonrefundable and nontran
- sferable\n• No local\, passholder or employee discount is advertised\n
- • Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befor
- e the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticket
- \n• Pets are not allowed\n• Non-electric wheelchairs and strollers are
-  allowed on the chairlift\n• Lift operations can pause for nearby lightn
- ing\; check mountain status in questionable weather\n\nTBD / VERIFY BEFORE
-  GOING\n• Live entertainer is not named for each remaining date on the c
- urrent public pages\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compe
- tes with: Big Bear Rodeo — Free Carnival Kickoff + Brian Gaylord (Fri\, 
- Sep 4\, 2026\, 11:30 AM–10:00 PM).\n• Overlaps or competes with: Drivi
- ng Range After Dark (Fri\, Sep 4\, 2026\, 7:00 PM–9:30 PM).\n• Overlap
- s or competes with: Labor Day Weekend Glow Golf — 9 Holes (Fri\, Sep 4\,
-  2026\, 7:00 PM–10:00 PM).\n\nOFFICIAL SOURCES\n• BBMR reservations\, 
- prices and access rules: https://www.bigbearmountainresort.com/things-to-d
- o/skyline-at-sundown\n• Official remaining-date list: https://www.bigbea
- r.com/events/skyline-at-sundown/\n\nCALENDAR STATUS: CONFIRMED\nLast check
- ed: 2026-08-09\nDetails can change. Recheck the official source before mak
- ing a special trip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:driving-range-after-dark-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260904T190000
 DTEND;TZID=America/Los_Angeles:20260904T213000
 SUMMARY:Driving Range After Dark
@@ -1442,14 +1099,12 @@ DESCRIPTION:A lit-up driving range with glow balls\, target challenges\, pr
  dow format\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with:
   Labor Day Weekend Glow Golf — 9 Holes (Fri\, Sep 4\, 2026\, 7:00 PM–1
  0:00 PM).\n• Overlaps or competes with: Big Bear Rodeo — Free Carnival
-  Kickoff + Brian Gaylord (Fri\, Sep 4\, 2026\, 11:30 AM–10:00 PM).\n• 
- Overlaps or competes with: Skyline at Sundown — Mountaintop BBQ + Live M
- usic (Fri\, Sep 4\, 2026\, 4:30 PM–7:30 PM).\n\nOFFICIAL SOURCES\n• Cu
- rrent BBMR event page: https://www.bigbearmountainresort.com/golf/glow-ran
- ge\n• Current Visit Big Bear listing: https://www.bigbear.com/events/dri
- ving-range-after-dark-presented-by-coca-cola-1-2/\n\nCALENDAR STATUS: CONF
- IRMED\nLast checked: 2026-08-09\nDetails can change. Recheck the official 
- source before making a special trip.
+  Kickoff + Brian Gaylord (Fri\, Sep 4\, 2026\, 11:30 AM–10:00 PM).\n\nOF
+ FICIAL SOURCES\n• Current BBMR event page: https://www.bigbearmountainre
+ sort.com/golf/glow-range\n• Current Visit Big Bear listing: https://www.
+ bigbear.com/events/driving-range-after-dark-presented-by-coca-cola-1-2/\n\
+ nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-09\nDetails can change.
+  Recheck the official source before making a special trip.
 URL:https://www.bigbearmountainresort.com/golf/glow-range
 CATEGORIES:Golf,Nightlife,Family
 STATUS:CONFIRMED
@@ -1458,9 +1113,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:labor-day-glow-golf-2026-09-04@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260904T190000
 DTEND;TZID=America/Los_Angeles:20260904T220000
 SUMMARY:Labor Day Weekend Glow Golf — 9 Holes
@@ -1482,13 +1137,11 @@ DESCRIPTION:A true nine-hole glow-in-the-dark round—not the driving-range
  l package\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: 
  Driving Range After Dark (Fri\, Sep 4\, 2026\, 7:00 PM–9:30 PM).\n• Ov
  erlaps or competes with: Big Bear Rodeo — Free Carnival Kickoff + Brian 
- Gaylord (Fri\, Sep 4\, 2026\, 11:30 AM–10:00 PM).\n• Overlaps or compe
- tes with: Skyline at Sundown — Mountaintop BBQ + Live Music (Fri\, Sep 4
- \, 2026\, 4:30 PM–7:30 PM).\n\nOFFICIAL SOURCES\n• Current BBMR event 
- and reservations: https://www.bigbearmountainresort.com/things-to-do/event
- s/glow-golf-september\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08
- -09\nDetails can change. Recheck the official source before making a speci
- al trip.
+ Gaylord (Fri\, Sep 4\, 2026\, 11:30 AM–10:00 PM).\n\nOFFICIAL SOURCES\n
+ • Current BBMR event and reservations: https://www.bigbearmountainresort
+ .com/things-to-do/events/glow-golf-september\n\nCALENDAR STATUS: CONFIRMED
+ \nLast checked: 2026-08-09\nDetails can change. Recheck the official sourc
+ e before making a special trip.
 URL:https://www.bigbearmountainresort.com/things-to-do/events/glow-golf-sep
  tember
 CATEGORIES:Golf,Nightlife
@@ -1571,9 +1224,9 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:rodeo-night-one-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260905T120000
 DTEND;TZID=America/Los_Angeles:20260905T220000
 SUMMARY:Big Bear Rodeo — PRCA Night 1 + Carnival
@@ -1604,17 +1257,16 @@ DESCRIPTION:A full PRCA performance with seven standard events and specialt
  certain\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: Co
  ol Run in the Mountains Car Show — Time TBD (Sat\, Sep 5\, 2026 (all day
  )).\n• Overlaps or competes with: Big Bear Grizzly 100 & MTB Gran Fondo 
- (Sat\, Sep 5\, 2026 at 7:00 AM).\n• Overlaps or competes with: Skyline a
- t Sundown — Mountaintop BBQ + Live Music (Sat\, Sep 5\, 2026\, 4:30 PM
- –7:30 PM).\n• Overlaps or competes with: Music in the Mountains — Da
- vid Bowie + Elton John Tributes (Sat\, Sep 5\, 2026\, 5:00 PM–9:30 PM).\
- n• Overlaps or competes with: Labor Day Weekend Glow Golf — 9 Holes (S
- at\, Sep 5\, 2026\, 7:00 PM–10:00 PM).\n\nOFFICIAL SOURCES\n• Official
-  rodeo schedule: https://bigbearrodeo.com/schedule\n• Current tickets\, 
- prices and rules: https://visitbigbear.ticketspice.com/big-bear-rodeo-carn
- ival\n• Official parking: https://bigbearrodeo.com/directions-parking\n\
- nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-09\nDetails can change.
-  Recheck the official source before making a special trip.
+ (Sat\, Sep 5\, 2026 at 7:00 AM).\n• Overlaps or competes with: Music in 
+ the Mountains — David Bowie + Elton John Tributes (Sat\, Sep 5\, 2026\, 
+ 5:00 PM–9:30 PM).\n• Overlaps or competes with: Labor Day Weekend Glow
+  Golf — 9 Holes (Sat\, Sep 5\, 2026\, 7:00 PM–10:00 PM).\n\nOFFICIAL S
+ OURCES\n• Official rodeo schedule: https://bigbearrodeo.com/schedule\n
+ • Current tickets\, prices and rules: https://visitbigbear.ticketspice.c
+ om/big-bear-rodeo-carnival\n• Official parking: https://bigbearrodeo.com
+ /directions-parking\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-0
+ 9\nDetails can change. Recheck the official source before making a special
+  trip.
 URL:https://bigbearrodeo.com/schedule
 CATEGORIES:Rodeo,Carnival,Family
 STATUS:CONFIRMED
@@ -1622,54 +1274,10 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:skyline-at-sundown-2026-09-05@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260905T163000
-DTEND;TZID=America/Los_Angeles:20260905T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nSat\, Sep 5\, 2026\, 4:30 PM–7:30 PM\n\
- nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$5
- 0\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n• 
- 9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begins
-  guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM —
-  last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — cha
- ir downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPECT\n
- • Menu examples include roast tri-tip and grilled salmon\; a full bar is
-  available\n• Reservations are date-specific\, nonrefundable and nontran
- sferable\n• No local\, passholder or employee discount is advertised\n
- • Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befor
- e the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticket
- \n• Pets are not allowed\n• Non-electric wheelchairs and strollers are
-  allowed on the chairlift\n• Lift operations can pause for nearby lightn
- ing\; check mountain status in questionable weather\n\nTBD / VERIFY BEFORE
-  GOING\n• Live entertainer is not named for each remaining date on the c
- urrent public pages\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compe
- tes with: Big Bear Rodeo — PRCA Night 1 + Carnival (Sat\, Sep 5\, 2026\,
-  12:00 PM–10:00 PM).\n• Overlaps or competes with: Music in the Mounta
- ins — David Bowie + Elton John Tributes (Sat\, Sep 5\, 2026\, 5:00 PM–
- 9:30 PM).\n• Overlaps or competes with: Labor Day Weekend Glow Golf — 
- 9 Holes (Sat\, Sep 5\, 2026\, 7:00 PM–10:00 PM).\n\nOFFICIAL SOURCES\n
- • BBMR reservations\, prices and access rules: https://www.bigbearmounta
- inresort.com/things-to-do/skyline-at-sundown\n• Official remaining-date 
- list: https://www.bigbear.com/events/skyline-at-sundown/\n\nCALENDAR STATU
- S: CONFIRMED\nLast checked: 2026-08-09\nDetails can change. Recheck the of
- ficial source before making a special trip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:music-in-the-mountains-bowie-elton-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:2
 DTSTART;TZID=America/Los_Angeles:20260905T170000
 DTEND;TZID=America/Los_Angeles:20260905T213000
 SUMMARY:Music in the Mountains — David Bowie + Elton John Tributes
@@ -1698,20 +1306,18 @@ DESCRIPTION:A forest-amphitheater double tribute: David Brighton’s Space
  dge\; use the organizer’s free shuttle\n• Six free accessible parking 
  spaces at the Discovery Center are first-come with a state placard or plat
  e\n• September 5 is crowded with major events\; this concert overlaps th
- e rodeo\, glow golf and early Skyline at Sundown timing\n• Organizer con
- tact: info@mountainsfoundation.org or 909-382-2790\n\nTBD / VERIFY BEFORE 
- GOING\n• Exact set times inside the 6:30–9:30 PM music window have not
-  been published\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes 
- with: Big Bear Rodeo — PRCA Night 1 + Carnival (Sat\, Sep 5\, 2026\, 12:
- 00 PM–10:00 PM).\n• Overlaps or competes with: Labor Day Weekend Glow 
- Golf — 9 Holes (Sat\, Sep 5\, 2026\, 7:00 PM–10:00 PM).\n• Overlaps 
- or competes with: Skyline at Sundown — Mountaintop BBQ + Live Music (Sat
- \, Sep 5\, 2026\, 4:30 PM–7:30 PM).\n\nOFFICIAL SOURCES\n• Organizer t
- ickets and policies: https://www.eventbrite.com/e/music-in-the-mountains-d
- avid-bowie-elton-john-september-5-tickets-1987373515684\n• Visit Big Bea
- r overview: https://www.bigbear.com/events/music-in-mountains/\n\nCALENDAR
-  STATUS: CONFIRMED\nLast checked: 2026-08-09\nDetails can change. Recheck 
- the official source before making a special trip.
+ e rodeo and glow golf\n• Organizer contact: info@mountainsfoundation.org
+  or 909-382-2790\n\nTBD / VERIFY BEFORE GOING\n• Exact set times inside 
+ the 6:30–9:30 PM music window have not been published\n\nCONFLICTS / SAM
+ E-DAY OPTIONS\n• Overlaps or competes with: Big Bear Rodeo — PRCA Nigh
+ t 1 + Carnival (Sat\, Sep 5\, 2026\, 12:00 PM–10:00 PM).\n• Overlaps o
+ r competes with: Labor Day Weekend Glow Golf — 9 Holes (Sat\, Sep 5\, 20
+ 26\, 7:00 PM–10:00 PM).\n\nOFFICIAL SOURCES\n• Organizer tickets and p
+ olicies: https://www.eventbrite.com/e/music-in-the-mountains-david-bowie-e
+ lton-john-september-5-tickets-1987373515684\n• Visit Big Bear overview: 
+ https://www.bigbear.com/events/music-in-mountains/\n\nCALENDAR STATUS: CON
+ FIRMED\nLast checked: 2026-08-09\nDetails can change. Recheck the official
+  source before making a special trip.
 URL:https://www.eventbrite.com/e/music-in-the-mountains-david-bowie-elton-j
  ohn-september-5-tickets-1987373515684
 CATEGORIES:Live Music,Outdoors,Fundraiser
@@ -1721,9 +1327,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:labor-day-glow-golf-2026-09-05@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260905T190000
 DTEND;TZID=America/Los_Angeles:20260905T220000
 SUMMARY:Labor Day Weekend Glow Golf — 9 Holes
@@ -1746,12 +1352,10 @@ DESCRIPTION:A true nine-hole glow-in-the-dark round—not the driving-range
  Big Bear Rodeo — PRCA Night 1 + Carnival (Sat\, Sep 5\, 2026\, 12:00 PM
  –10:00 PM).\n• Overlaps or competes with: Music in the Mountains — D
  avid Bowie + Elton John Tributes (Sat\, Sep 5\, 2026\, 5:00 PM–9:30 PM).
- \n• Overlaps or competes with: Skyline at Sundown — Mountaintop BBQ + 
- Live Music (Sat\, Sep 5\, 2026\, 4:30 PM–7:30 PM).\n\nOFFICIAL SOURCES\n
- • Current BBMR event and reservations: https://www.bigbearmountainresort
- .com/things-to-do/events/glow-golf-september\n\nCALENDAR STATUS: CONFIRMED
- \nLast checked: 2026-08-09\nDetails can change. Recheck the official sourc
- e before making a special trip.
+ \n\nOFFICIAL SOURCES\n• Current BBMR event and reservations: https://www
+ .bigbearmountainresort.com/things-to-do/events/glow-golf-september\n\nCALE
+ NDAR STATUS: CONFIRMED\nLast checked: 2026-08-09\nDetails can change. Rech
+ eck the official source before making a special trip.
 URL:https://www.bigbearmountainresort.com/things-to-do/events/glow-golf-sep
  tember
 CATEGORIES:Golf,Nightlife
@@ -1800,9 +1404,9 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:rodeo-night-two-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260906T090000
 DTEND;TZID=America/Los_Angeles:20260906T220000
 SUMMARY:Big Bear Rodeo — Championship + Cowboy Church + Carnival
@@ -1830,18 +1434,16 @@ DESCRIPTION:Championship rodeo day begins with free nondenominational Cowbo
  \; leaving the rodeo early may be necessary to see both\n\nTBD / VERIFY BE
  FORE GOING\n• Water policy conflicts between the official FAQ and purcha
  se terms\; verify before arrival\n\nCONFLICTS / SAME-DAY OPTIONS\n• Over
- laps or competes with: Skyline at Sundown — Mountaintop BBQ + Live Music
-  (Sun\, Sep 6\, 2026\, 4:30 PM–7:30 PM).\n• Overlaps or competes with:
-  Labor Day Weekend Glow Golf — 9 Holes (Sun\, Sep 6\, 2026\, 7:00 PM–1
- 0:00 PM).\n• Overlaps or competes with: Big Bear Boat Parade of Lights 
- — 7:30 Launch (Sun\, Sep 6\, 2026\, 7:00 PM–9:00 PM).\n• Overlaps or
-  competes with: Labor Day Drone Show — Exact Time TBD (Sun\, Sep 6\, 202
- 6 (all day)).\n\nOFFICIAL SOURCES\n• Official rodeo schedule: https://bi
- gbearrodeo.com/schedule\n• Current tickets\, prices and rules: https://v
- isitbigbear.ticketspice.com/big-bear-rodeo-carnival\n• Official parking:
-  https://bigbearrodeo.com/directions-parking\n\nCALENDAR STATUS: CONFIRMED
- \nLast checked: 2026-08-09\nDetails can change. Recheck the official sourc
- e before making a special trip.
+ laps or competes with: Labor Day Weekend Glow Golf — 9 Holes (Sun\, Sep 
+ 6\, 2026\, 7:00 PM–10:00 PM).\n• Overlaps or competes with: Big Bear B
+ oat Parade of Lights — 7:30 Launch (Sun\, Sep 6\, 2026\, 7:00 PM–9:00 
+ PM).\n• Overlaps or competes with: Labor Day Drone Show — Exact Time T
+ BD (Sun\, Sep 6\, 2026 (all day)).\n\nOFFICIAL SOURCES\n• Official rodeo
+  schedule: https://bigbearrodeo.com/schedule\n• Current tickets\, prices
+  and rules: https://visitbigbear.ticketspice.com/big-bear-rodeo-carnival\n
+ • Official parking: https://bigbearrodeo.com/directions-parking\n\nCALEN
+ DAR STATUS: CONFIRMED\nLast checked: 2026-08-09\nDetails can change. Reche
+ ck the official source before making a special trip.
 URL:https://bigbearrodeo.com/schedule
 CATEGORIES:Rodeo,Carnival,Family
 STATUS:CONFIRMED
@@ -1849,54 +1451,10 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:skyline-at-sundown-2026-09-06@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260906T163000
-DTEND;TZID=America/Los_Angeles:20260906T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nSun\, Sep 6\, 2026\, 4:30 PM–7:30 PM\n\
- nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$5
- 0\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n• 
- 9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begins
-  guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM —
-  last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — cha
- ir downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPECT\n
- • Menu examples include roast tri-tip and grilled salmon\; a full bar is
-  available\n• Reservations are date-specific\, nonrefundable and nontran
- sferable\n• No local\, passholder or employee discount is advertised\n
- • Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befor
- e the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticket
- \n• Pets are not allowed\n• Non-electric wheelchairs and strollers are
-  allowed on the chairlift\n• Lift operations can pause for nearby lightn
- ing\; check mountain status in questionable weather\n\nTBD / VERIFY BEFORE
-  GOING\n• Live entertainer is not named for each remaining date on the c
- urrent public pages\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compe
- tes with: Big Bear Rodeo — Championship + Cowboy Church + Carnival (Sun\
- , Sep 6\, 2026\, 9:00 AM–10:00 PM).\n• Overlaps or competes with: Labo
- r Day Weekend Glow Golf — 9 Holes (Sun\, Sep 6\, 2026\, 7:00 PM–10:00 
- PM).\n• Overlaps or competes with: Big Bear Boat Parade of Lights — 7:
- 30 Launch (Sun\, Sep 6\, 2026\, 7:00 PM–9:00 PM).\n\nOFFICIAL SOURCES\n
- • BBMR reservations\, prices and access rules: https://www.bigbearmounta
- inresort.com/things-to-do/skyline-at-sundown\n• Official remaining-date 
- list: https://www.bigbear.com/events/skyline-at-sundown/\n\nCALENDAR STATU
- S: CONFIRMED\nLast checked: 2026-08-09\nDetails can change. Recheck the of
- ficial source before making a special trip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:labor-day-glow-golf-2026-09-06@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260906T190000
 DTEND;TZID=America/Los_Angeles:20260906T220000
 SUMMARY:Labor Day Weekend Glow Golf — 9 Holes
@@ -1934,9 +1492,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:boat-parade-of-lights-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T230000Z
-LAST-MODIFIED:20260809T230000Z
-SEQUENCE:1
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:2
 DTSTART;TZID=America/Los_Angeles:20260906T190000
 DTEND;TZID=America/Los_Angeles:20260906T210000
 SUMMARY:Big Bear Boat Parade of Lights — 7:30 Launch
@@ -1959,14 +1517,13 @@ DESCRIPTION:Illuminated boats travel from Garstin Island along the shorelin
  s at 7:30\; this event uses the safer wider block\n\nCONFLICTS / SAME-DAY 
  OPTIONS\n• Overlaps or competes with: Big Bear Rodeo — Championship + 
  Cowboy Church + Carnival (Sun\, Sep 6\, 2026\, 9:00 AM–10:00 PM).\n• O
- verlaps or competes with: Skyline at Sundown — Mountaintop BBQ + Live Mu
- sic (Sun\, Sep 6\, 2026\, 4:30 PM–7:30 PM).\n• Overlaps or competes wi
- th: Labor Day Weekend Glow Golf — 9 Holes (Sun\, Sep 6\, 2026\, 7:00 PM
- –10:00 PM).\n\nOFFICIAL SOURCES\n• Rotary Club host calendar: https://
- bigbearlakerotary.org/\n• Dedicated event page and route map: https://ww
- w.bigbear.com/events/big-bear-rotary-labor-day-weekend-boat-parade-of-ligh
- ts/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-09\nDetails can
-  change. Recheck the official source before making a special trip.
+ verlaps or competes with: Labor Day Weekend Glow Golf — 9 Holes (Sun\, S
+ ep 6\, 2026\, 7:00 PM–10:00 PM).\n\nOFFICIAL SOURCES\n• Rotary Club ho
+ st calendar: https://bigbearlakerotary.org/\n• Dedicated event page and 
+ route map: https://www.bigbear.com/events/big-bear-rotary-labor-day-weeken
+ d-boat-parade-of-lights/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 20
+ 26-08-09\nDetails can change. Recheck the official source before making a 
+ special trip.
 URL:https://bigbearlakerotary.org/
 CATEGORIES:Lake,Parade,Free,TBD
 STATUS:CONFIRMED
@@ -1974,49 +1531,10 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:skyline-at-sundown-2026-09-11@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260911T163000
-DTEND;TZID=America/Los_Angeles:20260911T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nFri\, Sep 11\, 2026\, 4:30 PM–7:30 PM\n
- \nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$
- 50\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n•
-  9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begin
- s guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM 
- — last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — 
- chair downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPEC
- T\n• Menu examples include roast tri-tip and grilled salmon\; a full bar
-  is available\n• Reservations are date-specific\, nonrefundable and nont
- ransferable\n• No local\, passholder or employee discount is advertised\
- n• Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befo
- re the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticke
- t\n• Pets are not allowed\n• Non-electric wheelchairs and strollers ar
- e allowed on the chairlift\n• Lift operations can pause for nearby light
- ning\; check mountain status in questionable weather\n\nTBD / VERIFY BEFOR
- E GOING\n• Live entertainer is not named for each remaining date on the 
- current public pages\n\nOFFICIAL SOURCES\n• BBMR reservations\, prices a
- nd access rules: https://www.bigbearmountainresort.com/things-to-do/skylin
- e-at-sundown\n• Official remaining-date list: https://www.bigbear.com/ev
- ents/skyline-at-sundown/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026
- -08-09\nDetails can change. Recheck the official source before making a sp
- ecial trip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:oktoberfest-opening-saturday-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260912T130000
 DTEND;TZID=America/Los_Angeles:20260912T230000
 SUMMARY:Big Bear Lake Oktoberfest — Opening Saturday
@@ -2042,15 +1560,13 @@ DESCRIPTION:Opening day for Big Bear’s long-running German festival: four
  ct dates through November 8\; check the live schedule for later weekends\n
  \nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: Summer Conc
  ert Series — Bardo + Mestizo Beat (Sat\, Sep 12\, 2026\, 5:30 PM–8:30 
- PM).\n• Overlaps or competes with: Skyline at Sundown — Mountaintop BB
- Q + Live Music (Sat\, Sep 12\, 2026\, 4:30 PM–7:30 PM).\n\nOFFICIAL SOUR
- CES\n• Official entertainment schedule: https://bigbearevents.com/oktobe
- rfest/2024-oktoberfest-entertainment-schedule/\n• Opening-weekend ticket
- s: https://bigbearevents.ticketsauce.com/e/2026-big-bear-oktoberfest-weeke
- nd-1/tickets\n• Official hours and policies: https://bigbearevents.com/o
- ktoberfest/tickets-3/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08
- -09\nDetails can change. Recheck the official source before making a speci
- al trip.
+ PM).\n\nOFFICIAL SOURCES\n• Official entertainment schedule: https://big
+ bearevents.com/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• O
+ pening-weekend tickets: https://bigbearevents.ticketsauce.com/e/2026-big-b
+ ear-oktoberfest-weekend-1/tickets\n• Official hours and policies: https:
+ //bigbearevents.com/oktoberfest/tickets-3/\n\nCALENDAR STATUS: CONFIRMED\n
+ Last checked: 2026-08-09\nDetails can change. Recheck the official source 
+ before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/2024-oktoberfest-entertainment-sc
  hedule/
 CATEGORIES:Festival,Live Music,Food,Family
@@ -2059,52 +1575,10 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:skyline-at-sundown-2026-09-12@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20260912T163000
-DTEND;TZID=America/Los_Angeles:20260912T193000
-SUMMARY:Skyline at Sundown — Mountaintop BBQ + Live Music
-LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
-DESCRIPTION:Ride Chair 1 to a sunset mountain BBQ buffet and live music at 
- Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair\, bu
- ffet and entertainment.\n\nWHEN\nSat\, Sep 12\, 2026\, 4:30 PM–7:30 PM\n
- \nPRICE / ADMISSION\n• Age 13+: $40–$75\n• Age 12 and under: $40–$
- 50\n• Date-specific reservation required\; may sell out\n\nSCHEDULE\n•
-  9:00 AM–5:15 PM — ticket pickup window\n• 4:30 PM — Chair 1 begin
- s guest loading\n• 4:45–7:15 PM — live entertainment\n• 5:30 PM 
- — last chair up\n• 5:30–6:30 PM — buffet service\n• 6:30 PM — 
- chair downloading begins\n• 7:30 PM — last chair down\n\nWHAT TO EXPEC
- T\n• Menu examples include roast tri-tip and grilled salmon\; a full bar
-  is available\n• Reservations are date-specific\, nonrefundable and nont
- ransferable\n• No local\, passholder or employee discount is advertised\
- n• Snow Summit lot parking is available\n\nUSEFUL NOTES\n• Arrive befo
- re the 5:15 PM ticket-pickup cutoff\; late arrivals are not issued a ticke
- t\n• Pets are not allowed\n• Non-electric wheelchairs and strollers ar
- e allowed on the chairlift\n• Lift operations can pause for nearby light
- ning\; check mountain status in questionable weather\n\nTBD / VERIFY BEFOR
- E GOING\n• Live entertainer is not named for each remaining date on the 
- current public pages\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or comp
- etes with: Summer Concert Series — Bardo + Mestizo Beat (Sat\, Sep 12\, 
- 2026\, 5:30 PM–8:30 PM).\n• Overlaps or competes with: Big Bear Lake O
- ktoberfest — Opening Saturday (Sat\, Sep 12\, 2026\, 1:00 PM–11:00 PM)
- .\n\nOFFICIAL SOURCES\n• BBMR reservations\, prices and access rules: ht
- tps://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown\n• O
- fficial remaining-date list: https://www.bigbear.com/events/skyline-at-sun
- down/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-09\nDetails can
-  change. Recheck the official source before making a special trip.
-URL:https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown
-CATEGORIES:Dining,Live Music,Outdoors
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:summer-concert-bardo-mestizo-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
+DTSTAMP:20260815T173000Z
+LAST-MODIFIED:20260815T173000Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260912T173000
 DTEND;TZID=America/Los_Angeles:20260912T203000
 SUMMARY:Summer Concert Series — Bardo + Mestizo Beat
@@ -2126,17 +1600,15 @@ DESCRIPTION:The sleeper show for soulful guitar and deep grooves: Bardo and
  ty recommends the free Mountain Transit Red\, Blue and Gold lines\n\nTBD /
   VERIFY BEFORE GOING\n• Which artist plays the 6:00 slot and which plays
   the 7:30 slot is not explicitly published\n\nCONFLICTS / SAME-DAY OPTIONS
- \n• Overlaps or competes with: Skyline at Sundown — Mountaintop BBQ + 
- Live Music (Sat\, Sep 12\, 2026\, 4:30 PM–7:30 PM).\n• Overlaps or com
- petes with: Big Bear Lake Oktoberfest — Opening Saturday (Sat\, Sep 12\,
-  2026\, 1:00 PM–11:00 PM).\n\nOFFICIAL SOURCES\n• City lineup announce
- ment: https://bigbearlake.gov/index.php/en/news-and-announcements/830-2026
- -big-bear-lake-summer-concert-series-lineup-announcement\n• Visit Big Be
- ar event page: https://www.bigbear.com/events/summer-concert-series/\n• 
- Bardo artist page: https://www.stonesthrow.com/artist/bardo/\n• Mestizo 
- Beat: https://mestizobeat.com/\n\nCALENDAR STATUS: DETAILS_TBD\nLast check
- ed: 2026-08-09\nDetails can change. Recheck the official source before mak
- ing a special trip.
+ \n• Overlaps or competes with: Big Bear Lake Oktoberfest — Opening Sat
+ urday (Sat\, Sep 12\, 2026\, 1:00 PM–11:00 PM).\n\nOFFICIAL SOURCES\n•
+  City lineup announcement: https://bigbearlake.gov/index.php/en/news-and-a
+ nnouncements/830-2026-big-bear-lake-summer-concert-series-lineup-announcem
+ ent\n• Visit Big Bear event page: https://www.bigbear.com/events/summer-
+ concert-series/\n• Bardo artist page: https://www.stonesthrow.com/artist
+ /bardo/\n• Mestizo Beat: https://mestizobeat.com/\n\nCALENDAR STATUS: DE
+ TAILS_TBD\nLast checked: 2026-08-09\nDetails can change. Recheck the offic
+ ial source before making a special trip.
 URL:https://bigbearlake.gov/index.php/en/news-and-announcements/830-2026-bi
  g-bear-lake-summer-concert-series-lineup-announcement
 CATEGORIES:Live Music,Free,Village,Funk,Soul

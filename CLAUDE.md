@@ -11,6 +11,10 @@ Read `README.md` for the full workflow. The short version:
 - Every event has a **permanent unique `id`**; never change an existing ID (Apple
   Calendar would duplicate the event). Content changes must bump `sequence` and
   `last_modified`, and refresh `last_verified` — the validator enforces this.
+- **Dropping an event requires the retirement workflow** in `README.md`: delete it,
+  strip every `conflicts` reference to it, add it to the top-level `retired` list, and
+  bump `sequence`/`last_modified` on each event whose conflicts changed. Plain deletion
+  fails validation by design.
 - After any change run all three: `python3 scripts/generate_calendar.py`,
   `python3 scripts/validate_calendar.py`, `python3 -m unittest discover -s tests -v`.
 - **Never change the feed filename or URL** — that orphans every subscriber.

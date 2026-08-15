@@ -7,6 +7,13 @@
     "refresh_interval": "PT1H",
     "last_updated": "2026-08-15"
   },
+  "retired": [
+    {
+      "id": "skyline-at-sundown",
+      "reason": "Dropped as a curation call, not a cancellation — the event still runs. The buffet is tri-tip and grilled salmon with no advertised vegetarian option, the official page states pass-holder discounts are not applicable, and all twelve dates are described identically with no named performer, so nothing distinguishes one date from another. At $40–$75 for a lift ride that an Ikon pass already covers, it does not earn its place on a locals calendar.",
+      "retired_on": "2026-08-15"
+    }
+  ],
   "events": [
     {
       "id": "music-in-the-mountains-journey-bryan-adams-2026",
@@ -49,8 +56,7 @@
       ],
       "conflicts": [
         "mx-grand-prix-races-saturday-2026",
-        "climate-cocktails-august-2026",
-        "skyline-at-sundown-2026-08-22"
+        "climate-cocktails-august-2026"
       ],
       "sources": [
         {
@@ -64,8 +70,8 @@
       ],
       "categories": ["Live Music", "Outdoors", "Fundraiser"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "lakefest-friday-2026",
@@ -104,7 +110,6 @@
       "tbd": [
         "Satellite parking/shuttle operating days need confirmation because the official tourism page says Saturday and Sunday for a Friday–Saturday festival"
       ],
-      "conflicts": ["skyline-at-sundown-2026-08-28"],
       "sources": [
         {
           "label": "Current registration and schedule",
@@ -121,8 +126,8 @@
       ],
       "categories": ["Festival", "Live Music", "Comedy", "Family"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "lakefest-saturday-2026",
@@ -338,14 +343,13 @@
       "tips": [
         "Free parking is about a quarter-mile west at Meadows Edge; use the organizer’s free shuttle",
         "Six free accessible parking spaces at the Discovery Center are first-come with a state placard or plate",
-        "September 5 is crowded with major events; this concert overlaps the rodeo, glow golf and early Skyline at Sundown timing",
+        "September 5 is crowded with major events; this concert overlaps the rodeo and glow golf",
         "Organizer contact: info@mountainsfoundation.org or 909-382-2790"
       ],
       "tbd": ["Exact set times inside the 6:30–9:30 PM music window have not been published"],
       "conflicts": [
         "rodeo-night-one-2026",
-        "labor-day-glow-golf-2026-09-05",
-        "skyline-at-sundown-2026-09-05"
+        "labor-day-glow-golf-2026-09-05"
       ],
       "sources": [
         {
@@ -359,8 +363,8 @@
       ],
       "categories": ["Live Music", "Outdoors", "Fundraiser"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 2
     },
     {
       "id": "summer-concert-bardo-mestizo-2026",
@@ -388,7 +392,7 @@
         "Village public lots are available but fill; the City recommends the free Mountain Transit Red, Blue and Gold lines"
       ],
       "tbd": ["Which artist plays the 6:00 slot and which plays the 7:30 slot is not explicitly published"],
-      "conflicts": ["skyline-at-sundown-2026-09-12", "oktoberfest-opening-saturday-2026"],
+      "conflicts": ["oktoberfest-opening-saturday-2026"],
       "sources": [
         {
           "label": "City lineup announcement",
@@ -409,8 +413,8 @@
       ],
       "categories": ["Live Music", "Free", "Village", "Funk", "Soul"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "skyfest-2026-08-14",
@@ -451,15 +455,14 @@
       "tbd": [
         "The ticket page describes DiscoverFest as 4:00–9:00 PM and appears to imply all three days; the more detailed official program says Friday/Saturday only, 5:00–8:00 PM. This calendar uses the detailed program"
       ],
-      "conflicts": ["skyline-at-sundown-2026-08-14"],
       "sources": [
         {"label": "Official detailed program", "url": "https://www.bigbear.com/events/skyfest/"},
         {"label": "Live tickets and availability", "url": "https://visitbigbear.ticketspice.com/skyfest-big-bear"}
       ],
       "categories": ["Astronomy", "Festival", "Family", "Outdoors", "TBD"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "skyfest-2026-08-15",
@@ -498,15 +501,15 @@
       "tbd": [
         "The ticket page describes DiscoverFest as 4:00–9:00 PM and appears to imply all three days; the detailed program says Friday/Saturday only, 5:00–8:00 PM. This calendar uses the detailed program"
       ],
-      "conflicts": ["conquer-the-wall-2026", "skyline-at-sundown-2026-08-15", "doo-dah-parade-2026", "travelin-band-the-cave-2026-08-15", "creating-worlds-playwright-2026-08-15"],
+      "conflicts": ["conquer-the-wall-2026", "doo-dah-parade-2026", "travelin-band-the-cave-2026-08-15", "creating-worlds-playwright-2026-08-15"],
       "sources": [
         {"label": "Official detailed program", "url": "https://www.bigbear.com/events/skyfest/"},
         {"label": "Live tickets and availability", "url": "https://visitbigbear.ticketspice.com/skyfest-big-bear"}
       ],
       "categories": ["Astronomy", "Festival", "Family", "Outdoors", "Sold Out"],
       "last_verified": "2026-08-15",
-      "last_modified": "2026-08-15T15:00:00Z",
-      "sequence": 1
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 2
     },
     {
       "id": "skyfest-2026-08-16",
@@ -862,15 +865,14 @@
       "details": ["Spectator viewing from The Deck includes food/beverage service and sponsor exhibits", "The organizer states that spectators as well as racers must check in at Brownie Lot before traveling to Bear Mountain; spectators who drive then park at Moonridge Lot and shuttle in", "Friday adds Flat Bottom Dough and the Outlaw Luau and Tiki Bar to the Thursday food lineup", "The chairlift does not run for spectators today; Saturday is the only lift day"],
       "tips": ["Locals arriving without a car: the $25 Moonridge pass covers parking a vehicle, so it is not needed if you bike, walk or get dropped off — but no official source says whether the Brownie Lot check-in can be bypassed or the venue reached without the shuttle, so confirm with the organizer"],
       "tbd": ["Detailed class/order schedule remains subject to change", "No official source addresses spectators arriving by bike, on foot or by drop-off"],
-      "conflicts": ["skyline-at-sundown-2026-08-21"],
       "sources": [
         {"label": "BBMR detailed event page", "url": "https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-grand-prix"},
         {"label": "Visit Big Bear overview", "url": "https://www.bigbear.com/events/mx-grand-prix/"}
       ],
       "categories": ["Motorsports", "Outdoors", "Nightlife"],
       "last_verified": "2026-08-15",
-      "last_modified": "2026-08-15T16:30:00Z",
-      "sequence": 2
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 3
     },
     {
       "id": "mx-grand-prix-races-saturday-2026",
@@ -905,7 +907,7 @@
         "No spectator camera or photography policy is published on the resort, BBMXGP or Visit Big Bear pages. Personal cameras are not listed among any prohibited items, but commercial or credentialed media access is not described either — contact the organizer if you plan to shoot anything beyond personal photos",
         "No official source addresses spectators arriving by bike, on foot or by drop-off"
       ],
-      "conflicts": ["climate-cocktails-august-2026", "skyline-at-sundown-2026-08-22", "music-in-the-mountains-journey-bryan-adams-2026"],
+      "conflicts": ["climate-cocktails-august-2026", "music-in-the-mountains-journey-bryan-adams-2026"],
       "sources": [
         {"label": "BBMR detailed event page", "url": "https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-grand-prix"},
         {"label": "Visit Big Bear overview", "url": "https://www.bigbear.com/events/mx-grand-prix/"},
@@ -913,8 +915,8 @@
       ],
       "categories": ["Motorsports", "Outdoors", "Live Music"],
       "last_verified": "2026-08-15",
-      "last_modified": "2026-08-15T16:30:00Z",
-      "sequence": 2
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 3
     },
     {
       "id": "mx-grand-prix-races-sunday-2026",
@@ -951,15 +953,15 @@
       "details": ["To receive the hosted drink, join the cleanup and sign the liability waiver", "Minors must be accompanied by an adult; alcoholic drinks require valid 21+ ID", "Photography and filming will be present", "Dress for the weather and cleanup conditions"],
       "tips": ["RSVP is requested through the official page", "Contact saras@bigbear.com with questions"],
       "tbd": ["August 22 cleanup location", "August 22 happy-hour venue", "The embedded RSVP form still appeared oriented to July when checked; confirm that August registration is open"],
-      "conflicts": ["mx-grand-prix-races-saturday-2026", "skyline-at-sundown-2026-08-22", "music-in-the-mountains-journey-bryan-adams-2026"],
+      "conflicts": ["mx-grand-prix-races-saturday-2026", "music-in-the-mountains-journey-bryan-adams-2026"],
       "sources": [
         {"label": "Official event page", "url": "https://www.bigbear.com/events/climate-cocktails/"},
         {"label": "Care for Big Bear RSVP hub", "url": "https://www.bigbear.com/care-for-big-bear/our-events/"}
       ],
       "categories": ["Volunteer", "Environment", "Social", "TBD"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "job-resource-fair-2026",
@@ -979,42 +981,6 @@
       "sequence": 0
     },
     {
-      "id": "skyline-at-sundown",
-      "title": "Skyline at Sundown — Mountaintop BBQ + Live Music",
-      "status": "confirmed",
-      "start_time": "16:30",
-      "end_time": "19:30",
-      "occurrences": [
-        {"date": "2026-08-13"},
-        {"date": "2026-08-14", "conflicts": ["skyfest-2026-08-14"]},
-        {"date": "2026-08-15", "conflicts": ["skyfest-2026-08-15"]},
-        {"date": "2026-08-21", "conflicts": ["mx-grand-prix-races-friday-2026"]},
-        {"date": "2026-08-22", "conflicts": ["mx-grand-prix-races-saturday-2026", "climate-cocktails-august-2026", "music-in-the-mountains-journey-bryan-adams-2026"]},
-        {"date": "2026-08-28", "conflicts": ["lakefest-friday-2026"]},
-        {"date": "2026-08-30"},
-        {"date": "2026-09-04", "conflicts": ["rodeo-kickoff-2026", "driving-range-after-dark-2026", "labor-day-glow-golf-2026-09-04"]},
-        {"date": "2026-09-05", "conflicts": ["rodeo-night-one-2026", "music-in-the-mountains-bowie-elton-2026", "labor-day-glow-golf-2026-09-05"]},
-        {"date": "2026-09-06", "conflicts": ["rodeo-night-two-2026", "labor-day-glow-golf-2026-09-06", "boat-parade-of-lights-2026"]},
-        {"date": "2026-09-11"},
-        {"date": "2026-09-12", "conflicts": ["summer-concert-bardo-mestizo-2026", "oktoberfest-opening-saturday-2026"]}
-      ],
-      "location": {"name": "Snow Summit", "address": "880 Summit Blvd, Big Bear Lake, CA 92315"},
-      "pricing": ["Age 13+: $40–$75", "Age 12 and under: $40–$50", "Date-specific reservation required; may sell out"],
-      "summary": "Ride Chair 1 to a sunset mountain BBQ buffet and live music at Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair, buffet and entertainment.",
-      "schedule": ["9:00 AM–5:15 PM — ticket pickup window", "4:30 PM — Chair 1 begins guest loading", "4:45–7:15 PM — live entertainment", "5:30 PM — last chair up", "5:30–6:30 PM — buffet service", "6:30 PM — chair downloading begins", "7:30 PM — last chair down"],
-      "details": ["Menu examples include roast tri-tip and grilled salmon; a full bar is available", "Reservations are date-specific, nonrefundable and nontransferable", "No local, passholder or employee discount is advertised", "Snow Summit lot parking is available"],
-      "tips": ["Arrive before the 5:15 PM ticket-pickup cutoff; late arrivals are not issued a ticket", "Pets are not allowed", "Non-electric wheelchairs and strollers are allowed on the chairlift", "Lift operations can pause for nearby lightning; check mountain status in questionable weather"],
-      "tbd": ["Live entertainer is not named for each remaining date on the current public pages"],
-      "sources": [
-        {"label": "BBMR reservations, prices and access rules", "url": "https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown"},
-        {"label": "Official remaining-date list", "url": "https://www.bigbear.com/events/skyline-at-sundown/"}
-      ],
-      "categories": ["Dining", "Live Music", "Outdoors"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
-    },
-    {
       "id": "driving-range-after-dark-2026",
       "title": "Driving Range After Dark",
       "status": "confirmed",
@@ -1027,15 +993,15 @@
       "details": ["Current package: one mat, 40 glow balls, one Coca-Cola beverage, Hit It & Get It ticket, target/prize challenges and live DJ", "Free illuminated putting area; bring a putter", "Loaner clubs are first-come, so bring clubs if possible", "Grab-and-go snacks, beer/wine/seltzer and nonalcoholic drinks are sold"],
       "tips": ["Park free in Cedar Club Lot and walk to the range between holes 4 and 6", "Bring physical government ID and the original payment method for check-in", "Pets are prohibited; purchases are nonrefundable/nontransferable"],
       "tbd": ["Ignore older duplicate listings advertising 6:30–9:15 PM, 125 balls and $120 reserved slots; the current BBMR product is the $30 walk-up-window format"],
-      "conflicts": ["labor-day-glow-golf-2026-09-04", "rodeo-kickoff-2026", "skyline-at-sundown-2026-09-04"],
+      "conflicts": ["labor-day-glow-golf-2026-09-04", "rodeo-kickoff-2026"],
       "sources": [
         {"label": "Current BBMR event page", "url": "https://www.bigbearmountainresort.com/golf/glow-range"},
         {"label": "Current Visit Big Bear listing", "url": "https://www.bigbear.com/events/driving-range-after-dark-presented-by-coca-cola-1-2/"}
       ],
       "categories": ["Golf", "Nightlife", "Family"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "rodeo-kickoff-2026",
@@ -1050,7 +1016,7 @@
       "details": ["Carnival entry is free; a ride wristband is needed only for unlimited rides", "Expect Ferris wheel and midway rides, western/local craft vendors, live entertainment and carnival food", "Rain or shine; all attendees and property are subject to search"],
       "tips": ["Three parking areas, free remote-lot shuttles and event traffic control are planned", "ADA parking/drop-off is near the entrance with a valid placard", "Medical items require advance approval at 909-916-2096"],
       "tbd": ["Official FAQ permits sealed water or empty containers, but current ticket-purchase terms prohibit all opened and unopened water bottles; verify before arrival and treat the stricter rule as safer"],
-      "conflicts": ["skyline-at-sundown-2026-09-04", "driving-range-after-dark-2026", "labor-day-glow-golf-2026-09-04"],
+      "conflicts": ["driving-range-after-dark-2026", "labor-day-glow-golf-2026-09-04"],
       "sources": [
         {"label": "Official rodeo schedule", "url": "https://bigbearrodeo.com/schedule"},
         {"label": "Official directions and parking", "url": "https://bigbearrodeo.com/directions-parking"},
@@ -1058,8 +1024,8 @@
       ],
       "categories": ["Rodeo", "Carnival", "Live Music", "Free"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "rodeo-night-one-2026",
@@ -1074,7 +1040,7 @@
       "details": ["Professional events include barrel racing, bull riding, team roping and more", "Children who need a seat need a ticket; held infants may attend without one", "All minors need a parent/legal guardian; service animals only", "No outside food/coolers, detachable-lens cameras, video gear, selfie sticks, drones, weapons or illegal drugs"],
       "tips": ["Free continuous shuttles are planned from remote parking lots", "ADA parking/drop-off is near the entrance with a valid placard", "Government ID is required for alcohol", "Medical-item approval: 909-916-2096"],
       "tbd": ["Water policy conflicts between the official FAQ and purchase terms; verify and follow the stricter no-water-bottle rule if uncertain"],
-      "conflicts": ["cool-run-2026", "big-bear-grizzly-100-2026", "skyline-at-sundown-2026-09-05", "music-in-the-mountains-bowie-elton-2026", "labor-day-glow-golf-2026-09-05"],
+      "conflicts": ["cool-run-2026", "big-bear-grizzly-100-2026", "music-in-the-mountains-bowie-elton-2026", "labor-day-glow-golf-2026-09-05"],
       "sources": [
         {"label": "Official rodeo schedule", "url": "https://bigbearrodeo.com/schedule"},
         {"label": "Current tickets, prices and rules", "url": "https://visitbigbear.ticketspice.com/big-bear-rodeo-carnival"},
@@ -1082,8 +1048,8 @@
       ],
       "categories": ["Rodeo", "Carnival", "Family"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "rodeo-night-two-2026",
@@ -1098,7 +1064,7 @@
       "details": ["Professional events include barrel racing, bull riding, team roping and more", "Children who need a seat need a ticket; held infants may attend without one", "All minors need a parent/legal guardian; service animals only", "Rain or shine; attendees/property subject to search"],
       "tips": ["Free continuous shuttles are planned from remote lots", "ADA parking/drop-off is near the entrance with a valid placard", "The lakefront boat parade begins later and the drone show follows; leaving the rodeo early may be necessary to see both"],
       "tbd": ["Water policy conflicts between the official FAQ and purchase terms; verify before arrival"],
-      "conflicts": ["skyline-at-sundown-2026-09-06", "labor-day-glow-golf-2026-09-06", "boat-parade-of-lights-2026", "labor-day-drone-show-2026"],
+      "conflicts": ["labor-day-glow-golf-2026-09-06", "boat-parade-of-lights-2026", "labor-day-drone-show-2026"],
       "sources": [
         {"label": "Official rodeo schedule", "url": "https://bigbearrodeo.com/schedule"},
         {"label": "Current tickets, prices and rules", "url": "https://visitbigbear.ticketspice.com/big-bear-rodeo-carnival"},
@@ -1106,8 +1072,8 @@
       ],
       "categories": ["Rodeo", "Carnival", "Family"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "cool-run-2026",
@@ -1134,8 +1100,8 @@
       "start_time": "19:00",
       "end_time": "22:00",
       "occurrences": [
-        {"date": "2026-09-04", "conflicts": ["driving-range-after-dark-2026", "rodeo-kickoff-2026", "skyline-at-sundown-2026-09-04"]},
-        {"date": "2026-09-05", "conflicts": ["rodeo-night-one-2026", "music-in-the-mountains-bowie-elton-2026", "skyline-at-sundown-2026-09-05"]},
+        {"date": "2026-09-04", "conflicts": ["driving-range-after-dark-2026", "rodeo-kickoff-2026"]},
+        {"date": "2026-09-05", "conflicts": ["rodeo-night-one-2026", "music-in-the-mountains-bowie-elton-2026"]},
         {"date": "2026-09-06", "conflicts": ["rodeo-night-two-2026", "boat-parade-of-lights-2026", "labor-day-drone-show-2026"]}
       ],
       "location": {"name": "Bear Mountain Golf Course", "address": "43092 Goldmine Dr, Big Bear Lake, CA 92315"},
@@ -1148,8 +1114,8 @@
       "sources": [{"label": "Current BBMR event and reservations", "url": "https://www.bigbearmountainresort.com/things-to-do/events/glow-golf-september"}],
       "categories": ["Golf", "Nightlife"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "boat-parade-of-lights-2026",
@@ -1164,15 +1130,15 @@
       "details": ["Hosted by the Rotary Club of Big Bear Lake", "The dedicated event page links a route map for choosing a shoreline viewing point"],
       "tips": ["Choose a viewing spot early and stay for the drone show", "No current boat-entry registration link or shore-accessibility guidance was published when checked"],
       "tbd": ["Rotary’s calendar says 7:00–9:00 PM while Visit Big Bear says 7:30–9:00 PM and explicitly says the parade begins at 7:30; this event uses the safer wider block"],
-      "conflicts": ["rodeo-night-two-2026", "skyline-at-sundown-2026-09-06", "labor-day-glow-golf-2026-09-06"],
+      "conflicts": ["rodeo-night-two-2026", "labor-day-glow-golf-2026-09-06"],
       "sources": [
         {"label": "Rotary Club host calendar", "url": "https://bigbearlakerotary.org/"},
         {"label": "Dedicated event page and route map", "url": "https://www.bigbear.com/events/big-bear-rotary-labor-day-weekend-boat-parade-of-lights/"}
       ],
       "categories": ["Lake", "Parade", "Free", "TBD"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09T23:00:00Z",
-      "sequence": 1
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 2
     },
     {
       "id": "labor-day-drone-show-2026",
@@ -1230,7 +1196,7 @@
       "schedule": ["1:00 PM — gates, Midway/Kids Zone and vendors open", "1:30 PM — Ladyhosen Band indoors; DragonWolfe outdoors", "6:00 PM — Die Sauerkrauts indoors; Mary Dyer Band outdoors", "10:00 PM — Midway/Kids Zone and vendors close", "11:00 PM — festival closes"],
       "details": ["Saturday entry slots are 1:00–4:00, 4:00–7:00 or After Dark from 7:30; guests may stay until closing after entry", "Traditional food/beer, contests, mechanical bull, arts/crafts and inflatables", "Rain or shine; photo ID; no re-entry or outside food/drink; service animals only; alcohol 21+"],
       "tips": ["Free Big Bear Trolley service is advertised 6:00–10:30 PM to reduce limited parking and support safe rides", "The festival continues on select dates through November 8; check the live schedule for later weekends"],
-      "conflicts": ["summer-concert-bardo-mestizo-2026", "skyline-at-sundown-2026-09-12"],
+      "conflicts": ["summer-concert-bardo-mestizo-2026"],
       "sources": [
         {"label": "Official entertainment schedule", "url": "https://bigbearevents.com/oktoberfest/2024-oktoberfest-entertainment-schedule/"},
         {"label": "Opening-weekend tickets", "url": "https://bigbearevents.ticketsauce.com/e/2026-big-bear-oktoberfest-weekend-1/tickets"},
@@ -1238,8 +1204,8 @@
       ],
       "categories": ["Festival", "Live Music", "Food", "Family"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "oktoberfest-opening-sunday-2026",

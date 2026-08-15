@@ -280,6 +280,27 @@ def validate_source(data: dict[str, Any]) -> None:
     if len(ids) != len(set(ids)):
         raise ValueError("Every event id must be unique")
 
+    retired = data.get("retired", [])
+    if not isinstance(retired, list):
+        raise ValueError("retired must be a list")
+    retired_ids: set[str] = set()
+    for entry in retired:
+        if not isinstance(entry, dict):
+            raise ValueError("every retired entry must be an object")
+        for key in ("id", "reason", "retired_on"):
+            if not isinstance(entry.get(key), str) or not entry[key].strip():
+                raise ValueError(f"retired entry needs a nonempty {key}")
+        if entry["id"] in retired_ids:
+            raise ValueError(f"retired id {entry['id']} is listed twice")
+        retired_ids.add(entry["id"])
+        try:
+            iso_date(entry["retired_on"])
+        except (TypeError, ValueError) as exc:
+            raise ValueError(f"{entry['id']}: retired_on must be an ISO date") from exc
+    still_live = retired_ids.intersection(ids)
+    if still_live:
+        raise ValueError(f"retired ids are still present as events: {sorted(still_live)}")
+
     for event in events:
         required = {"id", "title", "status", "summary", "sources", "last_verified"}
         missing = required - event.keys()
