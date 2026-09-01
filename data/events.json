@@ -5,8 +5,48 @@
     "timezone": "America/Los_Angeles",
     "product_id": "-//Bryan Rippetoe//Big Bear Local Events//EN",
     "refresh_interval": "PT1H",
-    "last_updated": "2026-08-09"
+    "last_updated": "2026-09-01"
   },
+  "curation": {
+    "price_policy": [
+      "Free events are the default target",
+      "$1–20: readily include when relevant",
+      "$20–40: include when the experience is genuinely worthwhile or distinctive",
+      "$40–50: include selectively for exceptional concerts, motorsports, wildlife or similarly strong experiences",
+      "Over $50: normally exclude unless exceptional enough to justify a rare exception",
+      "Unknown price: include as details_tbd when the event is relevant and likely free or inexpensive, so the calendar can serve as a reminder to investigate"
+    ],
+    "priorities": [
+      "Free concerts and car shows",
+      "Karaoke, trivia, line dancing, Wyatt’s nights and other useful recurring local nightlife",
+      "Country, punk, metal and distinctive local live music",
+      "Astronomy, wildlife, plants, geology and science",
+      "Environmental volunteering and hands-on community groups",
+      "Weird, unusual and unmistakably mountain-town events"
+    ],
+    "boundaries": [
+      "Keep transportation and service schedules outside the events calendar",
+      "Use official organizer sources first and preserve meaningful source conflicts in TBD notes",
+      "Do not omit a promising event solely because its exact price or start time is unpublished; use a clearly labeled TBD reminder when its date and identity are credible",
+      "Recurring listings still need a supported cadence or dated occurrence; never invent dates from an old or ambiguous schedule",
+      "Do not re-add a permanently excluded event under a new ID"
+    ],
+    "permanent_exclusions": [
+      {
+        "id": "skyline-at-sundown",
+        "title_contains": "Skyline at Sundown",
+        "reason": "The $40–$75 package duplicates Scenic Sky Chair access already included with the user’s pass, advertises no vegetarian buffet option, and provides no named performer or date-specific distinction.",
+        "excluded_on": "2026-09-01"
+      }
+    ]
+  },
+  "retired": [
+    {
+      "id": "skyline-at-sundown",
+      "reason": "Dropped as a curation call, not a cancellation — the event still runs. The buffet is tri-tip and grilled salmon with no advertised vegetarian option, the official page states pass-holder discounts are not applicable, and all twelve dates are described identically with no named performer, so nothing distinguishes one date from another. At $40–$75 for a lift ride that an Ikon pass already covers, it does not earn its place on a locals calendar.",
+      "retired_on": "2026-08-15"
+    }
+  ],
   "events": [
     {
       "id": "music-in-the-mountains-journey-bryan-adams-2026",
@@ -49,8 +89,7 @@
       ],
       "conflicts": [
         "mx-grand-prix-races-saturday-2026",
-        "climate-cocktails-august-2026",
-        "skyline-at-sundown-2026-08-22"
+        "climate-cocktails-august-2026"
       ],
       "sources": [
         {
@@ -64,8 +103,8 @@
       ],
       "categories": ["Live Music", "Outdoors", "Fundraiser"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "lakefest-friday-2026",
@@ -104,7 +143,6 @@
       "tbd": [
         "Satellite parking/shuttle operating days need confirmation because the official tourism page says Saturday and Sunday for a Friday–Saturday festival"
       ],
-      "conflicts": ["skyline-at-sundown-2026-08-28"],
       "sources": [
         {
           "label": "Current registration and schedule",
@@ -121,8 +159,8 @@
       ],
       "categories": ["Festival", "Live Music", "Comedy", "Family"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "lakefest-saturday-2026",
@@ -259,9 +297,9 @@
     {
       "id": "summer-concert-reggae-locals-2026",
       "title": "Summer Concert Series — Long Beach Dub Allstars + Common Sense",
-      "status": "details_tbd",
-      "start": "2026-09-03T17:30",
-      "end": "2026-09-03T20:30",
+      "status": "confirmed",
+      "start": "2026-09-03T18:00",
+      "end": "2026-09-03T21:30",
       "location": {
         "name": "The Village concert stage",
         "address": "Pine Knot Ave & Village Dr, Big Bear Lake, CA 92315"
@@ -269,20 +307,22 @@
       "pricing": ["Free", "All ages"],
       "summary": "Reggae Locals Night: Long Beach Dub Allstars and Common Sense bring reggae, rock, ska, dub, funk and soul to the free Village stage.",
       "schedule": [
-        "5:30 PM — event area opens with family games and a nonprofit beer garden",
-        "6:00–7:15 PM — first published music slot",
-        "7:30–8:30 PM — second published music slot"
+        "6:00–9:30 PM — free concert, family games and nonprofit beer garden"
       ],
       "details": [
         "Long Beach Dub Allstars mix reggae, rock, ska, hip-hop, hard dub, soul and psychedelia",
         "Common Sense bridges reggae, rock, pop, funk and soul",
-        "The City has not explicitly assigned either band to one of the two time slots"
+        "Bring a chair or blanket for the outdoor Village concert"
       ],
       "tips": [
-        "Village public lots are available but fill; the City recommends the free Mountain Transit Red, Blue and Gold lines"
+        "Village public parking lots are available but can fill before the music starts"
       ],
-      "tbd": ["Which artist plays the 6:00 slot and which plays the 7:30 slot is not explicitly published"],
+      "conflicts": ["mountain-top-trivia-stillwells-2026-09-03"],
       "sources": [
+        {
+          "label": "City calendar",
+          "url": "https://bigbearlake.gov/index.php/en/government-main/city-calendar/week?date=2026-08-30"
+        },
         {
           "label": "City lineup announcement",
           "url": "https://bigbearlake.gov/index.php/en/news-and-announcements/830-2026-big-bear-lake-summer-concert-series-lineup-announcement"
@@ -301,9 +341,9 @@
         }
       ],
       "categories": ["Live Music", "Free", "Village", "Reggae"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09T23:00:00Z",
-      "sequence": 1
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 2
     },
     {
       "id": "music-in-the-mountains-bowie-elton-2026",
@@ -338,14 +378,13 @@
       "tips": [
         "Free parking is about a quarter-mile west at Meadows Edge; use the organizer’s free shuttle",
         "Six free accessible parking spaces at the Discovery Center are first-come with a state placard or plate",
-        "September 5 is crowded with major events; this concert overlaps the rodeo, glow golf and early Skyline at Sundown timing",
+        "September 5 is crowded with major events; this concert overlaps the rodeo and glow golf",
         "Organizer contact: info@mountainsfoundation.org or 909-382-2790"
       ],
       "tbd": ["Exact set times inside the 6:30–9:30 PM music window have not been published"],
       "conflicts": [
         "rodeo-night-one-2026",
-        "labor-day-glow-golf-2026-09-05",
-        "skyline-at-sundown-2026-09-05"
+        "labor-day-glow-golf-2026-09-05"
       ],
       "sources": [
         {
@@ -359,8 +398,8 @@
       ],
       "categories": ["Live Music", "Outdoors", "Fundraiser"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 2
     },
     {
       "id": "summer-concert-bardo-mestizo-2026",
@@ -388,7 +427,7 @@
         "Village public lots are available but fill; the City recommends the free Mountain Transit Red, Blue and Gold lines"
       ],
       "tbd": ["Which artist plays the 6:00 slot and which plays the 7:30 slot is not explicitly published"],
-      "conflicts": ["skyline-at-sundown-2026-09-12", "oktoberfest-opening-saturday-2026"],
+      "conflicts": ["oktoberfest-opening-saturday-2026"],
       "sources": [
         {
           "label": "City lineup announcement",
@@ -409,8 +448,8 @@
       ],
       "categories": ["Live Music", "Free", "Village", "Funk", "Soul"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "skyfest-2026-08-14",
@@ -451,15 +490,14 @@
       "tbd": [
         "The ticket page describes DiscoverFest as 4:00–9:00 PM and appears to imply all three days; the more detailed official program says Friday/Saturday only, 5:00–8:00 PM. This calendar uses the detailed program"
       ],
-      "conflicts": ["skyline-at-sundown-2026-08-14"],
       "sources": [
         {"label": "Official detailed program", "url": "https://www.bigbear.com/events/skyfest/"},
         {"label": "Live tickets and availability", "url": "https://visitbigbear.ticketspice.com/skyfest-big-bear"}
       ],
       "categories": ["Astronomy", "Festival", "Family", "Outdoors", "TBD"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "skyfest-2026-08-15",
@@ -472,11 +510,9 @@
         "address": "Big Bear Lake, CA 92315"
       },
       "pricing": [
-        "Saturday 1-day SkyFest pass: $70 and sold out when checked August 9",
-        "AstroFestival-only: $50; Stargaze-only: $50 and sold out for Saturday",
-        "Child age 12 and under: $15 with a full-price adult; excludes sound bath and workshop",
-        "Nighttime DiscoverFest: free",
-        "Forest Sound Bath: $40; intermediate/advanced astrophotography workshop: $40, subject to availability"
+        "SOLD OUT — the official page now states that all 2026 SkyFest tickets are sold out; no Saturday pass, add-on or workshop remains purchasable",
+        "Nighttime DiscoverFest: free and needs no ticket — this is the only Saturday SkyFest programming still open to walk-ups",
+        "For reference, pre-sellout prices were: 1-day pass $70, AstroFestival-only $50, Stargaze-only $50, child 12 and under $15 with a full-price adult, Forest Sound Bath $40, astrophotography workshop $40"
       ],
       "summary": "SkyFest’s fullest day pairs dark-sky and astrobiology talks with the AstroDome, free family wildlife programming, mountaintop telescopes and live painting, plus separately ticketed mindfulness and photography sessions.",
       "schedule": [
@@ -490,25 +526,25 @@
         "8:30–10:30 PM — intermediate/advanced astrophotography workshop; separately ticketed"
       ],
       "details": [
-        "A festival pass covers AstroFestival and Stargaze at the Summit, not the sound bath or astrophotography workshop",
-        "The 3-day pass was $99 and sold out when checked"
+        "A festival pass covered AstroFestival and Stargaze at the Summit, not the sound bath or astrophotography workshop",
+        "Without a pass, the free 5:00–8:00 PM Nighttime DiscoverFest at the Discovery Center is still worth the trip: family nature walks and nocturnal-wildlife programming under the same dark sky"
       ],
       "tips": [
-        "Tickets and reservations are activity- and date-specific; check live availability before going",
+        "Ticketed SkyFest is closed for 2026; go to the free DiscoverFest instead, or drive to a dark pullout along North Shore Drive and stargaze for nothing",
         "No authoritative event-specific parking or accessibility instructions were found on the current event and ticket pages"
       ],
       "tbd": [
         "The ticket page describes DiscoverFest as 4:00–9:00 PM and appears to imply all three days; the detailed program says Friday/Saturday only, 5:00–8:00 PM. This calendar uses the detailed program"
       ],
-      "conflicts": ["conquer-the-wall-2026", "skyline-at-sundown-2026-08-15"],
+      "conflicts": ["conquer-the-wall-2026", "doo-dah-parade-2026", "travelin-band-the-cave-2026-08-15", "creating-worlds-playwright-2026-08-15"],
       "sources": [
         {"label": "Official detailed program", "url": "https://www.bigbear.com/events/skyfest/"},
         {"label": "Live tickets and availability", "url": "https://visitbigbear.ticketspice.com/skyfest-big-bear"}
       ],
-      "categories": ["Astronomy", "Festival", "Family", "Outdoors", "TBD"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "categories": ["Astronomy", "Festival", "Family", "Outdoors", "Sold Out"],
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 2
     },
     {
       "id": "skyfest-2026-08-16",
@@ -521,10 +557,8 @@
         "address": "Big Bear Lake, CA 92315"
       },
       "pricing": [
-        "1-day SkyFest pass: $70; Sunday had availability when checked August 9",
-        "AstroFestival-only: $50; Stargaze-only: $50",
-        "Child age 12 and under: $15 with a full-price adult; excludes the sound bath",
-        "Forest Sound Bath: $40"
+        "SOLD OUT — Sunday still had availability on August 9 but the official page now says all 2026 SkyFest tickets are sold out",
+        "For reference, pre-sellout prices were: 1-day pass $70, AstroFestival-only $50, Stargaze-only $50, child 12 and under $15 with a full-price adult, Forest Sound Bath $40"
       ],
       "summary": "SkyFest finale with local solar-observatory science and dark-sky documentary work by day, followed by a separately ticketed forest sound bath and the last night of mountaintop telescope viewing.",
       "schedule": [
@@ -536,17 +570,20 @@
       ],
       "details": [
         "Stargaze at the Summit includes Sky Chair access, telescopes, guided night hikes and night-sky talks",
-        "The official detailed program does not schedule the free DiscoverFest on Sunday"
+        "The official detailed program does not schedule the free DiscoverFest on Sunday, so there is no free SkyFest programming today"
       ],
-      "tips": ["Ticket availability can change; Sunday was the remaining option for several sold-out pass types when checked"],
+      "tips": [
+        "Sunday sold out between August 9 and August 15; if SkyFest matters to you next year, buy in the first days of sales",
+        "Nothing ticketed remains, but the sky itself is free — Big Bear's dark-sky pullouts along North Shore Drive cost nothing"
+      ],
       "sources": [
         {"label": "Official detailed program", "url": "https://www.bigbear.com/events/skyfest/"},
         {"label": "Live tickets and availability", "url": "https://visitbigbear.ticketspice.com/skyfest-big-bear"}
       ],
-      "categories": ["Astronomy", "Festival", "Outdoors"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "categories": ["Astronomy", "Festival", "Outdoors", "Sold Out"],
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T15:00:00Z",
+      "sequence": 1
     },
     {
       "id": "conquer-the-wall-2026",
@@ -554,30 +591,237 @@
       "status": "details_tbd",
       "start": "2026-08-15T09:00",
       "location": {"name": "Snow Summit", "address": "880 Summit Blvd, Big Bear Lake, CA 92315"},
-      "pricing": ["2026 registration price and working registration URL are still TBD"],
+      "pricing": ["Registration is open through the official Active.com link, but no 2026 entry price is published", "Free parking at Snow Summit", "Entry includes a shirt and a free Scenic Sky Chair ride down"],
       "summary": "A wonderfully ridiculous one-mile race straight up Snow Summit’s steep Wall, beginning around 7,000 feet. Competitive runners, kids and families are welcome; proceeds benefit Big Bear High School Cross Country.",
       "schedule": [
         "Friday 4:00–7:00 PM — advance packet pickup at Mystic Rose",
+        "Saturday before the race — same-day packet pickup at Snow Summit",
         "Saturday 9:00 AM — published race start; end time not confirmed"
       ],
       "details": [
         "Paid runners receive a shirt and a free Scenic Sky Chair ride down",
         "Spectators may buy a discounted chair ticket up or hike Bobsled Trail for free",
         "Awards span age 13-and-under through 70+, plus teams",
-        "Free parking"
+        "Free parking",
+        "The official page states registration is open and lists same-day pickup at Snow Summit before the race, so a walk-up entry looks possible"
       ],
       "tbd": [
         "One official listing says 9:00 AM–noon but its body says 9:00–10:00 AM; the canonical page omits an end time",
-        "The current registration link points to a 2025 Active page; verify 2026 registration and price"
+        "Registration is confirmed open and routes to Active.com, but no 2026 entry price is published on any official page"
       ],
-      "conflicts": ["skyfest-2026-08-15"],
+      "conflicts": ["skyfest-2026-08-15", "doo-dah-parade-2026"],
       "sources": [
         {"label": "Official event page", "url": "https://www.bigbear.com/events/conquer-the-wall/"},
         {"label": "Official listing with conflicting time", "url": "https://www.bigbear.com/events/conquer-the-wall-5/"}
       ],
       "categories": ["Race", "Outdoors", "Fundraiser", "TBD"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T15:00:00Z",
+      "sequence": 1
+    },
+    {
+      "id": "doo-dah-parade-2026",
+      "title": "Fawnskin Doo Dah Parade — 50th Anniversary",
+      "status": "confirmed",
+      "start": "2026-08-15T10:00",
+      "end": "2026-08-15T15:00",
+      "location": {
+        "name": "Fawnskin Fire Station to the Moose Lodge",
+        "address": "39188 Rim of the World Dr, Fawnskin, CA 92333"
+      },
+      "pricing": [
+        "Free to watch and free to march — no entry fee either way",
+        "Food and vendor booths sold separately; proceeds support Moose charities"
+      ],
+      "summary": "Fifty years of small-town silliness: a quarter-mile parody of the Rose Parade where the entry requirements are a costume and a straight face. Anyone can join on the spot, and participants get a wacky swag bag.",
+      "schedule": [
+        "9:00–9:45 AM — lineup at the Fawnskin Fire Station",
+        "10:00–10:45 AM — parade travels through downtown Fawnskin to the Moose Lodge",
+        "10:00 AM–3:00 PM — mini petting zoo, food and vendor booths, fire trucks to climb and ride, and live music after the parade"
+      ],
+      "details": [
+        "The route is barely a quarter-mile end to end; it was once billed as the world's shortest parade",
+        "Entries are deliberately absurd — costumes, decorated vehicles, questionable themes",
+        "No pre-registration is required; show up at the fire station during lineup with an idea",
+        "The Moose Lodge and fire station plaza carry the day after the parade ends"
+      ],
+      "tips": [
+        "This is the low-effort, high-payoff option for a visiting friend: free, walkable, over by 11, and unmistakably local",
+        "Fawnskin is on the north shore, about 15 minutes from the Village",
+        "Entry questions: Denise Marsicano, 323-251-2829 or Denisemarsicano965@gmail.com"
+      ],
+      "conflicts": ["conquer-the-wall-2026", "skyfest-2026-08-15"],
+      "sources": [
+        {
+          "label": "Big Bear Grizzly 50th-anniversary coverage",
+          "url": "https://www.bigbeargrizzly.net/news/doodah-parade-celebrates-50-years-of-small-town-silliness/article_3819c0ad-d6f9-4eac-8178-467e04d046b0.html"
+        },
+        {"label": "Fawnskin community site", "url": "https://www.fawnskin.org/"}
+      ],
+      "categories": ["Parade", "Free", "Family", "Community"],
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T15:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "travelin-band-the-cave-2026-08-15",
+      "title": "The Travelin' Band (CCR Tribute) at The Cave",
+      "status": "details_tbd",
+      "start": "2026-08-15T20:00",
+      "end": "2026-08-15T22:00",
+      "location": {
+        "name": "The Cave",
+        "address": "40789 Village Dr, Big Bear Lake, CA 92315"
+      },
+      "pricing": ["Ticket price is not published on the Visit Big Bear listing; check the venue page or box office"],
+      "summary": "Chris Rose & The Travelin' Band play Creedence Clearwater Revival in the Village's converted movie-theater music room — the only live-music show in the Village this weekend.",
+      "schedule": ["8:00–10:00 PM — performance"],
+      "details": [
+        "Four-piece CCR tribute: Chris Rose on lead vocals and acoustic guitar, Kris Siordia on lead guitar, Henry Cortez on bass, Larry Wilburn on drums",
+        "The Cave occupies the former Village Movie Theater building and advertises a large investment in lighting and sound",
+        "The venue reopened with a new food and drink menu and a full show calendar"
+      ],
+      "tips": [
+        "This is walkable from anywhere in the Village, which makes it the easy nightcap for a visiting friend",
+        "Some third-party directories still list The Cave as closed; the venue's own calendar and the official tourism listing both show it operating"
+      ],
+      "tbd": [
+        "Ticket price, whether the show is ticketed or walk-in, and any age restriction are all unpublished — call the venue before counting on entry"
+      ],
+      "conflicts": ["skyfest-2026-08-15", "creating-worlds-playwright-2026-08-15"],
+      "sources": [
+        {"label": "Visit Big Bear listing", "url": "https://www.bigbear.com/events/the-travelin-band-live-at-the-cave/"},
+        {"label": "Venue event page", "url": "https://thecavebbl.com/event/the-travelin-band/"}
+      ],
+      "categories": ["Live Music", "Village", "Nightlife", "TBD"],
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T15:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "creating-worlds-playwright-2026-08-15",
+      "title": "Creating Worlds Playwright Festival — Saturday Night",
+      "status": "confirmed",
+      "start": "2026-08-15T19:30",
+      "end": "2026-08-15T21:30",
+      "location": {
+        "name": "Big Bear Performing Arts Center, Black Box Theater",
+        "address": "39707 Big Bear Blvd, Big Bear Lake, CA 92315"
+      },
+      "pricing": [
+        "General admission: $25 plus $1.84 fee",
+        "Seniors: $15 plus $1.46 fee",
+        "Students: $5 plus $1.09 fee",
+        "Pay-What-You-Can tickets are offered at $0"
+      ],
+      "summary": "The inaugural festival of brand-new plays written and developed in Big Bear, staged in the Performing Arts Center's black box. Every piece is premiering for the first time.",
+      "schedule": ["7:30 PM — curtain", "Approximately 9:30 PM — end; the published runtime is two hours"],
+      "details": [
+        "Big Bear Theatre Project describes the festival as a celebration of original voices and brand-new stories developed locally",
+        "The run covers August 13–16; this is the Saturday-evening performance",
+        "Wheelchair seating, assisted listening devices and service animals are accommodated"
+      ],
+      "tips": [
+        "The Pay-What-You-Can tier means the price is never the reason to skip it",
+        "Box office opens one hour before curtain: 909-805-4300 or info@bigbeartheatreproject.org"
+      ],
+      "conflicts": ["skyfest-2026-08-15", "travelin-band-the-cave-2026-08-15"],
+      "sources": [
+        {"label": "Tickets and showtimes", "url": "https://bbtp.booktix.com/dept/BBTPMain/e/CWPF"},
+        {
+          "label": "Visit Big Bear listing",
+          "url": "https://www.bigbear.com/events/big-bear-theatre-project-creating-worlds-playwright-festival/"
+        }
+      ],
+      "categories": ["Theatre", "Arts", "Community"],
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T15:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "creating-worlds-playwright-2026-08-16",
+      "title": "Creating Worlds Playwright Festival — Closing Matinee",
+      "status": "confirmed",
+      "start": "2026-08-16T14:00",
+      "end": "2026-08-16T16:00",
+      "location": {
+        "name": "Big Bear Performing Arts Center, Black Box Theater",
+        "address": "39707 Big Bear Blvd, Big Bear Lake, CA 92315"
+      },
+      "pricing": [
+        "General admission: $25 plus $1.84 fee",
+        "Seniors: $15 plus $1.46 fee",
+        "Students: $5 plus $1.09 fee",
+        "Pay-What-You-Can tickets are offered at $0"
+      ],
+      "summary": "The closing matinee of Big Bear's first new-play festival, and the last chance to see this year's locally written premieres.",
+      "schedule": ["2:00 PM — curtain", "Approximately 4:00 PM — end; the published runtime is two hours"],
+      "details": [
+        "This is the only matinee of the run and the festival's final performance",
+        "Wheelchair seating, assisted listening devices and service animals are accommodated"
+      ],
+      "tips": [
+        "A 2:00 PM start makes this the rare Sunday option that does not eat the drive home down the hill",
+        "Box office opens one hour before curtain: 909-805-4300"
+      ],
+      "conflicts": ["skyfest-2026-08-16"],
+      "sources": [
+        {"label": "Tickets and showtimes", "url": "https://bbtp.booktix.com/dept/BBTPMain/e/CWPF"},
+        {
+          "label": "Visit Big Bear listing",
+          "url": "https://www.bigbear.com/events/big-bear-theatre-project-creating-worlds-playwright-festival/"
+        }
+      ],
+      "categories": ["Theatre", "Arts", "Community"],
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T15:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "big-bear-romp-2026",
+      "title": "Big Bear ROMP — LGBTQ+ Weekend",
+      "status": "details_tbd",
+      "all_day": true,
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-16",
+      "location": {
+        "name": "Holiday Inn Resort, The Lodge at Big Bear Lake",
+        "address": "40650 Village Dr, Big Bear Lake, CA 92315"
+      },
+      "pricing": [
+        "Weekend Pass covers all scheduled events Thursday through Sunday",
+        "Free Hotel Access Pass lets you buy individual event tickets on-site",
+        "Some events are walk-up priced, such as $20 for the Sunday pool party",
+        "Exact weekend-pass pricing is not published on the organizer's schedule page"
+      ],
+      "summary": "A four-day LGBTQ+ resort takeover in the Village: pool parties, themed dance nights, a lake cruise, comedy, drag bingo and trivia, all based out of the Holiday Inn Resort.",
+      "schedule": [
+        "Sunday 7:00–10:00 AM — Morning Mischief in the host hotel lobby, complimentary",
+        "Sunday 10:00 AM–5:00 PM — Last Splash Pool Party, included with a pass or $20 walk-up",
+        "Sunday 11:00 AM–1:00 PM — Drag Bingo in the Ball-Room, included",
+        "Sunday 5:00 PM — Diehards & Stayouts Party at Whiskey Dave's, no pass required",
+        "Sunday 5:00–10:00 PM — Open Mic Night at Stillwell's Bar, no pass required"
+      ],
+      "details": [
+        "Weekend programming includes a Big Bear Queen lake cruise, the BEEFWITCH dance party, a Bear Soup pool party, Mountains of Laughs comedy night, ROMP In The Dark, and bingo and trivia nights",
+        "The game room, hot tub and pool run long hours through the weekend",
+        "Several Sunday events are open without any pass, including the Whiskey Dave's party and open mic"
+      ],
+      "tips": [
+        "The no-pass-required Sunday events at Whiskey Dave's and Stillwell's are the easiest way to drop in on the weekend without buying anything",
+        "The host hotel reliably sells out well in advance for this weekend, which is worth knowing when planning lodging in mid-August"
+      ],
+      "tbd": [
+        "The organizer's own schedule page is marked subject to change and was missing the full Saturday listing when checked",
+        "Weekend-pass and individual-event pricing are not published on the schedule page; see the Eventbrite listing"
+      ],
+      "sources": [
+        {"label": "Official event schedule", "url": "https://www.bigbearromp.com/event-schedule"},
+        {"label": "Registration and passes", "url": "https://www.eventbrite.com/e/big-bear-romp-2026-tickets-1989336393705"}
+      ],
+      "categories": ["LGBTQ+", "Festival", "Nightlife", "Village", "TBD"],
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T15:00:00Z",
       "sequence": 0
     },
     {
@@ -586,20 +830,22 @@
       "status": "confirmed",
       "start": "2026-08-19T14:00",
       "end": "2026-08-19T19:00",
-      "location": {"name": "Brownie Lot at Bear Mountain", "address": "43101 Goldmine Dr, Big Bear Lake, CA 92315"},
-      "pricing": ["Spectator facility wristband for Thursday–Sunday: $30; age 5 and under free", "Spectator Moonridge Lot parking: $25 with free shuttle"],
+      "location": {"name": "Brownie Lot — remote check-in lot on the drive up, not at Bear Mountain itself", "address": "Big Bear Lake, CA 92315"},
+      "pricing": ["Spectator facility wristband for Thursday–Sunday: $30; age 5 and under free", "Spectator Moonridge Lot parking: $25 with free shuttle — only needed if you are parking a vehicle"],
       "summary": "Opening check-in day for the second Big Bear MX Grand Prix, a mountain motocross weekend with a roughly three-mile course, major elevation change, jumps, berms and classes from young beginners to professionals.",
-      "schedule": ["2:00–7:00 PM — MX participant check-in at Brownie Lot", "4:00 PM — VIP preview laps for participants in the separate Kurt Caselli Golf Classic"],
-      "details": ["Spectator-facing races begin Friday; Thursday is practice", "All racers and spectators first report to Brownie Lot"],
+      "schedule": ["2:00–7:00 PM — check-in at Brownie Lot for credentials, wristbands and parking passes", "4:00 PM — VIP preview laps for participants in the separate Kurt Caselli Golf Classic"],
+      "details": ["Spectator-facing races begin Friday; Thursday is practice", "The organizer's parking-plan video states that racers, staff and spectators alike must check in at Brownie Lot before traveling to Bear Mountain", "Brownie Lot is a remote lot passed on the drive up to Bear Mountain, not a lot at the resort"],
+      "tips": ["Wristbands can be bought online in advance or picked up at Brownie Lot will-call during check-in hours"],
+      "tbd": ["No official source publishes a street address for Brownie Lot; it is described only as a lot on the drive up to Bear Mountain. Confirm the location with the organizer before setting out", "Whether an online wristband purchase exempts a spectator from the Brownie Lot stop is not addressed anywhere official"],
       "conflicts": ["kurt-caselli-golf-classic-2026"],
       "sources": [
         {"label": "BBMR detailed event page", "url": "https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-grand-prix"},
         {"label": "Visit Big Bear overview", "url": "https://www.bigbear.com/events/mx-grand-prix/"}
       ],
       "categories": ["Motorsports", "Outdoors"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T16:30:00Z",
+      "sequence": 1
     },
     {
       "id": "kurt-caselli-golf-classic-2026",
@@ -628,17 +874,18 @@
       "location": {"name": "Bear Mountain", "address": "43101 Goldmine Dr, Big Bear Lake, CA 92315"},
       "pricing": ["$30 facility wristband valid Thursday–Sunday; age 5 and under free", "$25 spectator parking at Moonridge Lot with free shuttle"],
       "summary": "Practice day across vintage, age, displacement, women, youth and pro classes on the roughly three-mile Bear Mountain motocross course.",
-      "schedule": ["6:30 AM — gates", "7:00 AM — registration", "7:30 AM — rider meeting", "8:00 AM–approximately 4:45 PM — practice sessions"],
-      "details": ["Spectators view from The Deck with food, beverages, sponsor demonstrations/sales and event merchandise", "Everyone first reports to Brownie Lot; spectators then use paid Moonridge Lot parking and the free shuttle"],
-      "tbd": ["The detailed schedule is explicitly subject to change", "A published 11:30 PM practice slot is positioned among morning sessions and is almost certainly an AM typo; verify the live schedule"],
+      "schedule": ["6:30 AM — gates", "7:00 AM–3:00 PM — Brownie Lot check-in for credentials, wristbands and parking passes", "7:00 AM — registration", "7:30 AM — rider meeting", "7:00 AM–6:00 PM — free Moonridge Lot shuttle", "7:00–11:00 AM — Easy Street Coffee & Breakfast", "8:00 AM–approximately 4:45 PM — practice sessions across 14 sessions at roughly 35-minute intervals", "10:00 AM–5:00 PM — Laybacks Bar", "11:00 AM–5:00 PM — BBQ in the Park"],
+      "details": ["Spectators view from The Deck with food, beverages, sponsor demonstrations/sales and event merchandise", "The organizer states that spectators as well as racers must check in at Brownie Lot before traveling to Bear Mountain; spectators who drive then use paid Moonridge Lot parking and the free shuttle", "One $30 wristband covers this day and the rest of the weekend — it is per person, not per day", "The chairlift does not run for spectators today; Saturday is the only lift day"],
+      "tips": ["Locals arriving without a car: the $25 Moonridge pass covers parking a vehicle, so it is not needed if you bike, walk or get dropped off — but no official source says whether the Brownie Lot check-in can be bypassed or the venue reached without the shuttle, so confirm with the organizer"],
+      "tbd": ["The detailed schedule is explicitly subject to change", "A published 11:30 PM practice slot is positioned among morning sessions and is almost certainly an AM typo; verify the live schedule", "No official source addresses spectators arriving by bike, on foot or by drop-off"],
       "sources": [
         {"label": "BBMR detailed event page", "url": "https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-grand-prix"},
         {"label": "Visit Big Bear overview", "url": "https://www.bigbear.com/events/mx-grand-prix/"}
       ],
       "categories": ["Motorsports", "Outdoors", "TBD"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T16:30:00Z",
+      "sequence": 2
     },
     {
       "id": "mx-grand-prix-races-friday-2026",
@@ -649,18 +896,18 @@
       "location": {"name": "Bear Mountain; party at Wyatt’s", "address": "43101 Goldmine Dr, Big Bear Lake, CA 92315"},
       "pricing": ["$30 facility wristband valid Thursday–Sunday; age 5 and under free", "$25 spectator parking at Moonridge Lot with free shuttle"],
       "summary": "First race day on Bear Mountain’s technical motocross loop, followed by an evening Bench Racing Party at Wyatt’s Grill & Saloon.",
-      "schedule": ["6:30 AM — gates", "7:00 AM — registration", "7:30 AM — rider meeting", "8:00 AM — sight lap", "8:30 AM–approximately 3:30 PM — racing", "4:00–10:00 PM — Bench Racing Party at Wyatt’s Grill & Saloon in The Village"],
-      "details": ["Spectator viewing from The Deck includes food/beverage service and sponsor exhibits", "Everyone first reports to Brownie Lot; spectators park at Moonridge Lot and shuttle to the venue"],
-      "tbd": ["Detailed class/order schedule remains subject to change"],
-      "conflicts": ["skyline-at-sundown-2026-08-21"],
+      "schedule": ["6:30 AM — gates", "7:00 AM–3:00 PM — Brownie Lot check-in for credentials, wristbands and parking passes", "7:00 AM — registration", "7:30 AM — rider meeting", "7:00 AM–4:00 PM — free Moonridge Lot shuttle", "8:00 AM — sight lap for races 1–4", "8:30 AM–approximately 2:55 PM — seven race heats, 35–40 minutes each", "9:00 AM–3:00 PM — free STACYC kids track", "12:00–4:00 PM — beer garden", "12:30 PM — track maintenance break", "4:00–10:00 PM — Bench Racing Party at Wyatt’s Grill & Saloon in The Village"],
+      "details": ["Spectator viewing from The Deck includes food/beverage service and sponsor exhibits", "The organizer states that spectators as well as racers must check in at Brownie Lot before traveling to Bear Mountain; spectators who drive then park at Moonridge Lot and shuttle in", "Friday adds Flat Bottom Dough and the Outlaw Luau and Tiki Bar to the Thursday food lineup", "The chairlift does not run for spectators today; Saturday is the only lift day"],
+      "tips": ["Locals arriving without a car: the $25 Moonridge pass covers parking a vehicle, so it is not needed if you bike, walk or get dropped off — but no official source says whether the Brownie Lot check-in can be bypassed or the venue reached without the shuttle, so confirm with the organizer"],
+      "tbd": ["Detailed class/order schedule remains subject to change", "No official source addresses spectators arriving by bike, on foot or by drop-off"],
       "sources": [
         {"label": "BBMR detailed event page", "url": "https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-grand-prix"},
         {"label": "Visit Big Bear overview", "url": "https://www.bigbear.com/events/mx-grand-prix/"}
       ],
       "categories": ["Motorsports", "Outdoors", "Nightlife"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 3
     },
     {
       "id": "mx-grand-prix-races-saturday-2026",
@@ -669,20 +916,42 @@
       "start": "2026-08-22T06:30",
       "end": "2026-08-22T19:00",
       "location": {"name": "Bear Mountain", "address": "43101 Goldmine Dr, Big Bear Lake, CA 92315"},
-      "pricing": ["$30 facility wristband valid Thursday–Sunday; age 5 and under free", "$25 spectator parking at Moonridge Lot with free shuttle", "5 PM Those Guys concert included with facility wristband"],
-      "summary": "The marquee MX day covers vintage/hooligan, 30+, 40+/50+ and 250/450 pro classes, Midway Chair spectator access and an included post-race concert by Those Guys.",
-      "schedule": ["6:30 AM — gates", "7:00 AM — registration", "7:30 AM — rider meeting", "8:00 AM — sight lap and Midway Chair 5 spectator access begins", "8:30 AM–approximately 3:30 PM — racing", "5:00–7:00 PM — Those Guys perform at the podium"],
-      "details": ["Spectator viewing from The Deck includes food/beverage service and sponsor exhibits", "Midway Chair 5 spectator access is published for 8:00 AM–3:30 PM"],
-      "tbd": ["Detailed class/order schedule remains subject to change"],
-      "conflicts": ["climate-cocktails-august-2026", "skyline-at-sundown-2026-08-22", "music-in-the-mountains-journey-bryan-adams-2026"],
+      "pricing": [
+        "$30 facility wristband valid Thursday–Sunday; age 5 and under free",
+        "$25 spectator parking at Moonridge Lot with free shuttle",
+        "Scenic Sky Chair ride to the on-hill viewing area: included with the wristband, Saturday only",
+        "5 PM Those Guys concert included with facility wristband"
+      ],
+      "summary": "The marquee MX day covers vintage/hooligan, 30+, 40+/50+ and 250/450 pro classes, and it is the one day the chairlift runs for spectators — ride Midway Chair 5 up for an overhead view of the course. An included post-race concert by Those Guys closes it out.",
+      "schedule": ["6:30 AM — gates", "7:00 AM–3:00 PM — Brownie Lot check-in for credentials, wristbands and parking passes", "7:00 AM — registration", "7:30 AM — rider meeting", "7:00 AM–7:30 PM — free Moonridge Lot shuttle", "8:00 AM — sight lap; Midway Chair 5 opens to spectators", "8:00 AM–3:30 PM — Sky Chair spectator access window", "8:30 AM–approximately 3:30 PM — racing", "10:00 AM–3:00 PM — bar service at the on-hill viewing area", "4:00–6:30 PM — concert bar", "5:00–7:00 PM — Those Guys perform at the podium"],
+      "details": [
+        "New for 2026: the chairlift runs on Saturday so any wristband holder can ride to the top of the course for a vantage point that did not exist last year",
+        "The lift takes you up; a short walk or shuttle then reaches the designated viewing area at the top of Central Park, which overlooks sections of the tree-lined course and the Pro Line",
+        "All spectators must ride the chair back down — there is no walking descent from the viewing area",
+        "Food and beverage service is available at the top, and the viewing-area bar runs 10:00 AM–3:00 PM",
+        "Spectator viewing from The Deck at the base also includes food/beverage service and sponsor exhibits",
+        "The organizer states that spectators as well as racers must check in at Brownie Lot before traveling to Bear Mountain"
+      ],
+      "tips": [
+        "Saturday is the day to buy if you only come once: chairlift access, the deepest pro classes and the included concert all land on this date",
+        "The published lift window closes at 3:30 PM, so ride up well before then; racing runs until about 3:30 PM anyway",
+        "Locals arriving without a car: the $25 Moonridge pass covers parking a vehicle, so it is not needed if you bike, walk or get dropped off — but no official source says whether the Brownie Lot check-in can be bypassed or the venue reached without the shuttle, so confirm with the organizer"
+      ],
+      "tbd": [
+        "Detailed class/order schedule remains subject to change",
+        "No spectator camera or photography policy is published on the resort, BBMXGP or Visit Big Bear pages. Personal cameras are not listed among any prohibited items, but commercial or credentialed media access is not described either — contact the organizer if you plan to shoot anything beyond personal photos",
+        "No official source addresses spectators arriving by bike, on foot or by drop-off"
+      ],
+      "conflicts": ["climate-cocktails-august-2026", "music-in-the-mountains-journey-bryan-adams-2026"],
       "sources": [
         {"label": "BBMR detailed event page", "url": "https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-grand-prix"},
-        {"label": "Visit Big Bear overview", "url": "https://www.bigbear.com/events/mx-grand-prix/"}
+        {"label": "Visit Big Bear overview", "url": "https://www.bigbear.com/events/mx-grand-prix/"},
+        {"label": "Motocross Action spectator guide", "url": "https://motocrossactionmag.com/headed-to-the-2026-big-bear-mx-grand-prix-heres-your-spectator-guide/"}
       ],
       "categories": ["Motorsports", "Outdoors", "Live Music"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 3
     },
     {
       "id": "mx-grand-prix-races-sunday-2026",
@@ -693,17 +962,18 @@
       "location": {"name": "Bear Mountain", "address": "43101 Goldmine Dr, Big Bear Lake, CA 92315"},
       "pricing": ["$30 facility wristband valid Thursday–Sunday; age 5 and under free", "$25 spectator parking at Moonridge Lot with free shuttle"],
       "summary": "Final race day featuring youth, women, amateur/expert and team races on Bear Mountain’s roughly three-mile high-elevation motocross course.",
-      "schedule": ["6:30 AM — gates", "7:00 AM — registration", "7:30 AM — rider meeting", "8:00 AM — sight lap", "8:30 AM–approximately 3:30 PM — racing"],
-      "details": ["Spectator viewing from The Deck includes food/beverage service and sponsor exhibits", "Everyone first reports to Brownie Lot; spectators park at Moonridge Lot and use the free shuttle"],
-      "tbd": ["The source misnumbers one race and sight-lap grouping; verify the live running order", "Detailed schedule remains subject to change"],
+      "schedule": ["6:30 AM — gates", "7:00 AM–12:00 PM — Brownie Lot check-in; note the earlier Sunday cutoff", "7:00 AM — registration", "7:30 AM — rider meeting", "7:00 AM–5:00 PM — free Moonridge Lot shuttle", "8:00 AM — sight lap for races 15–18", "8:30 AM–approximately 2:55 PM — seven race heats, 35–40 minutes each", "9:00 AM–3:00 PM — free STACYC kids track", "12:30 PM — track maintenance break"],
+      "details": ["Spectator viewing from The Deck includes food/beverage service and sponsor exhibits", "The organizer states that spectators as well as racers must check in at Brownie Lot before traveling to Bear Mountain; spectators who drive then park at Moonridge Lot and use the free shuttle", "Sunday's Brownie Lot check-in closes at noon, earlier than the other days", "The chairlift does not run for spectators today; Saturday is the only lift day"],
+      "tips": ["Locals arriving without a car: the $25 Moonridge pass covers parking a vehicle, so it is not needed if you bike, walk or get dropped off — but no official source says whether the Brownie Lot check-in can be bypassed or the venue reached without the shuttle, so confirm with the organizer"],
+      "tbd": ["The source misnumbers one race and sight-lap grouping; verify the live running order", "Detailed schedule remains subject to change", "No official source addresses spectators arriving by bike, on foot or by drop-off"],
       "sources": [
         {"label": "BBMR detailed event page", "url": "https://www.bigbearmountainresort.com/things-to-do/events/big-bear-mx-grand-prix"},
         {"label": "Visit Big Bear overview", "url": "https://www.bigbear.com/events/mx-grand-prix/"}
       ],
       "categories": ["Motorsports", "Outdoors", "TBD"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_verified": "2026-08-15",
+      "last_modified": "2026-08-15T16:30:00Z",
+      "sequence": 2
     },
     {
       "id": "climate-cocktails-august-2026",
@@ -718,15 +988,15 @@
       "details": ["To receive the hosted drink, join the cleanup and sign the liability waiver", "Minors must be accompanied by an adult; alcoholic drinks require valid 21+ ID", "Photography and filming will be present", "Dress for the weather and cleanup conditions"],
       "tips": ["RSVP is requested through the official page", "Contact saras@bigbear.com with questions"],
       "tbd": ["August 22 cleanup location", "August 22 happy-hour venue", "The embedded RSVP form still appeared oriented to July when checked; confirm that August registration is open"],
-      "conflicts": ["mx-grand-prix-races-saturday-2026", "skyline-at-sundown-2026-08-22", "music-in-the-mountains-journey-bryan-adams-2026"],
+      "conflicts": ["mx-grand-prix-races-saturday-2026", "music-in-the-mountains-journey-bryan-adams-2026"],
       "sources": [
         {"label": "Official event page", "url": "https://www.bigbear.com/events/climate-cocktails/"},
         {"label": "Care for Big Bear RSVP hub", "url": "https://www.bigbear.com/care-for-big-bear/our-events/"}
       ],
       "categories": ["Volunteer", "Environment", "Social", "TBD"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "job-resource-fair-2026",
@@ -746,42 +1016,6 @@
       "sequence": 0
     },
     {
-      "id": "skyline-at-sundown",
-      "title": "Skyline at Sundown — Mountaintop BBQ + Live Music",
-      "status": "confirmed",
-      "start_time": "16:30",
-      "end_time": "19:30",
-      "occurrences": [
-        {"date": "2026-08-13"},
-        {"date": "2026-08-14", "conflicts": ["skyfest-2026-08-14"]},
-        {"date": "2026-08-15", "conflicts": ["skyfest-2026-08-15"]},
-        {"date": "2026-08-21", "conflicts": ["mx-grand-prix-races-friday-2026"]},
-        {"date": "2026-08-22", "conflicts": ["mx-grand-prix-races-saturday-2026", "climate-cocktails-august-2026", "music-in-the-mountains-journey-bryan-adams-2026"]},
-        {"date": "2026-08-28", "conflicts": ["lakefest-friday-2026"]},
-        {"date": "2026-08-30"},
-        {"date": "2026-09-04", "conflicts": ["rodeo-kickoff-2026", "driving-range-after-dark-2026", "labor-day-glow-golf-2026-09-04"]},
-        {"date": "2026-09-05", "conflicts": ["rodeo-night-one-2026", "music-in-the-mountains-bowie-elton-2026", "labor-day-glow-golf-2026-09-05"]},
-        {"date": "2026-09-06", "conflicts": ["rodeo-night-two-2026", "labor-day-glow-golf-2026-09-06", "boat-parade-of-lights-2026"]},
-        {"date": "2026-09-11"},
-        {"date": "2026-09-12", "conflicts": ["summer-concert-bardo-mestizo-2026", "oktoberfest-opening-saturday-2026"]}
-      ],
-      "location": {"name": "Snow Summit", "address": "880 Summit Blvd, Big Bear Lake, CA 92315"},
-      "pricing": ["Age 13+: $40–$75", "Age 12 and under: $40–$50", "Date-specific reservation required; may sell out"],
-      "summary": "Ride Chair 1 to a sunset mountain BBQ buffet and live music at Skyline Taphouse. The ticket includes the round-trip Scenic Sky Chair, buffet and entertainment.",
-      "schedule": ["9:00 AM–5:15 PM — ticket pickup window", "4:30 PM — Chair 1 begins guest loading", "4:45–7:15 PM — live entertainment", "5:30 PM — last chair up", "5:30–6:30 PM — buffet service", "6:30 PM — chair downloading begins", "7:30 PM — last chair down"],
-      "details": ["Menu examples include roast tri-tip and grilled salmon; a full bar is available", "Reservations are date-specific, nonrefundable and nontransferable", "No local, passholder or employee discount is advertised", "Snow Summit lot parking is available"],
-      "tips": ["Arrive before the 5:15 PM ticket-pickup cutoff; late arrivals are not issued a ticket", "Pets are not allowed", "Non-electric wheelchairs and strollers are allowed on the chairlift", "Lift operations can pause for nearby lightning; check mountain status in questionable weather"],
-      "tbd": ["Live entertainer is not named for each remaining date on the current public pages"],
-      "sources": [
-        {"label": "BBMR reservations, prices and access rules", "url": "https://www.bigbearmountainresort.com/things-to-do/skyline-at-sundown"},
-        {"label": "Official remaining-date list", "url": "https://www.bigbear.com/events/skyline-at-sundown/"}
-      ],
-      "categories": ["Dining", "Live Music", "Outdoors"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
-    },
-    {
       "id": "driving-range-after-dark-2026",
       "title": "Driving Range After Dark",
       "status": "confirmed",
@@ -794,15 +1028,15 @@
       "details": ["Current package: one mat, 40 glow balls, one Coca-Cola beverage, Hit It & Get It ticket, target/prize challenges and live DJ", "Free illuminated putting area; bring a putter", "Loaner clubs are first-come, so bring clubs if possible", "Grab-and-go snacks, beer/wine/seltzer and nonalcoholic drinks are sold"],
       "tips": ["Park free in Cedar Club Lot and walk to the range between holes 4 and 6", "Bring physical government ID and the original payment method for check-in", "Pets are prohibited; purchases are nonrefundable/nontransferable"],
       "tbd": ["Ignore older duplicate listings advertising 6:30–9:15 PM, 125 balls and $120 reserved slots; the current BBMR product is the $30 walk-up-window format"],
-      "conflicts": ["labor-day-glow-golf-2026-09-04", "rodeo-kickoff-2026", "skyline-at-sundown-2026-09-04"],
+      "conflicts": ["labor-day-glow-golf-2026-09-04", "rodeo-kickoff-2026"],
       "sources": [
         {"label": "Current BBMR event page", "url": "https://www.bigbearmountainresort.com/golf/glow-range"},
         {"label": "Current Visit Big Bear listing", "url": "https://www.bigbear.com/events/driving-range-after-dark-presented-by-coca-cola-1-2/"}
       ],
       "categories": ["Golf", "Nightlife", "Family"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "rodeo-kickoff-2026",
@@ -817,7 +1051,7 @@
       "details": ["Carnival entry is free; a ride wristband is needed only for unlimited rides", "Expect Ferris wheel and midway rides, western/local craft vendors, live entertainment and carnival food", "Rain or shine; all attendees and property are subject to search"],
       "tips": ["Three parking areas, free remote-lot shuttles and event traffic control are planned", "ADA parking/drop-off is near the entrance with a valid placard", "Medical items require advance approval at 909-916-2096"],
       "tbd": ["Official FAQ permits sealed water or empty containers, but current ticket-purchase terms prohibit all opened and unopened water bottles; verify before arrival and treat the stricter rule as safer"],
-      "conflicts": ["skyline-at-sundown-2026-09-04", "driving-range-after-dark-2026", "labor-day-glow-golf-2026-09-04"],
+      "conflicts": ["driving-range-after-dark-2026", "labor-day-glow-golf-2026-09-04"],
       "sources": [
         {"label": "Official rodeo schedule", "url": "https://bigbearrodeo.com/schedule"},
         {"label": "Official directions and parking", "url": "https://bigbearrodeo.com/directions-parking"},
@@ -825,8 +1059,8 @@
       ],
       "categories": ["Rodeo", "Carnival", "Live Music", "Free"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "rodeo-night-one-2026",
@@ -841,7 +1075,7 @@
       "details": ["Professional events include barrel racing, bull riding, team roping and more", "Children who need a seat need a ticket; held infants may attend without one", "All minors need a parent/legal guardian; service animals only", "No outside food/coolers, detachable-lens cameras, video gear, selfie sticks, drones, weapons or illegal drugs"],
       "tips": ["Free continuous shuttles are planned from remote parking lots", "ADA parking/drop-off is near the entrance with a valid placard", "Government ID is required for alcohol", "Medical-item approval: 909-916-2096"],
       "tbd": ["Water policy conflicts between the official FAQ and purchase terms; verify and follow the stricter no-water-bottle rule if uncertain"],
-      "conflicts": ["cool-run-2026", "big-bear-grizzly-100-2026", "skyline-at-sundown-2026-09-05", "music-in-the-mountains-bowie-elton-2026", "labor-day-glow-golf-2026-09-05"],
+      "conflicts": ["cool-run-2026", "big-bear-grizzly-100-2026", "music-in-the-mountains-bowie-elton-2026", "labor-day-glow-golf-2026-09-05"],
       "sources": [
         {"label": "Official rodeo schedule", "url": "https://bigbearrodeo.com/schedule"},
         {"label": "Current tickets, prices and rules", "url": "https://visitbigbear.ticketspice.com/big-bear-rodeo-carnival"},
@@ -849,8 +1083,8 @@
       ],
       "categories": ["Rodeo", "Carnival", "Family"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "rodeo-night-two-2026",
@@ -865,7 +1099,7 @@
       "details": ["Professional events include barrel racing, bull riding, team roping and more", "Children who need a seat need a ticket; held infants may attend without one", "All minors need a parent/legal guardian; service animals only", "Rain or shine; attendees/property subject to search"],
       "tips": ["Free continuous shuttles are planned from remote lots", "ADA parking/drop-off is near the entrance with a valid placard", "The lakefront boat parade begins later and the drone show follows; leaving the rodeo early may be necessary to see both"],
       "tbd": ["Water policy conflicts between the official FAQ and purchase terms; verify before arrival"],
-      "conflicts": ["skyline-at-sundown-2026-09-06", "labor-day-glow-golf-2026-09-06", "boat-parade-of-lights-2026", "labor-day-drone-show-2026"],
+      "conflicts": ["labor-day-glow-golf-2026-09-06", "boat-parade-of-lights-2026", "labor-day-drone-show-2026"],
       "sources": [
         {"label": "Official rodeo schedule", "url": "https://bigbearrodeo.com/schedule"},
         {"label": "Current tickets, prices and rules", "url": "https://visitbigbear.ticketspice.com/big-bear-rodeo-carnival"},
@@ -873,26 +1107,26 @@
       ],
       "categories": ["Rodeo", "Carnival", "Family"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "cool-run-2026",
-      "title": "Cool Run in the Mountains Car Show — Time TBD",
-      "status": "details_tbd",
-      "all_day": true,
-      "start_date": "2026-09-05",
+      "title": "Cool Run in the Mountains Car Show",
+      "status": "confirmed",
+      "start": "2026-09-05T09:00",
+      "end": "2026-09-05T15:00",
       "location": {"name": "Big Bear Lake Convention Center", "address": "42900 Big Bear Blvd, Big Bear Lake, CA 92315"},
       "pricing": ["Free for spectators", "Craft-fair items and food sold separately"],
       "summary": "The RodRiders’ annual fundraiser packs 100+ unique and classic cars, vendors, live entertainment, a craft fair and food around the Convention Center.",
+      "schedule": ["9:00 AM–3:00 PM — car show, craft fair, live entertainment, food and vendors"],
       "details": ["Fifteen prizes cover best in show, paint, originality, interior, engine, top-ten cars and best motorcycle", "Benefits local charities including DOVES and animal-rescue programs", "Parking is available at the Convention Center / Wyatt’s"],
-      "tbd": ["No start or end time is currently published", "A tourism search card has sometimes shown September 6, but the dedicated page body clearly says Saturday, September 5; this calendar uses September 5"],
       "conflicts": ["big-bear-grizzly-100-2026", "rodeo-night-one-2026", "music-in-the-mountains-bowie-elton-2026"],
       "sources": [{"label": "Official event page", "url": "https://www.bigbear.com/events/cool-run-in-the-mountains-car-show/"}],
-      "categories": ["Car Show", "Free", "Fundraiser", "TBD"],
-      "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "categories": ["Car Show", "Free", "Fundraiser"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 1
     },
     {
       "id": "labor-day-glow-golf",
@@ -901,8 +1135,8 @@
       "start_time": "19:00",
       "end_time": "22:00",
       "occurrences": [
-        {"date": "2026-09-04", "conflicts": ["driving-range-after-dark-2026", "rodeo-kickoff-2026", "skyline-at-sundown-2026-09-04"]},
-        {"date": "2026-09-05", "conflicts": ["rodeo-night-one-2026", "music-in-the-mountains-bowie-elton-2026", "skyline-at-sundown-2026-09-05"]},
+        {"date": "2026-09-04", "conflicts": ["driving-range-after-dark-2026", "rodeo-kickoff-2026"]},
+        {"date": "2026-09-05", "conflicts": ["rodeo-night-one-2026", "music-in-the-mountains-bowie-elton-2026"]},
         {"date": "2026-09-06", "conflicts": ["rodeo-night-two-2026", "boat-parade-of-lights-2026", "labor-day-drone-show-2026"]}
       ],
       "location": {"name": "Bear Mountain Golf Course", "address": "43092 Goldmine Dr, Big Bear Lake, CA 92315"},
@@ -915,8 +1149,8 @@
       "sources": [{"label": "Current BBMR event and reservations", "url": "https://www.bigbearmountainresort.com/things-to-do/events/glow-golf-september"}],
       "categories": ["Golf", "Nightlife"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "boat-parade-of-lights-2026",
@@ -931,15 +1165,15 @@
       "details": ["Hosted by the Rotary Club of Big Bear Lake", "The dedicated event page links a route map for choosing a shoreline viewing point"],
       "tips": ["Choose a viewing spot early and stay for the drone show", "No current boat-entry registration link or shore-accessibility guidance was published when checked"],
       "tbd": ["Rotary’s calendar says 7:00–9:00 PM while Visit Big Bear says 7:30–9:00 PM and explicitly says the parade begins at 7:30; this event uses the safer wider block"],
-      "conflicts": ["rodeo-night-two-2026", "skyline-at-sundown-2026-09-06", "labor-day-glow-golf-2026-09-06"],
+      "conflicts": ["rodeo-night-two-2026", "labor-day-glow-golf-2026-09-06"],
       "sources": [
         {"label": "Rotary Club host calendar", "url": "https://bigbearlakerotary.org/"},
         {"label": "Dedicated event page and route map", "url": "https://www.bigbear.com/events/big-bear-rotary-labor-day-weekend-boat-parade-of-lights/"}
       ],
       "categories": ["Lake", "Parade", "Free", "TBD"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09T23:00:00Z",
-      "sequence": 1
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 2
     },
     {
       "id": "labor-day-drone-show-2026",
@@ -997,7 +1231,7 @@
       "schedule": ["1:00 PM — gates, Midway/Kids Zone and vendors open", "1:30 PM — Ladyhosen Band indoors; DragonWolfe outdoors", "6:00 PM — Die Sauerkrauts indoors; Mary Dyer Band outdoors", "10:00 PM — Midway/Kids Zone and vendors close", "11:00 PM — festival closes"],
       "details": ["Saturday entry slots are 1:00–4:00, 4:00–7:00 or After Dark from 7:30; guests may stay until closing after entry", "Traditional food/beer, contests, mechanical bull, arts/crafts and inflatables", "Rain or shine; photo ID; no re-entry or outside food/drink; service animals only; alcohol 21+"],
       "tips": ["Free Big Bear Trolley service is advertised 6:00–10:30 PM to reduce limited parking and support safe rides", "The festival continues on select dates through November 8; check the live schedule for later weekends"],
-      "conflicts": ["summer-concert-bardo-mestizo-2026", "skyline-at-sundown-2026-09-12"],
+      "conflicts": ["summer-concert-bardo-mestizo-2026"],
       "sources": [
         {"label": "Official entertainment schedule", "url": "https://bigbearevents.com/oktoberfest/2024-oktoberfest-entertainment-schedule/"},
         {"label": "Opening-weekend tickets", "url": "https://bigbearevents.ticketsauce.com/e/2026-big-bear-oktoberfest-weekend-1/tickets"},
@@ -1005,8 +1239,8 @@
       ],
       "categories": ["Festival", "Live Music", "Food", "Family"],
       "last_verified": "2026-08-09",
-      "last_modified": "2026-08-09",
-      "sequence": 0
+      "last_modified": "2026-08-15T17:30:00Z",
+      "sequence": 1
     },
     {
       "id": "oktoberfest-opening-sunday-2026",
@@ -1028,6 +1262,968 @@
       "categories": ["Festival", "Live Music", "Food", "Family"],
       "last_verified": "2026-08-09",
       "last_modified": "2026-08-09",
+      "sequence": 0
+    },
+    {
+      "id": "bbvas-dark-sky-star-party",
+      "title": "BBVAS Dark-Sky Star Party",
+      "status": "confirmed",
+      "start_time": "19:00",
+      "end_time": "22:00",
+      "occurrences": [
+        {
+          "date": "2026-09-05",
+          "conflicts": ["rodeo-night-one-2026", "music-in-the-mountains-bowie-elton-2026", "labor-day-glow-golf-2026-09-05"]
+        },
+        {
+          "date": "2026-10-10",
+          "start": "2026-10-10T18:00",
+          "end": "2026-10-10T21:00"
+        }
+      ],
+      "location": {
+        "name": "The High Chaparal",
+        "address": "Baldwin Lake, CA 92314"
+      },
+      "pricing": ["Free and open to the public"],
+      "summary": "Local astronomers set up telescopes at their Baldwin Lake dark site for an informal public observing night under much darker skies than the Village.",
+      "schedule": ["Arrive during the published three-hour observing window; the October party starts one hour earlier"],
+      "details": [
+        "Bring binoculars or a telescope if you have them, or look through club members’ instruments",
+        "The party is weather dependent and can be cancelled for clouds or unsafe conditions"
+      ],
+      "tips": ["Dress much warmer than the daytime forecast suggests and use a red flashlight near observing equipment"],
+      "sources": [
+        {"label": "BBVAS event calendar", "url": "https://bearvalleyastronomers.org/events/list/"},
+        {"label": "September organizer listing", "url": "https://bearvalleyastronomers.org/event/bbvas-club-star-party-open-to-the-public-8/"}
+      ],
+      "categories": ["Astronomy", "Science", "Free", "Outdoors"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "bbvas-sidewalk-astronomy",
+      "title": "BBVAS Sidewalk Astronomy in the Village",
+      "status": "confirmed",
+      "start_time": "19:00",
+      "end_time": "21:00",
+      "occurrences": [
+        {"date": "2026-09-19", "conflicts": ["plein-air-public-gallery-2026-09-19"]},
+        {"date": "2026-10-17"}
+      ],
+      "location": {
+        "name": "Barrel 33 entrance",
+        "address": "40754 Village Dr, Big Bear Lake, CA 92315"
+      },
+      "pricing": ["Free; no equipment or astronomy experience required"],
+      "summary": "A casual, walk-up astronomy night: Big Bear Valley Astronomical Society members bring telescopes into the Village and share views with the public.",
+      "details": ["Weather permitting", "Telescopes are set up outside the Barrel 33 entrance in the Village"],
+      "tips": ["Stop by at any point during the two-hour window; no reservation is required"],
+      "sources": [
+        {"label": "BBVAS event calendar", "url": "https://bearvalleyastronomers.org/events/list/"},
+        {"label": "September organizer listing", "url": "https://bearvalleyastronomers.org/event/sidewalk-astronomy-in-the-village-22/"},
+        {"label": "Official tourism listing", "url": "https://www.bigbear.com/events/sidewalk-astronomy/"}
+      ],
+      "categories": ["Astronomy", "Science", "Free", "Village"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "bbvas-public-club-meeting",
+      "title": "BBVAS Club Meeting — Public Invited",
+      "status": "confirmed",
+      "start_time": "17:30",
+      "end_time": "19:00",
+      "occurrences": [
+        {"date": "2026-09-10"},
+        {"date": "2026-10-08"}
+      ],
+      "location": {
+        "name": "Benny’s Family Restaurant",
+        "address": "41196 Big Bear Blvd, Big Bear Lake, CA 92315"
+      },
+      "pricing": ["Free meeting; the club encourages attendees to order food or a drink from the host restaurant"],
+      "summary": "The local astronomy club’s monthly public meeting is an easy way to meet telescope owners, learn what the group is observing and get involved beyond a one-off star party.",
+      "schedule": ["5:30–7:00 PM — dinner-table club meeting"],
+      "sources": [
+        {"label": "BBVAS organizer listing", "url": "https://bearvalleyastronomers.org/event/bbvas-club-meeting-public-invited-25/"},
+        {"label": "October BBVAS organizer listing", "url": "https://bearvalleyastronomers.org/event/bbvas-club-meeting-public-invited-26/"},
+        {"label": "BBVAS event calendar", "url": "https://bearvalleyastronomers.org/events/list/"}
+      ],
+      "categories": ["Astronomy", "Science", "Community", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "maple-hills-trail-work-2026",
+      "title": "Maple Hills Trail Work Evening",
+      "status": "confirmed",
+      "start": "2026-09-10T16:00",
+      "end": "2026-09-10T18:00",
+      "location": {"name": "Maple Hills trail system; meeting point sent to volunteers", "address": "Big Bear City, CA 92314"},
+      "pricing": ["Free volunteer event; tools, snacks and drinks supplied"],
+      "summary": "A compact after-work volunteer session doing dirt work, brushing and litter cleanup on the Maple Hills trails.",
+      "details": ["The precise trailhead or work site is emailed to registered volunteers", "Work can include tread repair, corridor brushing and trash removal"],
+      "tips": ["Register before the event so the organizer can send the meeting point and bring enough tools"],
+      "conflicts": ["bbvas-public-club-meeting-2026-09-10", "boozy-bingo-barrel-33-2026-09-10"],
+      "sources": [{"label": "Official event page", "url": "https://www.bigbear.com/events/maple-hills-trail-work-days-2026/"}],
+      "categories": ["Volunteering", "Trails", "Environment", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "wild-bird-walk-2026-09-12",
+      "title": "Wild Bird Walk with Chirp Nature Center",
+      "status": "confirmed",
+      "start": "2026-09-12T08:00",
+      "end": "2026-09-12T10:00",
+      "location": {"name": "Chirp Nature Center", "address": "578 Bonanza Trail, Big Bear Lake, CA 92315"},
+      "pricing": ["Free; advance signup requested"],
+      "summary": "A two-hour morning bird walk from Chirp led by local birding expert Michael Schreiner—good for learning the Valley’s resident and migrating species.",
+      "details": ["All birding experience levels are welcome", "Bring binoculars if available and dress for a cool mountain morning"],
+      "sources": [{"label": "Official event page and signup", "url": "https://www.bigbear.com/events/wild-bird-walk-with-chirp-nature-center/"}],
+      "categories": ["Birding", "Wildlife", "Nature", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "plein-air-public-gallery",
+      "title": "Artists’ Best Work en Plein Air — Public Gallery",
+      "status": "confirmed",
+      "start_time": "16:00",
+      "end_time": "21:00",
+      "occurrences": [
+        {"date": "2026-09-18"},
+        {
+          "date": "2026-09-19",
+          "start": "2026-09-19T14:00",
+          "end": "2026-09-19T21:00",
+          "conflicts": ["from-the-ground-up-forest-event-2026", "bbvas-sidewalk-astronomy-2026-09-19"]
+        }
+      ],
+      "location": {"name": "Destination Big Bear Event Center", "address": "713 Stocker Rd, Big Bear Lake, CA 92315"},
+      "pricing": ["Free public gallery admission"],
+      "summary": "The public gallery for Big Bear’s plein-air painting festival shows artists’ freshly completed landscapes while the mountain views that inspired them are still outside.",
+      "details": ["Friday gallery hours are 4:00–9:00 PM", "Saturday gallery hours are 2:00–9:00 PM"],
+      "sources": [{"label": "Official event page", "url": "https://www.bigbear.com/events/artists-best-work-en-plein-air-gallery/"}],
+      "categories": ["Art", "Gallery", "Free", "Community"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "from-the-ground-up-forest-event-2026",
+      "title": "From the Ground Up — Big Bear Valley Forest Event",
+      "status": "confirmed",
+      "start": "2026-09-19T10:00",
+      "end": "2026-09-19T14:00",
+      "location": {"name": "Big Bear Discovery Center", "address": "40971 North Shore Dr, Fawnskin, CA 92333"},
+      "pricing": ["Free public-lands event"],
+      "summary": "A National Public Lands Day community event about forest health and wildfire resilience, presented by the National Forest Foundation at the Discovery Center.",
+      "details": ["Learn how local forest projects move from planning into on-the-ground work", "Designed for public education, conversation and participation in local public lands"],
+      "conflicts": ["plein-air-public-gallery-2026-09-19"],
+      "sources": [{"label": "National Environmental Education Foundation listing", "url": "https://www.neefusa.org/npld/san-bernadino-national-forest/ground-big-bear-valley-community-event"}],
+      "categories": ["Environment", "Forest", "Science", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "climate-cocktails-fall",
+      "title": "Climate & Cocktails — Cleanup + Happy Hour",
+      "status": "details_tbd",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "occurrences": [
+        {"date": "2026-09-26"},
+        {"date": "2026-10-24"},
+        {"date": "2026-11-21"},
+        {"date": "2026-12-12"}
+      ],
+      "location": {"name": "Cleanup meeting point to be announced; happy hour at the published host venue", "address": "Big Bear Lake, CA 92315"},
+      "pricing": ["Free to participate", "Registered cleanup volunteers who sign the waiver receive a first drink during happy hour"],
+      "summary": "Care For Big Bear pairs a two-hour litter cleanup with a social happy hour—a particularly approachable way to meet local environmental volunteers.",
+      "schedule": ["1:00–3:00 PM — community cleanup", "3:30–5:00 PM — Climate & Cocktails happy hour"],
+      "details": ["The September 3:30–5:00 PM happy hour is at Barrel 33", "Cleanup meeting points and later happy-hour venues are published closer to each date"],
+      "tbd": ["Cleanup meeting points and the October, November and December happy-hour venues are not yet published"],
+      "sources": [
+        {"label": "Official recurring event page", "url": "https://www.bigbear.com/events/climate-cocktails/"},
+        {"label": "Care For Big Bear event overview", "url": "https://www.bigbear.com/care-for-big-bear/our-events/"}
+      ],
+      "categories": ["Environment", "Volunteering", "Nightlife", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "green-thumbs-forest-restoration",
+      "title": "Green Thumbs Forest Restoration Volunteers",
+      "status": "confirmed",
+      "start_time": "09:00",
+      "end_time": "15:00",
+      "occurrences": [
+        {"date": "2026-09-26"},
+        {"date": "2026-10-10"},
+        {"date": "2026-10-24", "conflicts": ["climate-cocktails-fall-2026-10-24"]}
+      ],
+      "location": {"name": "San Bernardino National Forest work site; directions sent after registration", "address": "Big Bear Valley, CA"},
+      "pricing": ["Free volunteer workday; preregistration required"],
+      "summary": "A full hands-on restoration day working with native plants and forest sites—collecting seed, planting trees, tending nurseries, weeding, watering and cleaning damaged areas.",
+      "details": ["The exact work site and directions are normally emailed about two weeks before the date", "Tasks can also include litter pickup and graffiti removal"],
+      "tips": ["Register with the listed coordinators before making plans; wear field clothes and closed-toe shoes"],
+      "sources": [{"label": "Official event page and coordinator contacts", "url": "https://www.bigbear.com/events/green-thumbs-forest-restoration-volunteers/"}],
+      "categories": ["Plants", "Environment", "Volunteering", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "alpine-zoo-twilight-safari",
+      "title": "Big Bear Alpine Zoo Twilight Safari",
+      "status": "confirmed",
+      "start_time": "17:00",
+      "end_time": "20:30",
+      "occurrences": [
+        {"date": "2026-09-20"},
+        {"date": "2026-09-27"},
+        {"date": "2026-10-11"},
+        {"date": "2026-10-18"}
+      ],
+      "location": {"name": "Big Bear Alpine Zoo", "address": "42801 Moonridge Rd, Big Bear Lake, CA 92315"},
+      "pricing": ["$30 per person, online purchase only", "Each one-hour tour has limited capacity"],
+      "summary": "A guided after-hours walk focused on the zoo’s nocturnal residents, with a much better chance of seeing evening animal behavior than during a normal daytime loop.",
+      "schedule": ["One-hour tours begin at 5:00, 5:30, 6:00, 6:30, 7:00 and 7:30 PM", "The calendar block covers all six departure windows"],
+      "details": ["Hot chocolate and cookies are included", "The zoo can cancel for weather or other circumstances with at least 24 hours’ notice"],
+      "tips": ["Choose and purchase a specific tour time online; this is not a walk-up general-admission night"],
+      "sources": [{"label": "Official zoo Twilight Safari page", "url": "https://bigbearzoo.org/twilight-safari/"}],
+      "categories": ["Wildlife", "Zoo", "Distinctive", "Paid"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "big-bear-lake-farmers-market",
+      "title": "Big Bear Lake Farmers Market",
+      "status": "confirmed",
+      "start_time": "15:00",
+      "end_time": "19:00",
+      "occurrences": [
+        {"date": "2026-09-04"},
+        {"date": "2026-09-11"},
+        {"date": "2026-09-18", "conflicts": ["plein-air-public-gallery-2026-09-18"]},
+        {"date": "2026-09-25"},
+        {"date": "2026-10-02"},
+        {"date": "2026-10-09"},
+        {"date": "2026-10-16"},
+        {"date": "2026-10-23"}
+      ],
+      "location": {"name": "Ski Beach Park", "address": "41216 Park Ave, Big Bear Lake, CA 92315"},
+      "pricing": ["Free admission; produce, prepared food and market goods sold by vendors"],
+      "summary": "The Friday afternoon market is a useful recurring stop for fresh produce, food and local vendors without requiring a ticketed event commitment.",
+      "schedule": ["3:00–7:00 PM — conservative planning window used because the official listing conflicts between 3–8 PM and 4–7 PM"],
+      "tbd": ["The organizer’s own page contains two different hour ranges; arrive by 7:00 PM rather than relying on the later close"],
+      "sources": [{"label": "Official event page", "url": "https://www.bigbear.com/events/big-bear-lake-farmers-market1/"}],
+      "categories": ["Farmers Market", "Food", "Community", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "snow-summit-bike-park-closing-day-2026",
+      "title": "Snow Summit Bike Park Closing Day",
+      "status": "confirmed",
+      "start": "2026-10-04T09:00",
+      "end": "2026-10-04T16:00",
+      "location": {"name": "Snow Summit", "address": "880 Summit Blvd, Big Bear Lake, CA 92315"},
+      "pricing": ["Free parking and free youth activity at the base area", "Bike-park lift access requires a valid pass or day ticket"],
+      "summary": "The final day of Snow Summit’s 2026 bike-park season, with lifts scheduled from 9:00 AM to 4:00 PM and a free youth activity at the base.",
+      "schedule": ["9:00 AM–4:00 PM — final Snow Summit Bike Park operations", "12:00–2:00 PM — free youth activity at the base"],
+      "details": ["Snow Valley’s bike park is scheduled to continue through October 25", "Operations remain subject to weather and conditions"],
+      "tips": ["Treat 4:00 PM as the lift close and load early enough for a final lap"],
+      "sources": [{"label": "Official resort event page", "url": "https://www.bigbearmountainresort.com/things-to-do/events/summit-bike-park-closing-day"}],
+      "categories": ["Mountain Biking", "Closing Day", "Outdoors"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "barrel-33-high-alti-tuesday",
+      "title": "Afternoon Acoustic with Brad at Barrel 33",
+      "status": "details_tbd",
+      "start_time": "13:30",
+      "end_time": "15:30",
+      "occurrences": [
+        {"date": "2026-09-01"},
+        {"date": "2026-09-08"},
+        {"date": "2026-09-15"},
+        {"date": "2026-09-22"},
+        {"date": "2026-09-29"}
+      ],
+      "location": {"name": "Barrel 33", "address": "40754 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["No cover charge is advertised; food and drinks are optional at menu prices"],
+      "summary": "A low-key Tuesday afternoon of acoustic favorites from Brad at Barrel 33.",
+      "details": ["The venue calendar explicitly lists the five September dates", "The current venue time is 1:30–3:30 PM"],
+      "tbd": ["The venue publishes no admission fee but does not explicitly promise free entry"],
+      "sources": [{"label": "Barrel 33 organizer calendar", "url": "https://www.barrel33bigbear.com/events-list"}],
+      "categories": ["Live Music", "Nightlife", "Village", "Free or Low Cost"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "barrel-33-live-music",
+      "title": "Live Music at Barrel 33",
+      "status": "details_tbd",
+      "start_time": "17:00",
+      "end_time": "20:00",
+      "occurrences": [
+        {"date": "2026-09-04", "title": "Katie Jones at Barrel 33", "conflicts": ["big-bear-lake-farmers-market-2026-09-04"]},
+        {
+          "date": "2026-09-05",
+          "title": "Austin Rogers at Barrel 33",
+          "start": "2026-09-05T16:00",
+          "end": "2026-09-05T19:00",
+          "conflicts": ["music-in-the-mountains-bowie-elton-2026"]
+        },
+        {
+          "date": "2026-09-06",
+          "title": "Dana Larson at Barrel 33",
+          "start": "2026-09-06T14:30",
+          "end": "2026-09-06T17:30"
+        },
+        {"date": "2026-09-11", "title": "Matt & Emily at Barrel 33", "conflicts": ["big-bear-lake-farmers-market-2026-09-11"]},
+        {"date": "2026-09-12", "title": "Local Legends at Barrel 33"},
+        {"date": "2026-09-17", "title": "Tanner Martin at Barrel 33", "conflicts": ["mountain-top-trivia-stillwells-2026-09-17"]},
+        {"date": "2026-09-18", "title": "Sergio Snow at Barrel 33", "conflicts": ["big-bear-lake-farmers-market-2026-09-18", "plein-air-public-gallery-2026-09-18"]},
+        {"date": "2026-09-19", "title": "Sergio Snow at Barrel 33", "conflicts": ["plein-air-public-gallery-2026-09-19", "bbvas-sidewalk-astronomy-2026-09-19"]},
+        {"date": "2026-09-25", "title": "Matt & Emily at Barrel 33", "conflicts": ["big-bear-lake-farmers-market-2026-09-25"]},
+        {"date": "2026-09-26", "title": "The Blackwells at Barrel 33"},
+        {
+          "date": "2026-09-30",
+          "title": "Locals Night at Barrel 33",
+          "start": "2026-09-30T17:00",
+          "end": "2026-09-30T19:00",
+          "pricing": ["No cover charge is advertised", "Locals receive 15% off food and drinks"]
+        },
+        {"date": "2026-10-02", "title": "Ryan Bieber at Barrel 33", "conflicts": ["big-bear-lake-farmers-market-2026-10-02"]},
+        {"date": "2026-10-03", "title": "Ryan Bieber at Barrel 33"}
+      ],
+      "location": {"name": "Barrel 33", "address": "40754 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["No ticket or cover charge is advertised", "Food, beer and wine are optional at menu prices"],
+      "summary": "Barrel 33’s published September and early-October lineup supplies an unusually useful run of casual local live music in the Village.",
+      "schedule": ["Most sets are 5:00–8:00 PM; the calendar uses the organizer’s exact time for each date"],
+      "tbd": ["The official listing publishes no admission fee, but does not explicitly promise free entry; verify if a particular set becomes a special ticketed show"],
+      "sources": [{"label": "Barrel 33 organizer calendar", "url": "https://www.barrel33bigbear.com/events-list"}],
+      "categories": ["Live Music", "Nightlife", "Village", "Free or Low Cost"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "boozy-bingo-barrel-33",
+      "title": "Boozy Bingo Night at Barrel 33",
+      "status": "confirmed",
+      "start_time": "17:00",
+      "end_time": "19:00",
+      "occurrences": [
+        {"date": "2026-09-10", "conflicts": ["maple-hills-trail-work-2026", "bbvas-public-club-meeting-2026-09-10"]},
+        {"date": "2026-09-24"}
+      ],
+      "location": {"name": "Barrel 33", "address": "40754 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["$20 admission includes the first beverage"],
+      "summary": "A two-hour wine-bar bingo night with drinks, prizes and playful competition—right at the top of the easy-inclusion price range.",
+      "details": ["Advance ticket link is provided on the event page", "Village public parking lots are available"],
+      "sources": [{"label": "Official event page and tickets", "url": "https://www.bigbear.com/events/boozy-bingo-night/"}],
+      "categories": ["Bingo", "Nightlife", "Village", "Paid"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "mountain-top-trivia-stillwells",
+      "title": "Happy Hour Trivia at Stillwells",
+      "status": "confirmed",
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "occurrences": [
+        {"date": "2026-09-03", "conflicts": ["summer-concert-reggae-locals-2026"]},
+        {"date": "2026-09-17", "conflicts": ["barrel-33-live-music-2026-09-17"]},
+        {"date": "2026-10-01"},
+        {"date": "2026-10-15"}
+      ],
+      "location": {"name": "Stillwells Restaurant", "address": "40650 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Free to play; food and drinks are optional"],
+      "summary": "A live-hosted, six-round general-knowledge trivia night with a relaxed bar atmosphere, teams of two to six and prizes for the top teams.",
+      "schedule": ["6:00 PM — game starts", "About 1.5–2 hours — published game length"],
+      "details": ["Solo players can join a team", "Includes halftime, lightning rounds and bonus points"],
+      "sources": [{"label": "Official Mountain Top Trivia schedule", "url": "https://mountaintoptrivia.com/"}],
+      "categories": ["Trivia", "Nightlife", "Village", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "mountain-top-trivia-bowling-barn-2026",
+      "title": "Family Trivia at The Bowling Barn",
+      "status": "confirmed",
+      "start": "2026-09-23T18:00",
+      "end": "2026-09-23T20:00",
+      "location": {"name": "The Bowling Barn", "address": "40625 Big Bear Blvd, Big Bear Lake, CA 92315"},
+      "pricing": ["Free to play; bowling, food and drinks are optional"],
+      "summary": "A special family-friendly edition of Mountain Top Trivia at the Bowling Barn, with the same live-hosted, team-based format as the bar nights.",
+      "schedule": ["6:00 PM — game starts", "Allow about 1.5–2 hours"],
+      "sources": [{"label": "Official Mountain Top Trivia schedule", "url": "https://mountaintoptrivia.com/"}],
+      "categories": ["Trivia", "Family", "Free", "Community"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "showtime-collision-grand-opening-2026",
+      "title": "Showtime Collision Grand Opening + Car Display",
+      "status": "confirmed",
+      "start": "2026-09-12T11:00",
+      "end": "2026-09-12T15:00",
+      "location": {"name": "Showtime Collision", "address": "41202 Big Bear Blvd, Big Bear Lake, CA 92315"},
+      "pricing": ["Free and open to the public"],
+      "summary": "A community grand opening with a car display, a Recycled Rides vehicle giveaway, raffle, kids’ activities, food and drinks.",
+      "details": ["The donated Recycled Rides vehicle is presented during the event", "The car component and free family activities make this more useful than a routine ribbon cutting"],
+      "sources": [{"label": "Big Bear Chamber official listing", "url": "https://business.bigbearchamber.com/events/details/grand-opening-ribbon-cutting-showtime-collision-29214"}],
+      "categories": ["Cars", "Community", "Family", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "local-eagles-tesla-coils-2026",
+      "title": "Local Eagles and Tesla Coils — Historical Society Talk",
+      "status": "confirmed",
+      "start": "2026-09-10T19:00",
+      "end": "2026-09-10T20:30",
+      "location": {"name": "Bridges Presbyterian Fellowship", "address": "579 Knickerbocker Rd, Big Bear Lake, CA 92315"},
+      "pricing": ["Free and open to everyone; light refreshments provided"],
+      "summary": "Trish Green and Owen Phairis present the wonderfully odd combination of local eagles and Tesla coils at the Historical Society’s public September meeting.",
+      "schedule": ["7:00–8:30 PM — meeting and presentation"],
+      "details": ["The Society’s meetings combine Valley history and guest presentations", "Public attendance does not require membership"],
+      "conflicts": ["bbvas-public-club-meeting-2026-09-10", "boozy-bingo-barrel-33-2026-09-10"],
+      "sources": [
+        {"label": "Historical Society 2026 program", "url": "https://www.bigbearvalleyhistory.com/big-bear-valley-historical-society-info"},
+        {"label": "Big Bear Chamber time and admission listing", "url": "https://business.bigbearchamber.com/events/details/big-bear-valley-historical-society-meeting-and-presentation-09-10-2026-28978"}
+      ],
+      "categories": ["Science", "Wildlife", "Local History", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "boo-at-the-zoo-2026",
+      "title": "Boo at the Zoo",
+      "status": "confirmed",
+      "start": "2026-10-31T10:00",
+      "end": "2026-10-31T15:00",
+      "location": {"name": "Big Bear Alpine Zoo", "address": "42801 Moonridge Rd, Big Bear Lake, CA 92315"},
+      "pricing": ["Included with general admission: $17 adult, $12 senior or youth age 3–12, free age 2 and under", "Free parking"],
+      "summary": "A Halloween zoo day with costumes, trick-or-treating and the Alpine Zoo’s rescued wildlife, all included in ordinary admission.",
+      "schedule": ["10:00 AM–3:00 PM — Boo at the Zoo activities"],
+      "details": ["Costumes are encouraged", "The event is included rather than sold as a separate premium ticket"],
+      "sources": [
+        {"label": "Official event listing", "url": "https://www.bigbear.com/events/boo-at-the-zoo/"},
+        {"label": "Zoo admission and current address", "url": "https://bigbearzoo.org/plan-a-visit/"}
+      ],
+      "categories": ["Wildlife", "Zoo", "Halloween", "Family"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "oktobergfest-european-tuner-getaway-2026",
+      "title": "Oktobergfest European Tuner Car Getaway — Saturday Show",
+      "status": "details_tbd",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T18:00",
+      "location": {"name": "The Lodge at Big Bear Lake", "address": "40650 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Expected to be free for spectators based on the local car-show pattern", "Advance registration is required only for participating vehicles"],
+      "summary": "A Village display of European tuner cars during an October 9–11 owner getaway; Saturday is the public-facing six-hour car-show window.",
+      "details": ["The official listing specifically publishes a registration requirement for vehicles", "The user confirms Big Bear car shows are normally free for spectators, so this stays as a reminder even though the listing omits spectator wording"],
+      "tbd": ["The organizer has not explicitly published the spectator price; verify on the live page before making a special trip"],
+      "conflicts": ["green-thumbs-forest-restoration-2026-10-10"],
+      "sources": [{"label": "Official event page", "url": "https://www.bigbear.com/events/oktobergfest-european-tuner-car-getaway/"}],
+      "categories": ["Car Show", "Village", "Likely Free", "TBD"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "plaid-to-the-bone-the-cave-2026",
+      "title": "Plaid to the Bone at The Cave",
+      "status": "confirmed",
+      "start": "2026-10-09T20:00",
+      "end": "2026-10-09T22:00",
+      "location": {"name": "The Cave", "address": "40789 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Free admission"],
+      "summary": "A free ’90s-rock night in the Village from Plaid to the Bone.",
+      "schedule": ["8:00–10:00 PM — performance"],
+      "sources": [{"label": "The Cave organizer page", "url": "https://thecavebbl.com/event/plaid-to-the-bone/"}],
+      "categories": ["Live Music", "Rock", "Nightlife", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "night-time-lantern-festival-2026",
+      "title": "Big Bear Valley Museum Night-Time Lantern Festival — Time TBD",
+      "status": "details_tbd",
+      "all_day": true,
+      "start_date": "2026-10-10",
+      "location": {"name": "Big Bear Valley Historical Museum", "address": "800 Greenway Dr, Big Bear City, CA 92314"},
+      "pricing": ["Price is not yet published; keep as a reminder and check the museum announcement"],
+      "summary": "A one-night lantern event at the historical museum—exactly the sort of unusual mountain-town program worth remembering even while its hour and theme remain unpublished.",
+      "tbd": ["Start/end time, theme, admission price and reservation details are all still TBD"],
+      "conflicts": [{"note": "Same-day options include the European tuner car show and Dark-Sky Star Party."}],
+      "sources": [{"label": "Historical Society special-events calendar", "url": "https://www.bigbearvalleyhistory.com/about-1"}],
+      "categories": ["Local History", "Unusual", "Nighttime", "TBD"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "hampton-taco-tuesday",
+      "title": "Taco Tuesday at Hampton Inn / Home2 Suites",
+      "status": "details_tbd",
+      "start_time": "17:00",
+      "end_time": "19:00",
+      "occurrences": [
+        {"date": "2026-09-01"},
+        {"date": "2026-09-08"},
+        {"date": "2026-09-15"},
+        {"date": "2026-09-22"},
+        {"date": "2026-09-29"},
+        {"date": "2026-10-06"},
+        {"date": "2026-10-13"},
+        {"date": "2026-10-20"},
+        {"date": "2026-10-27"}
+      ],
+      "location": {"name": "Hampton Inn / Home2 Suites by Hilton", "address": "41820 Big Bear Blvd, Big Bear Lake, CA 92315"},
+      "pricing": ["No admission or cover price is published; tacos and drinks are sold separately"],
+      "summary": "A recurring Tuesday taco evening at the Hampton Inn / Home2 Suites—an easy, likely inexpensive themed-night reminder.",
+      "schedule": ["5:00–7:00 PM — Taco Tuesday"],
+      "tbd": ["Menu prices and whether any part of the event is limited to hotel guests are not stated; the public tourism listing invites visitors to attend"],
+      "sources": [{"label": "Official recurring event page", "url": "https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/"}],
+      "categories": ["Themed Night", "Food", "Nightlife", "TBD"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "hampton-sunday-latin-night",
+      "title": "Sunday Latin Night + Live DJ at Hampton Inn / Home2 Suites",
+      "status": "details_tbd",
+      "start_time": "18:00",
+      "end_time": "21:00",
+      "occurrences": [
+        {"date": "2026-09-06"},
+        {"date": "2026-09-13"},
+        {"date": "2026-09-20", "conflicts": ["alpine-zoo-twilight-safari-2026-09-20"]},
+        {"date": "2026-09-27", "conflicts": ["alpine-zoo-twilight-safari-2026-09-27"]},
+        {"date": "2026-10-04"},
+        {"date": "2026-10-11", "conflicts": ["alpine-zoo-twilight-safari-2026-10-11"]},
+        {"date": "2026-10-18", "conflicts": ["alpine-zoo-twilight-safari-2026-10-18"]},
+        {"date": "2026-10-25"}
+      ],
+      "location": {"name": "Hampton Inn / Home2 Suites by Hilton", "address": "41820 Big Bear Blvd, Big Bear Lake, CA 92315"},
+      "pricing": ["No admission or cover price is published; likely free or inexpensive, with food and drinks sold separately"],
+      "summary": "A recurring Sunday Latin night with a live DJ—one of the few clearly published themed dance nights outside Wyatt’s.",
+      "schedule": ["6:00–9:00 PM — Latin Night with live DJ"],
+      "tbd": ["The page states an every-Sunday cadence but its generated upcoming-date list displays only Tuesdays; verify the Sunday session before going"],
+      "sources": [{"label": "Official recurring event page", "url": "https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/"}],
+      "categories": ["Latin Music", "Dancing", "Themed Night", "TBD"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "snow-summit-darden-2026",
+      "title": "Darden — Free Snow Summit Deck Concert",
+      "status": "confirmed",
+      "start": "2026-09-05T12:00",
+      "end": "2026-09-05T15:00",
+      "location": {"name": "Snow Summit Coca-Cola Deck", "address": "880 Summit Blvd, Big Bear Lake, CA 92315"},
+      "pricing": ["Free base-area concert"],
+      "summary": "Darden plays a free afternoon set on Snow Summit’s base deck—separate from the paid Skyline dinner package.",
+      "schedule": ["12:00–3:00 PM — live music"],
+      "conflicts": ["cool-run-2026", "big-bear-grizzly-100-2026"],
+      "sources": [{"label": "Snow Summit live-entertainment schedule", "url": "https://www.bigbearmountainresort.com/things-to-do/live-entertainment-schedule"}],
+      "categories": ["Live Music", "Outdoors", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "snow-summit-michael-gonzales-2026",
+      "title": "Michael Gonzales — Free Snow Summit Deck Concert",
+      "status": "confirmed",
+      "start": "2026-09-06T12:00",
+      "end": "2026-09-06T15:00",
+      "location": {"name": "Snow Summit Coca-Cola Deck", "address": "880 Summit Blvd, Big Bear Lake, CA 92315"},
+      "pricing": ["Free base-area concert"],
+      "summary": "Michael Gonzales plays a free Sunday-afternoon set on the Snow Summit base deck.",
+      "schedule": ["12:00–3:00 PM — live music"],
+      "sources": [{"label": "Snow Summit live-entertainment schedule", "url": "https://www.bigbearmountainresort.com/things-to-do/live-entertainment-schedule"}],
+      "categories": ["Live Music", "Outdoors", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "wyatts-rodeo-kickoff-party-2026",
+      "title": "Wyatt’s Rodeo Kick-Off Party + Free Line Dancing",
+      "status": "confirmed",
+      "start": "2026-09-03T16:00",
+      "end": "2026-09-03T22:00",
+      "location": {"name": "Wyatt’s Grill & Saloon", "address": "42900 Big Bear Blvd, Big Bear Lake, CA 92315"},
+      "pricing": ["Free admission", "Free line-dance lessons", "All ages; food and drinks sold separately"],
+      "summary": "Wyatt’s dated fall event combines free line-dance lessons with live music, rodeo-themed contests and an all-ages country-night atmosphere.",
+      "schedule": ["4:00 PM — gates open", "6:00 PM — bands and entertainment begin", "10:00 PM — published close"],
+      "details": ["Free lessons are led by Jennie", "Food and drinks are available from Wyatt’s"],
+      "conflicts": ["summer-concert-reggae-locals-2026", "mountain-top-trivia-stillwells-2026-09-03"],
+      "sources": [
+        {"label": "Official event listing", "url": "https://www.bigbear.com/events/rodeo-kick-off-party/"},
+        {"label": "Wyatt’s admission and venue policies", "url": "https://bigbearevents.com/wyatts/"}
+      ],
+      "categories": ["Line Dancing", "Country", "Live Music", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "flannel-rock-the-cave-2026",
+      "title": "Flannel Rock at The Cave",
+      "status": "confirmed",
+      "start": "2026-09-05T20:00",
+      "end": "2026-09-05T21:30",
+      "location": {"name": "The Cave", "address": "40789 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Free admission"],
+      "summary": "A free five-piece grunge and ’90s-rock set in the Village.",
+      "schedule": ["8:00–9:30 PM — performance"],
+      "conflicts": ["bbvas-dark-sky-star-party-2026-09-05", "music-in-the-mountains-bowie-elton-2026", "rodeo-night-one-2026"],
+      "sources": [{"label": "The Cave organizer page", "url": "https://thecavebbl.com/event/flannel-rock/"}],
+      "categories": ["Live Music", "Grunge", "Rock", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "country-rose-the-cave-2026",
+      "title": "Country Rose at The Cave",
+      "status": "confirmed",
+      "start": "2026-09-19T19:00",
+      "end": "2026-09-19T21:00",
+      "location": {"name": "The Cave", "address": "40789 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Free admission"],
+      "summary": "Chris Rose plays a free country-cover set at The Cave.",
+      "schedule": ["7:00–9:00 PM — performance"],
+      "conflicts": ["bbvas-sidewalk-astronomy-2026-09-19", "plein-air-public-gallery-2026-09-19", "barrel-33-live-music-2026-09-19"],
+      "sources": [{"label": "The Cave organizer page", "url": "https://thecavebbl.com/event/country-rose/"}],
+      "categories": ["Live Music", "Country", "Nightlife", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "jam-sessions-the-cave-2026-09-20",
+      "title": "Jam Sessions at The Cave",
+      "status": "confirmed",
+      "start": "2026-09-20T18:30",
+      "end": "2026-09-20T22:00",
+      "location": {"name": "The Cave", "address": "40789 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Free admission; audience welcome"],
+      "summary": "A participatory free jam where local musicians can sign up, meet and play while everyone else listens from the room.",
+      "schedule": ["6:30–10:00 PM — musician signups and open jam"],
+      "conflicts": ["alpine-zoo-twilight-safari-2026-09-20", "hampton-sunday-latin-night-2026-09-20"],
+      "sources": [{"label": "The Cave organizer page", "url": "https://thecavebbl.com/event/jam-sessions-the-cave-2/"}],
+      "categories": ["Live Music", "Participation", "Nightlife", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "firetribe-pre-party-the-cave-2026",
+      "title": "FireTribe Pre-Party at The Cave",
+      "status": "confirmed",
+      "start": "2026-10-03T20:00",
+      "end": "2026-10-04T02:00",
+      "location": {"name": "The Cave", "address": "40789 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Free admission"],
+      "summary": "A free late-night DJ, LED and flow-prop dance party—unusual even by Big Bear nightlife standards.",
+      "schedule": ["Saturday 8:00 PM–Sunday 2:00 AM — DJs, LEDs and dancing"],
+      "details": ["LED and non-fire flow props are welcome", "Fire props are not allowed inside the venue"],
+      "sources": [{"label": "The Cave organizer page", "url": "https://thecavebbl.com/event/firetribe-pre-party-event/"}],
+      "categories": ["DJ", "Dancing", "Unusual", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "hurrikane-the-cave-2026",
+      "title": "Hurrikane — Free Scorpions Tribute at The Cave",
+      "status": "confirmed",
+      "start": "2026-10-17T20:00",
+      "end": "2026-10-17T22:30",
+      "location": {"name": "The Cave", "address": "40789 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Free admission"],
+      "summary": "A free Scorpions and German hard-rock tribute in the Village.",
+      "schedule": ["8:00–10:30 PM — performance"],
+      "conflicts": ["bbvas-sidewalk-astronomy-2026-10-17"],
+      "sources": [{"label": "The Cave organizer page", "url": "https://thecavebbl.com/event/hurrikane/"}],
+      "categories": ["Live Music", "Hard Rock", "Nightlife", "Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "big-bair-takeover-2026",
+      "title": "Big Bair Takeover — Classic Volkswagen Car Show",
+      "status": "details_tbd",
+      "start": "2026-10-03T09:00",
+      "end": "2026-10-03T16:00",
+      "location": {"name": "The Lodge at Big Bear Lake", "address": "40650 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Expected to be free for spectators based on Big Bear’s normal car-show pattern; no admission price is published"],
+      "summary": "A family-oriented classic Volkswagen show with trophies, prizes and raffles at The Lodge.",
+      "schedule": ["9:00 AM–4:00 PM — car show"],
+      "tbd": ["The organizer listing does not explicitly state spectator admission; verify before making a special trip"],
+      "sources": [{"label": "Official event page", "url": "https://www.bigbear.com/events/big-bair-takeover/"}],
+      "categories": ["Car Show", "Volkswagen", "Likely Free", "TBD"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "summit-series-best-whip-2026",
+      "title": "Summit Series Best Whip",
+      "status": "confirmed",
+      "start": "2026-10-03T10:00",
+      "end": "2026-10-03T16:00",
+      "location": {"name": "Snow Summit", "address": "880 Summit Blvd, Big Bear Lake, CA 92315"},
+      "pricing": ["Rider registration is free and available onsite", "Useful spectator access requires a season pass, Bike Park day ticket or Scenic Sky Chair ticket"],
+      "summary": "A bike-park style contest focused on riders throwing their best sideways whips—especially relevant one day before Snow Summit’s closing day.",
+      "details": ["Spectating from the course requires mountain access", "Operations remain subject to weather and trail conditions"],
+      "sources": [{"label": "Official resort event page", "url": "https://www.bigbearmountainresort.com/things-to-do/events/summit-series-2"}],
+      "categories": ["Mountain Biking", "Competition", "Outdoors"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "moonridge-plein-air-gallery-2026",
+      "title": "Moonridge Corridor en Plein Air Gallery",
+      "status": "details_tbd",
+      "start": "2026-10-04T10:00",
+      "end": "2026-10-04T14:00",
+      "location": {"name": "Destination Big Bear Event Center", "address": "713 Stocker Rd, Big Bear Lake, CA 92315"},
+      "pricing": ["Public invited; no admission fee or ticket requirement is published"],
+      "summary": "A four-hour public gallery of fresh plein-air work focused on the Moonridge Corridor.",
+      "tbd": ["The official page invites the public but does not explicitly label admission free"],
+      "sources": [{"label": "Official event page", "url": "https://www.bigbear.com/events/moonridge-corridor-en-plein-air-gallery/"}],
+      "categories": ["Art", "Gallery", "Likely Free", "TBD"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "big-bear-plein-air-competition-gallery",
+      "title": "Big Bear Plein Air Competition Gallery",
+      "status": "details_tbd",
+      "start_time": "14:00",
+      "end_time": "20:00",
+      "occurrences": [
+        {"date": "2026-10-14"},
+        {"date": "2026-10-15"},
+        {"date": "2026-10-16", "conflicts": ["big-bear-lake-farmers-market-2026-10-16"]},
+        {"date": "2026-10-17", "conflicts": ["bbvas-sidewalk-astronomy-2026-10-17", "hurrikane-the-cave-2026"]},
+        {
+          "date": "2026-10-18",
+          "title": "Big Bear Plein Air Competition Gallery + Awards",
+          "start": "2026-10-18T10:00",
+          "end": "2026-10-18T12:00"
+        }
+      ],
+      "location": {"name": "Destination Big Bear Event Center", "address": "713 Stocker Rd, Big Bear Lake, CA 92315"},
+      "pricing": ["Public invited; no admission fee or ticket requirement is published", "Artwork is available to purchase"],
+      "summary": "The complete public exhibition for the 2026 Big Bear Plein Air competition, ending with a Sunday awards ceremony.",
+      "schedule": ["October 14–17: 2:00–8:00 PM gallery", "October 18: 10:00 AM–noon gallery and awards"],
+      "tbd": ["The official page invites the public but does not explicitly label admission free"],
+      "sources": [
+        {"label": "Official competition page", "url": "https://www.bigbear.com/pleinair/"},
+        {"label": "Official event listing", "url": "https://www.bigbear.com/events/plein-air-art-competition/"}
+      ],
+      "categories": ["Art", "Gallery", "Community", "Likely Free"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "lions-club-free-pumpkin-patch-2026",
+      "title": "Big Bear Lions Club Free Pumpkin Patch — Time TBD",
+      "status": "details_tbd",
+      "all_day": true,
+      "start_date": "2026-10-24",
+      "location": {"name": "Snow Summit base area", "address": "880 Summit Blvd, Big Bear Lake, CA 92315"},
+      "pricing": ["Free; finer 2026 participation details are not yet published"],
+      "summary": "The Lions Club’s free community pumpkin patch at Snow Summit is worth saving now even while the dedicated detail page and exact hours are missing.",
+      "tbd": ["Exact hours, age limits for free pumpkins and the 2026 activity lineup"],
+      "conflicts": ["green-thumbs-forest-restoration-2026-10-24", "climate-cocktails-fall-2026-10-24"],
+      "sources": [{"label": "Official event-index listing", "url": "https://www.bigbear.com/events/"}],
+      "categories": ["Halloween", "Community", "Family", "Free", "TBD"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "halloween-in-the-village-2026",
+      "title": "Halloween in the Village — Details TBD",
+      "status": "details_tbd",
+      "all_day": true,
+      "start_date": "2026-10-31",
+      "location": {"name": "The Village at Big Bear Lake", "address": "Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Likely free community event; 2026 details are not yet published"],
+      "summary": "A calendar reminder for the Village’s public Halloween celebration while the organizer finishes the 2026 hours and activity list.",
+      "tbd": ["Exact hours, entertainment, trick-or-treating details and final admission statement"],
+      "conflicts": ["boo-at-the-zoo-2026"],
+      "sources": [{"label": "Official Big Bear Halloween page", "url": "https://www.bigbear.com/events/halloween/"}],
+      "categories": ["Halloween", "Village", "Community", "Likely Free", "TBD"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "big-bear-lake-oktoberfest-fall",
+      "title": "Big Bear Lake Oktoberfest",
+      "status": "confirmed",
+      "start_time": "13:00",
+      "end_time": "23:00",
+      "occurrences": [
+        {"date": "2026-09-19", "title": "Big Bear Lake Oktoberfest — Saturday"},
+        {
+          "date": "2026-09-20",
+          "title": "Big Bear Lake Oktoberfest — Sunday Family Day",
+          "start": "2026-09-20T12:00",
+          "end": "2026-09-20T18:00"
+        },
+        {"date": "2026-09-26", "title": "Big Bear Lake Oktoberfest — Saturday"},
+        {
+          "date": "2026-09-27",
+          "title": "Big Bear Lake Oktoberfest — Sunday Family Day",
+          "start": "2026-09-27T12:00",
+          "end": "2026-09-27T18:00"
+        },
+        {
+          "date": "2026-10-02",
+          "title": "Big Bear Lake Oktoberfest — Friday Night",
+          "start": "2026-10-02T17:00",
+          "end": "2026-10-02T23:00"
+        },
+        {
+          "date": "2026-10-03",
+          "title": "Big Bear Lake Oktoberfest — Saturday",
+          "start": "2026-10-03T13:00",
+          "end": "2026-10-04T00:00"
+        },
+        {
+          "date": "2026-10-04",
+          "title": "Big Bear Lake Oktoberfest — Sunday Family Day",
+          "start": "2026-10-04T12:00",
+          "end": "2026-10-04T18:00"
+        },
+        {
+          "date": "2026-10-09",
+          "title": "Big Bear Lake Oktoberfest — Beer-Tasting Friday",
+          "start": "2026-10-09T17:00",
+          "end": "2026-10-09T23:00"
+        },
+        {
+          "date": "2026-10-10",
+          "title": "Big Bear Lake Oktoberfest — Saturday",
+          "start": "2026-10-10T13:00",
+          "end": "2026-10-11T00:00"
+        },
+        {
+          "date": "2026-10-11",
+          "title": "Big Bear Lake Oktoberfest — Sunday Family Day",
+          "start": "2026-10-11T12:00",
+          "end": "2026-10-11T18:00"
+        },
+        {
+          "date": "2026-10-16",
+          "title": "Big Bear Lake Oktoberfest — Friday Night",
+          "start": "2026-10-16T17:00",
+          "end": "2026-10-16T23:00"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Big Bear Lake Oktoberfest — Saturday",
+          "start": "2026-10-17T13:00",
+          "end": "2026-10-18T00:00"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "Big Bear Lake Oktoberfest — Sunday Family Day",
+          "start": "2026-10-18T12:00",
+          "end": "2026-10-18T18:00"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "Big Bear Lake Oktoberfest — Beer-Tasting Friday",
+          "start": "2026-10-23T17:00",
+          "end": "2026-10-23T23:00"
+        },
+        {
+          "date": "2026-10-24",
+          "title": "Big Bear Lake Oktoberfest — Saturday",
+          "start": "2026-10-24T13:00",
+          "end": "2026-10-25T00:00"
+        },
+        {
+          "date": "2026-10-25",
+          "title": "Big Bear Lake Oktoberfest — Sunday Family Day",
+          "start": "2026-10-25T12:00",
+          "end": "2026-10-25T18:00"
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Big Bear Lake Oktoberfest — Spooky Spirits Friday",
+          "start": "2026-10-30T17:00",
+          "end": "2026-10-30T23:00"
+        }
+      ],
+      "location": {"name": "Big Bear Lake Convention Center", "address": "42900 Big Bear Blvd, Big Bear Lake, CA 92315"},
+      "pricing": [
+        "Ordinary adult general admission is $18.03 Sundays, $28.68 Fridays/After Dark, and about $28.68–$39.33 Saturdays depending on date and entry time",
+        "Children age 12 and under are free Sundays; other youth/senior prices vary by weekend",
+        "Preferred/VIP packages over $50 are intentionally not recommended"
+      ],
+      "summary": "Big Bear’s long-running German festival mixes German and American bands, food and beer, stein holding, log sawing, beer races, a mechanical bull, games and kids activities.",
+      "schedule": [
+        "September Saturdays: 1:00–11:00 PM",
+        "October Fridays: 5:00–11:00 PM",
+        "October Saturdays: 1:00 PM–midnight",
+        "All Sundays: noon–6:00 PM; children’s contests around 3:00 PM",
+        "October 9, 23 and 30: beer tasting 7:00–9:00 PM inside the festival"
+      ],
+      "details": ["Friday nights are indoors and lower-crowd", "Saturday After Dark entry begins at 7:30 PM", "America’s Heroes weekends offer free general admission to eligible military/veterans, firefighters, law enforcement and frontline healthcare workers"],
+      "tips": ["Buy only the ordinary general-admission tier unless the premium seating itself is worth the large surcharge", "Tickets are rain-or-shine, date-specific and nonrefundable"],
+      "sources": [
+        {"label": "Official dates, hours and policies", "url": "https://bigbearevents.com/oktoberfest/tickets-3/"},
+        {"label": "Official 2026 pricing and festival overview", "url": "https://www.bigbear.com/events/oktoberfest/"},
+        {"label": "Official entertainment schedule", "url": "https://bigbearevents.com/oktoberfest/2024-oktoberfest-entertainment-schedule/"}
+      ],
+      "categories": ["Festival", "Live Music", "German", "Family"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
       "sequence": 0
     }
   ]

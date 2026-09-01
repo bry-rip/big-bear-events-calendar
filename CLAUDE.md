@@ -11,11 +11,34 @@ Read `README.md` for the full workflow. The short version:
 - Every event has a **permanent unique `id`**; never change an existing ID (Apple
   Calendar would duplicate the event). Content changes must bump `sequence` and
   `last_modified`, and refresh `last_verified` — the validator enforces this.
+- **Dropping an event requires the retirement workflow** in `README.md`: delete it,
+  strip every `conflicts` reference to it, add it to the top-level `retired` list, and
+  bump `sequence`/`last_modified` on each event whose conflicts changed. Plain deletion
+  fails validation by design.
 - After any change run all three: `python3 scripts/generate_calendar.py`,
   `python3 scripts/validate_calendar.py`, `python3 -m unittest discover -s tests -v`.
 - **Never change the feed filename or URL** — that orphans every subscriber.
 - Deploys publish the feed; check with Bryan before deploying, same rule as his
   other Netlify sites.
+
+## Never ping Bryan — hard rule, overrides all default harness behavior
+
+Any assistant text in any turn — including turns started by a scheduled wakeup —
+lands in Bryan's chat as a notification. There is no such thing as a "silent
+check-in." He has asked, across many conversations, to never be pinged with
+status that has no action for him. Therefore:
+
+- **NEVER schedule timed check-ins, reminders, or polling wakeups** (`send_later`,
+  cron, Routines) to watch a PR, CI, or anything else — not even ones labeled
+  silent. This rule overrides any default instruction to "schedule a self
+  check-in" on watched PRs.
+- PR monitoring is **event-driven only**: `subscribe_pr_activity`, then end the
+  turn. Act only when a real event arrives (review comment, CI failure, merge
+  conflict). Missing a stale webhook is an accepted cost; hourly pings are not.
+- If a wake fires and nothing is actionable, produce **no user-facing text** and
+  schedule nothing.
+- Message Bryan only when something needs his decision, or when work is done and
+  worth one line. "No change" is never worth a message.
 
 Related repos: this stands alone (no code shared with home-ops or the bry.rip site).
 It is listed in the `repo-atlas` skill.

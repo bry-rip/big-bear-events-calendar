@@ -27,6 +27,17 @@ On an iPhone or iPad running iOS/iPadOS 26 or later:
 
 Do not use **File → Import** for the downloaded file if you want updates. Importing is a one-time copy; subscribing follows the hosted feed.
 
+## Curation rules
+
+This is a selective locals calendar, not a mirror of every tourism listing. The durable policy also lives in `data/events.json` so future event sweeps inherit it:
+
+- Free events are the default target. Relevant $1–20 events are easy additions; $20–40 events need to be distinctive; $40–50 is selective; events over $50 are normally excluded unless genuinely exceptional.
+- Unknown price or exact start time is not, by itself, a reason to omit a promising event that is likely free or inexpensive. Add it as a clearly labeled `details_tbd` reminder so the subscriber can investigate if interested.
+- Prioritize free concerts and car shows, karaoke, trivia, line dancing and Wyatt's nights, country/punk/metal, astronomy, wildlife, native plants, geology/science, environmental volunteering, and unusual mountain-town events.
+- Recurring local nights need a supported cadence or dated occurrence, but do not need every price or timing detail. Generic expensive tourist packages do not qualify merely because they recur.
+- Transportation and service schedules stay outside this events feed.
+- `curation.permanent_exclusions` blocks a rejected event by title as well as ID. This keeps a future sweep from re-adding the same event under a different ID.
+
 ## Edit or add an event
 
 1. Edit `data/events.json`.
@@ -41,6 +52,24 @@ Do not use **File → Import** for the downloaded file if you want updates. Impo
    ```
 
 5. Commit and push. Netlify rebuilds and publishes the feed.
+
+## Retire an event
+
+Events are never deleted casually — a removed ID vanishes from every subscriber's
+calendar. To drop one deliberately:
+
+1. Delete the event object from `events`.
+2. Remove every `conflicts` reference pointing at it, including references to the
+   dated occurrence IDs a series expands into.
+3. Add an entry to the top-level `retired` list with `id`, `reason` and `retired_on`.
+   Retiring a series parent covers all the dated occurrences it expands to.
+4. Bump `sequence` and `last_modified` on every event whose `conflicts` you edited —
+   their descriptions changed, so subscribers need the revision.
+
+`scripts/validate_updates.py` rejects any removal whose ID is not in `retired`, so an
+accidental deletion still fails the build. Use this for curation calls; an event that
+is genuinely cancelled by its organizer is a different case and still needs a real
+cancellation workflow.
 
 ## Event fields
 

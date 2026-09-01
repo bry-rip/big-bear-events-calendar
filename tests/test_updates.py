@@ -53,6 +53,51 @@ class UpdateValidationTests(unittest.TestCase):
     def test_removed_event_id_is_rejected(self):
         self.assertTrue(updates.validate_updates({"events": []}, dataset()))
 
+    def test_removed_event_id_is_allowed_when_retired(self):
+        retired = {"events": [], "retired": [{"id": "test-event", "reason": "no longer relevant", "retired_on": "2026-08-15"}]}
+        self.assertEqual(updates.validate_updates(retired, dataset()), [])
+
+    def test_retiring_a_series_covers_its_generated_occurrences(self):
+        old = {
+            "events": [
+                {
+                    "id": "test-series",
+                    "title": "Series",
+                    "start_time": "16:30",
+                    "end_time": "19:30",
+                    "occurrences": [{"date": "2026-08-13"}, {"date": "2026-08-14"}],
+                    "last_verified": "2026-08-09",
+                    "last_modified": "2026-08-09",
+                    "sequence": 0,
+                }
+            ]
+        }
+        retired = {"events": [], "retired": [{"id": "test-series", "reason": "dropped", "retired_on": "2026-08-15"}]}
+        self.assertEqual(updates.validate_updates(retired, old), [])
+
+    def test_retiring_one_occurrence_does_not_cover_its_siblings(self):
+        old = {
+            "events": [
+                {
+                    "id": "test-series",
+                    "title": "Series",
+                    "start_time": "16:30",
+                    "end_time": "19:30",
+                    "occurrences": [{"date": "2026-08-13"}, {"date": "2026-08-14"}],
+                    "last_verified": "2026-08-09",
+                    "last_modified": "2026-08-09",
+                    "sequence": 0,
+                }
+            ]
+        }
+        retired = {
+            "events": [],
+            "retired": [{"id": "test-series-2026-08-13", "reason": "dropped", "retired_on": "2026-08-15"}],
+        }
+        errors = updates.validate_updates(retired, old)
+        self.assertTrue(any("test-series-2026-08-14" in error for error in errors))
+        self.assertFalse(any("test-series-2026-08-13" in error for error in errors))
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -15,10 +16,27 @@ import generate_calendar as generator
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "events.json"
 IGNORED_CHANGE_FIELDS = {"last_modified", "sequence"}
+DATE_SUFFIX = re.compile(r"-\d{4}-\d{2}-\d{2}$")
 
 
 def expanded_by_id(data: dict[str, Any]) -> dict[str, dict[str, Any]]:
     return {event["id"]: event for event in generator.expand_occurrences(data["events"])}
+
+
+def is_retired(event_id: str, retired_ids: set[str]) -> bool:
+    """A removed ID is permitted only when it, or its series parent, was retired.
+
+    Occurrence IDs are generated as "<series-id>-<YYYY-MM-DD>", so retiring the
+    series parent covers every date it expands to without listing them all.
+    """
+    if event_id in retired_ids:
+        return True
+    parent = DATE_SUFFIX.sub("", event_id)
+    return parent != event_id and parent in retired_ids
+
+
+def retired_ids(data: dict[str, Any]) -> set[str]:
+    return {entry["id"] for entry in data.get("retired", [])}
 
 
 def event_content(event: dict[str, Any]) -> dict[str, Any]:
@@ -29,13 +47,16 @@ def validate_updates(current: dict[str, Any], previous: dict[str, Any]) -> list[
     errors: list[str] = []
     current_events = expanded_by_id(current)
     previous_events = expanded_by_id(previous)
+    retired = retired_ids(current)
 
     for event_id, old in previous_events.items():
         new = current_events.get(event_id)
         if new is None:
-            errors.append(
-                f"{event_id}: existing event ID was removed; retain it until a cancellation workflow exists"
-            )
+            if not is_retired(event_id, retired):
+                errors.append(
+                    f"{event_id}: existing event ID was removed without being listed in "
+                    "data/events.json \"retired\"; add it there with a reason to drop it deliberately"
+                )
             continue
         if event_content(new) == event_content(old):
             continue

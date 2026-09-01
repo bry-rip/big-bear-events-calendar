@@ -280,6 +280,58 @@ def validate_source(data: dict[str, Any]) -> None:
     if len(ids) != len(set(ids)):
         raise ValueError("Every event id must be unique")
 
+    retired = data.get("retired", [])
+    if not isinstance(retired, list):
+        raise ValueError("retired must be a list")
+    retired_ids: set[str] = set()
+    for entry in retired:
+        if not isinstance(entry, dict):
+            raise ValueError("every retired entry must be an object")
+        for key in ("id", "reason", "retired_on"):
+            if not isinstance(entry.get(key), str) or not entry[key].strip():
+                raise ValueError(f"retired entry needs a nonempty {key}")
+        if entry["id"] in retired_ids:
+            raise ValueError(f"retired id {entry['id']} is listed twice")
+        retired_ids.add(entry["id"])
+        try:
+            iso_date(entry["retired_on"])
+        except (TypeError, ValueError) as exc:
+            raise ValueError(f"{entry['id']}: retired_on must be an ISO date") from exc
+    still_live = retired_ids.intersection(ids)
+    if still_live:
+        raise ValueError(f"retired ids are still present as events: {sorted(still_live)}")
+
+    curation = data.get("curation")
+    permanent_exclusions: list[dict[str, str]] = []
+    if curation is not None:
+        if not isinstance(curation, dict):
+            raise ValueError("curation must be an object")
+        for key in ("price_policy", "priorities", "boundaries"):
+            values = curation.get(key)
+            if not isinstance(values, list) or not values or any(
+                not isinstance(value, str) or not value.strip() for value in values
+            ):
+                raise ValueError(f"curation.{key} must be a nonempty list of strings")
+        permanent_exclusions = curation.get("permanent_exclusions", [])
+        if not isinstance(permanent_exclusions, list):
+            raise ValueError("curation.permanent_exclusions must be a list")
+        exclusion_ids: set[str] = set()
+        for entry in permanent_exclusions:
+            if not isinstance(entry, dict):
+                raise ValueError("every permanent exclusion must be an object")
+            for key in ("id", "title_contains", "reason", "excluded_on"):
+                if not isinstance(entry.get(key), str) or not entry[key].strip():
+                    raise ValueError(f"permanent exclusion needs a nonempty {key}")
+            if entry["id"] in exclusion_ids:
+                raise ValueError(f"permanent exclusion {entry['id']} is listed twice")
+            exclusion_ids.add(entry["id"])
+            try:
+                iso_date(entry["excluded_on"])
+            except ValueError as exc:
+                raise ValueError(
+                    f"{entry['id']}: permanent exclusion excluded_on must be an ISO date"
+                ) from exc
+
     for event in events:
         required = {"id", "title", "status", "summary", "sources", "last_verified"}
         missing = required - event.keys()
@@ -289,6 +341,13 @@ def validate_source(data: dict[str, Any]) -> None:
         for key in ("id", "title", "summary"):
             if not isinstance(event[key], str) or not event[key].strip():
                 raise ValueError(f"{event_id}: {key} must be a nonempty string")
+        normalized_title = event["title"].casefold()
+        for exclusion in permanent_exclusions:
+            if exclusion["title_contains"].casefold() in normalized_title:
+                raise ValueError(
+                    f"{event_id}: title matches permanently excluded event "
+                    f"{exclusion['title_contains']!r}"
+                )
 
         if not isinstance(event["sources"], list) or not event["sources"]:
             raise ValueError(f"{event['id']}: at least one source is required")
