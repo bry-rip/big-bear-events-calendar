@@ -2225,6 +2225,24 @@
       "last_verified": "2026-09-01",
       "last_modified": "2026-09-01T08:00:00Z",
       "sequence": 0
+    },
+    {
+      "id": "pancakes-and-booze-the-cave-2026",
+      "title": "Pancakes and Booze at The Cave — Time TBD",
+      "status": "details_tbd",
+      "all_day": true,
+      "start_date": "2026-09-03",
+      "location": {"name": "The Cave", "address": "40789 Village Dr, Big Bear Lake, CA 92315"},
+      "pricing": ["Cover price is not published", "Free pancakes are advertised; art and other food or drinks may cost extra"],
+      "summary": "A one-night takeover by local creators with free pancakes and art—a weird enough Village event to keep as a reminder even while the venue’s calendar only shows an all-day placeholder.",
+      "details": ["The event invites visitors to support local artists and bring friends"],
+      "tbd": ["Exact start/end time, cover charge, age policy and artist roster"],
+      "conflicts": ["summer-concert-reggae-locals-2026", "mountain-top-trivia-stillwells-2026-09-03", "wyatts-rodeo-kickoff-party-2026"],
+      "sources": [{"label": "The Cave organizer page", "url": "https://thecavebbl.com/event/pancakes-and-booze/"}],
+      "categories": ["Art", "Unusual", "Nightlife", "TBD"],
+      "last_verified": "2026-09-01",
+      "last_modified": "2026-09-01T08:00:00Z",
+      "sequence": 0
     }
   ]
 }

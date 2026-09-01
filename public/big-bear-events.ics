@@ -1041,6 +1041,38 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:pancakes-and-booze-the-cave-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Pancakes and Booze at The Cave — Time TBD
+LOCATION:The Cave — 40789 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A one-night takeover by local creators with free pancakes and a
+ rt—a weird enough Village event to keep as a reminder even while the ven
+ ue’s calendar only shows an all-day placeholder.\n\nWHEN\nThu\, Sep 3\, 
+ 2026 (all day)\n\nPRICE / ADMISSION\n• Cover price is not published\n•
+  Free pancakes are advertised\; art and other food or drinks may cost extr
+ a\n\nWHAT TO EXPECT\n• The event invites visitors to support local artis
+ ts and bring friends\n\nTBD / VERIFY BEFORE GOING\n• Exact start/end tim
+ e\, cover charge\, age policy and artist roster\n\nCONFLICTS / SAME-DAY OP
+ TIONS\n• Overlaps or competes with: Summer Concert Series — Long Beach
+  Dub Allstars + Common Sense (Thu\, Sep 3\, 2026\, 6:00 PM–9:30 PM).\n
+ • Overlaps or competes with: Happy Hour Trivia at Stillwells (Thu\, Sep 
+ 3\, 2026\, 6:00 PM–8:00 PM).\n• Overlaps or competes with: Wyatt’s R
+ odeo Kick-Off Party + Free Line Dancing (Thu\, Sep 3\, 2026\, 4:00 PM–10
+ :00 PM).\n\nOFFICIAL SOURCES\n• The Cave organizer page: https://thecave
+ bbl.com/event/pancakes-and-booze/\n\nCALENDAR STATUS: DETAILS_TBD\nLast ch
+ ecked: 2026-09-01\nDetails can change. Recheck the official source before 
+ making a special trip.
+URL:https://thecavebbl.com/event/pancakes-and-booze/
+CATEGORIES:Art,Unusual,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
 UID:wyatts-rodeo-kickoff-party-2026@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
