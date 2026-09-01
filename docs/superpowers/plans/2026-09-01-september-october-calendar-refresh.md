@@ -76,7 +76,7 @@
 - Review: all changes relative to `origin/main`
 
 - [x] Review the full diff and event manifest against every requirement in this plan.
-- [ ] Commit the refresh on `chatgpt-sept-2026-refresh` and push it.
-- [ ] Merge the branch into `main`, push `main`, and verify local `HEAD` equals `origin/main`.
-- [ ] Confirm the production Netlify deploy for the pushed commit, using an explicit production deploy if the Git-linked deploy does not complete promptly.
-- [ ] Fetch the stable feed and require HTTP 200, `Content-Type: text/calendar`, the expected SHA-256, and representative required event UIDs/titles.
+- [x] Commit the refresh on `chatgpt-sept-2026-refresh` and push it.
+- [x] Merge the branch into `main`, push `main`, and verify local `HEAD` equals `origin/main`.
+- [x] Confirm the production Netlify deploy for the pushed commit, using an explicit production deploy if the Git-linked deploy does not complete promptly.
+- [x] Fetch the stable feed and require HTTP 200, `Content-Type: text/calendar`, the expected SHA-256, and representative required event UIDs/titles.
