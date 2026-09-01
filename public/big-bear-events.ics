@@ -988,41 +988,154 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:barrel-33-high-alti-tuesday-2026-09-01@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260901T133000
+DTEND;TZID=America/Los_Angeles:20260901T153000
+SUMMARY:Afternoon Acoustic with Brad at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A low-key Tuesday afternoon of acoustic favorites from Brad at 
+ Barrel 33.\n\nWHEN\nTue\, Sep 1\, 2026\, 1:30 PM–3:30 PM\n\nPRICE / ADMI
+ SSION\n• No cover charge is advertised\; food and drinks are optional at
+  menu prices\n\nWHAT TO EXPECT\n• The venue calendar explicitly lists th
+ e five September dates\n• The current venue time is 1:30–3:30 PM\n\nTB
+ D / VERIFY BEFORE GOING\n• The venue publishes no admission fee but does
+  not explicitly promise free entry\n\nOFFICIAL SOURCES\n• Barrel 33 orga
+ nizer calendar: https://www.barrel33bigbear.com/events-list\n\nCALENDAR ST
+ ATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Recheck t
+ he official source before making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-taco-tuesday-2026-09-01@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260901T170000
+DTEND;TZID=America/Los_Angeles:20260901T190000
+SUMMARY:Taco Tuesday at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Tuesday taco evening at the Hampton Inn / Home2 Sui
+ tes—an easy\, likely inexpensive themed-night reminder.\n\nWHEN\nTue\, S
+ ep 1\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• No admission or 
+ cover price is published\; tacos and drinks are sold separately\n\nSCHEDUL
+ E\n• 5:00–7:00 PM — Taco Tuesday\n\nTBD / VERIFY BEFORE GOING\n• M
+ enu prices and whether any part of the event is limited to hotel guests ar
+ e not stated\; the public tourism listing invites visitors to attend\n\nOF
+ FICIAL SOURCES\n• Official recurring event page: https://www.bigbear.com
+ /events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/\n\nCALENDAR 
+ STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Recheck
+  the official source before making a special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Themed Night,Food,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:wyatts-rodeo-kickoff-party-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260903T160000
+DTEND;TZID=America/Los_Angeles:20260903T220000
+SUMMARY:Wyatt’s Rodeo Kick-Off Party + Free Line Dancing
+LOCATION:Wyatt’s Grill & Saloon — 42900 Big Bear Blvd\, Big Bear Lake\,
+  CA 92315
+DESCRIPTION:Wyatt’s dated fall event combines free line-dance lessons wit
+ h live music\, rodeo-themed contests and an all-ages country-night atmosph
+ ere.\n\nWHEN\nThu\, Sep 3\, 2026\, 4:00 PM–10:00 PM\n\nPRICE / ADMISSION
+ \n• Free admission\n• Free line-dance lessons\n• All ages\; food and
+  drinks sold separately\n\nSCHEDULE\n• 4:00 PM — gates open\n• 6:00 
+ PM — bands and entertainment begin\n• 10:00 PM — published close\n\n
+ WHAT TO EXPECT\n• Free lessons are led by Jennie\n• Food and drinks ar
+ e available from Wyatt’s\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps o
+ r competes with: Summer Concert Series — Long Beach Dub Allstars + Commo
+ n Sense (Thu\, Sep 3\, 2026\, 6:00 PM–9:30 PM).\n• Overlaps or compete
+ s with: Happy Hour Trivia at Stillwells (Thu\, Sep 3\, 2026\, 6:00 PM–8:
+ 00 PM).\n\nOFFICIAL SOURCES\n• Official event listing: https://www.bigbe
+ ar.com/events/rodeo-kick-off-party/\n• Wyatt’s admission and venue pol
+ icies: https://bigbearevents.com/wyatts/\n\nCALENDAR STATUS: CONFIRMED\nLa
+ st checked: 2026-09-01\nDetails can change. Recheck the official source be
+ fore making a special trip.
+URL:https://www.bigbear.com/events/rodeo-kick-off-party/
+CATEGORIES:Line Dancing,Country,Live Music,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:summer-concert-reggae-locals-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T230000Z
-LAST-MODIFIED:20260809T230000Z
-SEQUENCE:1
-DTSTART;TZID=America/Los_Angeles:20260903T173000
-DTEND;TZID=America/Los_Angeles:20260903T203000
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:2
+DTSTART;TZID=America/Los_Angeles:20260903T180000
+DTEND;TZID=America/Los_Angeles:20260903T213000
 SUMMARY:Summer Concert Series — Long Beach Dub Allstars + Common Sense
 LOCATION:The Village concert stage — Pine Knot Ave & Village Dr\, Big Bea
  r Lake\, CA 92315
 DESCRIPTION:Reggae Locals Night: Long Beach Dub Allstars and Common Sense b
  ring reggae\, rock\, ska\, dub\, funk and soul to the free Village stage.\
- n\nWHEN\nThu\, Sep 3\, 2026\, 5:30 PM–8:30 PM\n\nPRICE / ADMISSION\n• 
- Free\n• All ages\n\nSCHEDULE\n• 5:30 PM — event area opens with fami
- ly games and a nonprofit beer garden\n• 6:00–7:15 PM — first publish
- ed music slot\n• 7:30–8:30 PM — second published music slot\n\nWHAT 
- TO EXPECT\n• Long Beach Dub Allstars mix reggae\, rock\, ska\, hip-hop\,
-  hard dub\, soul and psychedelia\n• Common Sense bridges reggae\, rock\,
-  pop\, funk and soul\n• The City has not explicitly assigned either band
-  to one of the two time slots\n\nUSEFUL NOTES\n• Village public lots are
-  available but fill\; the City recommends the free Mountain Transit Red\, 
- Blue and Gold lines\n\nTBD / VERIFY BEFORE GOING\n• Which artist plays t
- he 6:00 slot and which plays the 7:30 slot is not explicitly published\n\n
- OFFICIAL SOURCES\n• City lineup announcement: https://bigbearlake.gov/in
- dex.php/en/news-and-announcements/830-2026-big-bear-lake-summer-concert-se
- ries-lineup-announcement\n• Visit Big Bear event page: https://www.bigbe
- ar.com/events/summer-concert-series/\n• Long Beach Dub Allstars: https:/
- /www.lbdamusic.com/story\n• Common Sense: https://www.commonsensereggaeb
- and.com/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08-09\nDetail
- s can change. Recheck the official source before making a special trip.
-URL:https://bigbearlake.gov/index.php/en/news-and-announcements/830-2026-bi
- g-bear-lake-summer-concert-series-lineup-announcement
+ n\nWHEN\nThu\, Sep 3\, 2026\, 6:00 PM–9:30 PM\n\nPRICE / ADMISSION\n• 
+ Free\n• All ages\n\nSCHEDULE\n• 6:00–9:30 PM — free concert\, fami
+ ly games and nonprofit beer garden\n\nWHAT TO EXPECT\n• Long Beach Dub A
+ llstars mix reggae\, rock\, ska\, hip-hop\, hard dub\, soul and psychedeli
+ a\n• Common Sense bridges reggae\, rock\, pop\, funk and soul\n• Bring
+  a chair or blanket for the outdoor Village concert\n\nUSEFUL NOTES\n• V
+ illage public parking lots are available but can fill before the music sta
+ rts\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: Happy 
+ Hour Trivia at Stillwells (Thu\, Sep 3\, 2026\, 6:00 PM–8:00 PM).\n\nOFF
+ ICIAL SOURCES\n• City calendar: https://bigbearlake.gov/index.php/en/gov
+ ernment-main/city-calendar/week?date=2026-08-30\n• City lineup announcem
+ ent: https://bigbearlake.gov/index.php/en/news-and-announcements/830-2026-
+ big-bear-lake-summer-concert-series-lineup-announcement\n• Visit Big Bea
+ r event page: https://www.bigbear.com/events/summer-concert-series/\n• L
+ ong Beach Dub Allstars: https://www.lbdamusic.com/story\n• Common Sense:
+  https://www.commonsensereggaeband.com/\n\nCALENDAR STATUS: CONFIRMED\nLas
+ t checked: 2026-09-01\nDetails can change. Recheck the official source bef
+ ore making a special trip.
+URL:https://bigbearlake.gov/index.php/en/government-main/city-calendar/week
+ ?date=2026-08-30
 CATEGORIES:Live Music,Free,Village,Reggae
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mountain-top-trivia-stillwells-2026-09-03@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260903T180000
+DTEND;TZID=America/Los_Angeles:20260903T200000
+SUMMARY:Happy Hour Trivia at Stillwells
+LOCATION:Stillwells Restaurant — 40650 Village Dr\, Big Bear Lake\, CA 92
+ 315
+DESCRIPTION:A live-hosted\, six-round general-knowledge trivia night with a
+  relaxed bar atmosphere\, teams of two to six and prizes for the top teams
+ .\n\nWHEN\nThu\, Sep 3\, 2026\, 6:00 PM–8:00 PM\n\nPRICE / ADMISSION\n
+ • Free to play\; food and drinks are optional\n\nSCHEDULE\n• 6:00 PM 
+ — game starts\n• About 1.5–2 hours — published game length\n\nWHAT
+  TO EXPECT\n• Solo players can join a team\n• Includes halftime\, ligh
+ tning rounds and bonus points\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlap
+ s or competes with: Summer Concert Series — Long Beach Dub Allstars + Co
+ mmon Sense (Thu\, Sep 3\, 2026\, 6:00 PM–9:30 PM).\n\nOFFICIAL SOURCES\n
+ • Official Mountain Top Trivia schedule: https://mountaintoptrivia.com/\
+ n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can chang
+ e. Recheck the official source before making a special trip.
+URL:https://mountaintoptrivia.com/
+CATEGORIES:Trivia,Nightlife,Village,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rodeo-kickoff-2026@big-bear-events.bry.rip
@@ -1067,6 +1180,62 @@ CATEGORIES:Rodeo,Carnival,Live Music,Free
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-farmers-market-2026-09-04@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260904T150000
+DTEND;TZID=America/Los_Angeles:20260904T190000
+SUMMARY:Big Bear Lake Farmers Market
+LOCATION:Ski Beach Park — 41216 Park Ave\, Big Bear Lake\, CA 92315
+DESCRIPTION:The Friday afternoon market is a useful recurring stop for fres
+ h produce\, food and local vendors without requiring a ticketed event comm
+ itment.\n\nWHEN\nFri\, Sep 4\, 2026\, 3:00 PM–7:00 PM\n\nPRICE / ADMISSI
+ ON\n• Free admission\; produce\, prepared food and market goods sold by 
+ vendors\n\nSCHEDULE\n• 3:00–7:00 PM — conservative planning window u
+ sed because the official listing conflicts between 3–8 PM and 4–7 PM\n
+ \nTBD / VERIFY BEFORE GOING\n• The organizer’s own page contains two d
+ ifferent hour ranges\; arrive by 7:00 PM rather than relying on the later 
+ close\n\nOFFICIAL SOURCES\n• Official event page: https://www.bigbear.co
+ m/events/big-bear-lake-farmers-market1/\n\nCALENDAR STATUS: CONFIRMED\nLas
+ t checked: 2026-09-01\nDetails can change. Recheck the official source bef
+ ore making a special trip.
+URL:https://www.bigbear.com/events/big-bear-lake-farmers-market1/
+CATEGORIES:Farmers Market,Food,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-04@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260904T170000
+DTEND;TZID=America/Los_Angeles:20260904T200000
+SUMMARY:Katie Jones at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nFri\, Sep 4\, 2026\, 5:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• No
+  ticket or cover charge is advertised\n• Food\, beer and wine are option
+ al at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cale
+ ndar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFOR
+ E GOING\n• The official listing publishes no admission fee\, but does no
+ t explicitly promise free entry\; verify if a particular set becomes a spe
+ cial ticketed show\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compet
+ es with: Big Bear Lake Farmers Market (Fri\, Sep 4\, 2026\, 3:00 PM–7:00
+  PM).\n\nOFFICIAL SOURCES\n• Barrel 33 organizer calendar: https://www.b
+ arrel33bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_TBD\nLast check
+ ed: 2026-09-01\nDetails can change. Recheck the official source before mak
+ ing a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:driving-range-after-dark-2026@big-bear-events.bry.rip
@@ -1150,42 +1319,6 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cool-run-2026@big-bear-events.bry.rip
-DTSTAMP:20260809T000000Z
-LAST-MODIFIED:20260809T000000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Cool Run in the Mountains Car Show — Time TBD
-LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
-  Lake\, CA 92315
-DESCRIPTION:The RodRiders’ annual fundraiser packs 100+ unique and classi
- c cars\, vendors\, live entertainment\, a craft fair and food around the C
- onvention Center.\n\nWHEN\nSat\, Sep 5\, 2026 (all day)\n\nPRICE / ADMISSI
- ON\n• Free for spectators\n• Craft-fair items and food sold separately
- \n\nWHAT TO EXPECT\n• Fifteen prizes cover best in show\, paint\, origin
- ality\, interior\, engine\, top-ten cars and best motorcycle\n• Benefits
-  local charities including DOVES and animal-rescue programs\n• Parking i
- s available at the Convention Center / Wyatt’s\n\nTBD / VERIFY BEFORE GO
- ING\n• No start or end time is currently published\n• A tourism search
-  card has sometimes shown September 6\, but the dedicated page body clearl
- y says Saturday\, September 5\; this calendar uses September 5\n\nCONFLICT
- S / SAME-DAY OPTIONS\n• Overlaps or competes with: Big Bear Grizzly 100 
- & MTB Gran Fondo (Sat\, Sep 5\, 2026 at 7:00 AM).\n• Overlaps or compete
- s with: Big Bear Rodeo — PRCA Night 1 + Carnival (Sat\, Sep 5\, 2026\, 1
- 2:00 PM–10:00 PM).\n• Overlaps or competes with: Music in the Mountain
- s — David Bowie + Elton John Tributes (Sat\, Sep 5\, 2026\, 5:00 PM–9:
- 30 PM).\n\nOFFICIAL SOURCES\n• Official event page: https://www.bigbear.
- com/events/cool-run-in-the-mountains-car-show/\n\nCALENDAR STATUS: DETAILS
- _TBD\nLast checked: 2026-08-09\nDetails can change. Recheck the official s
- ource before making a special trip.
-URL:https://www.bigbear.com/events/cool-run-in-the-mountains-car-show/
-CATEGORIES:Car Show,Free,Fundraiser,TBD
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
-END:VEVENT
-BEGIN:VEVENT
 UID:big-bear-grizzly-100-2026@big-bear-events.bry.rip
 DTSTAMP:20260809T000000Z
 LAST-MODIFIED:20260809T000000Z
@@ -1206,21 +1339,55 @@ DESCRIPTION:Big Bear Lake’s premier mountain-bike endurance event\, with
  tor marker for road/trail activity\n\nTBD / VERIFY BEFORE GOING\n• Curre
  nt pricing\n• Course-specific start waves and end times\n\nCONFLICTS / S
  AME-DAY OPTIONS\n• Overlaps or competes with: Cool Run in the Mountains 
- Car Show — Time TBD (Sat\, Sep 5\, 2026 (all day)).\n• Overlaps or com
- petes with: Big Bear Rodeo — PRCA Night 1 + Carnival (Sat\, Sep 5\, 2026
- \, 12:00 PM–10:00 PM).\n• Overlaps or competes with: Music in the Moun
- tains — David Bowie + Elton John Tributes (Sat\, Sep 5\, 2026\, 5:00 PM
- –9:30 PM).\n\nOFFICIAL SOURCES\n• Local race organizer: https://bbvrac
- e.com/?p=12\n• Visit Big Bear event page: https://www.bigbear.com/events
- /big-bear-grizzly-100-gran-fondo/\n• NUE series listing: https://nuemtb.
- com/big-bear-grizzly-2/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 202
- 6-08-09\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ Car Show (Sat\, Sep 5\, 2026\, 9:00 AM–3:00 PM).\n• Overlaps or compet
+ es with: Big Bear Rodeo — PRCA Night 1 + Carnival (Sat\, Sep 5\, 2026\, 
+ 12:00 PM–10:00 PM).\n• Overlaps or competes with: Music in the Mountai
+ ns — David Bowie + Elton John Tributes (Sat\, Sep 5\, 2026\, 5:00 PM–9
+ :30 PM).\n\nOFFICIAL SOURCES\n• Local race organizer: https://bbvrace.co
+ m/?p=12\n• Visit Big Bear event page: https://www.bigbear.com/events/big
+ -bear-grizzly-100-gran-fondo/\n• NUE series listing: https://nuemtb.com/
+ big-bear-grizzly-2/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-08
+ -09\nDetails can change. Recheck the official source before making a speci
+ al trip.
 URL:https://bbvrace.com/?p=12
 CATEGORIES:Cycling,Race,Outdoors,TBD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:cool-run-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20260905T090000
+DTEND;TZID=America/Los_Angeles:20260905T150000
+SUMMARY:Cool Run in the Mountains Car Show
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:The RodRiders’ annual fundraiser packs 100+ unique and classi
+ c cars\, vendors\, live entertainment\, a craft fair and food around the C
+ onvention Center.\n\nWHEN\nSat\, Sep 5\, 2026\, 9:00 AM–3:00 PM\n\nPRICE
+  / ADMISSION\n• Free for spectators\n• Craft-fair items and food sold 
+ separately\n\nSCHEDULE\n• 9:00 AM–3:00 PM — car show\, craft fair\, 
+ live entertainment\, food and vendors\n\nWHAT TO EXPECT\n• Fifteen prize
+ s cover best in show\, paint\, originality\, interior\, engine\, top-ten c
+ ars and best motorcycle\n• Benefits local charities including DOVES and 
+ animal-rescue programs\n• Parking is available at the Convention Center 
+ / Wyatt’s\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with
+ : Big Bear Grizzly 100 & MTB Gran Fondo (Sat\, Sep 5\, 2026 at 7:00 AM).\n
+ • Overlaps or competes with: Big Bear Rodeo — PRCA Night 1 + Carnival 
+ (Sat\, Sep 5\, 2026\, 12:00 PM–10:00 PM).\n• Overlaps or competes with
+ : Music in the Mountains — David Bowie + Elton John Tributes (Sat\, Sep 
+ 5\, 2026\, 5:00 PM–9:30 PM).\n\nOFFICIAL SOURCES\n• Official event pag
+ e: https://www.bigbear.com/events/cool-run-in-the-mountains-car-show/\n\nC
+ ALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can change. R
+ echeck the official source before making a special trip.
+URL:https://www.bigbear.com/events/cool-run-in-the-mountains-car-show/
+CATEGORIES:Car Show,Free,Fundraiser
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rodeo-night-one-2026@big-bear-events.bry.rip
@@ -1255,23 +1422,80 @@ DESCRIPTION:A full PRCA performance with seven standard events and specialt
  IFY BEFORE GOING\n• Water policy conflicts between the official FAQ and 
  purchase terms\; verify and follow the stricter no-water-bottle rule if un
  certain\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: Co
- ol Run in the Mountains Car Show — Time TBD (Sat\, Sep 5\, 2026 (all day
- )).\n• Overlaps or competes with: Big Bear Grizzly 100 & MTB Gran Fondo 
- (Sat\, Sep 5\, 2026 at 7:00 AM).\n• Overlaps or competes with: Music in 
- the Mountains — David Bowie + Elton John Tributes (Sat\, Sep 5\, 2026\, 
- 5:00 PM–9:30 PM).\n• Overlaps or competes with: Labor Day Weekend Glow
-  Golf — 9 Holes (Sat\, Sep 5\, 2026\, 7:00 PM–10:00 PM).\n\nOFFICIAL S
- OURCES\n• Official rodeo schedule: https://bigbearrodeo.com/schedule\n
- • Current tickets\, prices and rules: https://visitbigbear.ticketspice.c
- om/big-bear-rodeo-carnival\n• Official parking: https://bigbearrodeo.com
- /directions-parking\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-0
- 9\nDetails can change. Recheck the official source before making a special
-  trip.
+ ol Run in the Mountains Car Show (Sat\, Sep 5\, 2026\, 9:00 AM–3:00 PM).
+ \n• Overlaps or competes with: Big Bear Grizzly 100 & MTB Gran Fondo (Sa
+ t\, Sep 5\, 2026 at 7:00 AM).\n• Overlaps or competes with: Music in the
+  Mountains — David Bowie + Elton John Tributes (Sat\, Sep 5\, 2026\, 5:0
+ 0 PM–9:30 PM).\n• Overlaps or competes with: Labor Day Weekend Glow Go
+ lf — 9 Holes (Sat\, Sep 5\, 2026\, 7:00 PM–10:00 PM).\n\nOFFICIAL SOUR
+ CES\n• Official rodeo schedule: https://bigbearrodeo.com/schedule\n• C
+ urrent tickets\, prices and rules: https://visitbigbear.ticketspice.com/bi
+ g-bear-rodeo-carnival\n• Official parking: https://bigbearrodeo.com/dire
+ ctions-parking\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-08-09\nDe
+ tails can change. Recheck the official source before making a special trip
+ .
 URL:https://bigbearrodeo.com/schedule
 CATEGORIES:Rodeo,Carnival,Family
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:snow-summit-darden-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260905T120000
+DTEND;TZID=America/Los_Angeles:20260905T150000
+SUMMARY:Darden — Free Snow Summit Deck Concert
+LOCATION:Snow Summit Coca-Cola Deck — 880 Summit Blvd\, Big Bear Lake\, C
+ A 92315
+DESCRIPTION:Darden plays a free afternoon set on Snow Summit’s base deck
+ —separate from the paid Skyline dinner package.\n\nWHEN\nSat\, Sep 5\, 2
+ 026\, 12:00 PM–3:00 PM\n\nPRICE / ADMISSION\n• Free base-area concert\
+ n\nSCHEDULE\n• 12:00–3:00 PM — live music\n\nCONFLICTS / SAME-DAY OP
+ TIONS\n• Overlaps or competes with: Cool Run in the Mountains Car Show (
+ Sat\, Sep 5\, 2026\, 9:00 AM–3:00 PM).\n• Overlaps or competes with: B
+ ig Bear Grizzly 100 & MTB Gran Fondo (Sat\, Sep 5\, 2026 at 7:00 AM).\n\nO
+ FFICIAL SOURCES\n• Snow Summit live-entertainment schedule: https://www.
+ bigbearmountainresort.com/things-to-do/live-entertainment-schedule\n\nCALE
+ NDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can change. Rech
+ eck the official source before making a special trip.
+URL:https://www.bigbearmountainresort.com/things-to-do/live-entertainment-s
+ chedule
+CATEGORIES:Live Music,Outdoors,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-05@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260905T160000
+DTEND;TZID=America/Los_Angeles:20260905T190000
+SUMMARY:Austin Rogers at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nSat\, Sep 5\, 2026\, 4:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• No
+  ticket or cover charge is advertised\n• Food\, beer and wine are option
+ al at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cale
+ ndar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFOR
+ E GOING\n• The official listing publishes no admission fee\, but does no
+ t explicitly promise free entry\; verify if a particular set becomes a spe
+ cial ticketed show\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compet
+ es with: Music in the Mountains — David Bowie + Elton John Tributes (Sat
+ \, Sep 5\, 2026\, 5:00 PM–9:30 PM).\n\nOFFICIAL SOURCES\n• Barrel 33 o
+ rganizer calendar: https://www.barrel33bigbear.com/events-list\n\nCALENDAR
+  STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Rechec
+ k the official source before making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:music-in-the-mountains-bowie-elton-2026@big-bear-events.bry.rip
@@ -1364,6 +1588,68 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:bbvas-dark-sky-star-party-2026-09-05@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260905T190000
+DTEND;TZID=America/Los_Angeles:20260905T220000
+SUMMARY:BBVAS Dark-Sky Star Party
+LOCATION:The High Chaparal — Baldwin Lake\, CA 92314
+DESCRIPTION:Local astronomers set up telescopes at their Baldwin Lake dark 
+ site for an informal public observing night under much darker skies than t
+ he Village.\n\nWHEN\nSat\, Sep 5\, 2026\, 7:00 PM–10:00 PM\n\nPRICE / AD
+ MISSION\n• Free and open to the public\n\nSCHEDULE\n• Arrive during th
+ e published three-hour observing window\; the October party starts one hou
+ r earlier\n\nWHAT TO EXPECT\n• Bring binoculars or a telescope if you ha
+ ve them\, or look through club members’ instruments\n• The party is we
+ ather dependent and can be cancelled for clouds or unsafe conditions\n\nUS
+ EFUL NOTES\n• Dress much warmer than the daytime forecast suggests and u
+ se a red flashlight near observing equipment\n\nCONFLICTS / SAME-DAY OPTIO
+ NS\n• Overlaps or competes with: Big Bear Rodeo — PRCA Night 1 + Carni
+ val (Sat\, Sep 5\, 2026\, 12:00 PM–10:00 PM).\n• Overlaps or competes 
+ with: Music in the Mountains — David Bowie + Elton John Tributes (Sat\, 
+ Sep 5\, 2026\, 5:00 PM–9:30 PM).\n• Overlaps or competes with: Labor D
+ ay Weekend Glow Golf — 9 Holes (Sat\, Sep 5\, 2026\, 7:00 PM–10:00 PM)
+ .\n\nOFFICIAL SOURCES\n• BBVAS event calendar: https://bearvalleyastrono
+ mers.org/events/list/\n• September organizer listing: https://bearvalley
+ astronomers.org/event/bbvas-club-star-party-open-to-the-public-8/\n\nCALEN
+ DAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can change. Reche
+ ck the official source before making a special trip.
+URL:https://bearvalleyastronomers.org/events/list/
+CATEGORIES:Astronomy,Science,Free,Outdoors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:flannel-rock-the-cave-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260905T200000
+DTEND;TZID=America/Los_Angeles:20260905T213000
+SUMMARY:Flannel Rock at The Cave
+LOCATION:The Cave — 40789 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A free five-piece grunge and ’90s-rock set in the Village.\n\
+ nWHEN\nSat\, Sep 5\, 2026\, 8:00 PM–9:30 PM\n\nPRICE / ADMISSION\n• Fr
+ ee admission\n\nSCHEDULE\n• 8:00–9:30 PM — performance\n\nCONFLICTS 
+ / SAME-DAY OPTIONS\n• Overlaps or competes with: BBVAS Dark-Sky Star Par
+ ty (Sat\, Sep 5\, 2026\, 7:00 PM–10:00 PM).\n• Overlaps or competes wi
+ th: Music in the Mountains — David Bowie + Elton John Tributes (Sat\, Se
+ p 5\, 2026\, 5:00 PM–9:30 PM).\n• Overlaps or competes with: Big Bear 
+ Rodeo — PRCA Night 1 + Carnival (Sat\, Sep 5\, 2026\, 12:00 PM–10:00 P
+ M).\n\nOFFICIAL SOURCES\n• The Cave organizer page: https://thecavebbl.c
+ om/event/flannel-rock/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-0
+ 9-01\nDetails can change. Recheck the official source before making a spec
+ ial trip.
+URL:https://thecavebbl.com/event/flannel-rock/
+CATEGORIES:Live Music,Grunge,Rock,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:labor-day-drone-show-2026@big-bear-events.bry.rip
 DTSTAMP:20260809T000000Z
 LAST-MODIFIED:20260809T000000Z
@@ -1451,6 +1737,86 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:snow-summit-michael-gonzales-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260906T120000
+DTEND;TZID=America/Los_Angeles:20260906T150000
+SUMMARY:Michael Gonzales — Free Snow Summit Deck Concert
+LOCATION:Snow Summit Coca-Cola Deck — 880 Summit Blvd\, Big Bear Lake\, C
+ A 92315
+DESCRIPTION:Michael Gonzales plays a free Sunday-afternoon set on the Snow 
+ Summit base deck.\n\nWHEN\nSun\, Sep 6\, 2026\, 12:00 PM–3:00 PM\n\nPRIC
+ E / ADMISSION\n• Free base-area concert\n\nSCHEDULE\n• 12:00–3:00 PM
+  — live music\n\nOFFICIAL SOURCES\n• Snow Summit live-entertainment sc
+ hedule: https://www.bigbearmountainresort.com/things-to-do/live-entertainm
+ ent-schedule\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDeta
+ ils can change. Recheck the official source before making a special trip.
+URL:https://www.bigbearmountainresort.com/things-to-do/live-entertainment-s
+ chedule
+CATEGORIES:Live Music,Outdoors,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-06@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260906T143000
+DTEND;TZID=America/Los_Angeles:20260906T173000
+SUMMARY:Dana Larson at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nSun\, Sep 6\, 2026\, 2:30 PM–5:30 PM\n\nPRICE / ADMISSION\n• No
+  ticket or cover charge is advertised\n• Food\, beer and wine are option
+ al at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cale
+ ndar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFOR
+ E GOING\n• The official listing publishes no admission fee\, but does no
+ t explicitly promise free entry\; verify if a particular set becomes a spe
+ cial ticketed show\n\nOFFICIAL SOURCES\n• Barrel 33 organizer calendar: 
+ https://www.barrel33bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_TB
+ D\nLast checked: 2026-09-01\nDetails can change. Recheck the official sour
+ ce before making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-sunday-latin-night-2026-09-06@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260906T180000
+DTEND;TZID=America/Los_Angeles:20260906T210000
+SUMMARY:Sunday Latin Night + Live DJ at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Sunday Latin night with a live DJ—one of the few 
+ clearly published themed dance nights outside Wyatt’s.\n\nWHEN\nSun\, Se
+ p 6\, 2026\, 6:00 PM–9:00 PM\n\nPRICE / ADMISSION\n• No admission or c
+ over price is published\; likely free or inexpensive\, with food and drink
+ s sold separately\n\nSCHEDULE\n• 6:00–9:00 PM — Latin Night with liv
+ e DJ\n\nTBD / VERIFY BEFORE GOING\n• The page states an every-Sunday cad
+ ence but its generated upcoming-date list displays only Tuesdays\; verify 
+ the Sunday session before going\n\nOFFICIAL SOURCES\n• Official recurrin
+ g event page: https://www.bigbear.com/events/taco-tuesday-latin-night-at-h
+ ampton-inn-home2-suites/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 20
+ 26-09-01\nDetails can change. Recheck the official source before making a 
+ special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Latin Music,Dancing,Themed Night,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
 UID:labor-day-glow-golf-2026-09-06@big-bear-events.bry.rip
 DTSTAMP:20260815T173000Z
 LAST-MODIFIED:20260815T173000Z
@@ -1531,6 +1897,288 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:barrel-33-high-alti-tuesday-2026-09-08@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260908T133000
+DTEND;TZID=America/Los_Angeles:20260908T153000
+SUMMARY:Afternoon Acoustic with Brad at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A low-key Tuesday afternoon of acoustic favorites from Brad at 
+ Barrel 33.\n\nWHEN\nTue\, Sep 8\, 2026\, 1:30 PM–3:30 PM\n\nPRICE / ADMI
+ SSION\n• No cover charge is advertised\; food and drinks are optional at
+  menu prices\n\nWHAT TO EXPECT\n• The venue calendar explicitly lists th
+ e five September dates\n• The current venue time is 1:30–3:30 PM\n\nTB
+ D / VERIFY BEFORE GOING\n• The venue publishes no admission fee but does
+  not explicitly promise free entry\n\nOFFICIAL SOURCES\n• Barrel 33 orga
+ nizer calendar: https://www.barrel33bigbear.com/events-list\n\nCALENDAR ST
+ ATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Recheck t
+ he official source before making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-taco-tuesday-2026-09-08@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260908T170000
+DTEND;TZID=America/Los_Angeles:20260908T190000
+SUMMARY:Taco Tuesday at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Tuesday taco evening at the Hampton Inn / Home2 Sui
+ tes—an easy\, likely inexpensive themed-night reminder.\n\nWHEN\nTue\, S
+ ep 8\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• No admission or 
+ cover price is published\; tacos and drinks are sold separately\n\nSCHEDUL
+ E\n• 5:00–7:00 PM — Taco Tuesday\n\nTBD / VERIFY BEFORE GOING\n• M
+ enu prices and whether any part of the event is limited to hotel guests ar
+ e not stated\; the public tourism listing invites visitors to attend\n\nOF
+ FICIAL SOURCES\n• Official recurring event page: https://www.bigbear.com
+ /events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/\n\nCALENDAR 
+ STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Recheck
+  the official source before making a special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Themed Night,Food,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:maple-hills-trail-work-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260910T160000
+DTEND;TZID=America/Los_Angeles:20260910T180000
+SUMMARY:Maple Hills Trail Work Evening
+LOCATION:Maple Hills trail system\; meeting point sent to volunteers — Bi
+ g Bear City\, CA 92314
+DESCRIPTION:A compact after-work volunteer session doing dirt work\, brushi
+ ng and litter cleanup on the Maple Hills trails.\n\nWHEN\nThu\, Sep 10\, 2
+ 026\, 4:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Free volunteer event\; t
+ ools\, snacks and drinks supplied\n\nWHAT TO EXPECT\n• The precise trail
+ head or work site is emailed to registered volunteers\n• Work can includ
+ e tread repair\, corridor brushing and trash removal\n\nUSEFUL NOTES\n• 
+ Register before the event so the organizer can send the meeting point and 
+ bring enough tools\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compet
+ es with: BBVAS Club Meeting — Public Invited (Thu\, Sep 10\, 2026\, 5:30
+  PM–7:00 PM).\n• Overlaps or competes with: Boozy Bingo Night at Barre
+ l 33 (Thu\, Sep 10\, 2026\, 5:00 PM–7:00 PM).\n\nOFFICIAL SOURCES\n• O
+ fficial event page: https://www.bigbear.com/events/maple-hills-trail-work-
+ days-2026/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetail
+ s can change. Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/maple-hills-trail-work-days-2026/
+CATEGORIES:Volunteering,Trails,Environment,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boozy-bingo-barrel-33-2026-09-10@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260910T170000
+DTEND;TZID=America/Los_Angeles:20260910T190000
+SUMMARY:Boozy Bingo Night at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A two-hour wine-bar bingo night with drinks\, prizes and playfu
+ l competition—right at the top of the easy-inclusion price range.\n\nWHE
+ N\nThu\, Sep 10\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• $20 a
+ dmission includes the first beverage\n\nWHAT TO EXPECT\n• Advance ticket
+  link is provided on the event page\n• Village public parking lots are a
+ vailable\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: M
+ aple Hills Trail Work Evening (Thu\, Sep 10\, 2026\, 4:00 PM–6:00 PM).\n
+ • Overlaps or competes with: BBVAS Club Meeting — Public Invited (Thu\
+ , Sep 10\, 2026\, 5:30 PM–7:00 PM).\n\nOFFICIAL SOURCES\n• Official ev
+ ent page and tickets: https://www.bigbear.com/events/boozy-bingo-night/\n\
+ nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can change.
+  Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/boozy-bingo-night/
+CATEGORIES:Bingo,Nightlife,Village,Paid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bbvas-public-club-meeting-2026-09-10@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260910T173000
+DTEND;TZID=America/Los_Angeles:20260910T190000
+SUMMARY:BBVAS Club Meeting — Public Invited
+LOCATION:Benny’s Family Restaurant — 41196 Big Bear Blvd\, Big Bear Lak
+ e\, CA 92315
+DESCRIPTION:The local astronomy club’s monthly public meeting is an easy 
+ way to meet telescope owners\, learn what the group is observing and get i
+ nvolved beyond a one-off star party.\n\nWHEN\nThu\, Sep 10\, 2026\, 5:30 P
+ M–7:00 PM\n\nPRICE / ADMISSION\n• Free meeting\; the club encourages a
+ ttendees to order food or a drink from the host restaurant\n\nSCHEDULE\n
+ • 5:30–7:00 PM — dinner-table club meeting\n\nOFFICIAL SOURCES\n• 
+ BBVAS organizer listing: https://bearvalleyastronomers.org/event/bbvas-clu
+ b-meeting-public-invited-25/\n• October BBVAS organizer listing: https:/
+ /bearvalleyastronomers.org/event/bbvas-club-meeting-public-invited-26/\n
+ • BBVAS event calendar: https://bearvalleyastronomers.org/events/list/\n
+ \nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can change
+ . Recheck the official source before making a special trip.
+URL:https://bearvalleyastronomers.org/event/bbvas-club-meeting-public-invit
+ ed-25/
+CATEGORIES:Astronomy,Science,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:local-eagles-tesla-coils-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260910T190000
+DTEND;TZID=America/Los_Angeles:20260910T203000
+SUMMARY:Local Eagles and Tesla Coils — Historical Society Talk
+LOCATION:Bridges Presbyterian Fellowship — 579 Knickerbocker Rd\, Big Bea
+ r Lake\, CA 92315
+DESCRIPTION:Trish Green and Owen Phairis present the wonderfully odd combin
+ ation of local eagles and Tesla coils at the Historical Society’s public
+  September meeting.\n\nWHEN\nThu\, Sep 10\, 2026\, 7:00 PM–8:30 PM\n\nPR
+ ICE / ADMISSION\n• Free and open to everyone\; light refreshments provid
+ ed\n\nSCHEDULE\n• 7:00–8:30 PM — meeting and presentation\n\nWHAT TO
+  EXPECT\n• The Society’s meetings combine Valley history and guest pre
+ sentations\n• Public attendance does not require membership\n\nCONFLICTS
+  / SAME-DAY OPTIONS\n• Overlaps or competes with: BBVAS Club Meeting —
+  Public Invited (Thu\, Sep 10\, 2026\, 5:30 PM–7:00 PM).\n• Overlaps o
+ r competes with: Boozy Bingo Night at Barrel 33 (Thu\, Sep 10\, 2026\, 5:0
+ 0 PM–7:00 PM).\n\nOFFICIAL SOURCES\n• Historical Society 2026 program:
+  https://www.bigbearvalleyhistory.com/big-bear-valley-historical-society-i
+ nfo\n• Big Bear Chamber time and admission listing: https://business.big
+ bearchamber.com/events/details/big-bear-valley-historical-society-meeting-
+ and-presentation-09-10-2026-28978\n\nCALENDAR STATUS: CONFIRMED\nLast chec
+ ked: 2026-09-01\nDetails can change. Recheck the official source before ma
+ king a special trip.
+URL:https://www.bigbearvalleyhistory.com/big-bear-valley-historical-society
+ -info
+CATEGORIES:Science,Wildlife,Local History,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-farmers-market-2026-09-11@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260911T150000
+DTEND;TZID=America/Los_Angeles:20260911T190000
+SUMMARY:Big Bear Lake Farmers Market
+LOCATION:Ski Beach Park — 41216 Park Ave\, Big Bear Lake\, CA 92315
+DESCRIPTION:The Friday afternoon market is a useful recurring stop for fres
+ h produce\, food and local vendors without requiring a ticketed event comm
+ itment.\n\nWHEN\nFri\, Sep 11\, 2026\, 3:00 PM–7:00 PM\n\nPRICE / ADMISS
+ ION\n• Free admission\; produce\, prepared food and market goods sold by
+  vendors\n\nSCHEDULE\n• 3:00–7:00 PM — conservative planning window 
+ used because the official listing conflicts between 3–8 PM and 4–7 PM\
+ n\nTBD / VERIFY BEFORE GOING\n• The organizer’s own page contains two 
+ different hour ranges\; arrive by 7:00 PM rather than relying on the later
+  close\n\nOFFICIAL SOURCES\n• Official event page: https://www.bigbear.c
+ om/events/big-bear-lake-farmers-market1/\n\nCALENDAR STATUS: CONFIRMED\nLa
+ st checked: 2026-09-01\nDetails can change. Recheck the official source be
+ fore making a special trip.
+URL:https://www.bigbear.com/events/big-bear-lake-farmers-market1/
+CATEGORIES:Farmers Market,Food,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-11@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260911T170000
+DTEND;TZID=America/Los_Angeles:20260911T200000
+SUMMARY:Matt & Emily at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nFri\, Sep 11\, 2026\, 5:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• N
+ o ticket or cover charge is advertised\n• Food\, beer and wine are optio
+ nal at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cal
+ endar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFO
+ RE GOING\n• The official listing publishes no admission fee\, but does n
+ ot explicitly promise free entry\; verify if a particular set becomes a sp
+ ecial ticketed show\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compe
+ tes with: Big Bear Lake Farmers Market (Fri\, Sep 11\, 2026\, 3:00 PM–7:
+ 00 PM).\n\nOFFICIAL SOURCES\n• Barrel 33 organizer calendar: https://www
+ .barrel33bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_TBD\nLast che
+ cked: 2026-09-01\nDetails can change. Recheck the official source before m
+ aking a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:wild-bird-walk-2026-09-12@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260912T080000
+DTEND;TZID=America/Los_Angeles:20260912T100000
+SUMMARY:Wild Bird Walk with Chirp Nature Center
+LOCATION:Chirp Nature Center — 578 Bonanza Trail\, Big Bear Lake\, CA 923
+ 15
+DESCRIPTION:A two-hour morning bird walk from Chirp led by local birding ex
+ pert Michael Schreiner—good for learning the Valley’s resident and mig
+ rating species.\n\nWHEN\nSat\, Sep 12\, 2026\, 8:00 AM–10:00 AM\n\nPRICE
+  / ADMISSION\n• Free\; advance signup requested\n\nWHAT TO EXPECT\n• A
+ ll birding experience levels are welcome\n• Bring binoculars if availabl
+ e and dress for a cool mountain morning\n\nOFFICIAL SOURCES\n• Official 
+ event page and signup: https://www.bigbear.com/events/wild-bird-walk-with-
+ chirp-nature-center/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-
+ 01\nDetails can change. Recheck the official source before making a specia
+ l trip.
+URL:https://www.bigbear.com/events/wild-bird-walk-with-chirp-nature-center/
+CATEGORIES:Birding,Wildlife,Nature,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:showtime-collision-grand-opening-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260912T110000
+DTEND;TZID=America/Los_Angeles:20260912T150000
+SUMMARY:Showtime Collision Grand Opening + Car Display
+LOCATION:Showtime Collision — 41202 Big Bear Blvd\, Big Bear Lake\, CA 92
+ 315
+DESCRIPTION:A community grand opening with a car display\, a Recycled Rides
+  vehicle giveaway\, raffle\, kids’ activities\, food and drinks.\n\nWHEN
+ \nSat\, Sep 12\, 2026\, 11:00 AM–3:00 PM\n\nPRICE / ADMISSION\n• Free 
+ and open to the public\n\nWHAT TO EXPECT\n• The donated Recycled Rides v
+ ehicle is presented during the event\n• The car component and free famil
+ y activities make this more useful than a routine ribbon cutting\n\nOFFICI
+ AL SOURCES\n• Big Bear Chamber official listing: https://business.bigbea
+ rchamber.com/events/details/grand-opening-ribbon-cutting-showtime-collisio
+ n-29214\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails c
+ an change. Recheck the official source before making a special trip.
+URL:https://business.bigbearchamber.com/events/details/grand-opening-ribbon
+ -cutting-showtime-collision-29214
+CATEGORIES:Cars,Community,Family,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:oktoberfest-opening-saturday-2026@big-bear-events.bry.rip
 DTSTAMP:20260815T173000Z
 LAST-MODIFIED:20260815T173000Z
@@ -1573,6 +2221,33 @@ CATEGORIES:Festival,Live Music,Food,Family
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-12@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260912T170000
+DTEND;TZID=America/Los_Angeles:20260912T200000
+SUMMARY:Local Legends at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nSat\, Sep 12\, 2026\, 5:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• N
+ o ticket or cover charge is advertised\n• Food\, beer and wine are optio
+ nal at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cal
+ endar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFO
+ RE GOING\n• The official listing publishes no admission fee\, but does n
+ ot explicitly promise free entry\; verify if a particular set becomes a sp
+ ecial ticketed show\n\nOFFICIAL SOURCES\n• Barrel 33 organizer calendar:
+  https://www.barrel33bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_T
+ BD\nLast checked: 2026-09-01\nDetails can change. Recheck the official sou
+ rce before making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-concert-bardo-mestizo-2026@big-bear-events.bry.rip
@@ -1653,5 +2328,2767 @@ CATEGORIES:Festival,Live Music,Food,Family
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-sunday-latin-night-2026-09-13@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260913T180000
+DTEND;TZID=America/Los_Angeles:20260913T210000
+SUMMARY:Sunday Latin Night + Live DJ at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Sunday Latin night with a live DJ—one of the few 
+ clearly published themed dance nights outside Wyatt’s.\n\nWHEN\nSun\, Se
+ p 13\, 2026\, 6:00 PM–9:00 PM\n\nPRICE / ADMISSION\n• No admission or 
+ cover price is published\; likely free or inexpensive\, with food and drin
+ ks sold separately\n\nSCHEDULE\n• 6:00–9:00 PM — Latin Night with li
+ ve DJ\n\nTBD / VERIFY BEFORE GOING\n• The page states an every-Sunday ca
+ dence but its generated upcoming-date list displays only Tuesdays\; verify
+  the Sunday session before going\n\nOFFICIAL SOURCES\n• Official recurri
+ ng event page: https://www.bigbear.com/events/taco-tuesday-latin-night-at-
+ hampton-inn-home2-suites/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2
+ 026-09-01\nDetails can change. Recheck the official source before making a
+  special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Latin Music,Dancing,Themed Night,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-high-alti-tuesday-2026-09-15@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260915T133000
+DTEND;TZID=America/Los_Angeles:20260915T153000
+SUMMARY:Afternoon Acoustic with Brad at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A low-key Tuesday afternoon of acoustic favorites from Brad at 
+ Barrel 33.\n\nWHEN\nTue\, Sep 15\, 2026\, 1:30 PM–3:30 PM\n\nPRICE / ADM
+ ISSION\n• No cover charge is advertised\; food and drinks are optional a
+ t menu prices\n\nWHAT TO EXPECT\n• The venue calendar explicitly lists t
+ he five September dates\n• The current venue time is 1:30–3:30 PM\n\nT
+ BD / VERIFY BEFORE GOING\n• The venue publishes no admission fee but doe
+ s not explicitly promise free entry\n\nOFFICIAL SOURCES\n• Barrel 33 org
+ anizer calendar: https://www.barrel33bigbear.com/events-list\n\nCALENDAR S
+ TATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Recheck 
+ the official source before making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-taco-tuesday-2026-09-15@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260915T170000
+DTEND;TZID=America/Los_Angeles:20260915T190000
+SUMMARY:Taco Tuesday at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Tuesday taco evening at the Hampton Inn / Home2 Sui
+ tes—an easy\, likely inexpensive themed-night reminder.\n\nWHEN\nTue\, S
+ ep 15\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• No admission or
+  cover price is published\; tacos and drinks are sold separately\n\nSCHEDU
+ LE\n• 5:00–7:00 PM — Taco Tuesday\n\nTBD / VERIFY BEFORE GOING\n• 
+ Menu prices and whether any part of the event is limited to hotel guests a
+ re not stated\; the public tourism listing invites visitors to attend\n\nO
+ FFICIAL SOURCES\n• Official recurring event page: https://www.bigbear.co
+ m/events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/\n\nCALENDAR
+  STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Rechec
+ k the official source before making a special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Themed Night,Food,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-17@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260917T170000
+DTEND;TZID=America/Los_Angeles:20260917T200000
+SUMMARY:Tanner Martin at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nThu\, Sep 17\, 2026\, 5:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• N
+ o ticket or cover charge is advertised\n• Food\, beer and wine are optio
+ nal at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cal
+ endar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFO
+ RE GOING\n• The official listing publishes no admission fee\, but does n
+ ot explicitly promise free entry\; verify if a particular set becomes a sp
+ ecial ticketed show\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compe
+ tes with: Happy Hour Trivia at Stillwells (Thu\, Sep 17\, 2026\, 6:00 PM
+ –8:00 PM).\n\nOFFICIAL SOURCES\n• Barrel 33 organizer calendar: https:
+ //www.barrel33bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_TBD\nLas
+ t checked: 2026-09-01\nDetails can change. Recheck the official source bef
+ ore making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:mountain-top-trivia-stillwells-2026-09-17@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260917T180000
+DTEND;TZID=America/Los_Angeles:20260917T200000
+SUMMARY:Happy Hour Trivia at Stillwells
+LOCATION:Stillwells Restaurant — 40650 Village Dr\, Big Bear Lake\, CA 92
+ 315
+DESCRIPTION:A live-hosted\, six-round general-knowledge trivia night with a
+  relaxed bar atmosphere\, teams of two to six and prizes for the top teams
+ .\n\nWHEN\nThu\, Sep 17\, 2026\, 6:00 PM–8:00 PM\n\nPRICE / ADMISSION\n
+ • Free to play\; food and drinks are optional\n\nSCHEDULE\n• 6:00 PM 
+ — game starts\n• About 1.5–2 hours — published game length\n\nWHAT
+  TO EXPECT\n• Solo players can join a team\n• Includes halftime\, ligh
+ tning rounds and bonus points\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlap
+ s or competes with: Tanner Martin at Barrel 33 (Thu\, Sep 17\, 2026\, 5:00
+  PM–8:00 PM).\n\nOFFICIAL SOURCES\n• Official Mountain Top Trivia sche
+ dule: https://mountaintoptrivia.com/\n\nCALENDAR STATUS: CONFIRMED\nLast c
+ hecked: 2026-09-01\nDetails can change. Recheck the official source before
+  making a special trip.
+URL:https://mountaintoptrivia.com/
+CATEGORIES:Trivia,Nightlife,Village,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-farmers-market-2026-09-18@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260918T150000
+DTEND;TZID=America/Los_Angeles:20260918T190000
+SUMMARY:Big Bear Lake Farmers Market
+LOCATION:Ski Beach Park — 41216 Park Ave\, Big Bear Lake\, CA 92315
+DESCRIPTION:The Friday afternoon market is a useful recurring stop for fres
+ h produce\, food and local vendors without requiring a ticketed event comm
+ itment.\n\nWHEN\nFri\, Sep 18\, 2026\, 3:00 PM–7:00 PM\n\nPRICE / ADMISS
+ ION\n• Free admission\; produce\, prepared food and market goods sold by
+  vendors\n\nSCHEDULE\n• 3:00–7:00 PM — conservative planning window 
+ used because the official listing conflicts between 3–8 PM and 4–7 PM\
+ n\nTBD / VERIFY BEFORE GOING\n• The organizer’s own page contains two 
+ different hour ranges\; arrive by 7:00 PM rather than relying on the later
+  close\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: Art
+ ists’ Best Work en Plein Air — Public Gallery (Fri\, Sep 18\, 2026\, 4
+ :00 PM–9:00 PM).\n\nOFFICIAL SOURCES\n• Official event page: https://w
+ ww.bigbear.com/events/big-bear-lake-farmers-market1/\n\nCALENDAR STATUS: C
+ ONFIRMED\nLast checked: 2026-09-01\nDetails can change. Recheck the offici
+ al source before making a special trip.
+URL:https://www.bigbear.com/events/big-bear-lake-farmers-market1/
+CATEGORIES:Farmers Market,Food,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:plein-air-public-gallery-2026-09-18@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260918T160000
+DTEND;TZID=America/Los_Angeles:20260918T210000
+SUMMARY:Artists’ Best Work en Plein Air — Public Gallery
+LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
+ ke\, CA 92315
+DESCRIPTION:The public gallery for Big Bear’s plein-air painting festival
+  shows artists’ freshly completed landscapes while the mountain views th
+ at inspired them are still outside.\n\nWHEN\nFri\, Sep 18\, 2026\, 4:00 PM
+ –9:00 PM\n\nPRICE / ADMISSION\n• Free public gallery admission\n\nWHAT
+  TO EXPECT\n• Friday gallery hours are 4:00–9:00 PM\n• Saturday gall
+ ery hours are 2:00–9:00 PM\n\nOFFICIAL SOURCES\n• Official event page:
+  https://www.bigbear.com/events/artists-best-work-en-plein-air-gallery/\n\
+ nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can change.
+  Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/artists-best-work-en-plein-air-gallery/
+CATEGORIES:Art,Gallery,Free,Community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-18@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260918T170000
+DTEND;TZID=America/Los_Angeles:20260918T200000
+SUMMARY:Sergio Snow at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nFri\, Sep 18\, 2026\, 5:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• N
+ o ticket or cover charge is advertised\n• Food\, beer and wine are optio
+ nal at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cal
+ endar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFO
+ RE GOING\n• The official listing publishes no admission fee\, but does n
+ ot explicitly promise free entry\; verify if a particular set becomes a sp
+ ecial ticketed show\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compe
+ tes with: Big Bear Lake Farmers Market (Fri\, Sep 18\, 2026\, 3:00 PM–7:
+ 00 PM).\n• Overlaps or competes with: Artists’ Best Work en Plein Air 
+ — Public Gallery (Fri\, Sep 18\, 2026\, 4:00 PM–9:00 PM).\n\nOFFICIAL 
+ SOURCES\n• Barrel 33 organizer calendar: https://www.barrel33bigbear.com
+ /events-list\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDe
+ tails can change. Recheck the official source before making a special trip
+ .
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:from-the-ground-up-forest-event-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260919T100000
+DTEND;TZID=America/Los_Angeles:20260919T140000
+SUMMARY:From the Ground Up — Big Bear Valley Forest Event
+LOCATION:Big Bear Discovery Center — 40971 North Shore Dr\, Fawnskin\, CA
+  92333
+DESCRIPTION:A National Public Lands Day community event about forest health
+  and wildfire resilience\, presented by the National Forest Foundation at 
+ the Discovery Center.\n\nWHEN\nSat\, Sep 19\, 2026\, 10:00 AM–2:00 PM\n\
+ nPRICE / ADMISSION\n• Free public-lands event\n\nWHAT TO EXPECT\n• Lea
+ rn how local forest projects move from planning into on-the-ground work\n
+ • Designed for public education\, conversation and participation in loca
+ l public lands\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes w
+ ith: Artists’ Best Work en Plein Air — Public Gallery (Sat\, Sep 19\, 
+ 2026\, 2:00 PM–9:00 PM).\n\nOFFICIAL SOURCES\n• National Environmental
+  Education Foundation listing: https://www.neefusa.org/npld/san-bernadino-
+ national-forest/ground-big-bear-valley-community-event\n\nCALENDAR STATUS:
+  CONFIRMED\nLast checked: 2026-09-01\nDetails can change. Recheck the offi
+ cial source before making a special trip.
+URL:https://www.neefusa.org/npld/san-bernadino-national-forest/ground-big-b
+ ear-valley-community-event
+CATEGORIES:Environment,Forest,Science,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-09-19@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260919T130000
+DTEND;TZID=America/Los_Angeles:20260919T230000
+SUMMARY:Big Bear Lake Oktoberfest — Saturday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSat\, Sep 19\, 2026\,
+  1:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
+ sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
+ 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
+ nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
+ ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
+ \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
+ :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
+ –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
+ 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
+  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
+ begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
+ ssion to eligible military/veterans\, firefighters\, law enforcement and f
+ rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
+ eral-admission tier unless the premium seating itself is worth the large s
+ urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
+ n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
+ earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
+ al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:plein-air-public-gallery-2026-09-19@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260919T140000
+DTEND;TZID=America/Los_Angeles:20260919T210000
+SUMMARY:Artists’ Best Work en Plein Air — Public Gallery
+LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
+ ke\, CA 92315
+DESCRIPTION:The public gallery for Big Bear’s plein-air painting festival
+  shows artists’ freshly completed landscapes while the mountain views th
+ at inspired them are still outside.\n\nWHEN\nSat\, Sep 19\, 2026\, 2:00 PM
+ –9:00 PM\n\nPRICE / ADMISSION\n• Free public gallery admission\n\nWHAT
+  TO EXPECT\n• Friday gallery hours are 4:00–9:00 PM\n• Saturday gall
+ ery hours are 2:00–9:00 PM\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps
+  or competes with: From the Ground Up — Big Bear Valley Forest Event (Sa
+ t\, Sep 19\, 2026\, 10:00 AM–2:00 PM).\n• Overlaps or competes with: B
+ BVAS Sidewalk Astronomy in the Village (Sat\, Sep 19\, 2026\, 7:00 PM–9:
+ 00 PM).\n\nOFFICIAL SOURCES\n• Official event page: https://www.bigbear.
+ com/events/artists-best-work-en-plein-air-gallery/\n\nCALENDAR STATUS: CON
+ FIRMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official
+  source before making a special trip.
+URL:https://www.bigbear.com/events/artists-best-work-en-plein-air-gallery/
+CATEGORIES:Art,Gallery,Free,Community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-19@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260919T170000
+DTEND;TZID=America/Los_Angeles:20260919T200000
+SUMMARY:Sergio Snow at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nSat\, Sep 19\, 2026\, 5:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• N
+ o ticket or cover charge is advertised\n• Food\, beer and wine are optio
+ nal at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cal
+ endar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFO
+ RE GOING\n• The official listing publishes no admission fee\, but does n
+ ot explicitly promise free entry\; verify if a particular set becomes a sp
+ ecial ticketed show\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compe
+ tes with: Artists’ Best Work en Plein Air — Public Gallery (Sat\, Sep 
+ 19\, 2026\, 2:00 PM–9:00 PM).\n• Overlaps or competes with: BBVAS Side
+ walk Astronomy in the Village (Sat\, Sep 19\, 2026\, 7:00 PM–9:00 PM).\n
+ \nOFFICIAL SOURCES\n• Barrel 33 organizer calendar: https://www.barrel33
+ bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:bbvas-sidewalk-astronomy-2026-09-19@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260919T190000
+DTEND;TZID=America/Los_Angeles:20260919T210000
+SUMMARY:BBVAS Sidewalk Astronomy in the Village
+LOCATION:Barrel 33 entrance — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A casual\, walk-up astronomy night: Big Bear Valley Astronomica
+ l Society members bring telescopes into the Village and share views with t
+ he public.\n\nWHEN\nSat\, Sep 19\, 2026\, 7:00 PM–9:00 PM\n\nPRICE / ADM
+ ISSION\n• Free\; no equipment or astronomy experience required\n\nWHAT T
+ O EXPECT\n• Weather permitting\n• Telescopes are set up outside the Ba
+ rrel 33 entrance in the Village\n\nUSEFUL NOTES\n• Stop by at any point 
+ during the two-hour window\; no reservation is required\n\nCONFLICTS / SAM
+ E-DAY OPTIONS\n• Overlaps or competes with: Artists’ Best Work en Plei
+ n Air — Public Gallery (Sat\, Sep 19\, 2026\, 2:00 PM–9:00 PM).\n\nOFF
+ ICIAL SOURCES\n• BBVAS event calendar: https://bearvalleyastronomers.org
+ /events/list/\n• September organizer listing: https://bearvalleyastronom
+ ers.org/event/sidewalk-astronomy-in-the-village-22/\n• Official tourism 
+ listing: https://www.bigbear.com/events/sidewalk-astronomy/\n\nCALENDAR ST
+ ATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can change. Recheck the
+  official source before making a special trip.
+URL:https://bearvalleyastronomers.org/events/list/
+CATEGORIES:Astronomy,Science,Free,Village
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:country-rose-the-cave-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260919T190000
+DTEND;TZID=America/Los_Angeles:20260919T210000
+SUMMARY:Country Rose at The Cave
+LOCATION:The Cave — 40789 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Chris Rose plays a free country-cover set at The Cave.\n\nWHEN\
+ nSat\, Sep 19\, 2026\, 7:00 PM–9:00 PM\n\nPRICE / ADMISSION\n• Free ad
+ mission\n\nSCHEDULE\n• 7:00–9:00 PM — performance\n\nCONFLICTS / SAM
+ E-DAY OPTIONS\n• Overlaps or competes with: BBVAS Sidewalk Astronomy in 
+ the Village (Sat\, Sep 19\, 2026\, 7:00 PM–9:00 PM).\n• Overlaps or co
+ mpetes with: Artists’ Best Work en Plein Air — Public Gallery (Sat\, S
+ ep 19\, 2026\, 2:00 PM–9:00 PM).\n• Overlaps or competes with: Sergio 
+ Snow at Barrel 33 (Sat\, Sep 19\, 2026\, 5:00 PM–8:00 PM).\n\nOFFICIAL S
+ OURCES\n• The Cave organizer page: https://thecavebbl.com/event/country-
+ rose/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can
+  change. Recheck the official source before making a special trip.
+URL:https://thecavebbl.com/event/country-rose/
+CATEGORIES:Live Music,Country,Nightlife,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-09-20@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260920T120000
+DTEND;TZID=America/Los_Angeles:20260920T180000
+SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSun\, Sep 20\, 2026\,
+  12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
+ sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
+ 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
+ nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
+ ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
+ \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
+ :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
+ –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
+ 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
+  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
+ begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
+ ssion to eligible military/veterans\, firefighters\, law enforcement and f
+ rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
+ eral-admission tier unless the premium seating itself is worth the large s
+ urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
+ n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
+ earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
+ al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:alpine-zoo-twilight-safari-2026-09-20@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260920T170000
+DTEND;TZID=America/Los_Angeles:20260920T203000
+SUMMARY:Big Bear Alpine Zoo Twilight Safari
+LOCATION:Big Bear Alpine Zoo — 42801 Moonridge Rd\, Big Bear Lake\, CA 92
+ 315
+DESCRIPTION:A guided after-hours walk focused on the zoo’s nocturnal resi
+ dents\, with a much better chance of seeing evening animal behavior than d
+ uring a normal daytime loop.\n\nWHEN\nSun\, Sep 20\, 2026\, 5:00 PM–8:30
+  PM\n\nPRICE / ADMISSION\n• $30 per person\, online purchase only\n• E
+ ach one-hour tour has limited capacity\n\nSCHEDULE\n• One-hour tours beg
+ in at 5:00\, 5:30\, 6:00\, 6:30\, 7:00 and 7:30 PM\n• The calendar block
+  covers all six departure windows\n\nWHAT TO EXPECT\n• Hot chocolate and
+  cookies are included\n• The zoo can cancel for weather or other circums
+ tances with at least 24 hours’ notice\n\nUSEFUL NOTES\n• Choose and pu
+ rchase a specific tour time online\; this is not a walk-up general-admissi
+ on night\n\nOFFICIAL SOURCES\n• Official zoo Twilight Safari page: https
+ ://bigbearzoo.org/twilight-safari/\n\nCALENDAR STATUS: CONFIRMED\nLast che
+ cked: 2026-09-01\nDetails can change. Recheck the official source before m
+ aking a special trip.
+URL:https://bigbearzoo.org/twilight-safari/
+CATEGORIES:Wildlife,Zoo,Distinctive,Paid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-sunday-latin-night-2026-09-20@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260920T180000
+DTEND;TZID=America/Los_Angeles:20260920T210000
+SUMMARY:Sunday Latin Night + Live DJ at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Sunday Latin night with a live DJ—one of the few 
+ clearly published themed dance nights outside Wyatt’s.\n\nWHEN\nSun\, Se
+ p 20\, 2026\, 6:00 PM–9:00 PM\n\nPRICE / ADMISSION\n• No admission or 
+ cover price is published\; likely free or inexpensive\, with food and drin
+ ks sold separately\n\nSCHEDULE\n• 6:00–9:00 PM — Latin Night with li
+ ve DJ\n\nTBD / VERIFY BEFORE GOING\n• The page states an every-Sunday ca
+ dence but its generated upcoming-date list displays only Tuesdays\; verify
+  the Sunday session before going\n\nCONFLICTS / SAME-DAY OPTIONS\n• Over
+ laps or competes with: Big Bear Alpine Zoo Twilight Safari (Sun\, Sep 20\,
+  2026\, 5:00 PM–8:30 PM).\n\nOFFICIAL SOURCES\n• Official recurring ev
+ ent page: https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampt
+ on-inn-home2-suites/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-0
+ 9-01\nDetails can change. Recheck the official source before making a spec
+ ial trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Latin Music,Dancing,Themed Night,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:jam-sessions-the-cave-2026-09-20@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260920T183000
+DTEND;TZID=America/Los_Angeles:20260920T220000
+SUMMARY:Jam Sessions at The Cave
+LOCATION:The Cave — 40789 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A participatory free jam where local musicians can sign up\, me
+ et and play while everyone else listens from the room.\n\nWHEN\nSun\, Sep 
+ 20\, 2026\, 6:30 PM–10:00 PM\n\nPRICE / ADMISSION\n• Free admission\; 
+ audience welcome\n\nSCHEDULE\n• 6:30–10:00 PM — musician signups and
+  open jam\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: 
+ Big Bear Alpine Zoo Twilight Safari (Sun\, Sep 20\, 2026\, 5:00 PM–8:30 
+ PM).\n• Overlaps or competes with: Sunday Latin Night + Live DJ at Hampt
+ on Inn / Home2 Suites (Sun\, Sep 20\, 2026\, 6:00 PM–9:00 PM).\n\nOFFICI
+ AL SOURCES\n• The Cave organizer page: https://thecavebbl.com/event/jam-
+ sessions-the-cave-2/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-
+ 01\nDetails can change. Recheck the official source before making a specia
+ l trip.
+URL:https://thecavebbl.com/event/jam-sessions-the-cave-2/
+CATEGORIES:Live Music,Participation,Nightlife,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-high-alti-tuesday-2026-09-22@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260922T133000
+DTEND;TZID=America/Los_Angeles:20260922T153000
+SUMMARY:Afternoon Acoustic with Brad at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A low-key Tuesday afternoon of acoustic favorites from Brad at 
+ Barrel 33.\n\nWHEN\nTue\, Sep 22\, 2026\, 1:30 PM–3:30 PM\n\nPRICE / ADM
+ ISSION\n• No cover charge is advertised\; food and drinks are optional a
+ t menu prices\n\nWHAT TO EXPECT\n• The venue calendar explicitly lists t
+ he five September dates\n• The current venue time is 1:30–3:30 PM\n\nT
+ BD / VERIFY BEFORE GOING\n• The venue publishes no admission fee but doe
+ s not explicitly promise free entry\n\nOFFICIAL SOURCES\n• Barrel 33 org
+ anizer calendar: https://www.barrel33bigbear.com/events-list\n\nCALENDAR S
+ TATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Recheck 
+ the official source before making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-taco-tuesday-2026-09-22@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260922T170000
+DTEND;TZID=America/Los_Angeles:20260922T190000
+SUMMARY:Taco Tuesday at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Tuesday taco evening at the Hampton Inn / Home2 Sui
+ tes—an easy\, likely inexpensive themed-night reminder.\n\nWHEN\nTue\, S
+ ep 22\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• No admission or
+  cover price is published\; tacos and drinks are sold separately\n\nSCHEDU
+ LE\n• 5:00–7:00 PM — Taco Tuesday\n\nTBD / VERIFY BEFORE GOING\n• 
+ Menu prices and whether any part of the event is limited to hotel guests a
+ re not stated\; the public tourism listing invites visitors to attend\n\nO
+ FFICIAL SOURCES\n• Official recurring event page: https://www.bigbear.co
+ m/events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/\n\nCALENDAR
+  STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Rechec
+ k the official source before making a special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Themed Night,Food,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:mountain-top-trivia-bowling-barn-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260923T180000
+DTEND;TZID=America/Los_Angeles:20260923T200000
+SUMMARY:Family Trivia at The Bowling Barn
+LOCATION:The Bowling Barn — 40625 Big Bear Blvd\, Big Bear Lake\, CA 9231
+ 5
+DESCRIPTION:A special family-friendly edition of Mountain Top Trivia at the
+  Bowling Barn\, with the same live-hosted\, team-based format as the bar n
+ ights.\n\nWHEN\nWed\, Sep 23\, 2026\, 6:00 PM–8:00 PM\n\nPRICE / ADMISSI
+ ON\n• Free to play\; bowling\, food and drinks are optional\n\nSCHEDULE\
+ n• 6:00 PM — game starts\n• Allow about 1.5–2 hours\n\nOFFICIAL SO
+ URCES\n• Official Mountain Top Trivia schedule: https://mountaintoptrivi
+ a.com/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails ca
+ n change. Recheck the official source before making a special trip.
+URL:https://mountaintoptrivia.com/
+CATEGORIES:Trivia,Family,Free,Community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boozy-bingo-barrel-33-2026-09-24@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260924T170000
+DTEND;TZID=America/Los_Angeles:20260924T190000
+SUMMARY:Boozy Bingo Night at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A two-hour wine-bar bingo night with drinks\, prizes and playfu
+ l competition—right at the top of the easy-inclusion price range.\n\nWHE
+ N\nThu\, Sep 24\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• $20 a
+ dmission includes the first beverage\n\nWHAT TO EXPECT\n• Advance ticket
+  link is provided on the event page\n• Village public parking lots are a
+ vailable\n\nOFFICIAL SOURCES\n• Official event page and tickets: https:/
+ /www.bigbear.com/events/boozy-bingo-night/\n\nCALENDAR STATUS: CONFIRMED\n
+ Last checked: 2026-09-01\nDetails can change. Recheck the official source 
+ before making a special trip.
+URL:https://www.bigbear.com/events/boozy-bingo-night/
+CATEGORIES:Bingo,Nightlife,Village,Paid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-farmers-market-2026-09-25@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260925T150000
+DTEND;TZID=America/Los_Angeles:20260925T190000
+SUMMARY:Big Bear Lake Farmers Market
+LOCATION:Ski Beach Park — 41216 Park Ave\, Big Bear Lake\, CA 92315
+DESCRIPTION:The Friday afternoon market is a useful recurring stop for fres
+ h produce\, food and local vendors without requiring a ticketed event comm
+ itment.\n\nWHEN\nFri\, Sep 25\, 2026\, 3:00 PM–7:00 PM\n\nPRICE / ADMISS
+ ION\n• Free admission\; produce\, prepared food and market goods sold by
+  vendors\n\nSCHEDULE\n• 3:00–7:00 PM — conservative planning window 
+ used because the official listing conflicts between 3–8 PM and 4–7 PM\
+ n\nTBD / VERIFY BEFORE GOING\n• The organizer’s own page contains two 
+ different hour ranges\; arrive by 7:00 PM rather than relying on the later
+  close\n\nOFFICIAL SOURCES\n• Official event page: https://www.bigbear.c
+ om/events/big-bear-lake-farmers-market1/\n\nCALENDAR STATUS: CONFIRMED\nLa
+ st checked: 2026-09-01\nDetails can change. Recheck the official source be
+ fore making a special trip.
+URL:https://www.bigbear.com/events/big-bear-lake-farmers-market1/
+CATEGORIES:Farmers Market,Food,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-25@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260925T170000
+DTEND;TZID=America/Los_Angeles:20260925T200000
+SUMMARY:Matt & Emily at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nFri\, Sep 25\, 2026\, 5:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• N
+ o ticket or cover charge is advertised\n• Food\, beer and wine are optio
+ nal at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cal
+ endar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFO
+ RE GOING\n• The official listing publishes no admission fee\, but does n
+ ot explicitly promise free entry\; verify if a particular set becomes a sp
+ ecial ticketed show\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compe
+ tes with: Big Bear Lake Farmers Market (Fri\, Sep 25\, 2026\, 3:00 PM–7:
+ 00 PM).\n\nOFFICIAL SOURCES\n• Barrel 33 organizer calendar: https://www
+ .barrel33bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_TBD\nLast che
+ cked: 2026-09-01\nDetails can change. Recheck the official source before m
+ aking a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:green-thumbs-forest-restoration-2026-09-26@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260926T090000
+DTEND;TZID=America/Los_Angeles:20260926T150000
+SUMMARY:Green Thumbs Forest Restoration Volunteers
+LOCATION:San Bernardino National Forest work site\; directions sent after r
+ egistration — Big Bear Valley\, CA
+DESCRIPTION:A full hands-on restoration day working with native plants and 
+ forest sites—collecting seed\, planting trees\, tending nurseries\, weed
+ ing\, watering and cleaning damaged areas.\n\nWHEN\nSat\, Sep 26\, 2026\, 
+ 9:00 AM–3:00 PM\n\nPRICE / ADMISSION\n• Free volunteer workday\; prere
+ gistration required\n\nWHAT TO EXPECT\n• The exact work site and directi
+ ons are normally emailed about two weeks before the date\n• Tasks can al
+ so include litter pickup and graffiti removal\n\nUSEFUL NOTES\n• Registe
+ r with the listed coordinators before making plans\; wear field clothes an
+ d closed-toe shoes\n\nOFFICIAL SOURCES\n• Official event page and coordi
+ nator contacts: https://www.bigbear.com/events/green-thumbs-forest-restora
+ tion-volunteers/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\n
+ Details can change. Recheck the official source before making a special tr
+ ip.
+URL:https://www.bigbear.com/events/green-thumbs-forest-restoration-voluntee
+ rs/
+CATEGORIES:Plants,Environment,Volunteering,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:climate-cocktails-fall-2026-09-26@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260926T130000
+DTEND;TZID=America/Los_Angeles:20260926T170000
+SUMMARY:Climate & Cocktails — Cleanup + Happy Hour
+LOCATION:Cleanup meeting point to be announced\; happy hour at the publishe
+ d host venue — Big Bear Lake\, CA 92315
+DESCRIPTION:Care For Big Bear pairs a two-hour litter cleanup with a social
+  happy hour—a particularly approachable way to meet local environmental 
+ volunteers.\n\nWHEN\nSat\, Sep 26\, 2026\, 1:00 PM–5:00 PM\n\nPRICE / AD
+ MISSION\n• Free to participate\n• Registered cleanup volunteers who si
+ gn the waiver receive a first drink during happy hour\n\nSCHEDULE\n• 1:0
+ 0–3:00 PM — community cleanup\n• 3:30–5:00 PM — Climate & Cockta
+ ils happy hour\n\nWHAT TO EXPECT\n• The September 3:30–5:00 PM happy h
+ our is at Barrel 33\n• Cleanup meeting points and later happy-hour venue
+ s are published closer to each date\n\nTBD / VERIFY BEFORE GOING\n• Clea
+ nup meeting points and the October\, November and December happy-hour venu
+ es are not yet published\n\nOFFICIAL SOURCES\n• Official recurring event
+  page: https://www.bigbear.com/events/climate-cocktails/\n• Care For Big
+  Bear event overview: https://www.bigbear.com/care-for-big-bear/our-events
+ /\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can c
+ hange. Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/climate-cocktails/
+CATEGORIES:Environment,Volunteering,Nightlife,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-09-26@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260926T130000
+DTEND;TZID=America/Los_Angeles:20260926T230000
+SUMMARY:Big Bear Lake Oktoberfest — Saturday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSat\, Sep 26\, 2026\,
+  1:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
+ sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
+ 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
+ nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
+ ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
+ \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
+ :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
+ –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
+ 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
+  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
+ begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
+ ssion to eligible military/veterans\, firefighters\, law enforcement and f
+ rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
+ eral-admission tier unless the premium seating itself is worth the large s
+ urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
+ n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
+ earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
+ al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-26@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260926T170000
+DTEND;TZID=America/Los_Angeles:20260926T200000
+SUMMARY:The Blackwells at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nSat\, Sep 26\, 2026\, 5:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• N
+ o ticket or cover charge is advertised\n• Food\, beer and wine are optio
+ nal at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cal
+ endar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFO
+ RE GOING\n• The official listing publishes no admission fee\, but does n
+ ot explicitly promise free entry\; verify if a particular set becomes a sp
+ ecial ticketed show\n\nOFFICIAL SOURCES\n• Barrel 33 organizer calendar:
+  https://www.barrel33bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_T
+ BD\nLast checked: 2026-09-01\nDetails can change. Recheck the official sou
+ rce before making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-09-27@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260927T120000
+DTEND;TZID=America/Los_Angeles:20260927T180000
+SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSun\, Sep 27\, 2026\,
+  12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
+ sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
+ 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
+ nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
+ ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
+ \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
+ :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
+ –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
+ 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
+  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
+ begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
+ ssion to eligible military/veterans\, firefighters\, law enforcement and f
+ rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
+ eral-admission tier unless the premium seating itself is worth the large s
+ urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
+ n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
+ earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
+ al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:alpine-zoo-twilight-safari-2026-09-27@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260927T170000
+DTEND;TZID=America/Los_Angeles:20260927T203000
+SUMMARY:Big Bear Alpine Zoo Twilight Safari
+LOCATION:Big Bear Alpine Zoo — 42801 Moonridge Rd\, Big Bear Lake\, CA 92
+ 315
+DESCRIPTION:A guided after-hours walk focused on the zoo’s nocturnal resi
+ dents\, with a much better chance of seeing evening animal behavior than d
+ uring a normal daytime loop.\n\nWHEN\nSun\, Sep 27\, 2026\, 5:00 PM–8:30
+  PM\n\nPRICE / ADMISSION\n• $30 per person\, online purchase only\n• E
+ ach one-hour tour has limited capacity\n\nSCHEDULE\n• One-hour tours beg
+ in at 5:00\, 5:30\, 6:00\, 6:30\, 7:00 and 7:30 PM\n• The calendar block
+  covers all six departure windows\n\nWHAT TO EXPECT\n• Hot chocolate and
+  cookies are included\n• The zoo can cancel for weather or other circums
+ tances with at least 24 hours’ notice\n\nUSEFUL NOTES\n• Choose and pu
+ rchase a specific tour time online\; this is not a walk-up general-admissi
+ on night\n\nOFFICIAL SOURCES\n• Official zoo Twilight Safari page: https
+ ://bigbearzoo.org/twilight-safari/\n\nCALENDAR STATUS: CONFIRMED\nLast che
+ cked: 2026-09-01\nDetails can change. Recheck the official source before m
+ aking a special trip.
+URL:https://bigbearzoo.org/twilight-safari/
+CATEGORIES:Wildlife,Zoo,Distinctive,Paid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-sunday-latin-night-2026-09-27@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260927T180000
+DTEND;TZID=America/Los_Angeles:20260927T210000
+SUMMARY:Sunday Latin Night + Live DJ at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Sunday Latin night with a live DJ—one of the few 
+ clearly published themed dance nights outside Wyatt’s.\n\nWHEN\nSun\, Se
+ p 27\, 2026\, 6:00 PM–9:00 PM\n\nPRICE / ADMISSION\n• No admission or 
+ cover price is published\; likely free or inexpensive\, with food and drin
+ ks sold separately\n\nSCHEDULE\n• 6:00–9:00 PM — Latin Night with li
+ ve DJ\n\nTBD / VERIFY BEFORE GOING\n• The page states an every-Sunday ca
+ dence but its generated upcoming-date list displays only Tuesdays\; verify
+  the Sunday session before going\n\nCONFLICTS / SAME-DAY OPTIONS\n• Over
+ laps or competes with: Big Bear Alpine Zoo Twilight Safari (Sun\, Sep 27\,
+  2026\, 5:00 PM–8:30 PM).\n\nOFFICIAL SOURCES\n• Official recurring ev
+ ent page: https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampt
+ on-inn-home2-suites/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-0
+ 9-01\nDetails can change. Recheck the official source before making a spec
+ ial trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Latin Music,Dancing,Themed Night,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-high-alti-tuesday-2026-09-29@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260929T133000
+DTEND;TZID=America/Los_Angeles:20260929T153000
+SUMMARY:Afternoon Acoustic with Brad at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A low-key Tuesday afternoon of acoustic favorites from Brad at 
+ Barrel 33.\n\nWHEN\nTue\, Sep 29\, 2026\, 1:30 PM–3:30 PM\n\nPRICE / ADM
+ ISSION\n• No cover charge is advertised\; food and drinks are optional a
+ t menu prices\n\nWHAT TO EXPECT\n• The venue calendar explicitly lists t
+ he five September dates\n• The current venue time is 1:30–3:30 PM\n\nT
+ BD / VERIFY BEFORE GOING\n• The venue publishes no admission fee but doe
+ s not explicitly promise free entry\n\nOFFICIAL SOURCES\n• Barrel 33 org
+ anizer calendar: https://www.barrel33bigbear.com/events-list\n\nCALENDAR S
+ TATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Recheck 
+ the official source before making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-taco-tuesday-2026-09-29@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260929T170000
+DTEND;TZID=America/Los_Angeles:20260929T190000
+SUMMARY:Taco Tuesday at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Tuesday taco evening at the Hampton Inn / Home2 Sui
+ tes—an easy\, likely inexpensive themed-night reminder.\n\nWHEN\nTue\, S
+ ep 29\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• No admission or
+  cover price is published\; tacos and drinks are sold separately\n\nSCHEDU
+ LE\n• 5:00–7:00 PM — Taco Tuesday\n\nTBD / VERIFY BEFORE GOING\n• 
+ Menu prices and whether any part of the event is limited to hotel guests a
+ re not stated\; the public tourism listing invites visitors to attend\n\nO
+ FFICIAL SOURCES\n• Official recurring event page: https://www.bigbear.co
+ m/events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/\n\nCALENDAR
+  STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Rechec
+ k the official source before making a special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Themed Night,Food,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-09-30@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260930T170000
+DTEND;TZID=America/Los_Angeles:20260930T190000
+SUMMARY:Locals Night at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nWed\, Sep 30\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• N
+ o cover charge is advertised\n• Locals receive 15% off food and drinks\n
+ \nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the calendar uses the organ
+ izer’s exact time for each date\n\nTBD / VERIFY BEFORE GOING\n• The of
+ ficial listing publishes no admission fee\, but does not explicitly promis
+ e free entry\; verify if a particular set becomes a special ticketed show\
+ n\nOFFICIAL SOURCES\n• Barrel 33 organizer calendar: https://www.barrel3
+ 3bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 20
+ 26-09-01\nDetails can change. Recheck the official source before making a 
+ special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:mountain-top-trivia-stillwells-2026-10-01@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261001T180000
+DTEND;TZID=America/Los_Angeles:20261001T200000
+SUMMARY:Happy Hour Trivia at Stillwells
+LOCATION:Stillwells Restaurant — 40650 Village Dr\, Big Bear Lake\, CA 92
+ 315
+DESCRIPTION:A live-hosted\, six-round general-knowledge trivia night with a
+  relaxed bar atmosphere\, teams of two to six and prizes for the top teams
+ .\n\nWHEN\nThu\, Oct 1\, 2026\, 6:00 PM–8:00 PM\n\nPRICE / ADMISSION\n
+ • Free to play\; food and drinks are optional\n\nSCHEDULE\n• 6:00 PM 
+ — game starts\n• About 1.5–2 hours — published game length\n\nWHAT
+  TO EXPECT\n• Solo players can join a team\n• Includes halftime\, ligh
+ tning rounds and bonus points\n\nOFFICIAL SOURCES\n• Official Mountain T
+ op Trivia schedule: https://mountaintoptrivia.com/\n\nCALENDAR STATUS: CON
+ FIRMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official
+  source before making a special trip.
+URL:https://mountaintoptrivia.com/
+CATEGORIES:Trivia,Nightlife,Village,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-farmers-market-2026-10-02@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261002T150000
+DTEND;TZID=America/Los_Angeles:20261002T190000
+SUMMARY:Big Bear Lake Farmers Market
+LOCATION:Ski Beach Park — 41216 Park Ave\, Big Bear Lake\, CA 92315
+DESCRIPTION:The Friday afternoon market is a useful recurring stop for fres
+ h produce\, food and local vendors without requiring a ticketed event comm
+ itment.\n\nWHEN\nFri\, Oct 2\, 2026\, 3:00 PM–7:00 PM\n\nPRICE / ADMISSI
+ ON\n• Free admission\; produce\, prepared food and market goods sold by 
+ vendors\n\nSCHEDULE\n• 3:00–7:00 PM — conservative planning window u
+ sed because the official listing conflicts between 3–8 PM and 4–7 PM\n
+ \nTBD / VERIFY BEFORE GOING\n• The organizer’s own page contains two d
+ ifferent hour ranges\; arrive by 7:00 PM rather than relying on the later 
+ close\n\nOFFICIAL SOURCES\n• Official event page: https://www.bigbear.co
+ m/events/big-bear-lake-farmers-market1/\n\nCALENDAR STATUS: CONFIRMED\nLas
+ t checked: 2026-09-01\nDetails can change. Recheck the official source bef
+ ore making a special trip.
+URL:https://www.bigbear.com/events/big-bear-lake-farmers-market1/
+CATEGORIES:Farmers Market,Food,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-10-02@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261002T170000
+DTEND;TZID=America/Los_Angeles:20261002T200000
+SUMMARY:Ryan Bieber at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nFri\, Oct 2\, 2026\, 5:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• No
+  ticket or cover charge is advertised\n• Food\, beer and wine are option
+ al at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cale
+ ndar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFOR
+ E GOING\n• The official listing publishes no admission fee\, but does no
+ t explicitly promise free entry\; verify if a particular set becomes a spe
+ cial ticketed show\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compet
+ es with: Big Bear Lake Farmers Market (Fri\, Oct 2\, 2026\, 3:00 PM–7:00
+  PM).\n\nOFFICIAL SOURCES\n• Barrel 33 organizer calendar: https://www.b
+ arrel33bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_TBD\nLast check
+ ed: 2026-09-01\nDetails can change. Recheck the official source before mak
+ ing a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-02@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261002T170000
+DTEND;TZID=America/Los_Angeles:20261002T230000
+SUMMARY:Big Bear Lake Oktoberfest — Friday Night
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nFri\, Oct 2\, 2026\, 
+ 5:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admiss
+ ion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39
+ .33 Saturdays depending on date and entry time\n• Children age 12 and un
+ der are free Sundays\; other youth/senior prices vary by weekend\n• Pref
+ erred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\
+ n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:
+ 00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon–
+ 6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 30:
+  beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n• Fr
+ iday nights are indoors and lower-crowd\n• Saturday After Dark entry beg
+ ins at 7:30 PM\n• America’s Heroes weekends offer free general admissi
+ on to eligible military/veterans\, firefighters\, law enforcement and fron
+ tline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary genera
+ l-admission tier unless the premium seating itself is worth the large surc
+ harge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\n
+ OFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigbear
+ events.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festival 
+ overview: https://www.bigbear.com/events/oktoberfest/\n• Official entert
+ ainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfest-e
+ ntertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-0
+ 9-01\nDetails can change. Recheck the official source before making a spec
+ ial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bair-takeover-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261003T090000
+DTEND;TZID=America/Los_Angeles:20261003T160000
+SUMMARY:Big Bair Takeover — Classic Volkswagen Car Show
+LOCATION:The Lodge at Big Bear Lake — 40650 Village Dr\, Big Bear Lake\, 
+ CA 92315
+DESCRIPTION:A family-oriented classic Volkswagen show with trophies\, prize
+ s and raffles at The Lodge.\n\nWHEN\nSat\, Oct 3\, 2026\, 9:00 AM–4:00 P
+ M\n\nPRICE / ADMISSION\n• Expected to be free for spectators based on Bi
+ g Bear’s normal car-show pattern\; no admission price is published\n\nSC
+ HEDULE\n• 9:00 AM–4:00 PM — car show\n\nTBD / VERIFY BEFORE GOING\n
+ • The organizer listing does not explicitly state spectator admission\; 
+ verify before making a special trip\n\nOFFICIAL SOURCES\n• Official even
+ t page: https://www.bigbear.com/events/big-bair-takeover/\n\nCALENDAR STAT
+ US: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Recheck the
+  official source before making a special trip.
+URL:https://www.bigbear.com/events/big-bair-takeover/
+CATEGORIES:Car Show,Volkswagen,Likely Free,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:summit-series-best-whip-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261003T100000
+DTEND;TZID=America/Los_Angeles:20261003T160000
+SUMMARY:Summit Series Best Whip
+LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:A bike-park style contest focused on riders throwing their best
+  sideways whips—especially relevant one day before Snow Summit’s closi
+ ng day.\n\nWHEN\nSat\, Oct 3\, 2026\, 10:00 AM–4:00 PM\n\nPRICE / ADMISS
+ ION\n• Rider registration is free and available onsite\n• Useful spect
+ ator access requires a season pass\, Bike Park day ticket or Scenic Sky Ch
+ air ticket\n\nWHAT TO EXPECT\n• Spectating from the course requires moun
+ tain access\n• Operations remain subject to weather and trail conditions
+ \n\nOFFICIAL SOURCES\n• Official resort event page: https://www.bigbearm
+ ountainresort.com/things-to-do/events/summit-series-2\n\nCALENDAR STATUS: 
+ CONFIRMED\nLast checked: 2026-09-01\nDetails can change. Recheck the offic
+ ial source before making a special trip.
+URL:https://www.bigbearmountainresort.com/things-to-do/events/summit-series
+ -2
+CATEGORIES:Mountain Biking,Competition,Outdoors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-03@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261003T130000
+DTEND;TZID=America/Los_Angeles:20261004T000000
+SUMMARY:Big Bear Lake Oktoberfest — Saturday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSat\, Oct 3\, 2026 at
+  1:00 PM–Sun\, Oct 4\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordina
+ ry adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark\,
+  and about $28.68–$39.33 Saturdays depending on date and entry time\n•
+  Children age 12 and under are free Sundays\; other youth/senior prices va
+ ry by weekend\n• Preferred/VIP packages over $50 are intentionally not r
+ ecommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• Octo
+ ber Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight\n
+ • All Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n
+ • October 9\, 23 and 30: beer tasting 7:00–9:00 PM inside the festival
+ \n\nWHAT TO EXPECT\n• Friday nights are indoors and lower-crowd\n• Sat
+ urday After Dark entry begins at 7:30 PM\n• America’s Heroes weekends 
+ offer free general admission to eligible military/veterans\, firefighters\
+ , law enforcement and frontline healthcare workers\n\nUSEFUL NOTES\n• Bu
+ y only the ordinary general-admission tier unless the premium seating itse
+ lf is worth the large surcharge\n• Tickets are rain-or-shine\, date-spec
+ ific and nonrefundable\n\nOFFICIAL SOURCES\n• Official dates\, hours and
+  policies: https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 
+ 2026 pricing and festival overview: https://www.bigbear.com/events/oktober
+ fest/\n• Official entertainment schedule: https://bigbearevents.com/okto
+ berfest/2024-oktoberfest-entertainment-schedule/\n\nCALENDAR STATUS: CONFI
+ RMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official s
+ ource before making a special trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barrel-33-live-music-2026-10-03@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261003T170000
+DTEND;TZID=America/Los_Angeles:20261003T200000
+SUMMARY:Ryan Bieber at Barrel 33
+LOCATION:Barrel 33 — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:Barrel 33’s published September and early-October lineup supp
+ lies an unusually useful run of casual local live music in the Village.\n\
+ nWHEN\nSat\, Oct 3\, 2026\, 5:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• No
+  ticket or cover charge is advertised\n• Food\, beer and wine are option
+ al at menu prices\n\nSCHEDULE\n• Most sets are 5:00–8:00 PM\; the cale
+ ndar uses the organizer’s exact time for each date\n\nTBD / VERIFY BEFOR
+ E GOING\n• The official listing publishes no admission fee\, but does no
+ t explicitly promise free entry\; verify if a particular set becomes a spe
+ cial ticketed show\n\nOFFICIAL SOURCES\n• Barrel 33 organizer calendar: 
+ https://www.barrel33bigbear.com/events-list\n\nCALENDAR STATUS: DETAILS_TB
+ D\nLast checked: 2026-09-01\nDetails can change. Recheck the official sour
+ ce before making a special trip.
+URL:https://www.barrel33bigbear.com/events-list
+CATEGORIES:Live Music,Nightlife,Village,Free or Low Cost
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:firetribe-pre-party-the-cave-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261003T200000
+DTEND;TZID=America/Los_Angeles:20261004T020000
+SUMMARY:FireTribe Pre-Party at The Cave
+LOCATION:The Cave — 40789 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A free late-night DJ\, LED and flow-prop dance party—unusual 
+ even by Big Bear nightlife standards.\n\nWHEN\nSat\, Oct 3\, 2026 at 8:00 
+ PM–Sun\, Oct 4\, 2026 at 2:00 AM\n\nPRICE / ADMISSION\n• Free admissio
+ n\n\nSCHEDULE\n• Saturday 8:00 PM–Sunday 2:00 AM — DJs\, LEDs and da
+ ncing\n\nWHAT TO EXPECT\n• LED and non-fire flow props are welcome\n• 
+ Fire props are not allowed inside the venue\n\nOFFICIAL SOURCES\n• The C
+ ave organizer page: https://thecavebbl.com/event/firetribe-pre-party-event
+ /\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can cha
+ nge. Recheck the official source before making a special trip.
+URL:https://thecavebbl.com/event/firetribe-pre-party-event/
+CATEGORIES:DJ,Dancing,Unusual,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:snow-summit-bike-park-closing-day-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261004T090000
+DTEND;TZID=America/Los_Angeles:20261004T160000
+SUMMARY:Snow Summit Bike Park Closing Day
+LOCATION:Snow Summit — 880 Summit Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:The final day of Snow Summit’s 2026 bike-park season\, with l
+ ifts scheduled from 9:00 AM to 4:00 PM and a free youth activity at the ba
+ se.\n\nWHEN\nSun\, Oct 4\, 2026\, 9:00 AM–4:00 PM\n\nPRICE / ADMISSION\n
+ • Free parking and free youth activity at the base area\n• Bike-park l
+ ift access requires a valid pass or day ticket\n\nSCHEDULE\n• 9:00 AM–
+ 4:00 PM — final Snow Summit Bike Park operations\n• 12:00–2:00 PM 
+ — free youth activity at the base\n\nWHAT TO EXPECT\n• Snow Valley’s
+  bike park is scheduled to continue through October 25\n• Operations rem
+ ain subject to weather and conditions\n\nUSEFUL NOTES\n• Treat 4:00 PM a
+ s the lift close and load early enough for a final lap\n\nOFFICIAL SOURCES
+ \n• Official resort event page: https://www.bigbearmountainresort.com/th
+ ings-to-do/events/summit-bike-park-closing-day\n\nCALENDAR STATUS: CONFIRM
+ ED\nLast checked: 2026-09-01\nDetails can change. Recheck the official sou
+ rce before making a special trip.
+URL:https://www.bigbearmountainresort.com/things-to-do/events/summit-bike-p
+ ark-closing-day
+CATEGORIES:Mountain Biking,Closing Day,Outdoors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:moonridge-plein-air-gallery-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261004T100000
+DTEND;TZID=America/Los_Angeles:20261004T140000
+SUMMARY:Moonridge Corridor en Plein Air Gallery
+LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
+ ke\, CA 92315
+DESCRIPTION:A four-hour public gallery of fresh plein-air work focused on t
+ he Moonridge Corridor.\n\nWHEN\nSun\, Oct 4\, 2026\, 10:00 AM–2:00 PM\n\
+ nPRICE / ADMISSION\n• Public invited\; no admission fee or ticket requir
+ ement is published\n\nTBD / VERIFY BEFORE GOING\n• The official page inv
+ ites the public but does not explicitly label admission free\n\nOFFICIAL S
+ OURCES\n• Official event page: https://www.bigbear.com/events/moonridge-
+ corridor-en-plein-air-gallery/\n\nCALENDAR STATUS: DETAILS_TBD\nLast check
+ ed: 2026-09-01\nDetails can change. Recheck the official source before mak
+ ing a special trip.
+URL:https://www.bigbear.com/events/moonridge-corridor-en-plein-air-gallery/
+CATEGORIES:Art,Gallery,Likely Free,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-04@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261004T120000
+DTEND;TZID=America/Los_Angeles:20261004T180000
+SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSun\, Oct 4\, 2026\, 
+ 12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admiss
+ ion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39
+ .33 Saturdays depending on date and entry time\n• Children age 12 and un
+ der are free Sundays\; other youth/senior prices vary by weekend\n• Pref
+ erred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\
+ n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:
+ 00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon–
+ 6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 30:
+  beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n• Fr
+ iday nights are indoors and lower-crowd\n• Saturday After Dark entry beg
+ ins at 7:30 PM\n• America’s Heroes weekends offer free general admissi
+ on to eligible military/veterans\, firefighters\, law enforcement and fron
+ tline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary genera
+ l-admission tier unless the premium seating itself is worth the large surc
+ harge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\n
+ OFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigbear
+ events.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festival 
+ overview: https://www.bigbear.com/events/oktoberfest/\n• Official entert
+ ainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfest-e
+ ntertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-0
+ 9-01\nDetails can change. Recheck the official source before making a spec
+ ial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-sunday-latin-night-2026-10-04@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261004T180000
+DTEND;TZID=America/Los_Angeles:20261004T210000
+SUMMARY:Sunday Latin Night + Live DJ at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Sunday Latin night with a live DJ—one of the few 
+ clearly published themed dance nights outside Wyatt’s.\n\nWHEN\nSun\, Oc
+ t 4\, 2026\, 6:00 PM–9:00 PM\n\nPRICE / ADMISSION\n• No admission or c
+ over price is published\; likely free or inexpensive\, with food and drink
+ s sold separately\n\nSCHEDULE\n• 6:00–9:00 PM — Latin Night with liv
+ e DJ\n\nTBD / VERIFY BEFORE GOING\n• The page states an every-Sunday cad
+ ence but its generated upcoming-date list displays only Tuesdays\; verify 
+ the Sunday session before going\n\nOFFICIAL SOURCES\n• Official recurrin
+ g event page: https://www.bigbear.com/events/taco-tuesday-latin-night-at-h
+ ampton-inn-home2-suites/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 20
+ 26-09-01\nDetails can change. Recheck the official source before making a 
+ special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Latin Music,Dancing,Themed Night,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-taco-tuesday-2026-10-06@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261006T170000
+DTEND;TZID=America/Los_Angeles:20261006T190000
+SUMMARY:Taco Tuesday at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Tuesday taco evening at the Hampton Inn / Home2 Sui
+ tes—an easy\, likely inexpensive themed-night reminder.\n\nWHEN\nTue\, O
+ ct 6\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• No admission or 
+ cover price is published\; tacos and drinks are sold separately\n\nSCHEDUL
+ E\n• 5:00–7:00 PM — Taco Tuesday\n\nTBD / VERIFY BEFORE GOING\n• M
+ enu prices and whether any part of the event is limited to hotel guests ar
+ e not stated\; the public tourism listing invites visitors to attend\n\nOF
+ FICIAL SOURCES\n• Official recurring event page: https://www.bigbear.com
+ /events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/\n\nCALENDAR 
+ STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Recheck
+  the official source before making a special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Themed Night,Food,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:bbvas-public-club-meeting-2026-10-08@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261008T173000
+DTEND;TZID=America/Los_Angeles:20261008T190000
+SUMMARY:BBVAS Club Meeting — Public Invited
+LOCATION:Benny’s Family Restaurant — 41196 Big Bear Blvd\, Big Bear Lak
+ e\, CA 92315
+DESCRIPTION:The local astronomy club’s monthly public meeting is an easy 
+ way to meet telescope owners\, learn what the group is observing and get i
+ nvolved beyond a one-off star party.\n\nWHEN\nThu\, Oct 8\, 2026\, 5:30 PM
+ –7:00 PM\n\nPRICE / ADMISSION\n• Free meeting\; the club encourages at
+ tendees to order food or a drink from the host restaurant\n\nSCHEDULE\n•
+  5:30–7:00 PM — dinner-table club meeting\n\nOFFICIAL SOURCES\n• BBV
+ AS organizer listing: https://bearvalleyastronomers.org/event/bbvas-club-m
+ eeting-public-invited-25/\n• October BBVAS organizer listing: https://be
+ arvalleyastronomers.org/event/bbvas-club-meeting-public-invited-26/\n• B
+ BVAS event calendar: https://bearvalleyastronomers.org/events/list/\n\nCAL
+ ENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can change. Rec
+ heck the official source before making a special trip.
+URL:https://bearvalleyastronomers.org/event/bbvas-club-meeting-public-invit
+ ed-25/
+CATEGORIES:Astronomy,Science,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-farmers-market-2026-10-09@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261009T150000
+DTEND;TZID=America/Los_Angeles:20261009T190000
+SUMMARY:Big Bear Lake Farmers Market
+LOCATION:Ski Beach Park — 41216 Park Ave\, Big Bear Lake\, CA 92315
+DESCRIPTION:The Friday afternoon market is a useful recurring stop for fres
+ h produce\, food and local vendors without requiring a ticketed event comm
+ itment.\n\nWHEN\nFri\, Oct 9\, 2026\, 3:00 PM–7:00 PM\n\nPRICE / ADMISSI
+ ON\n• Free admission\; produce\, prepared food and market goods sold by 
+ vendors\n\nSCHEDULE\n• 3:00–7:00 PM — conservative planning window u
+ sed because the official listing conflicts between 3–8 PM and 4–7 PM\n
+ \nTBD / VERIFY BEFORE GOING\n• The organizer’s own page contains two d
+ ifferent hour ranges\; arrive by 7:00 PM rather than relying on the later 
+ close\n\nOFFICIAL SOURCES\n• Official event page: https://www.bigbear.co
+ m/events/big-bear-lake-farmers-market1/\n\nCALENDAR STATUS: CONFIRMED\nLas
+ t checked: 2026-09-01\nDetails can change. Recheck the official source bef
+ ore making a special trip.
+URL:https://www.bigbear.com/events/big-bear-lake-farmers-market1/
+CATEGORIES:Farmers Market,Food,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-09@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261009T170000
+DTEND;TZID=America/Los_Angeles:20261009T230000
+SUMMARY:Big Bear Lake Oktoberfest — Beer-Tasting Friday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nFri\, Oct 9\, 2026\, 
+ 5:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admiss
+ ion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39
+ .33 Saturdays depending on date and entry time\n• Children age 12 and un
+ der are free Sundays\; other youth/senior prices vary by weekend\n• Pref
+ erred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\
+ n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:
+ 00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon–
+ 6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 30:
+  beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n• Fr
+ iday nights are indoors and lower-crowd\n• Saturday After Dark entry beg
+ ins at 7:30 PM\n• America’s Heroes weekends offer free general admissi
+ on to eligible military/veterans\, firefighters\, law enforcement and fron
+ tline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary genera
+ l-admission tier unless the premium seating itself is worth the large surc
+ harge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\n
+ OFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigbear
+ events.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festival 
+ overview: https://www.bigbear.com/events/oktoberfest/\n• Official entert
+ ainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfest-e
+ ntertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-0
+ 9-01\nDetails can change. Recheck the official source before making a spec
+ ial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:plaid-to-the-bone-the-cave-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261009T200000
+DTEND;TZID=America/Los_Angeles:20261009T220000
+SUMMARY:Plaid to the Bone at The Cave
+LOCATION:The Cave — 40789 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A free ’90s-rock night in the Village from Plaid to the Bone.
+ \n\nWHEN\nFri\, Oct 9\, 2026\, 8:00 PM–10:00 PM\n\nPRICE / ADMISSION\n
+ • Free admission\n\nSCHEDULE\n• 8:00–10:00 PM — performance\n\nOFF
+ ICIAL SOURCES\n• The Cave organizer page: https://thecavebbl.com/event/p
+ laid-to-the-bone/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\
+ nDetails can change. Recheck the official source before making a special t
+ rip.
+URL:https://thecavebbl.com/event/plaid-to-the-bone/
+CATEGORIES:Live Music,Rock,Nightlife,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:night-time-lantern-festival-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Big Bear Valley Museum Night-Time Lantern Festival — Time TBD
+LOCATION:Big Bear Valley Historical Museum — 800 Greenway Dr\, Big Bear C
+ ity\, CA 92314
+DESCRIPTION:A one-night lantern event at the historical museum—exactly th
+ e sort of unusual mountain-town program worth remembering even while its h
+ our and theme remain unpublished.\n\nWHEN\nSat\, Oct 10\, 2026 (all day)\n
+ \nPRICE / ADMISSION\n• Price is not yet published\; keep as a reminder a
+ nd check the museum announcement\n\nTBD / VERIFY BEFORE GOING\n• Start/e
+ nd time\, theme\, admission price and reservation details are all still TB
+ D\n\nCONFLICTS / SAME-DAY OPTIONS\n• Same-day options include the Europe
+ an tuner car show and Dark-Sky Star Party.\n\nOFFICIAL SOURCES\n• Histor
+ ical Society special-events calendar: https://www.bigbearvalleyhistory.com
+ /about-1\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetail
+ s can change. Recheck the official source before making a special trip.
+URL:https://www.bigbearvalleyhistory.com/about-1
+CATEGORIES:Local History,Unusual,Nighttime,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:green-thumbs-forest-restoration-2026-10-10@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261010T090000
+DTEND;TZID=America/Los_Angeles:20261010T150000
+SUMMARY:Green Thumbs Forest Restoration Volunteers
+LOCATION:San Bernardino National Forest work site\; directions sent after r
+ egistration — Big Bear Valley\, CA
+DESCRIPTION:A full hands-on restoration day working with native plants and 
+ forest sites—collecting seed\, planting trees\, tending nurseries\, weed
+ ing\, watering and cleaning damaged areas.\n\nWHEN\nSat\, Oct 10\, 2026\, 
+ 9:00 AM–3:00 PM\n\nPRICE / ADMISSION\n• Free volunteer workday\; prere
+ gistration required\n\nWHAT TO EXPECT\n• The exact work site and directi
+ ons are normally emailed about two weeks before the date\n• Tasks can al
+ so include litter pickup and graffiti removal\n\nUSEFUL NOTES\n• Registe
+ r with the listed coordinators before making plans\; wear field clothes an
+ d closed-toe shoes\n\nOFFICIAL SOURCES\n• Official event page and coordi
+ nator contacts: https://www.bigbear.com/events/green-thumbs-forest-restora
+ tion-volunteers/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\n
+ Details can change. Recheck the official source before making a special tr
+ ip.
+URL:https://www.bigbear.com/events/green-thumbs-forest-restoration-voluntee
+ rs/
+CATEGORIES:Plants,Environment,Volunteering,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:oktobergfest-european-tuner-getaway-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261010T120000
+DTEND;TZID=America/Los_Angeles:20261010T180000
+SUMMARY:Oktobergfest European Tuner Car Getaway — Saturday Show
+LOCATION:The Lodge at Big Bear Lake — 40650 Village Dr\, Big Bear Lake\, 
+ CA 92315
+DESCRIPTION:A Village display of European tuner cars during an October 9–
+ 11 owner getaway\; Saturday is the public-facing six-hour car-show window.
+ \n\nWHEN\nSat\, Oct 10\, 2026\, 12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n
+ • Expected to be free for spectators based on the local car-show pattern
+ \n• Advance registration is required only for participating vehicles\n\n
+ WHAT TO EXPECT\n• The official listing specifically publishes a registra
+ tion requirement for vehicles\n• The user confirms Big Bear car shows ar
+ e normally free for spectators\, so this stays as a reminder even though t
+ he listing omits spectator wording\n\nTBD / VERIFY BEFORE GOING\n• The o
+ rganizer has not explicitly published the spectator price\; verify on the 
+ live page before making a special trip\n\nCONFLICTS / SAME-DAY OPTIONS\n
+ • Overlaps or competes with: Green Thumbs Forest Restoration Volunteers 
+ (Sat\, Oct 10\, 2026\, 9:00 AM–3:00 PM).\n\nOFFICIAL SOURCES\n• Offici
+ al event page: https://www.bigbear.com/events/oktobergfest-european-tuner-
+ car-getaway/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDe
+ tails can change. Recheck the official source before making a special trip
+ .
+URL:https://www.bigbear.com/events/oktobergfest-european-tuner-car-getaway/
+CATEGORIES:Car Show,Village,Likely Free,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-10@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261010T130000
+DTEND;TZID=America/Los_Angeles:20261011T000000
+SUMMARY:Big Bear Lake Oktoberfest — Saturday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSat\, Oct 10\, 2026 a
+ t 1:00 PM–Sun\, Oct 11\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordi
+ nary adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark
+ \, and about $28.68–$39.33 Saturdays depending on date and entry time\n
+ • Children age 12 and under are free Sundays\; other youth/senior prices
+  vary by weekend\n• Preferred/VIP packages over $50 are intentionally no
+ t recommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• O
+ ctober Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight
+ \n• All Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n
+ • October 9\, 23 and 30: beer tasting 7:00–9:00 PM inside the festival
+ \n\nWHAT TO EXPECT\n• Friday nights are indoors and lower-crowd\n• Sat
+ urday After Dark entry begins at 7:30 PM\n• America’s Heroes weekends 
+ offer free general admission to eligible military/veterans\, firefighters\
+ , law enforcement and frontline healthcare workers\n\nUSEFUL NOTES\n• Bu
+ y only the ordinary general-admission tier unless the premium seating itse
+ lf is worth the large surcharge\n• Tickets are rain-or-shine\, date-spec
+ ific and nonrefundable\n\nOFFICIAL SOURCES\n• Official dates\, hours and
+  policies: https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 
+ 2026 pricing and festival overview: https://www.bigbear.com/events/oktober
+ fest/\n• Official entertainment schedule: https://bigbearevents.com/okto
+ berfest/2024-oktoberfest-entertainment-schedule/\n\nCALENDAR STATUS: CONFI
+ RMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official s
+ ource before making a special trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bbvas-dark-sky-star-party-2026-10-10@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261010T180000
+DTEND;TZID=America/Los_Angeles:20261010T210000
+SUMMARY:BBVAS Dark-Sky Star Party
+LOCATION:The High Chaparal — Baldwin Lake\, CA 92314
+DESCRIPTION:Local astronomers set up telescopes at their Baldwin Lake dark 
+ site for an informal public observing night under much darker skies than t
+ he Village.\n\nWHEN\nSat\, Oct 10\, 2026\, 6:00 PM–9:00 PM\n\nPRICE / AD
+ MISSION\n• Free and open to the public\n\nSCHEDULE\n• Arrive during th
+ e published three-hour observing window\; the October party starts one hou
+ r earlier\n\nWHAT TO EXPECT\n• Bring binoculars or a telescope if you ha
+ ve them\, or look through club members’ instruments\n• The party is we
+ ather dependent and can be cancelled for clouds or unsafe conditions\n\nUS
+ EFUL NOTES\n• Dress much warmer than the daytime forecast suggests and u
+ se a red flashlight near observing equipment\n\nOFFICIAL SOURCES\n• BBVA
+ S event calendar: https://bearvalleyastronomers.org/events/list/\n• Sept
+ ember organizer listing: https://bearvalleyastronomers.org/event/bbvas-clu
+ b-star-party-open-to-the-public-8/\n\nCALENDAR STATUS: CONFIRMED\nLast che
+ cked: 2026-09-01\nDetails can change. Recheck the official source before m
+ aking a special trip.
+URL:https://bearvalleyastronomers.org/events/list/
+CATEGORIES:Astronomy,Science,Free,Outdoors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-11@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261011T120000
+DTEND;TZID=America/Los_Angeles:20261011T180000
+SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSun\, Oct 11\, 2026\,
+  12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
+ sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
+ 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
+ nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
+ ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
+ \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
+ :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
+ –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
+ 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
+  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
+ begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
+ ssion to eligible military/veterans\, firefighters\, law enforcement and f
+ rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
+ eral-admission tier unless the premium seating itself is worth the large s
+ urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
+ n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
+ earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
+ al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:alpine-zoo-twilight-safari-2026-10-11@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261011T170000
+DTEND;TZID=America/Los_Angeles:20261011T203000
+SUMMARY:Big Bear Alpine Zoo Twilight Safari
+LOCATION:Big Bear Alpine Zoo — 42801 Moonridge Rd\, Big Bear Lake\, CA 92
+ 315
+DESCRIPTION:A guided after-hours walk focused on the zoo’s nocturnal resi
+ dents\, with a much better chance of seeing evening animal behavior than d
+ uring a normal daytime loop.\n\nWHEN\nSun\, Oct 11\, 2026\, 5:00 PM–8:30
+  PM\n\nPRICE / ADMISSION\n• $30 per person\, online purchase only\n• E
+ ach one-hour tour has limited capacity\n\nSCHEDULE\n• One-hour tours beg
+ in at 5:00\, 5:30\, 6:00\, 6:30\, 7:00 and 7:30 PM\n• The calendar block
+  covers all six departure windows\n\nWHAT TO EXPECT\n• Hot chocolate and
+  cookies are included\n• The zoo can cancel for weather or other circums
+ tances with at least 24 hours’ notice\n\nUSEFUL NOTES\n• Choose and pu
+ rchase a specific tour time online\; this is not a walk-up general-admissi
+ on night\n\nOFFICIAL SOURCES\n• Official zoo Twilight Safari page: https
+ ://bigbearzoo.org/twilight-safari/\n\nCALENDAR STATUS: CONFIRMED\nLast che
+ cked: 2026-09-01\nDetails can change. Recheck the official source before m
+ aking a special trip.
+URL:https://bigbearzoo.org/twilight-safari/
+CATEGORIES:Wildlife,Zoo,Distinctive,Paid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-sunday-latin-night-2026-10-11@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261011T180000
+DTEND;TZID=America/Los_Angeles:20261011T210000
+SUMMARY:Sunday Latin Night + Live DJ at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Sunday Latin night with a live DJ—one of the few 
+ clearly published themed dance nights outside Wyatt’s.\n\nWHEN\nSun\, Oc
+ t 11\, 2026\, 6:00 PM–9:00 PM\n\nPRICE / ADMISSION\n• No admission or 
+ cover price is published\; likely free or inexpensive\, with food and drin
+ ks sold separately\n\nSCHEDULE\n• 6:00–9:00 PM — Latin Night with li
+ ve DJ\n\nTBD / VERIFY BEFORE GOING\n• The page states an every-Sunday ca
+ dence but its generated upcoming-date list displays only Tuesdays\; verify
+  the Sunday session before going\n\nCONFLICTS / SAME-DAY OPTIONS\n• Over
+ laps or competes with: Big Bear Alpine Zoo Twilight Safari (Sun\, Oct 11\,
+  2026\, 5:00 PM–8:30 PM).\n\nOFFICIAL SOURCES\n• Official recurring ev
+ ent page: https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampt
+ on-inn-home2-suites/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-0
+ 9-01\nDetails can change. Recheck the official source before making a spec
+ ial trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Latin Music,Dancing,Themed Night,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-taco-tuesday-2026-10-13@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261013T170000
+DTEND;TZID=America/Los_Angeles:20261013T190000
+SUMMARY:Taco Tuesday at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Tuesday taco evening at the Hampton Inn / Home2 Sui
+ tes—an easy\, likely inexpensive themed-night reminder.\n\nWHEN\nTue\, O
+ ct 13\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• No admission or
+  cover price is published\; tacos and drinks are sold separately\n\nSCHEDU
+ LE\n• 5:00–7:00 PM — Taco Tuesday\n\nTBD / VERIFY BEFORE GOING\n• 
+ Menu prices and whether any part of the event is limited to hotel guests a
+ re not stated\; the public tourism listing invites visitors to attend\n\nO
+ FFICIAL SOURCES\n• Official recurring event page: https://www.bigbear.co
+ m/events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/\n\nCALENDAR
+  STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Rechec
+ k the official source before making a special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Themed Night,Food,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-plein-air-competition-gallery-2026-10-14@big-bear-events.bry.r
+ ip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261014T140000
+DTEND;TZID=America/Los_Angeles:20261014T200000
+SUMMARY:Big Bear Plein Air Competition Gallery
+LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
+ ke\, CA 92315
+DESCRIPTION:The complete public exhibition for the 2026 Big Bear Plein Air 
+ competition\, ending with a Sunday awards ceremony.\n\nWHEN\nWed\, Oct 14\
+ , 2026\, 2:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no a
+ dmission fee or ticket requirement is published\n• Artwork is available 
+ to purchase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM gallery\n• 
+ October 18: 10:00 AM–noon gallery and awards\n\nTBD / VERIFY BEFORE GOIN
+ G\n• The official page invites the public but does not explicitly label 
+ admission free\n\nOFFICIAL SOURCES\n• Official competition page: https:/
+ /www.bigbear.com/pleinair/\n• Official event listing: https://www.bigbea
+ r.com/events/plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nL
+ ast checked: 2026-09-01\nDetails can change. Recheck the official source b
+ efore making a special trip.
+URL:https://www.bigbear.com/pleinair/
+CATEGORIES:Art,Gallery,Community,Likely Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-plein-air-competition-gallery-2026-10-15@big-bear-events.bry.r
+ ip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261015T140000
+DTEND;TZID=America/Los_Angeles:20261015T200000
+SUMMARY:Big Bear Plein Air Competition Gallery
+LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
+ ke\, CA 92315
+DESCRIPTION:The complete public exhibition for the 2026 Big Bear Plein Air 
+ competition\, ending with a Sunday awards ceremony.\n\nWHEN\nThu\, Oct 15\
+ , 2026\, 2:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no a
+ dmission fee or ticket requirement is published\n• Artwork is available 
+ to purchase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM gallery\n• 
+ October 18: 10:00 AM–noon gallery and awards\n\nTBD / VERIFY BEFORE GOIN
+ G\n• The official page invites the public but does not explicitly label 
+ admission free\n\nOFFICIAL SOURCES\n• Official competition page: https:/
+ /www.bigbear.com/pleinair/\n• Official event listing: https://www.bigbea
+ r.com/events/plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nL
+ ast checked: 2026-09-01\nDetails can change. Recheck the official source b
+ efore making a special trip.
+URL:https://www.bigbear.com/pleinair/
+CATEGORIES:Art,Gallery,Community,Likely Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:mountain-top-trivia-stillwells-2026-10-15@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261015T180000
+DTEND;TZID=America/Los_Angeles:20261015T200000
+SUMMARY:Happy Hour Trivia at Stillwells
+LOCATION:Stillwells Restaurant — 40650 Village Dr\, Big Bear Lake\, CA 92
+ 315
+DESCRIPTION:A live-hosted\, six-round general-knowledge trivia night with a
+  relaxed bar atmosphere\, teams of two to six and prizes for the top teams
+ .\n\nWHEN\nThu\, Oct 15\, 2026\, 6:00 PM–8:00 PM\n\nPRICE / ADMISSION\n
+ • Free to play\; food and drinks are optional\n\nSCHEDULE\n• 6:00 PM 
+ — game starts\n• About 1.5–2 hours — published game length\n\nWHAT
+  TO EXPECT\n• Solo players can join a team\n• Includes halftime\, ligh
+ tning rounds and bonus points\n\nOFFICIAL SOURCES\n• Official Mountain T
+ op Trivia schedule: https://mountaintoptrivia.com/\n\nCALENDAR STATUS: CON
+ FIRMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official
+  source before making a special trip.
+URL:https://mountaintoptrivia.com/
+CATEGORIES:Trivia,Nightlife,Village,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-plein-air-competition-gallery-2026-10-16@big-bear-events.bry.r
+ ip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261016T140000
+DTEND;TZID=America/Los_Angeles:20261016T200000
+SUMMARY:Big Bear Plein Air Competition Gallery
+LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
+ ke\, CA 92315
+DESCRIPTION:The complete public exhibition for the 2026 Big Bear Plein Air 
+ competition\, ending with a Sunday awards ceremony.\n\nWHEN\nFri\, Oct 16\
+ , 2026\, 2:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no a
+ dmission fee or ticket requirement is published\n• Artwork is available 
+ to purchase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM gallery\n• 
+ October 18: 10:00 AM–noon gallery and awards\n\nTBD / VERIFY BEFORE GOIN
+ G\n• The official page invites the public but does not explicitly label 
+ admission free\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes w
+ ith: Big Bear Lake Farmers Market (Fri\, Oct 16\, 2026\, 3:00 PM–7:00 PM
+ ).\n\nOFFICIAL SOURCES\n• Official competition page: https://www.bigbear
+ .com/pleinair/\n• Official event listing: https://www.bigbear.com/events
+ /plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked:
+  2026-09-01\nDetails can change. Recheck the official source before making
+  a special trip.
+URL:https://www.bigbear.com/pleinair/
+CATEGORIES:Art,Gallery,Community,Likely Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-farmers-market-2026-10-16@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261016T150000
+DTEND;TZID=America/Los_Angeles:20261016T190000
+SUMMARY:Big Bear Lake Farmers Market
+LOCATION:Ski Beach Park — 41216 Park Ave\, Big Bear Lake\, CA 92315
+DESCRIPTION:The Friday afternoon market is a useful recurring stop for fres
+ h produce\, food and local vendors without requiring a ticketed event comm
+ itment.\n\nWHEN\nFri\, Oct 16\, 2026\, 3:00 PM–7:00 PM\n\nPRICE / ADMISS
+ ION\n• Free admission\; produce\, prepared food and market goods sold by
+  vendors\n\nSCHEDULE\n• 3:00–7:00 PM — conservative planning window 
+ used because the official listing conflicts between 3–8 PM and 4–7 PM\
+ n\nTBD / VERIFY BEFORE GOING\n• The organizer’s own page contains two 
+ different hour ranges\; arrive by 7:00 PM rather than relying on the later
+  close\n\nOFFICIAL SOURCES\n• Official event page: https://www.bigbear.c
+ om/events/big-bear-lake-farmers-market1/\n\nCALENDAR STATUS: CONFIRMED\nLa
+ st checked: 2026-09-01\nDetails can change. Recheck the official source be
+ fore making a special trip.
+URL:https://www.bigbear.com/events/big-bear-lake-farmers-market1/
+CATEGORIES:Farmers Market,Food,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-16@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261016T170000
+DTEND;TZID=America/Los_Angeles:20261016T230000
+SUMMARY:Big Bear Lake Oktoberfest — Friday Night
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nFri\, Oct 16\, 2026\,
+  5:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
+ sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
+ 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
+ nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
+ ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
+ \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
+ :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
+ –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
+ 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
+  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
+ begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
+ ssion to eligible military/veterans\, firefighters\, law enforcement and f
+ rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
+ eral-admission tier unless the premium seating itself is worth the large s
+ urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
+ n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
+ earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
+ al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-17@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261017T130000
+DTEND;TZID=America/Los_Angeles:20261018T000000
+SUMMARY:Big Bear Lake Oktoberfest — Saturday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSat\, Oct 17\, 2026 a
+ t 1:00 PM–Sun\, Oct 18\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordi
+ nary adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark
+ \, and about $28.68–$39.33 Saturdays depending on date and entry time\n
+ • Children age 12 and under are free Sundays\; other youth/senior prices
+  vary by weekend\n• Preferred/VIP packages over $50 are intentionally no
+ t recommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• O
+ ctober Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight
+ \n• All Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n
+ • October 9\, 23 and 30: beer tasting 7:00–9:00 PM inside the festival
+ \n\nWHAT TO EXPECT\n• Friday nights are indoors and lower-crowd\n• Sat
+ urday After Dark entry begins at 7:30 PM\n• America’s Heroes weekends 
+ offer free general admission to eligible military/veterans\, firefighters\
+ , law enforcement and frontline healthcare workers\n\nUSEFUL NOTES\n• Bu
+ y only the ordinary general-admission tier unless the premium seating itse
+ lf is worth the large surcharge\n• Tickets are rain-or-shine\, date-spec
+ ific and nonrefundable\n\nOFFICIAL SOURCES\n• Official dates\, hours and
+  policies: https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 
+ 2026 pricing and festival overview: https://www.bigbear.com/events/oktober
+ fest/\n• Official entertainment schedule: https://bigbearevents.com/okto
+ berfest/2024-oktoberfest-entertainment-schedule/\n\nCALENDAR STATUS: CONFI
+ RMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official s
+ ource before making a special trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-plein-air-competition-gallery-2026-10-17@big-bear-events.bry.r
+ ip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261017T140000
+DTEND;TZID=America/Los_Angeles:20261017T200000
+SUMMARY:Big Bear Plein Air Competition Gallery
+LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
+ ke\, CA 92315
+DESCRIPTION:The complete public exhibition for the 2026 Big Bear Plein Air 
+ competition\, ending with a Sunday awards ceremony.\n\nWHEN\nSat\, Oct 17\
+ , 2026\, 2:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no a
+ dmission fee or ticket requirement is published\n• Artwork is available 
+ to purchase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM gallery\n• 
+ October 18: 10:00 AM–noon gallery and awards\n\nTBD / VERIFY BEFORE GOIN
+ G\n• The official page invites the public but does not explicitly label 
+ admission free\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes w
+ ith: BBVAS Sidewalk Astronomy in the Village (Sat\, Oct 17\, 2026\, 7:00 P
+ M–9:00 PM).\n• Overlaps or competes with: Hurrikane — Free Scorpions
+  Tribute at The Cave (Sat\, Oct 17\, 2026\, 8:00 PM–10:30 PM).\n\nOFFICI
+ AL SOURCES\n• Official competition page: https://www.bigbear.com/pleinai
+ r/\n• Official event listing: https://www.bigbear.com/events/plein-air-a
+ rt-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-01\
+ nDetails can change. Recheck the official source before making a special t
+ rip.
+URL:https://www.bigbear.com/pleinair/
+CATEGORIES:Art,Gallery,Community,Likely Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:bbvas-sidewalk-astronomy-2026-10-17@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261017T190000
+DTEND;TZID=America/Los_Angeles:20261017T210000
+SUMMARY:BBVAS Sidewalk Astronomy in the Village
+LOCATION:Barrel 33 entrance — 40754 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A casual\, walk-up astronomy night: Big Bear Valley Astronomica
+ l Society members bring telescopes into the Village and share views with t
+ he public.\n\nWHEN\nSat\, Oct 17\, 2026\, 7:00 PM–9:00 PM\n\nPRICE / ADM
+ ISSION\n• Free\; no equipment or astronomy experience required\n\nWHAT T
+ O EXPECT\n• Weather permitting\n• Telescopes are set up outside the Ba
+ rrel 33 entrance in the Village\n\nUSEFUL NOTES\n• Stop by at any point 
+ during the two-hour window\; no reservation is required\n\nOFFICIAL SOURCE
+ S\n• BBVAS event calendar: https://bearvalleyastronomers.org/events/list
+ /\n• September organizer listing: https://bearvalleyastronomers.org/even
+ t/sidewalk-astronomy-in-the-village-22/\n• Official tourism listing: htt
+ ps://www.bigbear.com/events/sidewalk-astronomy/\n\nCALENDAR STATUS: CONFIR
+ MED\nLast checked: 2026-09-01\nDetails can change. Recheck the official so
+ urce before making a special trip.
+URL:https://bearvalleyastronomers.org/events/list/
+CATEGORIES:Astronomy,Science,Free,Village
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hurrikane-the-cave-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261017T200000
+DTEND;TZID=America/Los_Angeles:20261017T223000
+SUMMARY:Hurrikane — Free Scorpions Tribute at The Cave
+LOCATION:The Cave — 40789 Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A free Scorpions and German hard-rock tribute in the Village.\n
+ \nWHEN\nSat\, Oct 17\, 2026\, 8:00 PM–10:30 PM\n\nPRICE / ADMISSION\n•
+  Free admission\n\nSCHEDULE\n• 8:00–10:30 PM — performance\n\nCONFLI
+ CTS / SAME-DAY OPTIONS\n• Overlaps or competes with: BBVAS Sidewalk Astr
+ onomy in the Village (Sat\, Oct 17\, 2026\, 7:00 PM–9:00 PM).\n\nOFFICIA
+ L SOURCES\n• The Cave organizer page: https://thecavebbl.com/event/hurri
+ kane/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-01\nDetails can
+  change. Recheck the official source before making a special trip.
+URL:https://thecavebbl.com/event/hurrikane/
+CATEGORIES:Live Music,Hard Rock,Nightlife,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-plein-air-competition-gallery-2026-10-18@big-bear-events.bry.r
+ ip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261018T100000
+DTEND;TZID=America/Los_Angeles:20261018T120000
+SUMMARY:Big Bear Plein Air Competition Gallery + Awards
+LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
+ ke\, CA 92315
+DESCRIPTION:The complete public exhibition for the 2026 Big Bear Plein Air 
+ competition\, ending with a Sunday awards ceremony.\n\nWHEN\nSun\, Oct 18\
+ , 2026\, 10:00 AM–12:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no
+  admission fee or ticket requirement is published\n• Artwork is availabl
+ e to purchase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM gallery\n
+ • October 18: 10:00 AM–noon gallery and awards\n\nTBD / VERIFY BEFORE 
+ GOING\n• The official page invites the public but does not explicitly la
+ bel admission free\n\nOFFICIAL SOURCES\n• Official competition page: htt
+ ps://www.bigbear.com/pleinair/\n• Official event listing: https://www.bi
+ gbear.com/events/plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TB
+ D\nLast checked: 2026-09-01\nDetails can change. Recheck the official sour
+ ce before making a special trip.
+URL:https://www.bigbear.com/pleinair/
+CATEGORIES:Art,Gallery,Community,Likely Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-18@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261018T120000
+DTEND;TZID=America/Los_Angeles:20261018T180000
+SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSun\, Oct 18\, 2026\,
+  12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
+ sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
+ 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
+ nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
+ ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
+ \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
+ :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
+ –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
+ 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
+  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
+ begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
+ ssion to eligible military/veterans\, firefighters\, law enforcement and f
+ rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
+ eral-admission tier unless the premium seating itself is worth the large s
+ urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
+ n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
+ earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
+ al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:alpine-zoo-twilight-safari-2026-10-18@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261018T170000
+DTEND;TZID=America/Los_Angeles:20261018T203000
+SUMMARY:Big Bear Alpine Zoo Twilight Safari
+LOCATION:Big Bear Alpine Zoo — 42801 Moonridge Rd\, Big Bear Lake\, CA 92
+ 315
+DESCRIPTION:A guided after-hours walk focused on the zoo’s nocturnal resi
+ dents\, with a much better chance of seeing evening animal behavior than d
+ uring a normal daytime loop.\n\nWHEN\nSun\, Oct 18\, 2026\, 5:00 PM–8:30
+  PM\n\nPRICE / ADMISSION\n• $30 per person\, online purchase only\n• E
+ ach one-hour tour has limited capacity\n\nSCHEDULE\n• One-hour tours beg
+ in at 5:00\, 5:30\, 6:00\, 6:30\, 7:00 and 7:30 PM\n• The calendar block
+  covers all six departure windows\n\nWHAT TO EXPECT\n• Hot chocolate and
+  cookies are included\n• The zoo can cancel for weather or other circums
+ tances with at least 24 hours’ notice\n\nUSEFUL NOTES\n• Choose and pu
+ rchase a specific tour time online\; this is not a walk-up general-admissi
+ on night\n\nOFFICIAL SOURCES\n• Official zoo Twilight Safari page: https
+ ://bigbearzoo.org/twilight-safari/\n\nCALENDAR STATUS: CONFIRMED\nLast che
+ cked: 2026-09-01\nDetails can change. Recheck the official source before m
+ aking a special trip.
+URL:https://bigbearzoo.org/twilight-safari/
+CATEGORIES:Wildlife,Zoo,Distinctive,Paid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-sunday-latin-night-2026-10-18@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261018T180000
+DTEND;TZID=America/Los_Angeles:20261018T210000
+SUMMARY:Sunday Latin Night + Live DJ at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Sunday Latin night with a live DJ—one of the few 
+ clearly published themed dance nights outside Wyatt’s.\n\nWHEN\nSun\, Oc
+ t 18\, 2026\, 6:00 PM–9:00 PM\n\nPRICE / ADMISSION\n• No admission or 
+ cover price is published\; likely free or inexpensive\, with food and drin
+ ks sold separately\n\nSCHEDULE\n• 6:00–9:00 PM — Latin Night with li
+ ve DJ\n\nTBD / VERIFY BEFORE GOING\n• The page states an every-Sunday ca
+ dence but its generated upcoming-date list displays only Tuesdays\; verify
+  the Sunday session before going\n\nCONFLICTS / SAME-DAY OPTIONS\n• Over
+ laps or competes with: Big Bear Alpine Zoo Twilight Safari (Sun\, Oct 18\,
+  2026\, 5:00 PM–8:30 PM).\n\nOFFICIAL SOURCES\n• Official recurring ev
+ ent page: https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampt
+ on-inn-home2-suites/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-0
+ 9-01\nDetails can change. Recheck the official source before making a spec
+ ial trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Latin Music,Dancing,Themed Night,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-taco-tuesday-2026-10-20@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261020T170000
+DTEND;TZID=America/Los_Angeles:20261020T190000
+SUMMARY:Taco Tuesday at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Tuesday taco evening at the Hampton Inn / Home2 Sui
+ tes—an easy\, likely inexpensive themed-night reminder.\n\nWHEN\nTue\, O
+ ct 20\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• No admission or
+  cover price is published\; tacos and drinks are sold separately\n\nSCHEDU
+ LE\n• 5:00–7:00 PM — Taco Tuesday\n\nTBD / VERIFY BEFORE GOING\n• 
+ Menu prices and whether any part of the event is limited to hotel guests a
+ re not stated\; the public tourism listing invites visitors to attend\n\nO
+ FFICIAL SOURCES\n• Official recurring event page: https://www.bigbear.co
+ m/events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/\n\nCALENDAR
+  STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Rechec
+ k the official source before making a special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Themed Night,Food,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-farmers-market-2026-10-23@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261023T150000
+DTEND;TZID=America/Los_Angeles:20261023T190000
+SUMMARY:Big Bear Lake Farmers Market
+LOCATION:Ski Beach Park — 41216 Park Ave\, Big Bear Lake\, CA 92315
+DESCRIPTION:The Friday afternoon market is a useful recurring stop for fres
+ h produce\, food and local vendors without requiring a ticketed event comm
+ itment.\n\nWHEN\nFri\, Oct 23\, 2026\, 3:00 PM–7:00 PM\n\nPRICE / ADMISS
+ ION\n• Free admission\; produce\, prepared food and market goods sold by
+  vendors\n\nSCHEDULE\n• 3:00–7:00 PM — conservative planning window 
+ used because the official listing conflicts between 3–8 PM and 4–7 PM\
+ n\nTBD / VERIFY BEFORE GOING\n• The organizer’s own page contains two 
+ different hour ranges\; arrive by 7:00 PM rather than relying on the later
+  close\n\nOFFICIAL SOURCES\n• Official event page: https://www.bigbear.c
+ om/events/big-bear-lake-farmers-market1/\n\nCALENDAR STATUS: CONFIRMED\nLa
+ st checked: 2026-09-01\nDetails can change. Recheck the official source be
+ fore making a special trip.
+URL:https://www.bigbear.com/events/big-bear-lake-farmers-market1/
+CATEGORIES:Farmers Market,Food,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-23@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261023T170000
+DTEND;TZID=America/Los_Angeles:20261023T230000
+SUMMARY:Big Bear Lake Oktoberfest — Beer-Tasting Friday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nFri\, Oct 23\, 2026\,
+  5:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
+ sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
+ 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
+ nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
+ ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
+ \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
+ :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
+ –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
+ 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
+  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
+ begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
+ ssion to eligible military/veterans\, firefighters\, law enforcement and f
+ rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
+ eral-admission tier unless the premium seating itself is worth the large s
+ urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
+ n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
+ earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
+ al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lions-club-free-pumpkin-patch-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Big Bear Lions Club Free Pumpkin Patch — Time TBD
+LOCATION:Snow Summit base area — 880 Summit Blvd\, Big Bear Lake\, CA 923
+ 15
+DESCRIPTION:The Lions Club’s free community pumpkin patch at Snow Summit 
+ is worth saving now even while the dedicated detail page and exact hours a
+ re missing.\n\nWHEN\nSat\, Oct 24\, 2026 (all day)\n\nPRICE / ADMISSION\n
+ • Free\; finer 2026 participation details are not yet published\n\nTBD /
+  VERIFY BEFORE GOING\n• Exact hours\, age limits for free pumpkins and t
+ he 2026 activity lineup\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or c
+ ompetes with: Green Thumbs Forest Restoration Volunteers (Sat\, Oct 24\, 2
+ 026\, 9:00 AM–3:00 PM).\n• Overlaps or competes with: Climate & Cockta
+ ils — Cleanup + Happy Hour (Sat\, Oct 24\, 2026\, 1:00 PM–5:00 PM).\n\
+ nOFFICIAL SOURCES\n• Official event-index listing: https://www.bigbear.c
+ om/events/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDeta
+ ils can change. Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/
+CATEGORIES:Halloween,Community,Family,Free,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:green-thumbs-forest-restoration-2026-10-24@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261024T090000
+DTEND;TZID=America/Los_Angeles:20261024T150000
+SUMMARY:Green Thumbs Forest Restoration Volunteers
+LOCATION:San Bernardino National Forest work site\; directions sent after r
+ egistration — Big Bear Valley\, CA
+DESCRIPTION:A full hands-on restoration day working with native plants and 
+ forest sites—collecting seed\, planting trees\, tending nurseries\, weed
+ ing\, watering and cleaning damaged areas.\n\nWHEN\nSat\, Oct 24\, 2026\, 
+ 9:00 AM–3:00 PM\n\nPRICE / ADMISSION\n• Free volunteer workday\; prere
+ gistration required\n\nWHAT TO EXPECT\n• The exact work site and directi
+ ons are normally emailed about two weeks before the date\n• Tasks can al
+ so include litter pickup and graffiti removal\n\nUSEFUL NOTES\n• Registe
+ r with the listed coordinators before making plans\; wear field clothes an
+ d closed-toe shoes\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or compet
+ es with: Climate & Cocktails — Cleanup + Happy Hour (Sat\, Oct 24\, 2026
+ \, 1:00 PM–5:00 PM).\n\nOFFICIAL SOURCES\n• Official event page and co
+ ordinator contacts: https://www.bigbear.com/events/green-thumbs-forest-res
+ toration-volunteers/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-
+ 01\nDetails can change. Recheck the official source before making a specia
+ l trip.
+URL:https://www.bigbear.com/events/green-thumbs-forest-restoration-voluntee
+ rs/
+CATEGORIES:Plants,Environment,Volunteering,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:climate-cocktails-fall-2026-10-24@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261024T130000
+DTEND;TZID=America/Los_Angeles:20261024T170000
+SUMMARY:Climate & Cocktails — Cleanup + Happy Hour
+LOCATION:Cleanup meeting point to be announced\; happy hour at the publishe
+ d host venue — Big Bear Lake\, CA 92315
+DESCRIPTION:Care For Big Bear pairs a two-hour litter cleanup with a social
+  happy hour—a particularly approachable way to meet local environmental 
+ volunteers.\n\nWHEN\nSat\, Oct 24\, 2026\, 1:00 PM–5:00 PM\n\nPRICE / AD
+ MISSION\n• Free to participate\n• Registered cleanup volunteers who si
+ gn the waiver receive a first drink during happy hour\n\nSCHEDULE\n• 1:0
+ 0–3:00 PM — community cleanup\n• 3:30–5:00 PM — Climate & Cockta
+ ils happy hour\n\nWHAT TO EXPECT\n• The September 3:30–5:00 PM happy h
+ our is at Barrel 33\n• Cleanup meeting points and later happy-hour venue
+ s are published closer to each date\n\nTBD / VERIFY BEFORE GOING\n• Clea
+ nup meeting points and the October\, November and December happy-hour venu
+ es are not yet published\n\nOFFICIAL SOURCES\n• Official recurring event
+  page: https://www.bigbear.com/events/climate-cocktails/\n• Care For Big
+  Bear event overview: https://www.bigbear.com/care-for-big-bear/our-events
+ /\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can c
+ hange. Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/climate-cocktails/
+CATEGORIES:Environment,Volunteering,Nightlife,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-24@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261024T130000
+DTEND;TZID=America/Los_Angeles:20261025T000000
+SUMMARY:Big Bear Lake Oktoberfest — Saturday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSat\, Oct 24\, 2026 a
+ t 1:00 PM–Sun\, Oct 25\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordi
+ nary adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark
+ \, and about $28.68–$39.33 Saturdays depending on date and entry time\n
+ • Children age 12 and under are free Sundays\; other youth/senior prices
+  vary by weekend\n• Preferred/VIP packages over $50 are intentionally no
+ t recommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• O
+ ctober Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight
+ \n• All Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n
+ • October 9\, 23 and 30: beer tasting 7:00–9:00 PM inside the festival
+ \n\nWHAT TO EXPECT\n• Friday nights are indoors and lower-crowd\n• Sat
+ urday After Dark entry begins at 7:30 PM\n• America’s Heroes weekends 
+ offer free general admission to eligible military/veterans\, firefighters\
+ , law enforcement and frontline healthcare workers\n\nUSEFUL NOTES\n• Bu
+ y only the ordinary general-admission tier unless the premium seating itse
+ lf is worth the large surcharge\n• Tickets are rain-or-shine\, date-spec
+ ific and nonrefundable\n\nOFFICIAL SOURCES\n• Official dates\, hours and
+  policies: https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 
+ 2026 pricing and festival overview: https://www.bigbear.com/events/oktober
+ fest/\n• Official entertainment schedule: https://bigbearevents.com/okto
+ berfest/2024-oktoberfest-entertainment-schedule/\n\nCALENDAR STATUS: CONFI
+ RMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official s
+ ource before making a special trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-25@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261025T120000
+DTEND;TZID=America/Los_Angeles:20261025T180000
+SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nSun\, Oct 25\, 2026\,
+  12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
+ sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
+ 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
+ nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
+ ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
+ \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
+ :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
+ –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
+ 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
+  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
+ begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
+ ssion to eligible military/veterans\, firefighters\, law enforcement and f
+ rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
+ eral-admission tier unless the premium seating itself is worth the large s
+ urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
+ n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
+ earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
+ al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-sunday-latin-night-2026-10-25@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261025T180000
+DTEND;TZID=America/Los_Angeles:20261025T210000
+SUMMARY:Sunday Latin Night + Live DJ at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Sunday Latin night with a live DJ—one of the few 
+ clearly published themed dance nights outside Wyatt’s.\n\nWHEN\nSun\, Oc
+ t 25\, 2026\, 6:00 PM–9:00 PM\n\nPRICE / ADMISSION\n• No admission or 
+ cover price is published\; likely free or inexpensive\, with food and drin
+ ks sold separately\n\nSCHEDULE\n• 6:00–9:00 PM — Latin Night with li
+ ve DJ\n\nTBD / VERIFY BEFORE GOING\n• The page states an every-Sunday ca
+ dence but its generated upcoming-date list displays only Tuesdays\; verify
+  the Sunday session before going\n\nOFFICIAL SOURCES\n• Official recurri
+ ng event page: https://www.bigbear.com/events/taco-tuesday-latin-night-at-
+ hampton-inn-home2-suites/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2
+ 026-09-01\nDetails can change. Recheck the official source before making a
+  special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Latin Music,Dancing,Themed Night,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:hampton-taco-tuesday-2026-10-27@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261027T170000
+DTEND;TZID=America/Los_Angeles:20261027T190000
+SUMMARY:Taco Tuesday at Hampton Inn / Home2 Suites
+LOCATION:Hampton Inn / Home2 Suites by Hilton — 41820 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A recurring Tuesday taco evening at the Hampton Inn / Home2 Sui
+ tes—an easy\, likely inexpensive themed-night reminder.\n\nWHEN\nTue\, O
+ ct 27\, 2026\, 5:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• No admission or
+  cover price is published\; tacos and drinks are sold separately\n\nSCHEDU
+ LE\n• 5:00–7:00 PM — Taco Tuesday\n\nTBD / VERIFY BEFORE GOING\n• 
+ Menu prices and whether any part of the event is limited to hotel guests a
+ re not stated\; the public tourism listing invites visitors to attend\n\nO
+ FFICIAL SOURCES\n• Official recurring event page: https://www.bigbear.co
+ m/events/taco-tuesday-latin-night-at-hampton-inn-home2-suites/\n\nCALENDAR
+  STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Rechec
+ k the official source before making a special trip.
+URL:https://www.bigbear.com/events/taco-tuesday-latin-night-at-hampton-inn-
+ home2-suites/
+CATEGORIES:Themed Night,Food,Nightlife,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-30@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261030T170000
+DTEND;TZID=America/Los_Angeles:20261030T230000
+SUMMARY:Big Bear Lake Oktoberfest — Spooky Spirits Friday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
+ echanical bull\, games and kids activities.\n\nWHEN\nFri\, Oct 30\, 2026\,
+  5:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
+ sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
+ 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
+ nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
+ ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
+ \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
+ :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
+ –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
+ 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
+  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
+ begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
+ ssion to eligible military/veterans\, firefighters\, law enforcement and f
+ rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
+ eral-admission tier unless the premium seating itself is worth the large s
+ urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
+ n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
+ earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
+ al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
+ 6-09-01\nDetails can change. Recheck the official source before making a s
+ pecial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:halloween-in-the-village-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween in the Village — Details TBD
+LOCATION:The Village at Big Bear Lake — Village Dr\, Big Bear Lake\, CA 9
+ 2315
+DESCRIPTION:A calendar reminder for the Village’s public Halloween celebr
+ ation while the organizer finishes the 2026 hours and activity list.\n\nWH
+ EN\nSat\, Oct 31\, 2026 (all day)\n\nPRICE / ADMISSION\n• Likely free co
+ mmunity event\; 2026 details are not yet published\n\nTBD / VERIFY BEFORE 
+ GOING\n• Exact hours\, entertainment\, trick-or-treating details and fin
+ al admission statement\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or co
+ mpetes with: Boo at the Zoo (Sat\, Oct 31\, 2026\, 10:00 AM–3:00 PM).\n\
+ nOFFICIAL SOURCES\n• Official Big Bear Halloween page: https://www.bigbe
+ ar.com/events/halloween/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 20
+ 26-09-01\nDetails can change. Recheck the official source before making a 
+ special trip.
+URL:https://www.bigbear.com/events/halloween/
+CATEGORIES:Halloween,Village,Community,Likely Free,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:boo-at-the-zoo-2026@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261031T100000
+DTEND;TZID=America/Los_Angeles:20261031T150000
+SUMMARY:Boo at the Zoo
+LOCATION:Big Bear Alpine Zoo — 42801 Moonridge Rd\, Big Bear Lake\, CA 92
+ 315
+DESCRIPTION:A Halloween zoo day with costumes\, trick-or-treating and the A
+ lpine Zoo’s rescued wildlife\, all included in ordinary admission.\n\nWH
+ EN\nSat\, Oct 31\, 2026\, 10:00 AM–3:00 PM\n\nPRICE / ADMISSION\n• Inc
+ luded with general admission: $17 adult\, $12 senior or youth age 3–12\,
+  free age 2 and under\n• Free parking\n\nSCHEDULE\n• 10:00 AM–3:00 P
+ M — Boo at the Zoo activities\n\nWHAT TO EXPECT\n• Costumes are encour
+ aged\n• The event is included rather than sold as a separate premium tic
+ ket\n\nOFFICIAL SOURCES\n• Official event listing: https://www.bigbear.c
+ om/events/boo-at-the-zoo/\n• Zoo admission and current address: https://
+ bigbearzoo.org/plan-a-visit/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 
+ 2026-09-01\nDetails can change. Recheck the official source before making 
+ a special trip.
+URL:https://www.bigbear.com/events/boo-at-the-zoo/
+CATEGORIES:Wildlife,Zoo,Halloween,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:climate-cocktails-fall-2026-11-21@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261121T130000
+DTEND;TZID=America/Los_Angeles:20261121T170000
+SUMMARY:Climate & Cocktails — Cleanup + Happy Hour
+LOCATION:Cleanup meeting point to be announced\; happy hour at the publishe
+ d host venue — Big Bear Lake\, CA 92315
+DESCRIPTION:Care For Big Bear pairs a two-hour litter cleanup with a social
+  happy hour—a particularly approachable way to meet local environmental 
+ volunteers.\n\nWHEN\nSat\, Nov 21\, 2026\, 1:00 PM–5:00 PM\n\nPRICE / AD
+ MISSION\n• Free to participate\n• Registered cleanup volunteers who si
+ gn the waiver receive a first drink during happy hour\n\nSCHEDULE\n• 1:0
+ 0–3:00 PM — community cleanup\n• 3:30–5:00 PM — Climate & Cockta
+ ils happy hour\n\nWHAT TO EXPECT\n• The September 3:30–5:00 PM happy h
+ our is at Barrel 33\n• Cleanup meeting points and later happy-hour venue
+ s are published closer to each date\n\nTBD / VERIFY BEFORE GOING\n• Clea
+ nup meeting points and the October\, November and December happy-hour venu
+ es are not yet published\n\nOFFICIAL SOURCES\n• Official recurring event
+  page: https://www.bigbear.com/events/climate-cocktails/\n• Care For Big
+  Bear event overview: https://www.bigbear.com/care-for-big-bear/our-events
+ /\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can c
+ hange. Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/climate-cocktails/
+CATEGORIES:Environment,Volunteering,Nightlife,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:climate-cocktails-fall-2026-12-12@big-bear-events.bry.rip
+DTSTAMP:20260901T080000Z
+LAST-MODIFIED:20260901T080000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261212T130000
+DTEND;TZID=America/Los_Angeles:20261212T170000
+SUMMARY:Climate & Cocktails — Cleanup + Happy Hour
+LOCATION:Cleanup meeting point to be announced\; happy hour at the publishe
+ d host venue — Big Bear Lake\, CA 92315
+DESCRIPTION:Care For Big Bear pairs a two-hour litter cleanup with a social
+  happy hour—a particularly approachable way to meet local environmental 
+ volunteers.\n\nWHEN\nSat\, Dec 12\, 2026\, 1:00 PM–5:00 PM\n\nPRICE / AD
+ MISSION\n• Free to participate\n• Registered cleanup volunteers who si
+ gn the waiver receive a first drink during happy hour\n\nSCHEDULE\n• 1:0
+ 0–3:00 PM — community cleanup\n• 3:30–5:00 PM — Climate & Cockta
+ ils happy hour\n\nWHAT TO EXPECT\n• The September 3:30–5:00 PM happy h
+ our is at Barrel 33\n• Cleanup meeting points and later happy-hour venue
+ s are published closer to each date\n\nTBD / VERIFY BEFORE GOING\n• Clea
+ nup meeting points and the October\, November and December happy-hour venu
+ es are not yet published\n\nOFFICIAL SOURCES\n• Official recurring event
+  page: https://www.bigbear.com/events/climate-cocktails/\n• Care For Big
+  Bear event overview: https://www.bigbear.com/care-for-big-bear/our-events
+ /\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can c
+ hange. Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/climate-cocktails/
+CATEGORIES:Environment,Volunteering,Nightlife,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 END:VCALENDAR

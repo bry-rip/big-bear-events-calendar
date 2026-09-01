@@ -120,6 +120,48 @@ class CalendarGeneratorTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             generator.validate_source({"calendar": calendar, "events": [all_day]})
 
+    def test_permanent_exclusion_blocks_renamed_id_from_resurrecting_event(self):
+        calendar = {
+            "name": "Test",
+            "description": "Test feed",
+            "timezone": "America/Los_Angeles",
+            "product_id": "-//Test//EN",
+            "refresh_interval": "PT1H",
+            "last_updated": "2026-09-01",
+        }
+        event = {
+            "id": "new-skyline-id",
+            "title": "Skyline at Sundown — Back Again",
+            "status": "confirmed",
+            "summary": "A blocked event under a new ID.",
+            "start": "2026-09-04T16:30",
+            "end": "2026-09-04T19:30",
+            "location": {"name": "Snow Summit"},
+            "sources": [{"label": "Official", "url": "https://example.com"}],
+            "categories": ["Dining"],
+            "last_verified": "2026-09-01",
+            "last_modified": "2026-09-01",
+            "sequence": 0,
+        }
+        curation = {
+            "price_policy": ["Free first"],
+            "priorities": ["Astronomy"],
+            "boundaries": ["No transportation schedules"],
+            "permanent_exclusions": [
+                {
+                    "id": "skyline-at-sundown",
+                    "title_contains": "Skyline at Sundown",
+                    "reason": "Not a fit",
+                    "excluded_on": "2026-09-01",
+                }
+            ],
+        }
+
+        with self.assertRaisesRegex(ValueError, "permanently excluded"):
+            generator.validate_source(
+                {"calendar": calendar, "curation": curation, "events": [event]}
+            )
+
 
 if __name__ == "__main__":
     unittest.main()

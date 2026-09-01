@@ -27,6 +27,17 @@ On an iPhone or iPad running iOS/iPadOS 26 or later:
 
 Do not use **File → Import** for the downloaded file if you want updates. Importing is a one-time copy; subscribing follows the hosted feed.
 
+## Curation rules
+
+This is a selective locals calendar, not a mirror of every tourism listing. The durable policy also lives in `data/events.json` so future event sweeps inherit it:
+
+- Free events are the default target. Relevant $1–20 events are easy additions; $20–40 events need to be distinctive; $40–50 is selective; events over $50 are normally excluded unless genuinely exceptional.
+- Unknown price or exact start time is not, by itself, a reason to omit a promising event that is likely free or inexpensive. Add it as a clearly labeled `details_tbd` reminder so the subscriber can investigate if interested.
+- Prioritize free concerts and car shows, karaoke, trivia, line dancing and Wyatt's nights, country/punk/metal, astronomy, wildlife, native plants, geology/science, environmental volunteering, and unusual mountain-town events.
+- Recurring local nights need a supported cadence or dated occurrence, but do not need every price or timing detail. Generic expensive tourist packages do not qualify merely because they recur.
+- Transportation and service schedules stay outside this events feed.
+- `curation.permanent_exclusions` blocks a rejected event by title as well as ID. This keeps a future sweep from re-adding the same event under a different ID.
+
 ## Edit or add an event
 
 1. Edit `data/events.json`.
