@@ -2184,6 +2184,34 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:scmf-trail-work-day-2026-09-12@big-bear-events.bry.rip
+DTSTAMP:20260916T210000Z
+LAST-MODIFIED:20260916T210000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260912T090000
+DTEND;TZID=America/Los_Angeles:20260912T130000
+SUMMARY:SCMF Trail Work Day
+LOCATION:Big Bear Valley trail work site\; meeting location sent to registr
+ ants — Big Bear Valley\, CA
+DESCRIPTION:Southern California Mountains Foundation trail work day focused
+  on brushing\, tread repair\, trash cleanup and signage improvements in th
+ e Big Bear Valley.\n\nWHEN\nSat\, Sep 12\, 2026\, 9:00 AM–1:00 PM\n\nPRI
+ CE / ADMISSION\n• Free volunteer event\; advance signup requested\n\nWHA
+ T TO EXPECT\n• Tools and gloves are provided\n• Long pants and closed-
+ toe shoes are recommended\n• The meeting location is sent to registered 
+ volunteers about a week before the event\n\nOFFICIAL SOURCES\n• SCMF reg
+ istration: https://www.eventbrite.com/e/trail-work-day-tickets-19812466681
+ 18\n• Big Bear Cycling Association community calendar: https://bigbearcy
+ cling.com/calendar-of-bbca-events/\n\nCALENDAR STATUS: CONFIRMED\nLast che
+ cked: 2026-09-16\nDetails can change. Recheck the official source before m
+ aking a special trip.
+URL:https://www.eventbrite.com/e/trail-work-day-tickets-1981246668118
+CATEGORIES:Volunteering,Trails,Environment,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:showtime-collision-grand-opening-2026@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
@@ -2391,6 +2419,56 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:landscape-painting-class-2026-09-14@big-bear-events.bry.rip
+DTSTAMP:20260916T210000Z
+LAST-MODIFIED:20260916T210000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260914T090000
+DTEND;TZID=America/Los_Angeles:20260914T120000
+SUMMARY:Landscape Painting Class at Miller Park
+LOCATION:Miller Park — 1178 Chickasaw\, Fawnskin\, CA 92333
+DESCRIPTION:A Monday morning landscape-painting class with instructor Maril
+ yn covering oil\, watercolor and acrylic techniques plus basic plein-air s
+ kills.\n\nWHEN\nMon\, Sep 14\, 2026\, 9:00 AM–12:00 PM\n\nWHAT TO EXPECT
+ \n• All skill levels are welcome\; some prior painting or art-class expe
+ rience is helpful\n• Participants bring their own painting supplies\n•
+  Parking is available at Miller Park\n\nOFFICIAL SOURCES\n• Official Big
+  Bear event page: https://www.bigbear.com/events/landscape-painting-classe
+ s/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-16\nDetails can ch
+ ange. Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/landscape-painting-classes/
+CATEGORIES:Art,Class,Outdoors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-farmers-market-2026-09-15@big-bear-events.bry.rip
+DTSTAMP:20260916T210000Z
+LAST-MODIFIED:20260916T210000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260915T083000
+DTEND;TZID=America/Los_Angeles:20260915T130000
+SUMMARY:Big Bear Farmers Market — Convention Center
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:The Tuesday outdoor farmers market at the Convention Center wit
+ h produce\, flowers\, arts and crafts\, health products and collectibles.\
+ n\nWHEN\nTue\, Sep 15\, 2026\, 8:30 AM–1:00 PM\n\nPRICE / ADMISSION\n•
+  Free admission\; produce\, flowers\, crafts and other market goods sold b
+ y vendors\n\nWHAT TO EXPECT\n• This is the Tuesday Convention Center mar
+ ket\, separate from the Friday Ski Beach market\n• Parking is available 
+ at the Convention Center\n\nOFFICIAL SOURCES\n• Official Big Bear event 
+ page: https://www.bigbear.com/events/big-bear-farmers-market/\n\nCALENDAR 
+ STATUS: CONFIRMED\nLast checked: 2026-09-16\nDetails can change. Recheck t
+ he official source before making a special trip.
+URL:https://www.bigbear.com/events/big-bear-farmers-market/
+CATEGORIES:Farmers Market,Food,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:barrel-33-high-alti-tuesday-2026-09-15@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
@@ -2442,6 +2520,33 @@ CATEGORIES:Themed Night,Food,Nightlife,TBD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:broadway-to-big-bear-2026@big-bear-events.bry.rip
+DTSTAMP:20260916T210000Z
+LAST-MODIFIED:20260916T210000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260915T180000
+DTEND;TZID=America/Los_Angeles:20260915T210000
+SUMMARY:Broadway to Big Bear Talent Show
+LOCATION:The Flatlander at Sessions Retreat — 41421 Big Bear Blvd\, Big B
+ ear Lake\, CA 92315
+DESCRIPTION:Twenty local performers each take the stage for one number in a
+ n audience-voted talent show benefiting the Arts Council of Big Bear Valle
+ y.\n\nWHEN\nTue\, Sep 15\, 2026\, 6:00 PM–9:00 PM\n\nPRICE / ADMISSION\n
+ • $20 ticket includes 20 audience voting tickets\n• Light snacks inclu
+ ded\; no-host bar available\n\nWHAT TO EXPECT\n• Special guest Nancy Wal
+ ker appears as Mama Morton\n• Audience voting determines the favorite pe
+ rformer of the night\n• Ticket proceeds support the Arts Council's work 
+ with local artists and the arts economy\n\nOFFICIAL SOURCES\n• Arts Coun
+ cil of Big Bear Valley: https://www.artscouncilbigbearvalley.org/\n\nCALEN
+ DAR STATUS: CONFIRMED\nLast checked: 2026-09-16\nDetails can change. Reche
+ ck the official source before making a special trip.
+URL:https://www.artscouncilbigbearvalley.org/
+CATEGORIES:Arts,Talent Show,Community,Fundraiser
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:barrel-33-live-music-2026-09-17@big-bear-events.bry.rip
@@ -3970,6 +4075,39 @@ DESCRIPTION:A one-night lantern event at the historical museum—exactly th
  s can change. Recheck the official source before making a special trip.
 URL:https://www.bigbearvalleyhistory.com/about-1
 CATEGORIES:Local History,Unusual,Nighttime,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:green-valley-lake-bigfoot-festival-2026@big-bear-events.bry.rip
+DTSTAMP:20260916T210000Z
+LAST-MODIFIED:20260916T210000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:2nd Annual Green Valley Lake Bigfoot Festival — Time TBD
+LOCATION:Green Valley Lake Community Center / Lilleberg Museum — 33659 Gr
+ een Valley Lake Rd\, Green Valley Lake\, CA 92341
+DESCRIPTION:The Green Valley Lake Bigfoot Festival returns for a second yea
+ r\; the Community Center officially lists the festival for October 10\, 20
+ 26.\n\nWHEN\nSat\, Oct 10\, 2026 (all day)\n\nPRICE / ADMISSION\n• Admis
+ sion details have not yet been published for 2026\n\nWHAT TO EXPECT\n• T
+ he 2026 organizer page currently confirms the date but has not yet posted 
+ hours or the full program\n• The inaugural festival featured Bigfoot cal
+ ling and costume contests\, vendors and live music\; verify the 2026 lineu
+ p when announced\n\nTBD / VERIFY BEFORE GOING\n• Start and end time\n•
+  Admission price\n• Full 2026 schedule\, vendors\, speakers and contest 
+ details\n\nCONFLICTS / SAME-DAY OPTIONS\n• Same-day Big Bear-area option
+ s include Green Thumbs restoration\, the European tuner car show\, Oktober
+ fest\, a dark-sky star party and the museum lantern festival.\n\nOFFICIAL 
+ SOURCES\n• Green Valley Lake Community Center official events page: http
+ s://gvlmuseum.org/\n• 2025 festival background: https://thealpinemountai
+ neer.com/2025/10/22/bigfoot-spotted-on-the-mountain/\n\nCALENDAR STATUS: D
+ ETAILS_TBD\nLast checked: 2026-09-16\nDetails can change. Recheck the offi
+ cial source before making a special trip.
+URL:https://gvlmuseum.org/
+CATEGORIES:Festival,Cryptozoology,Unusual,Community,TBD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
