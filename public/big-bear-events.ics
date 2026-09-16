@@ -3089,6 +3089,44 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:heaps-peak-fall-native-plant-sale-2026@big-bear-events.bry.rip
+DTSTAMP:20260916T210000Z
+LAST-MODIFIED:20260916T210000Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260926T090000
+DTEND;TZID=America/Los_Angeles:20260926T120000
+SUMMARY:Heaps Peak Arboretum Fall Native Plant Sale
+LOCATION:Heaps Peak Arboretum — 29358 Rim of the World Hwy 18\, Skyforest
+ \, CA 92385
+DESCRIPTION:Heaps Peak’s fall sale focuses on native and mountain-adapted
+  plants suited to local high-elevation gardens\, with the organizer urging
+  shoppers to arrive early for the best selection.\n\nWHEN\nSat\, Sep 26\, 
+ 2026\, 9:00 AM–12:00 PM\n\nPRICE / ADMISSION\n• Free admission to the 
+ Arboretum\; plants sold separately\n• Parking is free on September 26 fo
+ r National Public Lands Day\n\nSCHEDULE\n• 9:00 AM–12:00 PM — Fall N
+ ative Plant Sale\; come early for the best selection\n\nWHAT TO EXPECT\n
+ • Heaps Peak says its plant sales emphasize native plants\, with some no
+ n-native plants included when they grow well at elevations of 4\,000 feet 
+ or higher\n• Members receive 20% off plant-sale purchases\; to receive t
+ he 2026 fall-sale discount\, join by September 17\n\nUSEFUL NOTES\n• Com
+ e near opening for the strongest selection\n• No Adventure Pass is neede
+ d for Arboretum parking on September 26 because it is National Public Land
+ s Day\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with: Gree
+ n Thumbs Forest Restoration Volunteers (Sat\, Sep 26\, 2026\, 9:00 AM–3:
+ 00 PM).\n\nOFFICIAL SOURCES\n• Heaps Peak Arboretum official events cale
+ ndar: https://hparboretum.com/calendar/\n• Heaps Peak Arboretum parking 
+ and free-parking dates: https://hparboretum.com/parking-and-directions/\n
+ • Lake Arrowhead Communities Chamber event calendar: https://lakearrowhe
+ adcommunitieschamberofcommerce.growthzoneapp.com/entertainmentcalendar\n\n
+ CALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-16\nDetails can change. 
+ Recheck the official source before making a special trip.
+URL:https://hparboretum.com/calendar/
+CATEGORIES:Plants,Native Plants,Garden,Outdoors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:climate-cocktails-fall-2026-09-26@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
