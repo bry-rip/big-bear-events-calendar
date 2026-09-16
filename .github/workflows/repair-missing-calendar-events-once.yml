@@ -1,0 +1,163 @@
+name: Repair missing Big Bear calendar events once
+
+on:
+  push:
+    paths:
+      - .github/workflows/repair-missing-calendar-events-once.yml
+
+permissions:
+  contents: write
+
+jobs:
+  repair-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Add missing events to source data
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          path = Path("data/events.json")
+          text = path.read_text(encoding="utf-8")
+          data = json.loads(text)
+
+          additions = [
+            {
+              "id": "scmf-trail-work-day-2026-09-12",
+              "title": "SCMF Trail Work Day",
+              "status": "confirmed",
+              "start": "2026-09-12T09:00",
+              "end": "2026-09-12T13:00",
+              "location": {"name": "Big Bear Valley trail work site; meeting location sent to registrants", "address": "Big Bear Valley, CA"},
+              "pricing": ["Free volunteer event; advance signup requested"],
+              "summary": "Southern California Mountains Foundation trail work day focused on brushing, tread repair, trash cleanup and signage improvements in the Big Bear Valley.",
+              "details": ["Tools and gloves are provided", "Long pants and closed-toe shoes are recommended", "The meeting location is sent to registered volunteers about a week before the event"],
+              "sources": [
+                {"label": "SCMF registration", "url": "https://www.eventbrite.com/e/trail-work-day-tickets-1981246668118"},
+                {"label": "Big Bear Cycling Association community calendar", "url": "https://bigbearcycling.com/calendar-of-bbca-events/"}
+              ],
+              "categories": ["Volunteering", "Trails", "Environment", "Free"],
+              "last_verified": "2026-09-16",
+              "last_modified": "2026-09-16T21:00:00Z",
+              "sequence": 0
+            },
+            {
+              "id": "landscape-painting-class-2026-09-14",
+              "title": "Landscape Painting Class at Miller Park",
+              "status": "confirmed",
+              "start": "2026-09-14T09:00",
+              "end": "2026-09-14T12:00",
+              "location": {"name": "Miller Park", "address": "1178 Chickasaw, Fawnskin, CA 92333"},
+              "summary": "A Monday morning landscape-painting class with instructor Marilyn covering oil, watercolor and acrylic techniques plus basic plein-air skills.",
+              "details": ["All skill levels are welcome; some prior painting or art-class experience is helpful", "Participants bring their own painting supplies", "Parking is available at Miller Park"],
+              "sources": [{"label": "Official Big Bear event page", "url": "https://www.bigbear.com/events/landscape-painting-classes/"}],
+              "categories": ["Art", "Class", "Outdoors"],
+              "last_verified": "2026-09-16",
+              "last_modified": "2026-09-16T21:00:00Z",
+              "sequence": 0
+            },
+            {
+              "id": "big-bear-farmers-market-2026-09-15",
+              "title": "Big Bear Farmers Market — Convention Center",
+              "status": "confirmed",
+              "start": "2026-09-15T08:30",
+              "end": "2026-09-15T13:00",
+              "location": {"name": "Big Bear Lake Convention Center", "address": "42900 Big Bear Blvd, Big Bear Lake, CA 92315"},
+              "pricing": ["Free admission; produce, flowers, crafts and other market goods sold by vendors"],
+              "summary": "The Tuesday outdoor farmers market at the Convention Center with produce, flowers, arts and crafts, health products and collectibles.",
+              "details": ["This is the Tuesday Convention Center market, separate from the Friday Ski Beach market", "Parking is available at the Convention Center"],
+              "sources": [{"label": "Official Big Bear event page", "url": "https://www.bigbear.com/events/big-bear-farmers-market/"}],
+              "categories": ["Farmers Market", "Food", "Community", "Free"],
+              "last_verified": "2026-09-16",
+              "last_modified": "2026-09-16T21:00:00Z",
+              "sequence": 0
+            },
+            {
+              "id": "broadway-to-big-bear-2026",
+              "title": "Broadway to Big Bear Talent Show",
+              "status": "confirmed",
+              "start": "2026-09-15T18:00",
+              "end": "2026-09-15T21:00",
+              "location": {"name": "The Flatlander at Sessions Retreat", "address": "41421 Big Bear Blvd, Big Bear Lake, CA 92315"},
+              "pricing": ["$20 ticket includes 20 audience voting tickets", "Light snacks included; no-host bar available"],
+              "summary": "Twenty local performers each take the stage for one number in an audience-voted talent show benefiting the Arts Council of Big Bear Valley.",
+              "details": ["Special guest Nancy Walker appears as Mama Morton", "Audience voting determines the favorite performer of the night", "Ticket proceeds support the Arts Council's work with local artists and the arts economy"],
+              "sources": [{"label": "Arts Council of Big Bear Valley", "url": "https://www.artscouncilbigbearvalley.org/"}],
+              "categories": ["Arts", "Talent Show", "Community", "Fundraiser"],
+              "last_verified": "2026-09-16",
+              "last_modified": "2026-09-16T21:00:00Z",
+              "sequence": 0
+            },
+            {
+              "id": "green-valley-lake-bigfoot-festival-2026",
+              "title": "2nd Annual Green Valley Lake Bigfoot Festival — Time TBD",
+              "status": "details_tbd",
+              "all_day": True,
+              "start_date": "2026-10-10",
+              "location": {"name": "Green Valley Lake Community Center / Lilleberg Museum", "address": "33659 Green Valley Lake Rd, Green Valley Lake, CA 92341"},
+              "pricing": ["Admission details have not yet been published for 2026"],
+              "summary": "The Green Valley Lake Bigfoot Festival returns for a second year; the Community Center officially lists the festival for October 10, 2026.",
+              "details": ["The 2026 organizer page currently confirms the date but has not yet posted hours or the full program", "The inaugural festival featured Bigfoot calling and costume contests, vendors and live music; verify the 2026 lineup when announced"],
+              "tbd": ["Start and end time", "Admission price", "Full 2026 schedule, vendors, speakers and contest details"],
+              "conflicts": [{"note": "Same-day Big Bear-area options include Green Thumbs restoration, the European tuner car show, Oktoberfest, a dark-sky star party and the museum lantern festival."}],
+              "sources": [
+                {"label": "Green Valley Lake Community Center official events page", "url": "https://gvlmuseum.org/"},
+                {"label": "2025 festival background", "url": "https://thealpinemountaineer.com/2025/10/22/bigfoot-spotted-on-the-mountain/"}
+              ],
+              "categories": ["Festival", "Cryptozoology", "Unusual", "Community", "TBD"],
+              "last_verified": "2026-09-16",
+              "last_modified": "2026-09-16T21:00:00Z",
+              "sequence": 0
+            }
+          ]
+
+          existing = {event.get("id") for event in data["events"]}
+          missing = [event for event in additions if event["id"] not in existing]
+          if not missing:
+              raise SystemExit("All repair events already exist; refusing a no-op duplicate run")
+
+          text, count = re.subn(
+              r'("last_updated": ")\d{4}-\d{2}-\d{2}(")',
+              r'\g<1>2026-09-16\2',
+              text,
+              count=1,
+          )
+          if count != 1:
+              raise SystemExit("Could not update calendar.last_updated exactly once")
+
+          tail = "\n    }\n  ]\n}\n"
+          if not text.endswith(tail):
+              raise SystemExit("events.json has an unexpected tail; refusing unsafe edit")
+
+          blocks = []
+          for event in missing:
+              blocks.append("\n".join("    " + line for line in json.dumps(event, ensure_ascii=False, indent=2).splitlines()))
+          text = text[:-len(tail)] + "\n    },\n" + ",\n".join(blocks) + "\n  ]\n}\n"
+
+          json.loads(text)
+          path.write_text(text, encoding="utf-8")
+          print("Added:", ", ".join(event["id"] for event in missing))
+          PY
+
+      - name: Generate and validate feed
+        run: |
+          python3 scripts/generate_calendar.py
+          python3 scripts/validate_calendar.py
+          python3 -m unittest discover -s tests -v
+
+      - name: Commit repair and remove one-off workflow
+        shell: bash
+        run: |
+          rm .github/workflows/repair-missing-calendar-events-once.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Restore missing calendar events and Bigfoot Festival"
+          git push
