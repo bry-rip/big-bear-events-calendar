@@ -2606,6 +2606,42 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:big-bear-moto-legends-heroes-2026@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+SUMMARY:Big Bear Moto — Legends and Heroes Dual Sport Weekend
+LOCATION:Big Bear Moto / Sessions Retreat — 41421 Big Bear Blvd\, Big Bea
+ r Lake\, CA 92315
+DESCRIPTION:Big Bear Moto’s September dual-sport weekend combines novice-
+ oriented Big Bear Valley rides with optional advanced cutoffs\, classic/vi
+ ntage motorcycle displays\, meals and resort activities.\n\nWHEN\nFri\, Se
+ p 18–Sun\, Sep 20\, 2026 (all day)\n\nPRICE / ADMISSION\n• $300 all-in
+ clusive event package with meals plus Big Bear Moto event T-shirt and hat\
+ n• Lodging is separate\; friends/family accompanying a registered rider 
+ need an event wristband\n\nSCHEDULE\n• September 18–20 — Legends and
+  Heroes Weekend\n• Friday and Saturday — dinner provided\n• Saturday
+  — light breakfast and lunch provided\n\nWHAT TO EXPECT\n• September t
+ heme invites classic vintage motorcycles for display\n• Scouted rides ar
+ e designed for novice riders\, with several optional advanced sections\n
+ • Activities include Traxxas RC rally\, horseshoes\, holeshot contest\, 
+ e-bike demo\, raffle and vendors\n• On-site pool\, cold plunge\, sauna\,
+  fire pits\, volleyball and bar service\n• Special September celebrity r
+ iders were still TBA at last check\n\nUSEFUL NOTES\n• Organizer contact:
+  951-805-1313 or Lew@bigbearmoto.com\n• Theatre capacity is capped at 10
+ 0\; registration is required for the package\n\nOFFICIAL SOURCES\n• Big 
+ Bear Moto official site: https://bigbearmoto.com/\n\nCALENDAR STATUS: CONF
+ IRMED\nLast checked: 2026-09-26\nDetails can change. Recheck the official 
+ source before making a special trip.
+URL:https://bigbearmoto.com/
+CATEGORIES:Motorcycles,Dual Sport,Outdoors,Weekend
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:big-bear-lake-farmers-market-2026-09-18@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
@@ -2722,39 +2758,42 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-09-19@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260919T130000
 DTEND;TZID=America/Los_Angeles:20260919T230000
 SUMMARY:Big Bear Lake Oktoberfest — Saturday
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSat\, Sep 19\, 2026\,
-  1:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
- sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
- 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
- nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
- ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
- \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
- :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
- –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
- 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
-  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
- begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
- ssion to eligible military/veterans\, firefighters\, law enforcement and f
- rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
- eral-admission tier unless the premium seating itself is worth the large s
- urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
- n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
- earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
- al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
- ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
- t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
- 6-09-01\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSat\, Sep 19\, 2026\, 1:0
+ 0 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission
+  is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33
+  Saturdays depending on date and entry time\n• Children age 12 and under
+  are free Sundays\; other youth/senior prices vary by weekend\n• Preferr
+ ed/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n
+ • September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:0
+ 0 PM\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 
+ PM\; children’s contests around 3:00 PM\n• October 31: Halloween costu
+ me contest about 9:30 PM\n• November 1: kids costume contest about 3:00 
+ PM\n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; ent
+ ertainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors an
+ d lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• Americ
+ a’s Heroes weekends offer free general admission to eligible military/ve
+ terans\, firefighters\, law enforcement and frontline healthcare workers\n
+ \nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless th
+ e premium seating itself is worth the large surcharge\n• Tickets are rai
+ n-or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offi
+ cial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tic
+ kets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.c
+ om/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official tick
+ eting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear
+  festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDA
+ R STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -2879,39 +2918,42 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-09-20@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260920T120000
 DTEND;TZID=America/Los_Angeles:20260920T180000
 SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSun\, Sep 20\, 2026\,
-  12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
- sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
- 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
- nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
- ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
- \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
- :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
- –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
- 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
-  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
- begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
- ssion to eligible military/veterans\, firefighters\, law enforcement and f
- rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
- eral-admission tier unless the premium seating itself is worth the large s
- urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
- n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
- earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
- al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
- ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
- t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
- 6-09-01\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSun\, Sep 20\, 2026\, 12:
+ 00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission
+  is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33
+  Saturdays depending on date and entry time\n• Children age 12 and under
+  are free Sundays\; other youth/senior prices vary by weekend\n• Preferr
+ ed/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n
+ • September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:0
+ 0 PM\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 
+ PM\; children’s contests around 3:00 PM\n• October 31: Halloween costu
+ me contest about 9:30 PM\n• November 1: kids costume contest about 3:00 
+ PM\n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; ent
+ ertainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors an
+ d lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• Americ
+ a’s Heroes weekends offer free general admission to eligible military/ve
+ terans\, firefighters\, law enforcement and frontline healthcare workers\n
+ \nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless th
+ e premium seating itself is worth the large surcharge\n• Tickets are rai
+ n-or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offi
+ cial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tic
+ kets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.c
+ om/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official tick
+ eting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear
+  festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDA
+ R STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -3164,6 +3206,43 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:won-big-bear-troutfest-2026-2026-09-26@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260926T070000
+DTEND;TZID=America/Los_Angeles:20260926T160000
+SUMMARY:WON Big Bear Lake Troutfest — Saturday
+LOCATION:BBMWD / Big Bear Marina gravel parking lot — 40524 Lakeview Dr\,
+  Big Bear Lake\, CA 92315
+DESCRIPTION:The 20th annual Western Outdoor News trout tournament brings tw
+ o days of fishing\, weigh-ins\, divisional awards\, cash/prize promotions 
+ and a Sunday raffle to Big Bear Lake.\n\nWHEN\nSat\, Sep 26\, 2026\, 7:00 
+ AM–4:00 PM\n\nPRICE / ADMISSION\n• Adult angler entry: $75\n• Junior
+  entry\, age 14 and under: $50\n• Late signup/check-in adds $15 if space
+  remains\n\nSCHEDULE\n• 7:00 AM–4:00 PM — fishing\n• 12:00–4:00 
+ PM — weigh station at Big Bear Marina\n• Anglers may weigh once and ma
+ y not continue fishing after weighing\n\nWHAT TO EXPECT\n• Divisions inc
+ lude Adult Male\, Adult Female and kids age 14 and under\n• Top five fin
+ ishers across the divisions receive trophies and merchandise packages\n•
+  The first 600 registered anglers receive an event goodie bag\n• BBMWD i
+ s stocking thousands of pounds of trout immediately before the event\n• 
+ Friday check-in is September 25 from 4:00–9:00 PM at BBMWD\; late Saturd
+ ay check-in is 6:00–7:00 AM\n\nUSEFUL NOTES\n• Weigh-ins are the easie
+ st public point to watch what people are catching\n• Organizer contact: 
+ Billy Egan\, bille@wonews.com\, 949-366-0248\n• The official page has a 
+ typo calling the post-awards Sunday raffle September 28\; the tournament i
+ tself is September 26–27\n\nOFFICIAL SOURCES\n• Official Visit Big Bea
+ r / WON Troutfest page: https://www.bigbear.com/events/big-bear-troutfest/
+ \n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can chan
+ ge. Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/big-bear-troutfest/
+CATEGORIES:Fishing,Tournament,Lake,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:green-thumbs-forest-restoration-2026-09-26@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
@@ -3264,39 +3343,42 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-09-26@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260926T130000
 DTEND;TZID=America/Los_Angeles:20260926T230000
 SUMMARY:Big Bear Lake Oktoberfest — Saturday
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSat\, Sep 26\, 2026\,
-  1:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
- sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
- 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
- nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
- ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
- \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
- :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
- –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
- 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
-  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
- begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
- ssion to eligible military/veterans\, firefighters\, law enforcement and f
- rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
- eral-admission tier unless the premium seating itself is worth the large s
- urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
- n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
- earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
- al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
- ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
- t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
- 6-09-01\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSat\, Sep 26\, 2026\, 1:0
+ 0 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission
+  is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33
+  Saturdays depending on date and entry time\n• Children age 12 and under
+  are free Sundays\; other youth/senior prices vary by weekend\n• Preferr
+ ed/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n
+ • September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:0
+ 0 PM\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 
+ PM\; children’s contests around 3:00 PM\n• October 31: Halloween costu
+ me contest about 9:30 PM\n• November 1: kids costume contest about 3:00 
+ PM\n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; ent
+ ertainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors an
+ d lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• Americ
+ a’s Heroes weekends offer free general admission to eligible military/ve
+ terans\, firefighters\, law enforcement and frontline healthcare workers\n
+ \nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless th
+ e premium seating itself is worth the large surcharge\n• Tickets are rai
+ n-or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offi
+ cial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tic
+ kets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.c
+ om/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official tick
+ eting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear
+  festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDA
+ R STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -3331,40 +3413,80 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
-UID:big-bear-lake-oktoberfest-fall-2026-09-27@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
+UID:won-big-bear-troutfest-2026-2026-09-27@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
 SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20260927T070000
+DTEND;TZID=America/Los_Angeles:20260927T140000
+SUMMARY:WON Big Bear Lake Troutfest — Sunday + Awards
+LOCATION:BBMWD / Big Bear Marina gravel parking lot — 40524 Lakeview Dr\,
+  Big Bear Lake\, CA 92315
+DESCRIPTION:The 20th annual Western Outdoor News trout tournament brings tw
+ o days of fishing\, weigh-ins\, divisional awards\, cash/prize promotions 
+ and a Sunday raffle to Big Bear Lake.\n\nWHEN\nSun\, Sep 27\, 2026\, 7:00 
+ AM–2:00 PM\n\nPRICE / ADMISSION\n• Adult angler entry: $75\n• Junior
+  entry\, age 14 and under: $50\n• Late signup/check-in adds $15 if space
+  remains\n\nSCHEDULE\n• 7:00 AM–2:00 PM — fishing\n• 11:00 AM–2:
+ 00 PM — weigh station at Big Bear Marina\n• Final awards and raffle fo
+ llow Sunday fishing/weigh-in\n\nWHAT TO EXPECT\n• Divisions include Adul
+ t Male\, Adult Female and kids age 14 and under\n• Top five finishers ac
+ ross the divisions receive trophies and merchandise packages\n• The firs
+ t 600 registered anglers receive an event goodie bag\n• BBMWD is stockin
+ g thousands of pounds of trout immediately before the event\n• Friday ch
+ eck-in is September 25 from 4:00–9:00 PM at BBMWD\; late Saturday check-
+ in is 6:00–7:00 AM\n\nUSEFUL NOTES\n• Weigh-ins are the easiest public
+  point to watch what people are catching\n• Organizer contact: Billy Ega
+ n\, bille@wonews.com\, 949-366-0248\n• The official page has a typo call
+ ing the post-awards Sunday raffle September 28\; the tournament itself is 
+ September 26–27\n\nOFFICIAL SOURCES\n• Official Visit Big Bear / WON T
+ routfest page: https://www.bigbear.com/events/big-bear-troutfest/\n\nCALEN
+ DAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Reche
+ ck the official source before making a special trip.
+URL:https://www.bigbear.com/events/big-bear-troutfest/
+CATEGORIES:Fishing,Tournament,Lake,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-09-27@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260927T120000
 DTEND;TZID=America/Los_Angeles:20260927T180000
 SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSun\, Sep 27\, 2026\,
-  12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
- sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
- 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
- nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
- ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
- \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
- :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
- –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
- 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
-  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
- begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
- ssion to eligible military/veterans\, firefighters\, law enforcement and f
- rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
- eral-admission tier unless the premium seating itself is worth the large s
- urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
- n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
- earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
- al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
- ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
- t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
- 6-09-01\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSun\, Sep 27\, 2026\, 12:
+ 00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission
+  is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33
+  Saturdays depending on date and entry time\n• Children age 12 and under
+  are free Sundays\; other youth/senior prices vary by weekend\n• Preferr
+ ed/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n
+ • September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:0
+ 0 PM\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 
+ PM\; children’s contests around 3:00 PM\n• October 31: Halloween costu
+ me contest about 9:30 PM\n• November 1: kids costume contest about 3:00 
+ PM\n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; ent
+ ertainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors an
+ d lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• Americ
+ a’s Heroes weekends offer free general admission to eligible military/ve
+ terans\, firefighters\, law enforcement and frontline healthcare workers\n
+ \nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless th
+ e premium seating itself is worth the large surcharge\n• Tickets are rai
+ n-or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offi
+ cial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tic
+ kets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.c
+ om/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official tick
+ eting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear
+  festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDA
+ R STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -3486,6 +3608,42 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:fall-scarecrow-dia-de-los-muertos-contest-2026@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261104
+SUMMARY:Fall Scarecrow & Día de los Muertos Decorating Contest + Public Vo
+ ting
+LOCATION:Big Bear Valley — maps/ballots at Visit Big Bear Visitor Center 
+ — 40824 Big Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:A valley-wide fall decorating competition turns homes and busin
+ esses into a route of scarecrows\, Calacas and Día de los Muertos Ofrenda
+ s\, with the public voting through November 3.\n\nWHEN\nWed\, Sep 30–Tue
+ \, Nov 3\, 2026 (all day)\n\nPRICE / ADMISSION\n• No ticket or admission
+  charge is listed for viewing displays and public voting\n\nSCHEDULE\n• 
+ September 23 — registration deadline for participating displays\n• Sep
+ tember 30–November 3 — displays up and public voting open\n• Novembe
+ r 6 — prizes announced\n\nWHAT TO EXPECT\n• Pick up the official displ
+ ay map and ballot at the Visit Big Bear Visitor Center\n• Categories are
+  Best Scarecrow\, Best Ofrenda and Best Calacas in business and residentia
+ l divisions\n• Open to displays across Big Bear Lake\, Big Bear City\, S
+ ugarloaf\, Erwin Lake\, Baldwin Lake\, Fawnskin and Lake Williams\n• Mor
+ e than $10\,000 in prizes are advertised across the competition\, includin
+ g $7\,200 cash\n\nUSEFUL NOTES\n• This is not a one-day October 1 event 
+ despite the printed brochure shorthand\; the public viewing/voting window 
+ runs September 30 through November 3\n\nOFFICIAL SOURCES\n• Official Vis
+ it Big Bear contest page: https://www.bigbear.com/events/community-scarecr
+ ow-contest/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetai
+ ls can change. Recheck the official source before making a special trip.
+URL:https://www.bigbear.com/events/community-scarecrow-contest/
+CATEGORIES:Fall,Halloween,Art,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:barrel-33-live-music-2026-09-30@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
@@ -3596,39 +3754,42 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-02@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261002T170000
 DTEND;TZID=America/Los_Angeles:20261002T230000
 SUMMARY:Big Bear Lake Oktoberfest — Friday Night
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nFri\, Oct 2\, 2026\, 
- 5:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admiss
- ion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39
- .33 Saturdays depending on date and entry time\n• Children age 12 and un
- der are free Sundays\; other youth/senior prices vary by weekend\n• Pref
- erred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\
- n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:
- 00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon–
- 6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 30:
-  beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n• Fr
- iday nights are indoors and lower-crowd\n• Saturday After Dark entry beg
- ins at 7:30 PM\n• America’s Heroes weekends offer free general admissi
- on to eligible military/veterans\, firefighters\, law enforcement and fron
- tline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary genera
- l-admission tier unless the premium seating itself is worth the large surc
- harge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\n
- OFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigbear
- events.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festival 
- overview: https://www.bigbear.com/events/oktoberfest/\n• Official entert
- ainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfest-e
- ntertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-0
- 9-01\nDetails can change. Recheck the official source before making a spec
- ial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nFri\, Oct 2\, 2026\, 5:00
+  PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission 
+ is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33 
+ Saturdays depending on date and entry time\n• Children age 12 and under 
+ are free Sundays\; other youth/senior prices vary by weekend\n• Preferre
+ d/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n•
+  September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:00 P
+ M\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 PM\
+ ; children’s contests around 3:00 PM\n• October 31: Halloween costume 
+ contest about 9:30 PM\n• November 1: kids costume contest about 3:00 PM\
+ n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; entert
+ ainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors and l
+ ower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• America
+ ’s Heroes weekends offer free general admission to eligible military/vet
+ erans\, firefighters\, law enforcement and frontline healthcare workers\n\
+ nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless the
+  premium seating itself is worth the large surcharge\n• Tickets are rain
+ -or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offic
+ ial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tick
+ ets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.co
+ m/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official ticke
+ ting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear 
+ festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDAR
+  STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck 
+ the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -3636,30 +3797,103 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:big-bair-takeover-2026@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
+UID:big-bear-yoga-festival-2026-2026-10-02@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
 SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261002T193000
+DTEND;TZID=America/Los_Angeles:20261002T213000
+SUMMARY:Big Bear Yoga Festival — Friday Welcome Celebration
+LOCATION:Mystic Rose Studios & Gathering House — 41658 Big Bear Blvd / 41
+ 655 Tahoe Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A three-day wellness weekend with yoga\, meditation\, hikes\, l
+ ive music\, health/wellness classes\, Creator and Vendor villages\, family
+  programming and a Saturday night After Glow yoga dance party.\n\nWHEN\nFr
+ i\, Oct 2\, 2026\, 7:30 PM–9:30 PM\n\nPRICE / ADMISSION\n• Friday Welc
+ ome Celebration: $59\n• Included in some full-weekend packages\n\nSCHEDU
+ LE\n• 7:30–9:30 PM — welcome celebration with Indigenous Women’s S
+ ong Circle\, soundbath/drum healing\, movement and community gathering\n\n
+ WHAT TO EXPECT\n• 2026 theme: Speak Your Truth\n• Main festival day is
+  Saturday\, October 3\n• Saturday includes more than 30 class/activity c
+ hoices across indoor and outdoor spaces\n• Bring a yoga mat and preferre
+ d props\; October mountain weather can swing from warm days to chilly nigh
+ ts\n\nOFFICIAL SOURCES\n• Official 2026 schedule: https://www.bigbearyog
+ afestival.com/schedule\n• Official FAQs: https://www.bigbearyogafestival
+ .com/faqs\n• Official ticketing: https://www.zeffy.com/en-US/ticketing/b
+ ig-bear-yoga-festival--2026\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2
+ 026-09-26\nDetails can change. Recheck the official source before making a
+  special trip.
+URL:https://www.bigbearyogafestival.com/schedule
+CATEGORIES:Yoga,Wellness,Festival,Music,Outdoors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-yoga-festival-2026-2026-10-03@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261003T080000
+DTEND;TZID=America/Los_Angeles:20261003T213000
+SUMMARY:Big Bear Yoga Festival — Main Festival + After Glow
+LOCATION:Big Bear Lake Performing Arts Center — 39707 Big Bear Blvd\, Big
+  Bear Lake\, CA 92315
+DESCRIPTION:A three-day wellness weekend with yoga\, meditation\, hikes\, l
+ ive music\, health/wellness classes\, Creator and Vendor villages\, family
+  programming and a Saturday night After Glow yoga dance party.\n\nWHEN\nSa
+ t\, Oct 3\, 2026\, 8:00 AM–9:30 PM\n\nPRICE / ADMISSION\n• Saturday da
+ y festival 9 AM–5 PM: $149 current tier\n• Saturday festival + After G
+ low: $189\n• Kids age 17 and under attend Saturday free\n\nSCHEDULE\n•
+  8:00 AM — registration opens\n• 9:00 AM–6:00 PM — vendors and Cre
+ ators Village\n• 9:00 AM–9:30 PM — classes\, guided activities and c
+ elebration\n• 9:00–9:45 AM — opening ceremony\n\nWHAT TO EXPECT\n•
+  2026 theme: Speak Your Truth\n• Main festival day is Saturday\, October
+  3\n• Saturday includes more than 30 class/activity choices across indoo
+ r and outdoor spaces\n• Bring a yoga mat and preferred props\; October m
+ ountain weather can swing from warm days to chilly nights\n\nCONFLICTS / S
+ AME-DAY OPTIONS\n• Same day as Big Bair Takeover and Big Bear Lake Oktob
+ erfest.\n\nOFFICIAL SOURCES\n• Official 2026 schedule: https://www.bigbe
+ aryogafestival.com/schedule\n• Official FAQs: https://www.bigbearyogafes
+ tival.com/faqs\n• Official ticketing: https://www.zeffy.com/en-US/ticket
+ ing/big-bear-yoga-festival--2026\n\nCALENDAR STATUS: CONFIRMED\nLast check
+ ed: 2026-09-26\nDetails can change. Recheck the official source before mak
+ ing a special trip.
+URL:https://www.bigbearyogafestival.com/schedule
+CATEGORIES:Yoga,Wellness,Festival,Music,Outdoors
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bair-takeover-2026@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261003T090000
 DTEND;TZID=America/Los_Angeles:20261003T160000
 SUMMARY:Big Bair Takeover — Classic Volkswagen Car Show
-LOCATION:The Lodge at Big Bear Lake — 40650 Village Dr\, Big Bear Lake\, 
- CA 92315
-DESCRIPTION:A family-oriented classic Volkswagen show with trophies\, prize
- s and raffles at The Lodge.\n\nWHEN\nSat\, Oct 3\, 2026\, 9:00 AM–4:00 P
- M\n\nPRICE / ADMISSION\n• Expected to be free for spectators based on Bi
- g Bear’s normal car-show pattern\; no admission price is published\n\nSC
- HEDULE\n• 9:00 AM–4:00 PM — car show\n\nTBD / VERIFY BEFORE GOING\n
- • The organizer listing does not explicitly state spectator admission\; 
- verify before making a special trip\n\nOFFICIAL SOURCES\n• Official even
- t page: https://www.bigbear.com/events/big-bair-takeover/\n\nCALENDAR STAT
- US: DETAILS_TBD\nLast checked: 2026-09-01\nDetails can change. Recheck the
-  official source before making a special trip.
+LOCATION:Holiday Inn Resort The Lodge at Big Bear Lake — 40650 Village Dr
+ \, Big Bear Lake\, CA 92315
+DESCRIPTION:A 9 AM–4 PM classic Volkswagen show at The Lodge with trophie
+ s\, prizes\, raffles and a family-friendly display.\n\nWHEN\nSat\, Oct 3\,
+  2026\, 9:00 AM–4:00 PM\n\nPRICE / ADMISSION\n• No spectator admission
+  charge is published on the official event listing\; verify if making a sp
+ ecial trip\n\nSCHEDULE\n• 9:00 AM–4:00 PM — classic Volkswagen car s
+ how\n\nWHAT TO EXPECT\n• Trophies\, prizes and raffles are advertised\n
+ • Parking is available at The Lodge\n• Organizer contact: Enrique C Du
+ que\, 562-842-5196\n\nTBD / VERIFY BEFORE GOING\n• The official listing 
+ does not explicitly state spectator admission pricing\n\nCONFLICTS / SAME-
+ DAY OPTIONS\n• Same day as the Big Bear Yoga Festival main day and Big B
+ ear Lake Oktoberfest.\n\nOFFICIAL SOURCES\n• Official Visit Big Bear eve
+ nt page: https://www.bigbear.com/events/big-bair-takeover/\n\nCALENDAR STA
+ TUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck the 
+ official source before making a special trip.
 URL:https://www.bigbear.com/events/big-bair-takeover/
-CATEGORIES:Car Show,Volkswagen,Likely Free,TBD
+CATEGORIES:Car Show,Volkswagen,Family,Likely Free
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:summit-series-best-whip-2026@big-bear-events.bry.rip
@@ -3690,39 +3924,42 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-03@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261003T130000
 DTEND;TZID=America/Los_Angeles:20261004T000000
 SUMMARY:Big Bear Lake Oktoberfest — Saturday
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSat\, Oct 3\, 2026 at
-  1:00 PM–Sun\, Oct 4\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordina
- ry adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark\,
-  and about $28.68–$39.33 Saturdays depending on date and entry time\n•
-  Children age 12 and under are free Sundays\; other youth/senior prices va
- ry by weekend\n• Preferred/VIP packages over $50 are intentionally not r
- ecommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• Octo
- ber Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight\n
- • All Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n
- • October 9\, 23 and 30: beer tasting 7:00–9:00 PM inside the festival
- \n\nWHAT TO EXPECT\n• Friday nights are indoors and lower-crowd\n• Sat
- urday After Dark entry begins at 7:30 PM\n• America’s Heroes weekends 
- offer free general admission to eligible military/veterans\, firefighters\
- , law enforcement and frontline healthcare workers\n\nUSEFUL NOTES\n• Bu
- y only the ordinary general-admission tier unless the premium seating itse
- lf is worth the large surcharge\n• Tickets are rain-or-shine\, date-spec
- ific and nonrefundable\n\nOFFICIAL SOURCES\n• Official dates\, hours and
-  policies: https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 
- 2026 pricing and festival overview: https://www.bigbear.com/events/oktober
- fest/\n• Official entertainment schedule: https://bigbearevents.com/okto
- berfest/2024-oktoberfest-entertainment-schedule/\n\nCALENDAR STATUS: CONFI
- RMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official s
- ource before making a special trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSat\, Oct 3\, 2026 at 1:0
+ 0 PM–Sun\, Oct 4\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordinary a
+ dult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark\, and
+  about $28.68–$39.33 Saturdays depending on date and entry time\n• Chi
+ ldren age 12 and under are free Sundays\; other youth/senior prices vary b
+ y weekend\n• Preferred/VIP packages over $50 are intentionally not recom
+ mended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• October 
+ Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight\n• S
+ undays: noon–6:00 PM\; children’s contests around 3:00 PM\n• October
+  31: Halloween costume contest about 9:30 PM\n• November 1: kids costume
+  contest about 3:00 PM\n• November 14: ticketing lists a final 1:00–6:
+ 00 PM Saturday\; entertainment details TBD\n\nWHAT TO EXPECT\n• Friday n
+ ights are indoors and lower-crowd\n• Saturday After Dark entry begins at
+  7:30 PM\n• America’s Heroes weekends offer free general admission to 
+ eligible military/veterans\, firefighters\, law enforcement and frontline 
+ healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary general-admi
+ ssion tier unless the premium seating itself is worth the large surcharge\
+ n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\nOFFICI
+ AL SOURCES\n• Official dates\, hours and policies: https://bigbearevents
+ .com/oktoberfest/tickets-3/\n• Official 2026 entertainment schedule: htt
+ ps://bigbearevents.com/oktoberfest/2024-oktoberfest-entertainment-schedule
+ /\n• Official ticketing calendar: https://bigbearevents.ticketsauce.com/
+ \n• Visit Big Bear festival overview: https://www.bigbear.com/events/okt
+ oberfest/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails
+  can change. Recheck the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -3811,65 +4048,77 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:moonridge-plein-air-gallery-2026@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
+UID:big-bear-yoga-festival-2026-2026-10-04@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
 SEQUENCE:0
-DTSTART;TZID=America/Los_Angeles:20261004T100000
-DTEND;TZID=America/Los_Angeles:20261004T140000
-SUMMARY:Moonridge Corridor en Plein Air Gallery
-LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
- ke\, CA 92315
-DESCRIPTION:A four-hour public gallery of fresh plein-air work focused on t
- he Moonridge Corridor.\n\nWHEN\nSun\, Oct 4\, 2026\, 10:00 AM–2:00 PM\n\
- nPRICE / ADMISSION\n• Public invited\; no admission fee or ticket requir
- ement is published\n\nTBD / VERIFY BEFORE GOING\n• The official page inv
- ites the public but does not explicitly label admission free\n\nOFFICIAL S
- OURCES\n• Official event page: https://www.bigbear.com/events/moonridge-
- corridor-en-plein-air-gallery/\n\nCALENDAR STATUS: DETAILS_TBD\nLast check
- ed: 2026-09-01\nDetails can change. Recheck the official source before mak
- ing a special trip.
-URL:https://www.bigbear.com/events/moonridge-corridor-en-plein-air-gallery/
-CATEGORIES:Art,Gallery,Likely Free,TBD
+DTSTART;TZID=America/Los_Angeles:20261004T110000
+DTEND;TZID=America/Los_Angeles:20261004T150000
+SUMMARY:Big Bear Yoga Festival — Sunday Hike\, Yoga + Picnic Brunch
+LOCATION:Big Bear Lake — Sunday location sent to ticket holders — Big B
+ ear Lake\, CA 92315
+DESCRIPTION:A three-day wellness weekend with yoga\, meditation\, hikes\, l
+ ive music\, health/wellness classes\, Creator and Vendor villages\, family
+  programming and a Saturday night After Glow yoga dance party.\n\nWHEN\nSu
+ n\, Oct 4\, 2026\, 11:00 AM–3:00 PM\n\nPRICE / ADMISSION\n• Sunday Hik
+ e\, Yoga & Picnic Brunch add-on: $129\n• Included in select full-weekend
+  packages\n\nSCHEDULE\n• 11:00 AM — all-levels hike\, yoga and picnic 
+ brunch\; Eventbrite lists the weekend ending by 3:00 PM\n\nWHAT TO EXPECT\
+ n• 2026 theme: Speak Your Truth\n• Main festival day is Saturday\, Oct
+ ober 3\n• Saturday includes more than 30 class/activity choices across i
+ ndoor and outdoor spaces\n• Bring a yoga mat and preferred props\; Octob
+ er mountain weather can swing from warm days to chilly nights\n\nTBD / VER
+ IFY BEFORE GOING\n• Exact Sunday meeting location is provided after purc
+ hase\n\nOFFICIAL SOURCES\n• Official 2026 schedule: https://www.bigbeary
+ ogafestival.com/schedule\n• Official FAQs: https://www.bigbearyogafestiv
+ al.com/faqs\n• Official ticketing: https://www.zeffy.com/en-US/ticketing
+ /big-bear-yoga-festival--2026\n\nCALENDAR STATUS: CONFIRMED\nLast checked:
+  2026-09-26\nDetails can change. Recheck the official source before making
+  a special trip.
+URL:https://www.bigbearyogafestival.com/schedule
+CATEGORIES:Yoga,Wellness,Festival,Music,Outdoors
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-04@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261004T120000
 DTEND;TZID=America/Los_Angeles:20261004T180000
 SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSun\, Oct 4\, 2026\, 
- 12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admiss
- ion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39
- .33 Saturdays depending on date and entry time\n• Children age 12 and un
- der are free Sundays\; other youth/senior prices vary by weekend\n• Pref
- erred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\
- n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:
- 00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon–
- 6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 30:
-  beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n• Fr
- iday nights are indoors and lower-crowd\n• Saturday After Dark entry beg
- ins at 7:30 PM\n• America’s Heroes weekends offer free general admissi
- on to eligible military/veterans\, firefighters\, law enforcement and fron
- tline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary genera
- l-admission tier unless the premium seating itself is worth the large surc
- harge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\n
- OFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigbear
- events.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festival 
- overview: https://www.bigbear.com/events/oktoberfest/\n• Official entert
- ainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfest-e
- ntertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-0
- 9-01\nDetails can change. Recheck the official source before making a spec
- ial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSun\, Oct 4\, 2026\, 12:0
+ 0 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission 
+ is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33 
+ Saturdays depending on date and entry time\n• Children age 12 and under 
+ are free Sundays\; other youth/senior prices vary by weekend\n• Preferre
+ d/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n•
+  September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:00 P
+ M\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 PM\
+ ; children’s contests around 3:00 PM\n• October 31: Halloween costume 
+ contest about 9:30 PM\n• November 1: kids costume contest about 3:00 PM\
+ n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; entert
+ ainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors and l
+ ower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• America
+ ’s Heroes weekends offer free general admission to eligible military/vet
+ erans\, firefighters\, law enforcement and frontline healthcare workers\n\
+ nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless the
+  premium seating itself is worth the large surcharge\n• Tickets are rain
+ -or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offic
+ ial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tick
+ ets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.co
+ m/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official ticke
+ ting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear 
+ festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDAR
+  STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck 
+ the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -3934,6 +4183,42 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:kodiak-ultra-marathons-utmb-2026-2026-10-08@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261008T123000
+DTEND;TZID=America/Los_Angeles:20261008T190000
+SUMMARY:Kodiak Ultra by UTMB — Expo + Runner Check-In
+LOCATION:Kodiak Basecamp / The Village — 40803 Village Dr\, Big Bear Lake
+ \, CA 92315
+DESCRIPTION:Kodiak’s UTMB World Series weekend brings five trail-race dis
+ tances\, a Village expo\, kids race\, vendors\, DJ atmosphere and Sunday a
+ wards\, with the longest race starting at Rim Nordic and all races finishi
+ ng in The Village.\n\nWHEN\nThu\, Oct 8\, 2026\, 12:30 PM–7:00 PM\n\nPRI
+ CE / ADMISSION\n• 100M\, 100K\, 50K and 21K registrations are sold out a
+ t last check\n• 10K registration: $145 all-in at last check\n• Friday 
+ kids race: free\n\nSCHEDULE\n• 12:30–7:00 PM — Basecamp expo / offic
+ ial UTMB store\n• 1:00–7:00 PM — bib pickup\n• 4:00 PM — runner 
+ briefing\n\nWHAT TO EXPECT\n• Race distances: 100M\, 100K\, 50K\, 21K an
+ d 10K\n• 100M starts at Rim Nordic Ski Area\; 100K/50K/21K/10K start fro
+ m The Village\; all finish at 40803 Village Dr\n• Public basecamp sits i
+ n The Village near restaurants\, shops and entertainment\n\nUSEFUL NOTES\n
+ • Saturday will significantly increase foot traffic in The Village\n• 
+ Official schedule is subject to minor changes\; verify the 10K start time 
+ because the current agenda displays an apparent AM/PM typo\n\nOFFICIAL SOU
+ RCES\n• Official Kodiak UTMB schedule: https://kodiak.utmb.world/discove
+ r/the-event/agenda\n• Official Kodiak UTMB race site: https://kodiak.utm
+ b.world/\n• Official registration status/pricing: https://kodiak.utmb.wo
+ rld/register\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDeta
+ ils can change. Recheck the official source before making a special trip.
+URL:https://kodiak.utmb.world/discover/the-event/agenda
+CATEGORIES:Trail Running,Ultramarathon,Sports,Festival,Village
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:bbvas-public-club-meeting-2026-10-08@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
@@ -3958,6 +4243,45 @@ DESCRIPTION:The local astronomy club’s monthly public meeting is an easy
 URL:https://bearvalleyastronomers.org/event/bbvas-club-meeting-public-invit
  ed-25/
 CATEGORIES:Astronomy,Science,Community,Free
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kodiak-ultra-marathons-utmb-2026-2026-10-09@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261009T090000
+DTEND;TZID=America/Los_Angeles:20261009T190000
+SUMMARY:Kodiak Ultra by UTMB — 100M Start + Expo + Kids Race
+LOCATION:Kodiak Basecamp / The Village — 40803 Village Dr\, Big Bear Lake
+ \, CA 92315
+DESCRIPTION:Kodiak’s UTMB World Series weekend brings five trail-race dis
+ tances\, a Village expo\, kids race\, vendors\, DJ atmosphere and Sunday a
+ wards\, with the longest race starting at Rim Nordic and all races finishi
+ ng in The Village.\n\nWHEN\nFri\, Oct 9\, 2026\, 9:00 AM–7:00 PM\n\nPRIC
+ E / ADMISSION\n• 100M\, 100K\, 50K and 21K registrations are sold out at
+  last check\n• 10K registration: $145 all-in at last check\n• Friday k
+ ids race: free\n\nSCHEDULE\n• 9:00–10:00 AM — 100M race-morning bib 
+ pickup\n• 9:30 AM–7:00 PM — bib pickup\n• 10:00 AM–7:00 PM — B
+ asecamp expo\n• 10:30 AM — runner briefing\n• 1:00 PM — 100M start
+  at Rim Nordic Ski Area\n• 2:00–3:45 PM — free kids race registratio
+ n\n• 4:00 PM — free kids race in The Village\n• 5:00 PM — runner b
+ riefing\n\nWHAT TO EXPECT\n• Race distances: 100M\, 100K\, 50K\, 21K and
+  10K\n• 100M starts at Rim Nordic Ski Area\; 100K/50K/21K/10K start from
+  The Village\; all finish at 40803 Village Dr\n• Public basecamp sits in
+  The Village near restaurants\, shops and entertainment\n\nUSEFUL NOTES\n
+ • Saturday will significantly increase foot traffic in The Village\n• 
+ Official schedule is subject to minor changes\; verify the 10K start time 
+ because the current agenda displays an apparent AM/PM typo\n\nOFFICIAL SOU
+ RCES\n• Official Kodiak UTMB schedule: https://kodiak.utmb.world/discove
+ r/the-event/agenda\n• Official Kodiak UTMB race site: https://kodiak.utm
+ b.world/\n• Official registration status/pricing: https://kodiak.utmb.wo
+ rld/register\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDeta
+ ils can change. Recheck the official source before making a special trip.
+URL:https://kodiak.utmb.world/discover/the-event/agenda
+CATEGORIES:Trail Running,Ultramarathon,Sports,Festival,Village
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
@@ -3991,39 +4315,42 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-09@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261009T170000
 DTEND;TZID=America/Los_Angeles:20261009T230000
 SUMMARY:Big Bear Lake Oktoberfest — Beer-Tasting Friday
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nFri\, Oct 9\, 2026\, 
- 5:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admiss
- ion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39
- .33 Saturdays depending on date and entry time\n• Children age 12 and un
- der are free Sundays\; other youth/senior prices vary by weekend\n• Pref
- erred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\
- n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:
- 00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon–
- 6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 30:
-  beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n• Fr
- iday nights are indoors and lower-crowd\n• Saturday After Dark entry beg
- ins at 7:30 PM\n• America’s Heroes weekends offer free general admissi
- on to eligible military/veterans\, firefighters\, law enforcement and fron
- tline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary genera
- l-admission tier unless the premium seating itself is worth the large surc
- harge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\n
- OFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigbear
- events.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festival 
- overview: https://www.bigbear.com/events/oktoberfest/\n• Official entert
- ainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfest-e
- ntertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-0
- 9-01\nDetails can change. Recheck the official source before making a spec
- ial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nFri\, Oct 9\, 2026\, 5:00
+  PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission 
+ is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33 
+ Saturdays depending on date and entry time\n• Children age 12 and under 
+ are free Sundays\; other youth/senior prices vary by weekend\n• Preferre
+ d/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n•
+  September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:00 P
+ M\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 PM\
+ ; children’s contests around 3:00 PM\n• October 31: Halloween costume 
+ contest about 9:30 PM\n• November 1: kids costume contest about 3:00 PM\
+ n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; entert
+ ainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors and l
+ ower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• America
+ ’s Heroes weekends offer free general admission to eligible military/vet
+ erans\, firefighters\, law enforcement and frontline healthcare workers\n\
+ nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless the
+  premium seating itself is worth the large surcharge\n• Tickets are rain
+ -or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offic
+ ial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tick
+ ets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.co
+ m/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official ticke
+ ting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear 
+ festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDAR
+  STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck 
+ the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -4113,6 +4440,46 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:kodiak-ultra-marathons-utmb-2026-2026-10-10@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261010T050000
+DTEND;TZID=America/Los_Angeles:20261010T200000
+SUMMARY:Kodiak Ultra by UTMB — Main Race Day + Expo
+LOCATION:Kodiak Basecamp / The Village — 40803 Village Dr\, Big Bear Lake
+ \, CA 92315
+DESCRIPTION:Kodiak’s UTMB World Series weekend brings five trail-race dis
+ tances\, a Village expo\, kids race\, vendors\, DJ atmosphere and Sunday a
+ wards\, with the longest race starting at Rim Nordic and all races finishi
+ ng in The Village.\n\nWHEN\nSat\, Oct 10\, 2026\, 5:00 AM–8:00 PM\n\nPRI
+ CE / ADMISSION\n• 100M\, 100K\, 50K and 21K registrations are sold out a
+ t last check\n• 10K registration: $145 all-in at last check\n• Friday 
+ kids race: free\n\nSCHEDULE\n• 5:00–10:50 AM — race-morning bib pick
+ up\n• 6:00 AM — 100K start\n• 7:30 AM — 50K start\n• 9:00 AM —
+  21K start\n• 9:00 AM–8:00 PM — Basecamp expo\n• Official schedule
+  currently prints the 10K start as 12:00 AM\; verify directly because that
+  appears inconsistent with the daytime race program\n\nWHAT TO EXPECT\n•
+  Race distances: 100M\, 100K\, 50K\, 21K and 10K\n• 100M starts at Rim N
+ ordic Ski Area\; 100K/50K/21K/10K start from The Village\; all finish at 4
+ 0803 Village Dr\n• Public basecamp sits in The Village near restaurants\
+ , shops and entertainment\n\nUSEFUL NOTES\n• Saturday will significantly
+  increase foot traffic in The Village\n• Official schedule is subject to
+  minor changes\; verify the 10K start time because the current agenda disp
+ lays an apparent AM/PM typo\n\nCONFLICTS / SAME-DAY OPTIONS\n• Bear Craw
+ l runs in The Village 2:00–6:00 PM the same day.\n\nOFFICIAL SOURCES\n
+ • Official Kodiak UTMB schedule: https://kodiak.utmb.world/discover/the-
+ event/agenda\n• Official Kodiak UTMB race site: https://kodiak.utmb.worl
+ d/\n• Official registration status/pricing: https://kodiak.utmb.world/re
+ gister\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails ca
+ n change. Recheck the official source before making a special trip.
+URL:https://kodiak.utmb.world/discover/the-event/agenda
+CATEGORIES:Trail Running,Ultramarathon,Sports,Festival,Village
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:green-thumbs-forest-restoration-2026-10-10@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
@@ -4177,41 +4544,77 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-10@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261010T130000
 DTEND;TZID=America/Los_Angeles:20261011T000000
 SUMMARY:Big Bear Lake Oktoberfest — Saturday
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSat\, Oct 10\, 2026 a
- t 1:00 PM–Sun\, Oct 11\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordi
- nary adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark
- \, and about $28.68–$39.33 Saturdays depending on date and entry time\n
- • Children age 12 and under are free Sundays\; other youth/senior prices
-  vary by weekend\n• Preferred/VIP packages over $50 are intentionally no
- t recommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• O
- ctober Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight
- \n• All Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n
- • October 9\, 23 and 30: beer tasting 7:00–9:00 PM inside the festival
- \n\nWHAT TO EXPECT\n• Friday nights are indoors and lower-crowd\n• Sat
- urday After Dark entry begins at 7:30 PM\n• America’s Heroes weekends 
- offer free general admission to eligible military/veterans\, firefighters\
- , law enforcement and frontline healthcare workers\n\nUSEFUL NOTES\n• Bu
- y only the ordinary general-admission tier unless the premium seating itse
- lf is worth the large surcharge\n• Tickets are rain-or-shine\, date-spec
- ific and nonrefundable\n\nOFFICIAL SOURCES\n• Official dates\, hours and
-  policies: https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 
- 2026 pricing and festival overview: https://www.bigbear.com/events/oktober
- fest/\n• Official entertainment schedule: https://bigbearevents.com/okto
- berfest/2024-oktoberfest-entertainment-schedule/\n\nCALENDAR STATUS: CONFI
- RMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official s
- ource before making a special trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSat\, Oct 10\, 2026 at 1:
+ 00 PM–Sun\, Oct 11\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordinary
+  adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark\, a
+ nd about $28.68–$39.33 Saturdays depending on date and entry time\n• C
+ hildren age 12 and under are free Sundays\; other youth/senior prices vary
+  by weekend\n• Preferred/VIP packages over $50 are intentionally not rec
+ ommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• Octobe
+ r Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight\n•
+  Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n• Octob
+ er 31: Halloween costume contest about 9:30 PM\n• November 1: kids costu
+ me contest about 3:00 PM\n• November 14: ticketing lists a final 1:00–
+ 6:00 PM Saturday\; entertainment details TBD\n\nWHAT TO EXPECT\n• Friday
+  nights are indoors and lower-crowd\n• Saturday After Dark entry begins 
+ at 7:30 PM\n• America’s Heroes weekends offer free general admission t
+ o eligible military/veterans\, firefighters\, law enforcement and frontlin
+ e healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary general-ad
+ mission tier unless the premium seating itself is worth the large surcharg
+ e\n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\nOFFI
+ CIAL SOURCES\n• Official dates\, hours and policies: https://bigbeareven
+ ts.com/oktoberfest/tickets-3/\n• Official 2026 entertainment schedule: h
+ ttps://bigbearevents.com/oktoberfest/2024-oktoberfest-entertainment-schedu
+ le/\n• Official ticketing calendar: https://bigbearevents.ticketsauce.co
+ m/\n• Visit Big Bear festival overview: https://www.bigbear.com/events/o
+ ktoberfest/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetai
+ ls can change. Recheck the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bear-crawl-village-2026@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261010T140000
+DTEND;TZID=America/Los_Angeles:20261010T180000
+SUMMARY:Bear Crawl in The Village
+LOCATION:The Village — Village Dr\, Big Bear Lake\, CA 92315
+DESCRIPTION:A self-paced four-hour Village drink crawl supporting local cau
+ ses\, ending with live music\, a party and Bear Costume Contest.\n\nWHEN\n
+ Sat\, Oct 10\, 2026\, 2:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Bear Cra
+ wl Pass: $65\n• Ticket includes a commemorative glass and a 5 oz pour at
+  10 stops across participating bars/restaurants\n\nWHAT TO EXPECT\n• Ten
+  drink stops are spread across 15 participating Village bars and restauran
+ ts\n• Ticket purchase supports Grace’s Place Foundation\; Visit Big Be
+ ar also lists Big Bear Alpine Zoo among supported causes\n• Eventbrite a
+ dvertises free parking\n• Bear costume grand prize is advertised as a Be
+ ar Mountain season pass\n\nUSEFUL NOTES\n• Kodiak Ultra race weekend is 
+ happening simultaneously in The Village\, so expect the area to be unusual
+ ly busy\n\nCONFLICTS / SAME-DAY OPTIONS\n• Kodiak Ultra by UTMB main rac
+ e day and expo are centered in The Village the same day.\n\nOFFICIAL SOURC
+ ES\n• Official Visit Big Bear Bear Crawl page: https://www.bigbear.com/e
+ vents/bear-crawl/\n• Organizer ticket page: https://www.eventbrite.com/e
+ /big-bear-crawl-2026-tickets-1992582786754\n\nCALENDAR STATUS: CONFIRMED\n
+ Last checked: 2026-09-26\nDetails can change. Recheck the official source 
+ before making a special trip.
+URL:https://www.bigbear.com/events/bear-crawl/
+CATEGORIES:Nightlife,Fundraiser,Village,Drinks
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
@@ -4247,40 +4650,80 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:big-bear-lake-oktoberfest-fall-2026-10-11@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
+UID:kodiak-ultra-marathons-utmb-2026-2026-10-11@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
 SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261011T080000
+DTEND;TZID=America/Los_Angeles:20261011T120000
+SUMMARY:Kodiak Ultra by UTMB — Awards + Final Expo
+LOCATION:Kodiak Basecamp / The Village — 40803 Village Dr\, Big Bear Lake
+ \, CA 92315
+DESCRIPTION:Kodiak’s UTMB World Series weekend brings five trail-race dis
+ tances\, a Village expo\, kids race\, vendors\, DJ atmosphere and Sunday a
+ wards\, with the longest race starting at Rim Nordic and all races finishi
+ ng in The Village.\n\nWHEN\nSun\, Oct 11\, 2026\, 8:00 AM–12:00 PM\n\nPR
+ ICE / ADMISSION\n• 100M\, 100K\, 50K and 21K registrations are sold out 
+ at last check\n• 10K registration: $145 all-in at last check\n• Friday
+  kids race: free\n\nSCHEDULE\n• 8:00 AM–12:00 PM — Basecamp expo\n
+ • 9:00 AM — pancake breakfast\n• 9:00 AM–12:00 PM — final drop-b
+ ag pickup\n• 10:00–11:00 AM — awards for all distances\n\nWHAT TO EX
+ PECT\n• Race distances: 100M\, 100K\, 50K\, 21K and 10K\n• 100M starts
+  at Rim Nordic Ski Area\; 100K/50K/21K/10K start from The Village\; all fi
+ nish at 40803 Village Dr\n• Public basecamp sits in The Village near res
+ taurants\, shops and entertainment\n\nUSEFUL NOTES\n• Saturday will sign
+ ificantly increase foot traffic in The Village\n• Official schedule is s
+ ubject to minor changes\; verify the 10K start time because the current ag
+ enda displays an apparent AM/PM typo\n\nOFFICIAL SOURCES\n• Official Kod
+ iak UTMB schedule: https://kodiak.utmb.world/discover/the-event/agenda\n
+ • Official Kodiak UTMB race site: https://kodiak.utmb.world/\n• Offici
+ al registration status/pricing: https://kodiak.utmb.world/register\n\nCALE
+ NDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Rech
+ eck the official source before making a special trip.
+URL:https://kodiak.utmb.world/discover/the-event/agenda
+CATEGORIES:Trail Running,Ultramarathon,Sports,Festival,Village
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-11@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261011T120000
 DTEND;TZID=America/Los_Angeles:20261011T180000
 SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSun\, Oct 11\, 2026\,
-  12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
- sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
- 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
- nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
- ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
- \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
- :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
- –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
- 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
-  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
- begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
- ssion to eligible military/veterans\, firefighters\, law enforcement and f
- rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
- eral-admission tier unless the premium seating itself is worth the large s
- urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
- n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
- earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
- al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
- ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
- t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
- 6-09-01\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSun\, Oct 11\, 2026\, 12:
+ 00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission
+  is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33
+  Saturdays depending on date and entry time\n• Children age 12 and under
+  are free Sundays\; other youth/senior prices vary by weekend\n• Preferr
+ ed/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n
+ • September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:0
+ 0 PM\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 
+ PM\; children’s contests around 3:00 PM\n• October 31: Halloween costu
+ me contest about 9:30 PM\n• November 1: kids costume contest about 3:00 
+ PM\n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; ent
+ ertainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors an
+ d lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• Americ
+ a’s Heroes weekends offer free general admission to eligible military/ve
+ terans\, firefighters\, law enforcement and frontline healthcare workers\n
+ \nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless th
+ e premium seating itself is worth the large surcharge\n• Tickets are rai
+ n-or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offi
+ cial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tic
+ kets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.c
+ om/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official tick
+ eting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear
+  festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDA
+ R STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -4379,26 +4822,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-plein-air-competition-gallery-2026-10-14@big-bear-events.bry.r
  ip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261014T140000
 DTEND;TZID=America/Los_Angeles:20261014T200000
-SUMMARY:Big Bear Plein Air Competition Gallery
+SUMMARY:Big Bear Plein Air Art Competition Gallery
 LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
  ke\, CA 92315
-DESCRIPTION:The complete public exhibition for the 2026 Big Bear Plein Air 
- competition\, ending with a Sunday awards ceremony.\n\nWHEN\nWed\, Oct 14\
- , 2026\, 2:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no a
- dmission fee or ticket requirement is published\n• Artwork is available 
- to purchase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM gallery\n• 
- October 18: 10:00 AM–noon gallery and awards\n\nTBD / VERIFY BEFORE GOIN
- G\n• The official page invites the public but does not explicitly label 
- admission free\n\nOFFICIAL SOURCES\n• Official competition page: https:/
- /www.bigbear.com/pleinair/\n• Official event listing: https://www.bigbea
- r.com/events/plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nL
- ast checked: 2026-09-01\nDetails can change. Recheck the official source b
- efore making a special trip.
+DESCRIPTION:The public gallery for the 3rd Annual Big Bear Plein Air Art Co
+ mpetition\, showing submitted local landscapes October 14–17 and ending 
+ with the October 18 awards ceremony.\n\nWHEN\nWed\, Oct 14\, 2026\, 2:00 P
+ M–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no admission fee or
+  ticket requirement is published\n• Artwork is available to purchase\n\n
+ SCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gallery\n•
+  October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\nWHAT T
+ O EXPECT\n• Artwork is available for purchase\n• Visit Big Bear invite
+ s art enthusiasts\, collectors and community members to view the competiti
+ on gallery\n• The printed brochure calls this a 'Plein Air Art & Film Fe
+ stival\,' but the current official 2026 program lists the Plein Air Art Co
+ mpetition and Festival of Artist Events and does not list a film program\n
+ \nTBD / VERIFY BEFORE GOING\n• The official page invites the public but 
+ does not explicitly label gallery admission free\n\nOFFICIAL SOURCES\n• 
+ Official Plein Air competition page: https://www.bigbear.com/pleinair/\n
+ • Official Visit Big Bear event listing: https://www.bigbear.com/events/
+ plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 
+ 2026-09-26\nDetails can change. Recheck the official source before making 
+ a special trip.
 URL:https://www.bigbear.com/pleinair/
 CATEGORIES:Art,Gallery,Community,Likely Free
 STATUS:CONFIRMED
@@ -4408,26 +4858,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-plein-air-competition-gallery-2026-10-15@big-bear-events.bry.r
  ip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261015T140000
 DTEND;TZID=America/Los_Angeles:20261015T200000
-SUMMARY:Big Bear Plein Air Competition Gallery
+SUMMARY:Big Bear Plein Air Art Competition Gallery
 LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
  ke\, CA 92315
-DESCRIPTION:The complete public exhibition for the 2026 Big Bear Plein Air 
- competition\, ending with a Sunday awards ceremony.\n\nWHEN\nThu\, Oct 15\
- , 2026\, 2:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no a
- dmission fee or ticket requirement is published\n• Artwork is available 
- to purchase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM gallery\n• 
- October 18: 10:00 AM–noon gallery and awards\n\nTBD / VERIFY BEFORE GOIN
- G\n• The official page invites the public but does not explicitly label 
- admission free\n\nOFFICIAL SOURCES\n• Official competition page: https:/
- /www.bigbear.com/pleinair/\n• Official event listing: https://www.bigbea
- r.com/events/plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nL
- ast checked: 2026-09-01\nDetails can change. Recheck the official source b
- efore making a special trip.
+DESCRIPTION:The public gallery for the 3rd Annual Big Bear Plein Air Art Co
+ mpetition\, showing submitted local landscapes October 14–17 and ending 
+ with the October 18 awards ceremony.\n\nWHEN\nThu\, Oct 15\, 2026\, 2:00 P
+ M–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no admission fee or
+  ticket requirement is published\n• Artwork is available to purchase\n\n
+ SCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gallery\n•
+  October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\nWHAT T
+ O EXPECT\n• Artwork is available for purchase\n• Visit Big Bear invite
+ s art enthusiasts\, collectors and community members to view the competiti
+ on gallery\n• The printed brochure calls this a 'Plein Air Art & Film Fe
+ stival\,' but the current official 2026 program lists the Plein Air Art Co
+ mpetition and Festival of Artist Events and does not list a film program\n
+ \nTBD / VERIFY BEFORE GOING\n• The official page invites the public but 
+ does not explicitly label gallery admission free\n\nOFFICIAL SOURCES\n• 
+ Official Plein Air competition page: https://www.bigbear.com/pleinair/\n
+ • Official Visit Big Bear event listing: https://www.bigbear.com/events/
+ plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 
+ 2026-09-26\nDetails can change. Recheck the official source before making 
+ a special trip.
 URL:https://www.bigbear.com/pleinair/
 CATEGORIES:Art,Gallery,Community,Likely Free
 STATUS:CONFIRMED
@@ -4461,30 +4918,69 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:tick-tick-boom-big-bear-theatre-project-2026-2026-10-15@big-bear-events
+ .bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261015T193000
+DTEND;TZID=America/Los_Angeles:20261015T210000
+SUMMARY:tick\, tick...BOOM! — Thu Oct 15
+LOCATION:John D. Spivey Theater\, Big Bear Lake Performing Arts Center — 
+ 39707 Big Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:Big Bear Theatre Project stages Jonathan Larson’s semi-autobi
+ ographical 90-minute musical about a composer approaching his 30th birthda
+ y while racing the clock to make art that matters.\n\nWHEN\nThu\, Oct 15\,
+  2026\, 7:30 PM–9:00 PM\n\nPRICE / ADMISSION\n• General admission: $45
+  + $2.59 fee\n• Senior: $35 + $2.21 fee\n• Student: $25 + $1.84 fee\n
+ • Ticketing also displays a Pay What You Can $0 option\; availability ma
+ y be limited by performance\n\nSCHEDULE\n• Evening performances: 7:30 PM
+ \n• Sunday matinees October 18 and 25: 2:00 PM\n• Runtime: 90 minutes\
+ n• Box office opens one hour before showtime\n\nWHAT TO EXPECT\n• Whee
+ lchair seating and assisted listening devices are offered\n• Service ani
+ mals are welcome\n• Box office: 909-805-4300\, info@bigbeartheatreprojec
+ t.org\n\nOFFICIAL SOURCES\n• Official Big Bear Theatre Project ticketing
+ : https://bbtp.booktix.com/dept/BBTPMain/e/TTB\n\nCALENDAR STATUS: CONFIRM
+ ED\nLast checked: 2026-09-26\nDetails can change. Recheck the official sou
+ rce before making a special trip.
+URL:https://bbtp.booktix.com/dept/BBTPMain/e/TTB
+CATEGORIES:Theatre,Musical,Performing Arts
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:big-bear-plein-air-competition-gallery-2026-10-16@big-bear-events.bry.r
  ip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261016T140000
 DTEND;TZID=America/Los_Angeles:20261016T200000
-SUMMARY:Big Bear Plein Air Competition Gallery
+SUMMARY:Big Bear Plein Air Art Competition Gallery
 LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
  ke\, CA 92315
-DESCRIPTION:The complete public exhibition for the 2026 Big Bear Plein Air 
- competition\, ending with a Sunday awards ceremony.\n\nWHEN\nFri\, Oct 16\
- , 2026\, 2:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no a
- dmission fee or ticket requirement is published\n• Artwork is available 
- to purchase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM gallery\n• 
- October 18: 10:00 AM–noon gallery and awards\n\nTBD / VERIFY BEFORE GOIN
- G\n• The official page invites the public but does not explicitly label 
- admission free\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes w
- ith: Big Bear Lake Farmers Market (Fri\, Oct 16\, 2026\, 3:00 PM–7:00 PM
- ).\n\nOFFICIAL SOURCES\n• Official competition page: https://www.bigbear
- .com/pleinair/\n• Official event listing: https://www.bigbear.com/events
- /plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked:
-  2026-09-01\nDetails can change. Recheck the official source before making
-  a special trip.
+DESCRIPTION:The public gallery for the 3rd Annual Big Bear Plein Air Art Co
+ mpetition\, showing submitted local landscapes October 14–17 and ending 
+ with the October 18 awards ceremony.\n\nWHEN\nFri\, Oct 16\, 2026\, 2:00 P
+ M–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no admission fee or
+  ticket requirement is published\n• Artwork is available to purchase\n\n
+ SCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gallery\n•
+  October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\nWHAT T
+ O EXPECT\n• Artwork is available for purchase\n• Visit Big Bear invite
+ s art enthusiasts\, collectors and community members to view the competiti
+ on gallery\n• The printed brochure calls this a 'Plein Air Art & Film Fe
+ stival\,' but the current official 2026 program lists the Plein Air Art Co
+ mpetition and Festival of Artist Events and does not list a film program\n
+ \nTBD / VERIFY BEFORE GOING\n• The official page invites the public but 
+ does not explicitly label gallery admission free\n\nCONFLICTS / SAME-DAY O
+ PTIONS\n• Overlaps or competes with: Big Bear Lake Farmers Market (Fri\,
+  Oct 16\, 2026\, 3:00 PM–7:00 PM).\n\nOFFICIAL SOURCES\n• Official Ple
+ in Air competition page: https://www.bigbear.com/pleinair/\n• Official V
+ isit Big Bear event listing: https://www.bigbear.com/events/plein-air-art-
+ competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-26\nDe
+ tails can change. Recheck the official source before making a special trip
+ .
 URL:https://www.bigbear.com/pleinair/
 CATEGORIES:Art,Gallery,Community,Likely Free
 STATUS:CONFIRMED
@@ -4520,39 +5016,42 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-16@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261016T170000
 DTEND;TZID=America/Los_Angeles:20261016T230000
 SUMMARY:Big Bear Lake Oktoberfest — Friday Night
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nFri\, Oct 16\, 2026\,
-  5:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
- sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
- 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
- nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
- ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
- \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
- :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
- –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
- 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
-  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
- begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
- ssion to eligible military/veterans\, firefighters\, law enforcement and f
- rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
- eral-admission tier unless the premium seating itself is worth the large s
- urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
- n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
- earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
- al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
- ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
- t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
- 6-09-01\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nFri\, Oct 16\, 2026\, 5:0
+ 0 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission
+  is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33
+  Saturdays depending on date and entry time\n• Children age 12 and under
+  are free Sundays\; other youth/senior prices vary by weekend\n• Preferr
+ ed/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n
+ • September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:0
+ 0 PM\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 
+ PM\; children’s contests around 3:00 PM\n• October 31: Halloween costu
+ me contest about 9:30 PM\n• November 1: kids costume contest about 3:00 
+ PM\n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; ent
+ ertainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors an
+ d lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• Americ
+ a’s Heroes weekends offer free general admission to eligible military/ve
+ terans\, firefighters\, law enforcement and frontline healthcare workers\n
+ \nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless th
+ e premium seating itself is worth the large surcharge\n• Tickets are rai
+ n-or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offi
+ cial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tic
+ kets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.c
+ om/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official tick
+ eting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear
+  festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDA
+ R STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -4560,40 +5059,115 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:big-bear-lake-oktoberfest-fall-2026-10-17@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
+UID:tick-tick-boom-big-bear-theatre-project-2026-2026-10-16@big-bear-events
+ .bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
 SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261016T193000
+DTEND;TZID=America/Los_Angeles:20261016T210000
+SUMMARY:tick\, tick...BOOM! — Fri Oct 16
+LOCATION:John D. Spivey Theater\, Big Bear Lake Performing Arts Center — 
+ 39707 Big Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:Big Bear Theatre Project stages Jonathan Larson’s semi-autobi
+ ographical 90-minute musical about a composer approaching his 30th birthda
+ y while racing the clock to make art that matters.\n\nWHEN\nFri\, Oct 16\,
+  2026\, 7:30 PM–9:00 PM\n\nPRICE / ADMISSION\n• General admission: $45
+  + $2.59 fee\n• Senior: $35 + $2.21 fee\n• Student: $25 + $1.84 fee\n
+ • Ticketing also displays a Pay What You Can $0 option\; availability ma
+ y be limited by performance\n\nSCHEDULE\n• Evening performances: 7:30 PM
+ \n• Sunday matinees October 18 and 25: 2:00 PM\n• Runtime: 90 minutes\
+ n• Box office opens one hour before showtime\n\nWHAT TO EXPECT\n• Whee
+ lchair seating and assisted listening devices are offered\n• Service ani
+ mals are welcome\n• Box office: 909-805-4300\, info@bigbeartheatreprojec
+ t.org\n\nOFFICIAL SOURCES\n• Official Big Bear Theatre Project ticketing
+ : https://bbtp.booktix.com/dept/BBTPMain/e/TTB\n\nCALENDAR STATUS: CONFIRM
+ ED\nLast checked: 2026-09-26\nDetails can change. Recheck the official sou
+ rce before making a special trip.
+URL:https://bbtp.booktix.com/dept/BBTPMain/e/TTB
+CATEGORIES:Theatre,Musical,Performing Arts
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:porsche-timeline-2026@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261017T120000
+DTEND;TZID=America/Los_Angeles:20261017T160000
+SUMMARY:Porsche Timeline Exhibition
+LOCATION:Bartlett Parking Lot / Big Bear Village — 630 Bartlett Rd\, Big 
+ Bear Lake\, CA 92315
+DESCRIPTION:A chronological Porsche exhibition from early-1950s cars throug
+ h current models\, organized by the Porsche Club of America Inland Empire 
+ Region in Bartlett Parking Lot.\n\nWHEN\nSat\, Oct 17\, 2026\, 12:00 PM–
+ 4:00 PM\n\nPRICE / ADMISSION\n• PCA organizer says no vehicle registrati
+ on fee for the first 200 registered Porsches\n• Visit Big Bear still lis
+ ts a $100 participating-vehicle fee\, so participant pricing conflicts acr
+ oss current sources\n• No spectator admission charge is stated on either
+  current source\n\nSCHEDULE\n• 11:00 AM — participant check-in begins\
+ n• 12:00–4:00 PM — public Porsche Timeline exhibition\n\nWHAT TO EXP
+ ECT\n• Every displayed vehicle must be a Porsche\n• Registered display
+  cars receive a custom placard describing the car’s history/features\n
+ • The event benefits the Interact Club of Big Bear\, supporting youth le
+ adership\, service projects and scholarships\n• Commemorative T-shirts a
+ re $35 by preorder\n\nTBD / VERIFY BEFORE GOING\n• Participant registrat
+ ion price conflict: PCA’s current registration page says first 200 are f
+ ree\, while Visit Big Bear lists $100 per vehicle\n\nCONFLICTS / SAME-DAY 
+ OPTIONS\n• Same date as the Plein Air gallery\, a 7:30 PM tick\, tick...
+ BOOM! performance\, and Oktoberfest.\n\nOFFICIAL SOURCES\n• PCA Inland E
+ mpire organizer registration page: https://ncr-pca.motorsportreg.com/event
+ s/porsche-timeline-oct-2026-big-bear-village-pca-inland-empire-819420\n•
+  Visit Big Bear event page: https://www.bigbear.com/events/porsche-timelin
+ e-car-show/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetai
+ ls can change. Recheck the official source before making a special trip.
+URL:https://ncr-pca.motorsportreg.com/events/porsche-timeline-oct-2026-big-
+ bear-village-pca-inland-empire-819420
+CATEGORIES:Car Show,Porsche,Village,Fundraiser
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-17@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261017T130000
 DTEND;TZID=America/Los_Angeles:20261018T000000
 SUMMARY:Big Bear Lake Oktoberfest — Saturday
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSat\, Oct 17\, 2026 a
- t 1:00 PM–Sun\, Oct 18\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordi
- nary adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark
- \, and about $28.68–$39.33 Saturdays depending on date and entry time\n
- • Children age 12 and under are free Sundays\; other youth/senior prices
-  vary by weekend\n• Preferred/VIP packages over $50 are intentionally no
- t recommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• O
- ctober Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight
- \n• All Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n
- • October 9\, 23 and 30: beer tasting 7:00–9:00 PM inside the festival
- \n\nWHAT TO EXPECT\n• Friday nights are indoors and lower-crowd\n• Sat
- urday After Dark entry begins at 7:30 PM\n• America’s Heroes weekends 
- offer free general admission to eligible military/veterans\, firefighters\
- , law enforcement and frontline healthcare workers\n\nUSEFUL NOTES\n• Bu
- y only the ordinary general-admission tier unless the premium seating itse
- lf is worth the large surcharge\n• Tickets are rain-or-shine\, date-spec
- ific and nonrefundable\n\nOFFICIAL SOURCES\n• Official dates\, hours and
-  policies: https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 
- 2026 pricing and festival overview: https://www.bigbear.com/events/oktober
- fest/\n• Official entertainment schedule: https://bigbearevents.com/okto
- berfest/2024-oktoberfest-entertainment-schedule/\n\nCALENDAR STATUS: CONFI
- RMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official s
- ource before making a special trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSat\, Oct 17\, 2026 at 1:
+ 00 PM–Sun\, Oct 18\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordinary
+  adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark\, a
+ nd about $28.68–$39.33 Saturdays depending on date and entry time\n• C
+ hildren age 12 and under are free Sundays\; other youth/senior prices vary
+  by weekend\n• Preferred/VIP packages over $50 are intentionally not rec
+ ommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• Octobe
+ r Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight\n•
+  Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n• Octob
+ er 31: Halloween costume contest about 9:30 PM\n• November 1: kids costu
+ me contest about 3:00 PM\n• November 14: ticketing lists a final 1:00–
+ 6:00 PM Saturday\; entertainment details TBD\n\nWHAT TO EXPECT\n• Friday
+  nights are indoors and lower-crowd\n• Saturday After Dark entry begins 
+ at 7:30 PM\n• America’s Heroes weekends offer free general admission t
+ o eligible military/veterans\, firefighters\, law enforcement and frontlin
+ e healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary general-ad
+ mission tier unless the premium seating itself is worth the large surcharg
+ e\n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\nOFFI
+ CIAL SOURCES\n• Official dates\, hours and policies: https://bigbeareven
+ ts.com/oktoberfest/tickets-3/\n• Official 2026 entertainment schedule: h
+ ttps://bigbearevents.com/oktoberfest/2024-oktoberfest-entertainment-schedu
+ le/\n• Official ticketing calendar: https://bigbearevents.ticketsauce.co
+ m/\n• Visit Big Bear festival overview: https://www.bigbear.com/events/o
+ ktoberfest/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetai
+ ls can change. Recheck the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -4603,30 +5177,36 @@ END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-plein-air-competition-gallery-2026-10-17@big-bear-events.bry.r
  ip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261017T140000
 DTEND;TZID=America/Los_Angeles:20261017T200000
-SUMMARY:Big Bear Plein Air Competition Gallery
+SUMMARY:Big Bear Plein Air Art Competition Gallery
 LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
  ke\, CA 92315
-DESCRIPTION:The complete public exhibition for the 2026 Big Bear Plein Air 
- competition\, ending with a Sunday awards ceremony.\n\nWHEN\nSat\, Oct 17\
- , 2026\, 2:00 PM–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no a
- dmission fee or ticket requirement is published\n• Artwork is available 
- to purchase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM gallery\n• 
- October 18: 10:00 AM–noon gallery and awards\n\nTBD / VERIFY BEFORE GOIN
- G\n• The official page invites the public but does not explicitly label 
- admission free\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes w
- ith: BBVAS Sidewalk Astronomy in the Village (Sat\, Oct 17\, 2026\, 7:00 P
- M–9:00 PM).\n• Overlaps or competes with: Hurrikane — Free Scorpions
-  Tribute at The Cave (Sat\, Oct 17\, 2026\, 8:00 PM–10:30 PM).\n\nOFFICI
- AL SOURCES\n• Official competition page: https://www.bigbear.com/pleinai
- r/\n• Official event listing: https://www.bigbear.com/events/plein-air-a
- rt-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-01\
- nDetails can change. Recheck the official source before making a special t
- rip.
+DESCRIPTION:The public gallery for the 3rd Annual Big Bear Plein Air Art Co
+ mpetition\, showing submitted local landscapes October 14–17 and ending 
+ with the October 18 awards ceremony.\n\nWHEN\nSat\, Oct 17\, 2026\, 2:00 P
+ M–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no admission fee or
+  ticket requirement is published\n• Artwork is available to purchase\n\n
+ SCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gallery\n•
+  October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\nWHAT T
+ O EXPECT\n• Artwork is available for purchase\n• Visit Big Bear invite
+ s art enthusiasts\, collectors and community members to view the competiti
+ on gallery\n• The printed brochure calls this a 'Plein Air Art & Film Fe
+ stival\,' but the current official 2026 program lists the Plein Air Art Co
+ mpetition and Festival of Artist Events and does not list a film program\n
+ \nTBD / VERIFY BEFORE GOING\n• The official page invites the public but 
+ does not explicitly label gallery admission free\n\nCONFLICTS / SAME-DAY O
+ PTIONS\n• Overlaps or competes with: BBVAS Sidewalk Astronomy in the Vil
+ lage (Sat\, Oct 17\, 2026\, 7:00 PM–9:00 PM).\n• Overlaps or competes 
+ with: Hurrikane — Free Scorpions Tribute at The Cave (Sat\, Oct 17\, 202
+ 6\, 8:00 PM–10:30 PM).\n\nOFFICIAL SOURCES\n• Official Plein Air compe
+ tition page: https://www.bigbear.com/pleinair/\n• Official Visit Big Bea
+ r event listing: https://www.bigbear.com/events/plein-air-art-competition/
+ \n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-26\nDetails can ch
+ ange. Recheck the official source before making a special trip.
 URL:https://www.bigbear.com/pleinair/
 CATEGORIES:Art,Gallery,Community,Likely Free
 STATUS:CONFIRMED
@@ -4662,6 +5242,40 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:tick-tick-boom-big-bear-theatre-project-2026-2026-10-17@big-bear-events
+ .bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261017T193000
+DTEND;TZID=America/Los_Angeles:20261017T210000
+SUMMARY:tick\, tick...BOOM! — Sat Oct 17
+LOCATION:John D. Spivey Theater\, Big Bear Lake Performing Arts Center — 
+ 39707 Big Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:Big Bear Theatre Project stages Jonathan Larson’s semi-autobi
+ ographical 90-minute musical about a composer approaching his 30th birthda
+ y while racing the clock to make art that matters.\n\nWHEN\nSat\, Oct 17\,
+  2026\, 7:30 PM–9:00 PM\n\nPRICE / ADMISSION\n• General admission: $45
+  + $2.59 fee\n• Senior: $35 + $2.21 fee\n• Student: $25 + $1.84 fee\n
+ • Ticketing also displays a Pay What You Can $0 option\; availability ma
+ y be limited by performance\n\nSCHEDULE\n• Evening performances: 7:30 PM
+ \n• Sunday matinees October 18 and 25: 2:00 PM\n• Runtime: 90 minutes\
+ n• Box office opens one hour before showtime\n\nWHAT TO EXPECT\n• Whee
+ lchair seating and assisted listening devices are offered\n• Service ani
+ mals are welcome\n• Box office: 909-805-4300\, info@bigbeartheatreprojec
+ t.org\n\nCONFLICTS / SAME-DAY OPTIONS\n• Same afternoon/evening date as 
+ Porsche Timeline\, the Plein Air gallery and Oktoberfest.\n\nOFFICIAL SOUR
+ CES\n• Official Big Bear Theatre Project ticketing: https://bbtp.booktix
+ .com/dept/BBTPMain/e/TTB\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026
+ -09-26\nDetails can change. Recheck the official source before making a sp
+ ecial trip.
+URL:https://bbtp.booktix.com/dept/BBTPMain/e/TTB
+CATEGORIES:Theatre,Musical,Performing Arts
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:hurrikane-the-cave-2026@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
@@ -4687,26 +5301,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-plein-air-competition-gallery-2026-10-18@big-bear-events.bry.r
  ip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261018T100000
 DTEND;TZID=America/Los_Angeles:20261018T120000
 SUMMARY:Big Bear Plein Air Competition Gallery + Awards
 LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
  ke\, CA 92315
-DESCRIPTION:The complete public exhibition for the 2026 Big Bear Plein Air 
- competition\, ending with a Sunday awards ceremony.\n\nWHEN\nSun\, Oct 18\
- , 2026\, 10:00 AM–12:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no
-  admission fee or ticket requirement is published\n• Artwork is availabl
- e to purchase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM gallery\n
- • October 18: 10:00 AM–noon gallery and awards\n\nTBD / VERIFY BEFORE 
- GOING\n• The official page invites the public but does not explicitly la
- bel admission free\n\nOFFICIAL SOURCES\n• Official competition page: htt
- ps://www.bigbear.com/pleinair/\n• Official event listing: https://www.bi
- gbear.com/events/plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TB
- D\nLast checked: 2026-09-01\nDetails can change. Recheck the official sour
- ce before making a special trip.
+DESCRIPTION:The public gallery for the 3rd Annual Big Bear Plein Air Art Co
+ mpetition\, showing submitted local landscapes October 14–17 and ending 
+ with the October 18 awards ceremony.\n\nWHEN\nSun\, Oct 18\, 2026\, 10:00 
+ AM–12:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no admission fee 
+ or ticket requirement is published\n• Artwork is available to purchase\n
+ \nSCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gallery\n
+ • October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\nWHA
+ T TO EXPECT\n• Artwork is available for purchase\n• Visit Big Bear inv
+ ites art enthusiasts\, collectors and community members to view the compet
+ ition gallery\n• The printed brochure calls this a 'Plein Air Art & Film
+  Festival\,' but the current official 2026 program lists the Plein Air Art
+  Competition and Festival of Artist Events and does not list a film progra
+ m\n\nTBD / VERIFY BEFORE GOING\n• The official page invites the public b
+ ut does not explicitly label gallery admission free\n\nOFFICIAL SOURCES\n
+ • Official Plein Air competition page: https://www.bigbear.com/pleinair/
+ \n• Official Visit Big Bear event listing: https://www.bigbear.com/event
+ s/plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked
+ : 2026-09-26\nDetails can change. Recheck the official source before makin
+ g a special trip.
 URL:https://www.bigbear.com/pleinair/
 CATEGORIES:Art,Gallery,Community,Likely Free
 STATUS:CONFIRMED
@@ -4715,41 +5336,76 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-18@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261018T120000
 DTEND;TZID=America/Los_Angeles:20261018T180000
 SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSun\, Oct 18\, 2026\,
-  12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
- sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
- 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
- nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
- ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
- \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
- :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
- –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
- 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
-  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
- begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
- ssion to eligible military/veterans\, firefighters\, law enforcement and f
- rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
- eral-admission tier unless the premium seating itself is worth the large s
- urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
- n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
- earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
- al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
- ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
- t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
- 6-09-01\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSun\, Oct 18\, 2026\, 12:
+ 00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission
+  is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33
+  Saturdays depending on date and entry time\n• Children age 12 and under
+  are free Sundays\; other youth/senior prices vary by weekend\n• Preferr
+ ed/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n
+ • September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:0
+ 0 PM\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 
+ PM\; children’s contests around 3:00 PM\n• October 31: Halloween costu
+ me contest about 9:30 PM\n• November 1: kids costume contest about 3:00 
+ PM\n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; ent
+ ertainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors an
+ d lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• Americ
+ a’s Heroes weekends offer free general admission to eligible military/ve
+ terans\, firefighters\, law enforcement and frontline healthcare workers\n
+ \nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless th
+ e premium seating itself is worth the large surcharge\n• Tickets are rai
+ n-or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offi
+ cial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tic
+ kets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.c
+ om/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official tick
+ eting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear
+  festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDA
+ R STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tick-tick-boom-big-bear-theatre-project-2026-2026-10-18@big-bear-events
+ .bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261018T140000
+DTEND;TZID=America/Los_Angeles:20261018T153000
+SUMMARY:tick\, tick...BOOM! — Sun Matinee Oct 18
+LOCATION:John D. Spivey Theater\, Big Bear Lake Performing Arts Center — 
+ 39707 Big Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:Big Bear Theatre Project stages Jonathan Larson’s semi-autobi
+ ographical 90-minute musical about a composer approaching his 30th birthda
+ y while racing the clock to make art that matters.\n\nWHEN\nSun\, Oct 18\,
+  2026\, 2:00 PM–3:30 PM\n\nPRICE / ADMISSION\n• General admission: $45
+  + $2.59 fee\n• Senior: $35 + $2.21 fee\n• Student: $25 + $1.84 fee\n
+ • Ticketing also displays a Pay What You Can $0 option\; availability ma
+ y be limited by performance\n\nSCHEDULE\n• Evening performances: 7:30 PM
+ \n• Sunday matinees October 18 and 25: 2:00 PM\n• Runtime: 90 minutes\
+ n• Box office opens one hour before showtime\n\nWHAT TO EXPECT\n• Whee
+ lchair seating and assisted listening devices are offered\n• Service ani
+ mals are welcome\n• Box office: 909-805-4300\, info@bigbeartheatreprojec
+ t.org\n\nOFFICIAL SOURCES\n• Official Big Bear Theatre Project ticketing
+ : https://bbtp.booktix.com/dept/BBTPMain/e/TTB\n\nCALENDAR STATUS: CONFIRM
+ ED\nLast checked: 2026-09-26\nDetails can change. Recheck the official sou
+ rce before making a special trip.
+URL:https://bbtp.booktix.com/dept/BBTPMain/e/TTB
+CATEGORIES:Theatre,Musical,Performing Arts
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
@@ -4844,6 +5500,38 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:tick-tick-boom-big-bear-theatre-project-2026-2026-10-22@big-bear-events
+ .bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261022T193000
+DTEND;TZID=America/Los_Angeles:20261022T210000
+SUMMARY:tick\, tick...BOOM! — Thu Oct 22
+LOCATION:John D. Spivey Theater\, Big Bear Lake Performing Arts Center — 
+ 39707 Big Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:Big Bear Theatre Project stages Jonathan Larson’s semi-autobi
+ ographical 90-minute musical about a composer approaching his 30th birthda
+ y while racing the clock to make art that matters.\n\nWHEN\nThu\, Oct 22\,
+  2026\, 7:30 PM–9:00 PM\n\nPRICE / ADMISSION\n• General admission: $45
+  + $2.59 fee\n• Senior: $35 + $2.21 fee\n• Student: $25 + $1.84 fee\n
+ • Ticketing also displays a Pay What You Can $0 option\; availability ma
+ y be limited by performance\n\nSCHEDULE\n• Evening performances: 7:30 PM
+ \n• Sunday matinees October 18 and 25: 2:00 PM\n• Runtime: 90 minutes\
+ n• Box office opens one hour before showtime\n\nWHAT TO EXPECT\n• Whee
+ lchair seating and assisted listening devices are offered\n• Service ani
+ mals are welcome\n• Box office: 909-805-4300\, info@bigbeartheatreprojec
+ t.org\n\nOFFICIAL SOURCES\n• Official Big Bear Theatre Project ticketing
+ : https://bbtp.booktix.com/dept/BBTPMain/e/TTB\n\nCALENDAR STATUS: CONFIRM
+ ED\nLast checked: 2026-09-26\nDetails can change. Recheck the official sou
+ rce before making a special trip.
+URL:https://bbtp.booktix.com/dept/BBTPMain/e/TTB
+CATEGORIES:Theatre,Musical,Performing Arts
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:big-bear-lake-farmers-market-2026-10-23@big-bear-events.bry.rip
 DTSTAMP:20260901T080000Z
 LAST-MODIFIED:20260901T080000Z
@@ -4872,41 +5560,76 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-23@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261023T170000
 DTEND;TZID=America/Los_Angeles:20261023T230000
 SUMMARY:Big Bear Lake Oktoberfest — Beer-Tasting Friday
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nFri\, Oct 23\, 2026\,
-  5:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
- sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
- 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
- nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
- ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
- \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
- :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
- –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
- 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
-  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
- begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
- ssion to eligible military/veterans\, firefighters\, law enforcement and f
- rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
- eral-admission tier unless the premium seating itself is worth the large s
- urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
- n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
- earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
- al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
- ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
- t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
- 6-09-01\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nFri\, Oct 23\, 2026\, 5:0
+ 0 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission
+  is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33
+  Saturdays depending on date and entry time\n• Children age 12 and under
+  are free Sundays\; other youth/senior prices vary by weekend\n• Preferr
+ ed/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n
+ • September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:0
+ 0 PM\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 
+ PM\; children’s contests around 3:00 PM\n• October 31: Halloween costu
+ me contest about 9:30 PM\n• November 1: kids costume contest about 3:00 
+ PM\n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; ent
+ ertainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors an
+ d lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• Americ
+ a’s Heroes weekends offer free general admission to eligible military/ve
+ terans\, firefighters\, law enforcement and frontline healthcare workers\n
+ \nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless th
+ e premium seating itself is worth the large surcharge\n• Tickets are rai
+ n-or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offi
+ cial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tic
+ kets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.c
+ om/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official tick
+ eting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear
+  festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDA
+ R STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tick-tick-boom-big-bear-theatre-project-2026-2026-10-23@big-bear-events
+ .bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261023T193000
+DTEND;TZID=America/Los_Angeles:20261023T210000
+SUMMARY:tick\, tick...BOOM! — Fri Oct 23
+LOCATION:John D. Spivey Theater\, Big Bear Lake Performing Arts Center — 
+ 39707 Big Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:Big Bear Theatre Project stages Jonathan Larson’s semi-autobi
+ ographical 90-minute musical about a composer approaching his 30th birthda
+ y while racing the clock to make art that matters.\n\nWHEN\nFri\, Oct 23\,
+  2026\, 7:30 PM–9:00 PM\n\nPRICE / ADMISSION\n• General admission: $45
+  + $2.59 fee\n• Senior: $35 + $2.21 fee\n• Student: $25 + $1.84 fee\n
+ • Ticketing also displays a Pay What You Can $0 option\; availability ma
+ y be limited by performance\n\nSCHEDULE\n• Evening performances: 7:30 PM
+ \n• Sunday matinees October 18 and 25: 2:00 PM\n• Runtime: 90 minutes\
+ n• Box office opens one hour before showtime\n\nWHAT TO EXPECT\n• Whee
+ lchair seating and assisted listening devices are offered\n• Service ani
+ mals are welcome\n• Box office: 909-805-4300\, info@bigbeartheatreprojec
+ t.org\n\nOFFICIAL SOURCES\n• Official Big Bear Theatre Project ticketing
+ : https://bbtp.booktix.com/dept/BBTPMain/e/TTB\n\nCALENDAR STATUS: CONFIRM
+ ED\nLast checked: 2026-09-26\nDetails can change. Recheck the official sou
+ rce before making a special trip.
+URL:https://bbtp.booktix.com/dept/BBTPMain/e/TTB
+CATEGORIES:Theatre,Musical,Performing Arts
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
@@ -5004,39 +5727,42 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-24@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261024T130000
 DTEND;TZID=America/Los_Angeles:20261025T000000
 SUMMARY:Big Bear Lake Oktoberfest — Saturday
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSat\, Oct 24\, 2026 a
- t 1:00 PM–Sun\, Oct 25\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordi
- nary adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark
- \, and about $28.68–$39.33 Saturdays depending on date and entry time\n
- • Children age 12 and under are free Sundays\; other youth/senior prices
-  vary by weekend\n• Preferred/VIP packages over $50 are intentionally no
- t recommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• O
- ctober Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight
- \n• All Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n
- • October 9\, 23 and 30: beer tasting 7:00–9:00 PM inside the festival
- \n\nWHAT TO EXPECT\n• Friday nights are indoors and lower-crowd\n• Sat
- urday After Dark entry begins at 7:30 PM\n• America’s Heroes weekends 
- offer free general admission to eligible military/veterans\, firefighters\
- , law enforcement and frontline healthcare workers\n\nUSEFUL NOTES\n• Bu
- y only the ordinary general-admission tier unless the premium seating itse
- lf is worth the large surcharge\n• Tickets are rain-or-shine\, date-spec
- ific and nonrefundable\n\nOFFICIAL SOURCES\n• Official dates\, hours and
-  policies: https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 
- 2026 pricing and festival overview: https://www.bigbear.com/events/oktober
- fest/\n• Official entertainment schedule: https://bigbearevents.com/okto
- berfest/2024-oktoberfest-entertainment-schedule/\n\nCALENDAR STATUS: CONFI
- RMED\nLast checked: 2026-09-01\nDetails can change. Recheck the official s
- ource before making a special trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSat\, Oct 24\, 2026 at 1:
+ 00 PM–Sun\, Oct 25\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordinary
+  adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark\, a
+ nd about $28.68–$39.33 Saturdays depending on date and entry time\n• C
+ hildren age 12 and under are free Sundays\; other youth/senior prices vary
+  by weekend\n• Preferred/VIP packages over $50 are intentionally not rec
+ ommended\n\nSCHEDULE\n• September Saturdays: 1:00–11:00 PM\n• Octobe
+ r Fridays: 5:00–11:00 PM\n• October Saturdays: 1:00 PM–midnight\n•
+  Sundays: noon–6:00 PM\; children’s contests around 3:00 PM\n• Octob
+ er 31: Halloween costume contest about 9:30 PM\n• November 1: kids costu
+ me contest about 3:00 PM\n• November 14: ticketing lists a final 1:00–
+ 6:00 PM Saturday\; entertainment details TBD\n\nWHAT TO EXPECT\n• Friday
+  nights are indoors and lower-crowd\n• Saturday After Dark entry begins 
+ at 7:30 PM\n• America’s Heroes weekends offer free general admission t
+ o eligible military/veterans\, firefighters\, law enforcement and frontlin
+ e healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary general-ad
+ mission tier unless the premium seating itself is worth the large surcharg
+ e\n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\nOFFI
+ CIAL SOURCES\n• Official dates\, hours and policies: https://bigbeareven
+ ts.com/oktoberfest/tickets-3/\n• Official 2026 entertainment schedule: h
+ ttps://bigbearevents.com/oktoberfest/2024-oktoberfest-entertainment-schedu
+ le/\n• Official ticketing calendar: https://bigbearevents.ticketsauce.co
+ m/\n• Visit Big Bear festival overview: https://www.bigbear.com/events/o
+ ktoberfest/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetai
+ ls can change. Recheck the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
@@ -5044,42 +5770,109 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:big-bear-lake-oktoberfest-fall-2026-10-25@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
+UID:tick-tick-boom-big-bear-theatre-project-2026-2026-10-24@big-bear-events
+ .bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
 SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261024T193000
+DTEND;TZID=America/Los_Angeles:20261024T210000
+SUMMARY:tick\, tick...BOOM! — Sat Oct 24
+LOCATION:John D. Spivey Theater\, Big Bear Lake Performing Arts Center — 
+ 39707 Big Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:Big Bear Theatre Project stages Jonathan Larson’s semi-autobi
+ ographical 90-minute musical about a composer approaching his 30th birthda
+ y while racing the clock to make art that matters.\n\nWHEN\nSat\, Oct 24\,
+  2026\, 7:30 PM–9:00 PM\n\nPRICE / ADMISSION\n• General admission: $45
+  + $2.59 fee\n• Senior: $35 + $2.21 fee\n• Student: $25 + $1.84 fee\n
+ • Ticketing also displays a Pay What You Can $0 option\; availability ma
+ y be limited by performance\n\nSCHEDULE\n• Evening performances: 7:30 PM
+ \n• Sunday matinees October 18 and 25: 2:00 PM\n• Runtime: 90 minutes\
+ n• Box office opens one hour before showtime\n\nWHAT TO EXPECT\n• Whee
+ lchair seating and assisted listening devices are offered\n• Service ani
+ mals are welcome\n• Box office: 909-805-4300\, info@bigbeartheatreprojec
+ t.org\n\nOFFICIAL SOURCES\n• Official Big Bear Theatre Project ticketing
+ : https://bbtp.booktix.com/dept/BBTPMain/e/TTB\n\nCALENDAR STATUS: CONFIRM
+ ED\nLast checked: 2026-09-26\nDetails can change. Recheck the official sou
+ rce before making a special trip.
+URL:https://bbtp.booktix.com/dept/BBTPMain/e/TTB
+CATEGORIES:Theatre,Musical,Performing Arts
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-25@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261025T120000
 DTEND;TZID=America/Los_Angeles:20261025T180000
 SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nSun\, Oct 25\, 2026\,
-  12:00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
- sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
- 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
- nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
- ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
- \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
- :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
- –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
- 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
-  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
- begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
- ssion to eligible military/veterans\, firefighters\, law enforcement and f
- rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
- eral-admission tier unless the premium seating itself is worth the large s
- urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
- n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
- earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
- al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
- ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
- t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
- 6-09-01\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSun\, Oct 25\, 2026\, 12:
+ 00 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission
+  is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33
+  Saturdays depending on date and entry time\n• Children age 12 and under
+  are free Sundays\; other youth/senior prices vary by weekend\n• Preferr
+ ed/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n
+ • September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:0
+ 0 PM\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 
+ PM\; children’s contests around 3:00 PM\n• October 31: Halloween costu
+ me contest about 9:30 PM\n• November 1: kids costume contest about 3:00 
+ PM\n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; ent
+ ertainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors an
+ d lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• Americ
+ a’s Heroes weekends offer free general admission to eligible military/ve
+ terans\, firefighters\, law enforcement and frontline healthcare workers\n
+ \nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless th
+ e premium seating itself is worth the large surcharge\n• Tickets are rai
+ n-or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offi
+ cial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tic
+ kets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.c
+ om/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official tick
+ eting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear
+  festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDA
+ R STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tick-tick-boom-big-bear-theatre-project-2026-2026-10-25@big-bear-events
+ .bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20261025T140000
+DTEND;TZID=America/Los_Angeles:20261025T153000
+SUMMARY:tick\, tick...BOOM! — Sun Matinee Oct 25
+LOCATION:John D. Spivey Theater\, Big Bear Lake Performing Arts Center — 
+ 39707 Big Bear Blvd\, Big Bear Lake\, CA 92315
+DESCRIPTION:Big Bear Theatre Project stages Jonathan Larson’s semi-autobi
+ ographical 90-minute musical about a composer approaching his 30th birthda
+ y while racing the clock to make art that matters.\n\nWHEN\nSun\, Oct 25\,
+  2026\, 2:00 PM–3:30 PM\n\nPRICE / ADMISSION\n• General admission: $45
+  + $2.59 fee\n• Senior: $35 + $2.21 fee\n• Student: $25 + $1.84 fee\n
+ • Ticketing also displays a Pay What You Can $0 option\; availability ma
+ y be limited by performance\n\nSCHEDULE\n• Evening performances: 7:30 PM
+ \n• Sunday matinees October 18 and 25: 2:00 PM\n• Runtime: 90 minutes\
+ n• Box office opens one hour before showtime\n\nWHAT TO EXPECT\n• Whee
+ lchair seating and assisted listening devices are offered\n• Service ani
+ mals are welcome\n• Box office: 909-805-4300\, info@bigbeartheatreprojec
+ t.org\n\nOFFICIAL SOURCES\n• Official Big Bear Theatre Project ticketing
+ : https://bbtp.booktix.com/dept/BBTPMain/e/TTB\n\nCALENDAR STATUS: CONFIRM
+ ED\nLast checked: 2026-09-26\nDetails can change. Recheck the official sou
+ rce before making a special trip.
+URL:https://bbtp.booktix.com/dept/BBTPMain/e/TTB
+CATEGORIES:Theatre,Musical,Performing Arts
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
@@ -5143,71 +5936,47 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-30@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261030T170000
 DTEND;TZID=America/Los_Angeles:20261030T230000
 SUMMARY:Big Bear Lake Oktoberfest — Spooky Spirits Friday
 LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
   Lake\, CA 92315
 DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
- ican bands\, food and beer\, stein holding\, log sawing\, beer races\, a m
- echanical bull\, games and kids activities.\n\nWHEN\nFri\, Oct 30\, 2026\,
-  5:00 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admis
- sion is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$3
- 9.33 Saturdays depending on date and entry time\n• Children age 12 and u
- nder are free Sundays\; other youth/senior prices vary by weekend\n• Pre
- ferred/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE
- \n• September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11
- :00 PM\n• October Saturdays: 1:00 PM–midnight\n• All Sundays: noon
- –6:00 PM\; children’s contests around 3:00 PM\n• October 9\, 23 and 
- 30: beer tasting 7:00–9:00 PM inside the festival\n\nWHAT TO EXPECT\n•
-  Friday nights are indoors and lower-crowd\n• Saturday After Dark entry 
- begins at 7:30 PM\n• America’s Heroes weekends offer free general admi
- ssion to eligible military/veterans\, firefighters\, law enforcement and f
- rontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary gen
- eral-admission tier unless the premium seating itself is worth the large s
- urcharge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\
- n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://bigb
- earevents.com/oktoberfest/tickets-3/\n• Official 2026 pricing and festiv
- al overview: https://www.bigbear.com/events/oktoberfest/\n• Official ent
- ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
- t-entertainment-schedule/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 202
- 6-09-01\nDetails can change. Recheck the official source before making a s
- pecial trip.
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nFri\, Oct 30\, 2026\, 5:0
+ 0 PM–11:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission
+  is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33
+  Saturdays depending on date and entry time\n• Children age 12 and under
+  are free Sundays\; other youth/senior prices vary by weekend\n• Preferr
+ ed/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n
+ • September Saturdays: 1:00–11:00 PM\n• October Fridays: 5:00–11:0
+ 0 PM\n• October Saturdays: 1:00 PM–midnight\n• Sundays: noon–6:00 
+ PM\; children’s contests around 3:00 PM\n• October 31: Halloween costu
+ me contest about 9:30 PM\n• November 1: kids costume contest about 3:00 
+ PM\n• November 14: ticketing lists a final 1:00–6:00 PM Saturday\; ent
+ ertainment details TBD\n\nWHAT TO EXPECT\n• Friday nights are indoors an
+ d lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n• Americ
+ a’s Heroes weekends offer free general admission to eligible military/ve
+ terans\, firefighters\, law enforcement and frontline healthcare workers\n
+ \nUSEFUL NOTES\n• Buy only the ordinary general-admission tier unless th
+ e premium seating itself is worth the large surcharge\n• Tickets are rai
+ n-or-shine\, date-specific and nonrefundable\n\nOFFICIAL SOURCES\n• Offi
+ cial dates\, hours and policies: https://bigbearevents.com/oktoberfest/tic
+ kets-3/\n• Official 2026 entertainment schedule: https://bigbearevents.c
+ om/oktoberfest/2024-oktoberfest-entertainment-schedule/\n• Official tick
+ eting calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear
+  festival overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDA
+ R STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck
+  the official source before making a special trip.
 URL:https://bigbearevents.com/oktoberfest/tickets-3/
 CATEGORIES:Festival,Live Music,German,Family
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:halloween-in-the-village-2026@big-bear-events.bry.rip
-DTSTAMP:20260901T080000Z
-LAST-MODIFIED:20260901T080000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Halloween in the Village — Details TBD
-LOCATION:The Village at Big Bear Lake — Village Dr\, Big Bear Lake\, CA 9
- 2315
-DESCRIPTION:A calendar reminder for the Village’s public Halloween celebr
- ation while the organizer finishes the 2026 hours and activity list.\n\nWH
- EN\nSat\, Oct 31\, 2026 (all day)\n\nPRICE / ADMISSION\n• Likely free co
- mmunity event\; 2026 details are not yet published\n\nTBD / VERIFY BEFORE 
- GOING\n• Exact hours\, entertainment\, trick-or-treating details and fin
- al admission statement\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or co
- mpetes with: Boo at the Zoo (Sat\, Oct 31\, 2026\, 10:00 AM–3:00 PM).\n\
- nOFFICIAL SOURCES\n• Official Big Bear Halloween page: https://www.bigbe
- ar.com/events/halloween/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 20
- 26-09-01\nDetails can change. Recheck the official source before making a 
- special trip.
-URL:https://www.bigbear.com/events/halloween/
-CATEGORIES:Halloween,Village,Community,Likely Free,TBD
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:boo-at-the-zoo-2026@big-bear-events.bry.rip
@@ -5236,6 +6005,275 @@ CATEGORIES:Wildlife,Zoo,Halloween,Family
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-10-31@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261031T130000
+DTEND;TZID=America/Los_Angeles:20261101T000000
+SUMMARY:Big Bear Lake Oktoberfest — Halloween Saturday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSat\, Oct 31\, 2026 at 1:
+ 00 PM–Sun\, Nov 1\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordinary 
+ adult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark\, an
+ d about $28.68–$39.33 Saturdays depending on date and entry time\n• Ch
+ ildren age 12 and under are free Sundays\; other youth/senior prices vary 
+ by weekend\n• Preferred/VIP packages over $50 are intentionally not reco
+ mmended\n\nSCHEDULE\n• 1:30 PM — Die Sauerkrauts\, Bier Hall Main Stag
+ e\n• 1:30 PM — outdoor act TBA\n• 6:15 PM — outdoor act TBA\n• A
+ bout 9:30 PM — costume contest\n\nWHAT TO EXPECT\n• Friday nights are 
+ indoors and lower-crowd\n• Saturday After Dark entry begins at 7:30 PM\n
+ • America’s Heroes weekends offer free general admission to eligible m
+ ilitary/veterans\, firefighters\, law enforcement and frontline healthcare
+  workers\n\nUSEFUL NOTES\n• Buy only the ordinary general-admission tier
+  unless the premium seating itself is worth the large surcharge\n• Ticke
+ ts are rain-or-shine\, date-specific and nonrefundable\n\nCONFLICTS / SAME
+ -DAY OPTIONS\n• Overlaps or competes with: Halloween in the Village (Sat
+ \, Oct 31\, 2026\, 4:00 PM–7:00 PM).\n\nOFFICIAL SOURCES\n• Official d
+ ates\, hours and policies: https://bigbearevents.com/oktoberfest/tickets-3
+ /\n• Official 2026 entertainment schedule: https://bigbearevents.com/okt
+ oberfest/2024-oktoberfest-entertainment-schedule/\n• Official ticketing 
+ calendar: https://bigbearevents.ticketsauce.com/\n• Visit Big Bear festi
+ val overview: https://www.bigbear.com/events/oktoberfest/\n\nCALENDAR STAT
+ US: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck the o
+ fficial source before making a special trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:halloween-in-the-village-2026@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261031T160000
+DTEND;TZID=America/Los_Angeles:20261031T190000
+SUMMARY:Halloween in the Village
+LOCATION:The Village at Big Bear Lake — 40800 Village Dr\, Big Bear Lake\
+ , CA 92315
+DESCRIPTION:The City’s family Halloween event in The Village combines sto
+ re-to-store trick-or-treating\, costumes and a free concert.\n\nWHEN\nSat\
+ , Oct 31\, 2026\, 4:00 PM–7:00 PM\n\nPRICE / ADMISSION\n• Free concert
+  and community trick-or-treating\; the official listing does not require a
+  ticket\n\nSCHEDULE\n• 4:00–7:00 PM — Halloween in the Village\n\nWH
+ AT TO EXPECT\n• Designed as a safe trick-or-treating environment for fam
+ ilies with children\n• People of all ages and well-behaved dogs are invi
+ ted to dress in costume\n• Local favorite bands are advertised for the f
+ ree concert\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overlaps or competes with
+ : Boo at the Zoo (Sat\, Oct 31\, 2026\, 10:00 AM–3:00 PM).\n• Overlaps
+  or competes with: Big Bear Lake Oktoberfest — Halloween Saturday (Sat\,
+  Oct 31\, 2026 at 1:00 PM–Sun\, Nov 1\, 2026 at 12:00 AM).\n\nOFFICIAL S
+ OURCES\n• Official Visit Big Bear event page: https://www.bigbear.com/ev
+ ents/halloween-in-the-village/\n\nCALENDAR STATUS: CONFIRMED\nLast checked
+ : 2026-09-26\nDetails can change. Recheck the official source before makin
+ g a special trip.
+URL:https://www.bigbear.com/events/halloween-in-the-village/
+CATEGORIES:Halloween,Village,Community,Free,Live Music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-11-01@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261101T120000
+DTEND;TZID=America/Los_Angeles:20261101T180000
+SUMMARY:Big Bear Lake Oktoberfest — Sunday + Kids Costume Contest
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSun\, Nov 1\, 2026\, 12:0
+ 0 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission 
+ is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33 
+ Saturdays depending on date and entry time\n• Children age 12 and under 
+ are free Sundays\; other youth/senior prices vary by weekend\n• Preferre
+ d/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n•
+  12:30 PM — Die Sauerkrauts\, Bier Hall Main Stage\n• 1:15 PM — outd
+ oor act TBA\n• About 3:00 PM — kids costume contest\n\nWHAT TO EXPECT\
+ n• Friday nights are indoors and lower-crowd\n• Saturday After Dark en
+ try begins at 7:30 PM\n• America’s Heroes weekends offer free general 
+ admission to eligible military/veterans\, firefighters\, law enforcement a
+ nd frontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary
+  general-admission tier unless the premium seating itself is worth the lar
+ ge surcharge\n• Tickets are rain-or-shine\, date-specific and nonrefunda
+ ble\n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: https://
+ bigbearevents.com/oktoberfest/tickets-3/\n• Official 2026 entertainment 
+ schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfest-entertain
+ ment-schedule/\n• Official ticketing calendar: https://bigbearevents.tic
+ ketsauce.com/\n• Visit Big Bear festival overview: https://www.bigbear.c
+ om/events/oktoberfest/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-0
+ 9-26\nDetails can change. Recheck the official source before making a spec
+ ial trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-double-cross-2026@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Big Bear Double Cross — Cyclocross Weekend
+LOCATION:The Ranch / Big Bear Ranch Park — 2080 Irwin Ranch Road\, Big Be
+ ar City\, CA 92314
+DESCRIPTION:Two days of cyclocross racing at The Ranch with food vendors\, 
+ a beer garden\, music\, kids games and racing for a range of ages.\n\nWHEN
+ \nSat\, Nov 7–Sun\, Nov 8\, 2026 (all day)\n\nPRICE / ADMISSION\n• Spe
+ ctator admission and racer registration prices are not published on the cu
+ rrent Visit Big Bear listing\n\nWHAT TO EXPECT\n• Parking is available a
+ t The Ranch\n• The current 2026 official listing confirms November 7–8
+ \, replacing the October 4–5 dates printed in the brochure\n\nTBD / VERI
+ FY BEFORE GOING\n• Exact daily race schedule\n• Racer registration pri
+ ces and spectator admission statement\n\nOFFICIAL SOURCES\n• Official Vi
+ sit Big Bear event page: https://www.bigbear.com/events/big-bear-double-cr
+ oss-a-cyclocross-race/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026
+ -09-26\nDetails can change. Recheck the official source before making a sp
+ ecial trip.
+URL:https://www.bigbear.com/events/big-bear-double-cross-a-cyclocross-race/
+CATEGORIES:Cyclocross,Cycling,Sports,Family,TBD
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-11-07@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261107T130000
+DTEND;TZID=America/Los_Angeles:20261108T000000
+SUMMARY:Big Bear Lake Oktoberfest — Saturday
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSat\, Nov 7\, 2026 at 1:0
+ 0 PM–Sun\, Nov 8\, 2026 at 12:00 AM\n\nPRICE / ADMISSION\n• Ordinary a
+ dult general admission is $18.03 Sundays\, $28.68 Fridays/After Dark\, and
+  about $28.68–$39.33 Saturdays depending on date and entry time\n• Chi
+ ldren age 12 and under are free Sundays\; other youth/senior prices vary b
+ y weekend\n• Preferred/VIP packages over $50 are intentionally not recom
+ mended\n\nSCHEDULE\n• 12:30 PM — The Ladyhosen Band\, Bier Hall Main S
+ tage\n• 2:00 PM — B.OK outdoors\n• 6:00 PM — Sunglasses at Night o
+ utdoors\n• 7:00 PM — Die Sauerkrauts\, Bier Hall Main Stage\n\nWHAT TO
+  EXPECT\n• Friday nights are indoors and lower-crowd\n• Saturday After
+  Dark entry begins at 7:30 PM\n• America’s Heroes weekends offer free 
+ general admission to eligible military/veterans\, firefighters\, law enfor
+ cement and frontline healthcare workers\n\nUSEFUL NOTES\n• Buy only the 
+ ordinary general-admission tier unless the premium seating itself is worth
+  the large surcharge\n• Tickets are rain-or-shine\, date-specific and no
+ nrefundable\n\nOFFICIAL SOURCES\n• Official dates\, hours and policies: 
+ https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 2026 entert
+ ainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfest-e
+ ntertainment-schedule/\n• Official ticketing calendar: https://bigbearev
+ ents.ticketsauce.com/\n• Visit Big Bear festival overview: https://www.b
+ igbear.com/events/oktoberfest/\n\nCALENDAR STATUS: CONFIRMED\nLast checked
+ : 2026-09-26\nDetails can change. Recheck the official source before makin
+ g a special trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-11-08@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261108T120000
+DTEND;TZID=America/Los_Angeles:20261108T180000
+SUMMARY:Big Bear Lake Oktoberfest — Sunday Family Day
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSun\, Nov 8\, 2026\, 12:0
+ 0 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission 
+ is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33 
+ Saturdays depending on date and entry time\n• Children age 12 and under 
+ are free Sundays\; other youth/senior prices vary by weekend\n• Preferre
+ d/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n•
+  12:30 PM — Die Sauerkrauts\n• 1:15 PM — Sunglasses at Night\n\nWHAT
+  TO EXPECT\n• Friday nights are indoors and lower-crowd\n• Saturday Af
+ ter Dark entry begins at 7:30 PM\n• America’s Heroes weekends offer fr
+ ee general admission to eligible military/veterans\, firefighters\, law en
+ forcement and frontline healthcare workers\n\nUSEFUL NOTES\n• Buy only t
+ he ordinary general-admission tier unless the premium seating itself is wo
+ rth the large surcharge\n• Tickets are rain-or-shine\, date-specific and
+  nonrefundable\n\nOFFICIAL SOURCES\n• Official dates\, hours and policie
+ s: https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 2026 ent
+ ertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktoberfes
+ t-entertainment-schedule/\n• Official ticketing calendar: https://bigbea
+ revents.ticketsauce.com/\n• Visit Big Bear festival overview: https://ww
+ w.bigbear.com/events/oktoberfest/\n\nCALENDAR STATUS: CONFIRMED\nLast chec
+ ked: 2026-09-26\nDetails can change. Recheck the official source before ma
+ king a special trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:big-bear-lake-oktoberfest-fall-2026-11-14@big-bear-events.bry.rip
+DTSTAMP:20260926T235800Z
+LAST-MODIFIED:20260926T235800Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261114T130000
+DTEND;TZID=America/Los_Angeles:20261114T180000
+SUMMARY:Big Bear Lake Oktoberfest — Closing Saturday (Entertainment TBD)
+LOCATION:Big Bear Lake Convention Center — 42900 Big Bear Blvd\, Big Bear
+  Lake\, CA 92315
+DESCRIPTION:Big Bear’s long-running German festival mixes German and Amer
+ ican bands\, food and beer\, stein holding\, log sawing\, a mechanical bul
+ l\, games and kids activities\, with current official ticketing extending 
+ through a November 14 closing Saturday.\n\nWHEN\nSat\, Nov 14\, 2026\, 1:0
+ 0 PM–6:00 PM\n\nPRICE / ADMISSION\n• Ordinary adult general admission 
+ is $18.03 Sundays\, $28.68 Fridays/After Dark\, and about $28.68–$39.33 
+ Saturdays depending on date and entry time\n• Children age 12 and under 
+ are free Sundays\; other youth/senior prices vary by weekend\n• Preferre
+ d/VIP packages over $50 are intentionally not recommended\n\nSCHEDULE\n•
+  1:00–6:00 PM — official ticketing window\n\nWHAT TO EXPECT\n• Frida
+ y nights are indoors and lower-crowd\n• Saturday After Dark entry begins
+  at 7:30 PM\n• America’s Heroes weekends offer free general admission 
+ to eligible military/veterans\, firefighters\, law enforcement and frontli
+ ne healthcare workers\n\nUSEFUL NOTES\n• Buy only the ordinary general-a
+ dmission tier unless the premium seating itself is worth the large surchar
+ ge\n• Tickets are rain-or-shine\, date-specific and nonrefundable\n\nTBD
+  / VERIFY BEFORE GOING\n• Official ticketing lists a Weekend 10 closing 
+ Saturday on November 14\, but the current entertainment schedule only runs
+  through November 8\n\nOFFICIAL SOURCES\n• Official dates\, hours and po
+ licies: https://bigbearevents.com/oktoberfest/tickets-3/\n• Official 202
+ 6 entertainment schedule: https://bigbearevents.com/oktoberfest/2024-oktob
+ erfest-entertainment-schedule/\n• Official ticketing calendar: https://b
+ igbearevents.ticketsauce.com/\n• Visit Big Bear festival overview: https
+ ://www.bigbear.com/events/oktoberfest/\n\nCALENDAR STATUS: DETAILS_TBD\nLa
+ st checked: 2026-09-26\nDetails can change. Recheck the official source be
+ fore making a special trip.
+URL:https://bigbearevents.com/oktoberfest/tickets-3/
+CATEGORIES:Festival,Live Music,German,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:climate-cocktails-fall-2026-11-21@big-bear-events.bry.rip
