@@ -3778,7 +3778,7 @@
     {
       "id": "big-bear-plein-air-competition-gallery",
       "title": "Big Bear Plein Air Art Competition Gallery",
-      "status": "details_tbd",
+      "status": "confirmed",
       "start_time": "14:00",
       "end_time": "20:00",
       "occurrences": [
@@ -3813,7 +3813,7 @@
         "address": "713 Stocker Rd, Big Bear Lake, CA 92315"
       },
       "pricing": [
-        "Public invited; no admission fee or ticket requirement is published",
+        "No ticket or admission charge is listed on the official public gallery page",
         "Artwork is available to purchase"
       ],
       "summary": "The public gallery for the 3rd Annual Big Bear Plein Air Art Competition, showing submitted local landscapes October 14–17 and ending with the October 18 awards ceremony.",
@@ -3821,10 +3821,12 @@
         "October 14–17: 2:00–8:00 PM — competition gallery",
         "October 18: 10:00 AM–12:00 PM — gallery and awards ceremony"
       ],
-      "tbd": [
-        "The official page invites the public but does not explicitly label gallery admission free"
-      ],
+      "tbd": [],
       "sources": [
+        {
+          "label": "Official competition gallery schedule",
+          "url": "https://www.bigbear.com/events/big-bear-plein-air-art-competition-gallery-2026/"
+        },
         {
           "label": "Official Plein Air competition page",
           "url": "https://www.bigbear.com/pleinair/"
@@ -3841,11 +3843,11 @@
         "Likely Free"
       ],
       "last_verified": "2026-09-26",
-      "last_modified": "2026-09-26T23:58:00Z",
+      "last_modified": "2026-09-27T00:12:00Z",
       "sequence": 1,
       "details": [
         "Artwork is available for purchase",
-        "Visit Big Bear invites art enthusiasts, collectors and community members to view the competition gallery",
+        "Parking is available at Destination Big Bear Event Center",
         "The printed brochure calls this a 'Plein Air Art & Film Festival,' but the current official 2026 program lists the Plein Air Art Competition and Festival of Artist Events and does not list a film program"
       ]
     },
@@ -4506,11 +4508,11 @@
           "date": "2026-09-27",
           "title": "WON Big Bear Lake Troutfest — Sunday + Awards",
           "start": "2026-09-27T07:00",
-          "end": "2026-09-27T14:00",
+          "end": "2026-09-27T16:00",
           "schedule": [
             "7:00 AM–2:00 PM — fishing",
             "11:00 AM–2:00 PM — weigh station at Big Bear Marina",
-            "Final awards and raffle follow Sunday fishing/weigh-in"
+            "Final awards and raffle follow Sunday fishing/weigh-in; exact awards/raffle timing is not separately published"
           ]
         }
       ],
@@ -4549,8 +4551,11 @@
         "Family"
       ],
       "last_verified": "2026-09-26",
-      "last_modified": "2026-09-26T23:58:00Z",
-      "sequence": 0
+      "last_modified": "2026-09-27T00:12:00Z",
+      "sequence": 0,
+      "tbd": [
+        "Exact Sunday awards and raffle start/end times are not separately published"
+      ]
     },
     {
       "id": "fall-scarecrow-dia-de-los-muertos-contest-2026",
@@ -4652,18 +4657,15 @@
           "start": "2026-10-04T11:00",
           "end": "2026-10-04T15:00",
           "location": {
-            "name": "Big Bear Lake — Sunday location sent to ticket holders",
-            "address": "Big Bear Lake, CA 92315"
+            "name": "Big Bear Lake Performing Arts Center — outside",
+            "address": "39707 Big Bear Blvd, Big Bear Lake, CA 92315"
           },
           "pricing": [
             "Sunday Hike, Yoga & Picnic Brunch add-on: $129",
             "Included in select full-weekend packages"
           ],
           "schedule": [
-            "11:00 AM — all-levels hike, yoga and picnic brunch; Eventbrite lists the weekend ending by 3:00 PM"
-          ],
-          "tbd": [
-            "Exact Sunday meeting location is provided after purchase"
+            "11:00 AM–3:00 PM — all-levels hike, yoga and picnic brunch at the Performing Arts Center outdoor area"
           ]
         }
       ],
@@ -4704,7 +4706,7 @@
         "Outdoors"
       ],
       "last_verified": "2026-09-26",
-      "last_modified": "2026-09-26T23:58:00Z",
+      "last_modified": "2026-09-27T00:12:00Z",
       "sequence": 0
     },
     {
