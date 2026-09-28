@@ -5074,8 +5074,8 @@
       "conflicts": [
         "big-bair-takeover-2026",
         "summit-series-best-whip-2026",
-        "big-bear-lake-oktoberfest-fall",
-        "big-bear-yoga-festival-2026"
+        "big-bear-lake-oktoberfest-fall-2026-10-03",
+        "big-bear-yoga-festival-2026-2026-10-03"
       ],
       "sources": [
         {
@@ -5095,8 +5095,8 @@
         "Local"
       ],
       "last_verified": "2026-09-28",
-      "last_modified": "2026-09-28T09:51:00Z",
-      "sequence": 0
+      "last_modified": "2026-09-28T09:55:00Z",
+      "sequence": 1
     }
   ]
 }
