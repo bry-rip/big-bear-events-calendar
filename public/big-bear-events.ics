@@ -3923,6 +3923,43 @@ TRANSP:TRANSPARENT
 X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:king-of-the-mountain-2-superfights-2026@big-bear-events.bry.rip
+DTSTAMP:20260928T095500Z
+LAST-MODIFIED:20260928T095500Z
+SEQUENCE:1
+DTSTART;TZID=America/Los_Angeles:20261003T120000
+SUMMARY:King of the Mountain 2 — KOTM Superfights
+LOCATION:Ski Beach Park / Swim Beach — 41216 Park Ave\, Big Bear Lake\, C
+ A 92315
+DESCRIPTION:A mountain-produced combat-sports event featuring Jiu Jitsu\, J
+ udo and Wrestling matchups\, with Big Bear\, Lake Arrowhead and Wrightwood
+  athletes matched against fighters from city gyms.\n\nWHEN\nSat\, Oct 3\, 
+ 2026 at 12:00 PM\n\nPRICE / ADMISSION\n• $30 admission\n\nSCHEDULE\n• 
+ 12:00 PM — doors open\n• 2:00 PM — first matches\n\nWHAT TO EXPECT\n
+ • King of the Mountain emphasizes forward progression\, takedowns and ac
+ tive grappling\; the organizer says guard pulling and stalling are not all
+ owed\n• Adult matches use three five-minute rounds\; children’s matche
+ s use three three-minute rounds\n• The October 3 event is promoted as Ki
+ ng of the Mountain 2\n\nTBD / VERIFY BEFORE GOING\n• Published materials
+  do not state an event end time\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overl
+ aps or competes with: Big Bair Takeover — Classic Volkswagen Car Show (S
+ at\, Oct 3\, 2026\, 9:00 AM–4:00 PM).\n• Overlaps or competes with: Su
+ mmit Series Best Whip (Sat\, Oct 3\, 2026\, 10:00 AM–4:00 PM).\n• Over
+ laps or competes with: Big Bear Lake Oktoberfest — Saturday (Sat\, Oct 3
+ \, 2026 at 1:00 PM–Sun\, Oct 4\, 2026 at 12:00 AM).\n• Overlaps or com
+ petes with: Big Bear Yoga Festival — Main Festival + After Glow (Sat\, O
+ ct 3\, 2026\, 8:00 AM–9:30 PM).\n\nOFFICIAL SOURCES\n• Official KOTM S
+ uperfights site: https://www.kotmsuperfights.com/\n• Organizer event pos
+ ter: https://www.kotmsuperfights.com/\n\nCALENDAR STATUS: CONFIRMED\nLast 
+ checked: 2026-09-28\nDetails can change. Recheck the official source befor
+ e making a special trip.
+URL:https://www.kotmsuperfights.com/
+CATEGORIES:Sports,Jiu Jitsu,Judo,Wrestling,Local
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-03@big-bear-events.bry.rip
 DTSTAMP:20260926T235800Z
 LAST-MODIFIED:20260926T235800Z
