@@ -3207,9 +3207,9 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:won-big-bear-troutfest-2026-2026-09-26@big-bear-events.bry.rip
-DTSTAMP:20260926T235800Z
-LAST-MODIFIED:20260926T235800Z
-SEQUENCE:0
+DTSTAMP:20260927T001200Z
+LAST-MODIFIED:20260927T001200Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260926T070000
 DTEND;TZID=America/Los_Angeles:20260926T160000
 SUMMARY:WON Big Bear Lake Troutfest — Saturday
@@ -3232,10 +3232,12 @@ DESCRIPTION:The 20th annual Western Outdoor News trout tournament brings tw
  st public point to watch what people are catching\n• Organizer contact: 
  Billy Egan\, bille@wonews.com\, 949-366-0248\n• The official page has a 
  typo calling the post-awards Sunday raffle September 28\; the tournament i
- tself is September 26–27\n\nOFFICIAL SOURCES\n• Official Visit Big Bea
- r / WON Troutfest page: https://www.bigbear.com/events/big-bear-troutfest/
- \n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can chan
- ge. Recheck the official source before making a special trip.
+ tself is September 26–27\n\nTBD / VERIFY BEFORE GOING\n• Exact Sunday 
+ awards and raffle start/end times are not separately published\n\nOFFICIAL
+  SOURCES\n• Official Visit Big Bear / WON Troutfest page: https://www.bi
+ gbear.com/events/big-bear-troutfest/\n\nCALENDAR STATUS: CONFIRMED\nLast c
+ hecked: 2026-09-26\nDetails can change. Recheck the official source before
+  making a special trip.
 URL:https://www.bigbear.com/events/big-bear-troutfest/
 CATEGORIES:Fishing,Tournament,Lake,Family
 STATUS:CONFIRMED
@@ -3414,35 +3416,37 @@ X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:won-big-bear-troutfest-2026-2026-09-27@big-bear-events.bry.rip
-DTSTAMP:20260926T235800Z
-LAST-MODIFIED:20260926T235800Z
-SEQUENCE:0
+DTSTAMP:20260927T001200Z
+LAST-MODIFIED:20260927T001200Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20260927T070000
-DTEND;TZID=America/Los_Angeles:20260927T140000
+DTEND;TZID=America/Los_Angeles:20260927T160000
 SUMMARY:WON Big Bear Lake Troutfest — Sunday + Awards
 LOCATION:BBMWD / Big Bear Marina gravel parking lot — 40524 Lakeview Dr\,
   Big Bear Lake\, CA 92315
 DESCRIPTION:The 20th annual Western Outdoor News trout tournament brings tw
  o days of fishing\, weigh-ins\, divisional awards\, cash/prize promotions 
  and a Sunday raffle to Big Bear Lake.\n\nWHEN\nSun\, Sep 27\, 2026\, 7:00 
- AM–2:00 PM\n\nPRICE / ADMISSION\n• Adult angler entry: $75\n• Junior
+ AM–4:00 PM\n\nPRICE / ADMISSION\n• Adult angler entry: $75\n• Junior
   entry\, age 14 and under: $50\n• Late signup/check-in adds $15 if space
   remains\n\nSCHEDULE\n• 7:00 AM–2:00 PM — fishing\n• 11:00 AM–2:
  00 PM — weigh station at Big Bear Marina\n• Final awards and raffle fo
- llow Sunday fishing/weigh-in\n\nWHAT TO EXPECT\n• Divisions include Adul
- t Male\, Adult Female and kids age 14 and under\n• Top five finishers ac
- ross the divisions receive trophies and merchandise packages\n• The firs
- t 600 registered anglers receive an event goodie bag\n• BBMWD is stockin
- g thousands of pounds of trout immediately before the event\n• Friday ch
- eck-in is September 25 from 4:00–9:00 PM at BBMWD\; late Saturday check-
- in is 6:00–7:00 AM\n\nUSEFUL NOTES\n• Weigh-ins are the easiest public
-  point to watch what people are catching\n• Organizer contact: Billy Ega
- n\, bille@wonews.com\, 949-366-0248\n• The official page has a typo call
- ing the post-awards Sunday raffle September 28\; the tournament itself is 
- September 26–27\n\nOFFICIAL SOURCES\n• Official Visit Big Bear / WON T
- routfest page: https://www.bigbear.com/events/big-bear-troutfest/\n\nCALEN
- DAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Reche
- ck the official source before making a special trip.
+ llow Sunday fishing/weigh-in\; exact awards/raffle timing is not separatel
+ y published\n\nWHAT TO EXPECT\n• Divisions include Adult Male\, Adult Fe
+ male and kids age 14 and under\n• Top five finishers across the division
+ s receive trophies and merchandise packages\n• The first 600 registered 
+ anglers receive an event goodie bag\n• BBMWD is stocking thousands of po
+ unds of trout immediately before the event\n• Friday check-in is Septemb
+ er 25 from 4:00–9:00 PM at BBMWD\; late Saturday check-in is 6:00–7:00
+  AM\n\nUSEFUL NOTES\n• Weigh-ins are the easiest public point to watch w
+ hat people are catching\n• Organizer contact: Billy Egan\, bille@wonews.
+ com\, 949-366-0248\n• The official page has a typo calling the post-awar
+ ds Sunday raffle September 28\; the tournament itself is September 26–27
+ \n\nTBD / VERIFY BEFORE GOING\n• Exact Sunday awards and raffle start/en
+ d times are not separately published\n\nOFFICIAL SOURCES\n• Official Vis
+ it Big Bear / WON Troutfest page: https://www.bigbear.com/events/big-bear-
+ troutfest/\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\nDetail
+ s can change. Recheck the official source before making a special trip.
 URL:https://www.bigbear.com/events/big-bear-troutfest/
 CATEGORIES:Fishing,Tournament,Lake,Family
 STATUS:CONFIRMED
@@ -3798,9 +3802,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-yoga-festival-2026-2026-10-02@big-bear-events.bry.rip
-DTSTAMP:20260926T235800Z
-LAST-MODIFIED:20260926T235800Z
-SEQUENCE:0
+DTSTAMP:20260927T001200Z
+LAST-MODIFIED:20260927T001200Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261002T193000
 DTEND;TZID=America/Los_Angeles:20261002T213000
 SUMMARY:Big Bear Yoga Festival — Friday Welcome Celebration
@@ -3831,9 +3835,9 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-yoga-festival-2026-2026-10-03@big-bear-events.bry.rip
-DTSTAMP:20260926T235800Z
-LAST-MODIFIED:20260926T235800Z
-SEQUENCE:0
+DTSTAMP:20260927T001200Z
+LAST-MODIFIED:20260927T001200Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261003T080000
 DTEND;TZID=America/Los_Angeles:20261003T213000
 SUMMARY:Big Bear Yoga Festival — Main Festival + After Glow
@@ -4086,32 +4090,31 @@ X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-yoga-festival-2026-2026-10-04@big-bear-events.bry.rip
-DTSTAMP:20260926T235800Z
-LAST-MODIFIED:20260926T235800Z
-SEQUENCE:0
+DTSTAMP:20260927T001200Z
+LAST-MODIFIED:20260927T001200Z
+SEQUENCE:1
 DTSTART;TZID=America/Los_Angeles:20261004T110000
 DTEND;TZID=America/Los_Angeles:20261004T150000
 SUMMARY:Big Bear Yoga Festival — Sunday Hike\, Yoga + Picnic Brunch
-LOCATION:Big Bear Lake — Sunday location sent to ticket holders — Big B
- ear Lake\, CA 92315
+LOCATION:Big Bear Lake Performing Arts Center — outside — 39707 Big Bea
+ r Blvd\, Big Bear Lake\, CA 92315
 DESCRIPTION:A three-day wellness weekend with yoga\, meditation\, hikes\, l
  ive music\, health/wellness classes\, Creator and Vendor villages\, family
   programming and a Saturday night After Glow yoga dance party.\n\nWHEN\nSu
  n\, Oct 4\, 2026\, 11:00 AM–3:00 PM\n\nPRICE / ADMISSION\n• Sunday Hik
  e\, Yoga & Picnic Brunch add-on: $129\n• Included in select full-weekend
-  packages\n\nSCHEDULE\n• 11:00 AM — all-levels hike\, yoga and picnic 
- brunch\; Eventbrite lists the weekend ending by 3:00 PM\n\nWHAT TO EXPECT\
- n• 2026 theme: Speak Your Truth\n• Main festival day is Saturday\, Oct
- ober 3\n• Saturday includes more than 30 class/activity choices across i
- ndoor and outdoor spaces\n• Bring a yoga mat and preferred props\; Octob
- er mountain weather can swing from warm days to chilly nights\n\nTBD / VER
- IFY BEFORE GOING\n• Exact Sunday meeting location is provided after purc
- hase\n\nOFFICIAL SOURCES\n• Official 2026 schedule: https://www.bigbeary
- ogafestival.com/schedule\n• Official FAQs: https://www.bigbearyogafestiv
- al.com/faqs\n• Official ticketing: https://www.zeffy.com/en-US/ticketing
- /big-bear-yoga-festival--2026\n\nCALENDAR STATUS: CONFIRMED\nLast checked:
-  2026-09-26\nDetails can change. Recheck the official source before making
-  a special trip.
+  packages\n\nSCHEDULE\n• 11:00 AM–3:00 PM — all-levels hike\, yoga a
+ nd picnic brunch at the Performing Arts Center outdoor area\n\nWHAT TO EXP
+ ECT\n• 2026 theme: Speak Your Truth\n• Main festival day is Saturday\,
+  October 3\n• Saturday includes more than 30 class/activity choices acro
+ ss indoor and outdoor spaces\n• Bring a yoga mat and preferred props\; O
+ ctober mountain weather can swing from warm days to chilly nights\n\nOFFIC
+ IAL SOURCES\n• Official 2026 schedule: https://www.bigbearyogafestival.c
+ om/schedule\n• Official FAQs: https://www.bigbearyogafestival.com/faqs\n
+ • Official ticketing: https://www.zeffy.com/en-US/ticketing/big-bear-yog
+ a-festival--2026\n\nCALENDAR STATUS: CONFIRMED\nLast checked: 2026-09-26\n
+ Details can change. Recheck the official source before making a special tr
+ ip.
 URL:https://www.bigbearyogafestival.com/schedule
 CATEGORIES:Yoga,Wellness,Festival,Music,Outdoors
 STATUS:CONFIRMED
@@ -4859,9 +4862,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-plein-air-competition-gallery-2026-10-14@big-bear-events.bry.r
  ip
-DTSTAMP:20260926T235800Z
-LAST-MODIFIED:20260926T235800Z
-SEQUENCE:1
+DTSTAMP:20260927T001200Z
+LAST-MODIFIED:20260927T001200Z
+SEQUENCE:2
 DTSTART;TZID=America/Los_Angeles:20261014T140000
 DTEND;TZID=America/Los_Angeles:20261014T200000
 SUMMARY:Big Bear Plein Air Art Competition Gallery
@@ -4870,34 +4873,34 @@ LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
 DESCRIPTION:The public gallery for the 3rd Annual Big Bear Plein Air Art Co
  mpetition\, showing submitted local landscapes October 14–17 and ending 
  with the October 18 awards ceremony.\n\nWHEN\nWed\, Oct 14\, 2026\, 2:00 P
- M–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no admission fee or
-  ticket requirement is published\n• Artwork is available to purchase\n\n
- SCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gallery\n•
-  October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\nWHAT T
- O EXPECT\n• Artwork is available for purchase\n• Visit Big Bear invite
- s art enthusiasts\, collectors and community members to view the competiti
- on gallery\n• The printed brochure calls this a 'Plein Air Art & Film Fe
- stival\,' but the current official 2026 program lists the Plein Air Art Co
- mpetition and Festival of Artist Events and does not list a film program\n
- \nTBD / VERIFY BEFORE GOING\n• The official page invites the public but 
- does not explicitly label gallery admission free\n\nOFFICIAL SOURCES\n• 
- Official Plein Air competition page: https://www.bigbear.com/pleinair/\n
- • Official Visit Big Bear event listing: https://www.bigbear.com/events/
- plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 
- 2026-09-26\nDetails can change. Recheck the official source before making 
- a special trip.
-URL:https://www.bigbear.com/pleinair/
+ M–8:00 PM\n\nPRICE / ADMISSION\n• No ticket or admission charge is lis
+ ted on the official public gallery page\n• Artwork is available to purch
+ ase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM — competition galle
+ ry\n• October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\
+ nWHAT TO EXPECT\n• Artwork is available for purchase\n• Parking is ava
+ ilable at Destination Big Bear Event Center\n• The printed brochure call
+ s this a 'Plein Air Art & Film Festival\,' but the current official 2026 p
+ rogram lists the Plein Air Art Competition and Festival of Artist Events a
+ nd does not list a film program\n\nOFFICIAL SOURCES\n• Official competit
+ ion gallery schedule: https://www.bigbear.com/events/big-bear-plein-air-ar
+ t-competition-gallery-2026/\n• Official Plein Air competition page: http
+ s://www.bigbear.com/pleinair/\n• Official Visit Big Bear event listing: 
+ https://www.bigbear.com/events/plein-air-art-competition/\n\nCALENDAR STAT
+ US: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck the o
+ fficial source before making a special trip.
+URL:https://www.bigbear.com/events/big-bear-plein-air-art-competition-galle
+ ry-2026/
 CATEGORIES:Art,Gallery,Community,Likely Free
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-plein-air-competition-gallery-2026-10-15@big-bear-events.bry.r
  ip
-DTSTAMP:20260926T235800Z
-LAST-MODIFIED:20260926T235800Z
-SEQUENCE:1
+DTSTAMP:20260927T001200Z
+LAST-MODIFIED:20260927T001200Z
+SEQUENCE:2
 DTSTART;TZID=America/Los_Angeles:20261015T140000
 DTEND;TZID=America/Los_Angeles:20261015T200000
 SUMMARY:Big Bear Plein Air Art Competition Gallery
@@ -4906,27 +4909,27 @@ LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
 DESCRIPTION:The public gallery for the 3rd Annual Big Bear Plein Air Art Co
  mpetition\, showing submitted local landscapes October 14–17 and ending 
  with the October 18 awards ceremony.\n\nWHEN\nThu\, Oct 15\, 2026\, 2:00 P
- M–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no admission fee or
-  ticket requirement is published\n• Artwork is available to purchase\n\n
- SCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gallery\n•
-  October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\nWHAT T
- O EXPECT\n• Artwork is available for purchase\n• Visit Big Bear invite
- s art enthusiasts\, collectors and community members to view the competiti
- on gallery\n• The printed brochure calls this a 'Plein Air Art & Film Fe
- stival\,' but the current official 2026 program lists the Plein Air Art Co
- mpetition and Festival of Artist Events and does not list a film program\n
- \nTBD / VERIFY BEFORE GOING\n• The official page invites the public but 
- does not explicitly label gallery admission free\n\nOFFICIAL SOURCES\n• 
- Official Plein Air competition page: https://www.bigbear.com/pleinair/\n
- • Official Visit Big Bear event listing: https://www.bigbear.com/events/
- plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 
- 2026-09-26\nDetails can change. Recheck the official source before making 
- a special trip.
-URL:https://www.bigbear.com/pleinair/
+ M–8:00 PM\n\nPRICE / ADMISSION\n• No ticket or admission charge is lis
+ ted on the official public gallery page\n• Artwork is available to purch
+ ase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM — competition galle
+ ry\n• October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\
+ nWHAT TO EXPECT\n• Artwork is available for purchase\n• Parking is ava
+ ilable at Destination Big Bear Event Center\n• The printed brochure call
+ s this a 'Plein Air Art & Film Festival\,' but the current official 2026 p
+ rogram lists the Plein Air Art Competition and Festival of Artist Events a
+ nd does not list a film program\n\nOFFICIAL SOURCES\n• Official competit
+ ion gallery schedule: https://www.bigbear.com/events/big-bear-plein-air-ar
+ t-competition-gallery-2026/\n• Official Plein Air competition page: http
+ s://www.bigbear.com/pleinair/\n• Official Visit Big Bear event listing: 
+ https://www.bigbear.com/events/plein-air-art-competition/\n\nCALENDAR STAT
+ US: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck the o
+ fficial source before making a special trip.
+URL:https://www.bigbear.com/events/big-bear-plein-air-art-competition-galle
+ ry-2026/
 CATEGORIES:Art,Gallery,Community,Likely Free
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:mountain-top-trivia-stillwells-2026-10-15@big-bear-events.bry.rip
@@ -4989,9 +4992,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-plein-air-competition-gallery-2026-10-16@big-bear-events.bry.r
  ip
-DTSTAMP:20260926T235800Z
-LAST-MODIFIED:20260926T235800Z
-SEQUENCE:1
+DTSTAMP:20260927T001200Z
+LAST-MODIFIED:20260927T001200Z
+SEQUENCE:2
 DTSTART;TZID=America/Los_Angeles:20261016T140000
 DTEND;TZID=America/Los_Angeles:20261016T200000
 SUMMARY:Big Bear Plein Air Art Competition Gallery
@@ -5000,29 +5003,29 @@ LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
 DESCRIPTION:The public gallery for the 3rd Annual Big Bear Plein Air Art Co
  mpetition\, showing submitted local landscapes October 14–17 and ending 
  with the October 18 awards ceremony.\n\nWHEN\nFri\, Oct 16\, 2026\, 2:00 P
- M–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no admission fee or
-  ticket requirement is published\n• Artwork is available to purchase\n\n
- SCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gallery\n•
-  October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\nWHAT T
- O EXPECT\n• Artwork is available for purchase\n• Visit Big Bear invite
- s art enthusiasts\, collectors and community members to view the competiti
- on gallery\n• The printed brochure calls this a 'Plein Air Art & Film Fe
- stival\,' but the current official 2026 program lists the Plein Air Art Co
- mpetition and Festival of Artist Events and does not list a film program\n
- \nTBD / VERIFY BEFORE GOING\n• The official page invites the public but 
- does not explicitly label gallery admission free\n\nCONFLICTS / SAME-DAY O
- PTIONS\n• Overlaps or competes with: Big Bear Lake Farmers Market (Fri\,
-  Oct 16\, 2026\, 3:00 PM–7:00 PM).\n\nOFFICIAL SOURCES\n• Official Ple
- in Air competition page: https://www.bigbear.com/pleinair/\n• Official V
- isit Big Bear event listing: https://www.bigbear.com/events/plein-air-art-
- competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-26\nDe
- tails can change. Recheck the official source before making a special trip
- .
-URL:https://www.bigbear.com/pleinair/
+ M–8:00 PM\n\nPRICE / ADMISSION\n• No ticket or admission charge is lis
+ ted on the official public gallery page\n• Artwork is available to purch
+ ase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM — competition galle
+ ry\n• October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\
+ nWHAT TO EXPECT\n• Artwork is available for purchase\n• Parking is ava
+ ilable at Destination Big Bear Event Center\n• The printed brochure call
+ s this a 'Plein Air Art & Film Festival\,' but the current official 2026 p
+ rogram lists the Plein Air Art Competition and Festival of Artist Events a
+ nd does not list a film program\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overl
+ aps or competes with: Big Bear Lake Farmers Market (Fri\, Oct 16\, 2026\, 
+ 3:00 PM–7:00 PM).\n\nOFFICIAL SOURCES\n• Official competition gallery 
+ schedule: https://www.bigbear.com/events/big-bear-plein-air-art-competitio
+ n-gallery-2026/\n• Official Plein Air competition page: https://www.bigb
+ ear.com/pleinair/\n• Official Visit Big Bear event listing: https://www.
+ bigbear.com/events/plein-air-art-competition/\n\nCALENDAR STATUS: CONFIRME
+ D\nLast checked: 2026-09-26\nDetails can change. Recheck the official sour
+ ce before making a special trip.
+URL:https://www.bigbear.com/events/big-bear-plein-air-art-competition-galle
+ ry-2026/
 CATEGORIES:Art,Gallery,Community,Likely Free
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-farmers-market-2026-10-16@big-bear-events.bry.rip
@@ -5214,9 +5217,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-plein-air-competition-gallery-2026-10-17@big-bear-events.bry.r
  ip
-DTSTAMP:20260926T235800Z
-LAST-MODIFIED:20260926T235800Z
-SEQUENCE:1
+DTSTAMP:20260927T001200Z
+LAST-MODIFIED:20260927T001200Z
+SEQUENCE:2
 DTSTART;TZID=America/Los_Angeles:20261017T140000
 DTEND;TZID=America/Los_Angeles:20261017T200000
 SUMMARY:Big Bear Plein Air Art Competition Gallery
@@ -5225,30 +5228,31 @@ LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
 DESCRIPTION:The public gallery for the 3rd Annual Big Bear Plein Air Art Co
  mpetition\, showing submitted local landscapes October 14–17 and ending 
  with the October 18 awards ceremony.\n\nWHEN\nSat\, Oct 17\, 2026\, 2:00 P
- M–8:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no admission fee or
-  ticket requirement is published\n• Artwork is available to purchase\n\n
- SCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gallery\n•
-  October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\nWHAT T
- O EXPECT\n• Artwork is available for purchase\n• Visit Big Bear invite
- s art enthusiasts\, collectors and community members to view the competiti
- on gallery\n• The printed brochure calls this a 'Plein Air Art & Film Fe
- stival\,' but the current official 2026 program lists the Plein Air Art Co
- mpetition and Festival of Artist Events and does not list a film program\n
- \nTBD / VERIFY BEFORE GOING\n• The official page invites the public but 
- does not explicitly label gallery admission free\n\nCONFLICTS / SAME-DAY O
- PTIONS\n• Overlaps or competes with: BBVAS Sidewalk Astronomy in the Vil
- lage (Sat\, Oct 17\, 2026\, 7:00 PM–9:00 PM).\n• Overlaps or competes 
- with: Hurrikane — Free Scorpions Tribute at The Cave (Sat\, Oct 17\, 202
- 6\, 8:00 PM–10:30 PM).\n\nOFFICIAL SOURCES\n• Official Plein Air compe
- tition page: https://www.bigbear.com/pleinair/\n• Official Visit Big Bea
- r event listing: https://www.bigbear.com/events/plein-air-art-competition/
- \n\nCALENDAR STATUS: DETAILS_TBD\nLast checked: 2026-09-26\nDetails can ch
- ange. Recheck the official source before making a special trip.
-URL:https://www.bigbear.com/pleinair/
+ M–8:00 PM\n\nPRICE / ADMISSION\n• No ticket or admission charge is lis
+ ted on the official public gallery page\n• Artwork is available to purch
+ ase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM — competition galle
+ ry\n• October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\
+ nWHAT TO EXPECT\n• Artwork is available for purchase\n• Parking is ava
+ ilable at Destination Big Bear Event Center\n• The printed brochure call
+ s this a 'Plein Air Art & Film Festival\,' but the current official 2026 p
+ rogram lists the Plein Air Art Competition and Festival of Artist Events a
+ nd does not list a film program\n\nCONFLICTS / SAME-DAY OPTIONS\n• Overl
+ aps or competes with: BBVAS Sidewalk Astronomy in the Village (Sat\, Oct 1
+ 7\, 2026\, 7:00 PM–9:00 PM).\n• Overlaps or competes with: Hurrikane 
+ — Free Scorpions Tribute at The Cave (Sat\, Oct 17\, 2026\, 8:00 PM–10
+ :30 PM).\n\nOFFICIAL SOURCES\n• Official competition gallery schedule: h
+ ttps://www.bigbear.com/events/big-bear-plein-air-art-competition-gallery-2
+ 026/\n• Official Plein Air competition page: https://www.bigbear.com/ple
+ inair/\n• Official Visit Big Bear event listing: https://www.bigbear.com
+ /events/plein-air-art-competition/\n\nCALENDAR STATUS: CONFIRMED\nLast che
+ cked: 2026-09-26\nDetails can change. Recheck the official source before m
+ aking a special trip.
+URL:https://www.bigbear.com/events/big-bear-plein-air-art-competition-galle
+ ry-2026/
 CATEGORIES:Art,Gallery,Community,Likely Free
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bbvas-sidewalk-astronomy-2026-10-17@big-bear-events.bry.rip
@@ -5338,9 +5342,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-plein-air-competition-gallery-2026-10-18@big-bear-events.bry.r
  ip
-DTSTAMP:20260926T235800Z
-LAST-MODIFIED:20260926T235800Z
-SEQUENCE:1
+DTSTAMP:20260927T001200Z
+LAST-MODIFIED:20260927T001200Z
+SEQUENCE:2
 DTSTART;TZID=America/Los_Angeles:20261018T100000
 DTEND;TZID=America/Los_Angeles:20261018T120000
 SUMMARY:Big Bear Plein Air Competition Gallery + Awards
@@ -5349,27 +5353,27 @@ LOCATION:Destination Big Bear Event Center — 713 Stocker Rd\, Big Bear La
 DESCRIPTION:The public gallery for the 3rd Annual Big Bear Plein Air Art Co
  mpetition\, showing submitted local landscapes October 14–17 and ending 
  with the October 18 awards ceremony.\n\nWHEN\nSun\, Oct 18\, 2026\, 10:00 
- AM–12:00 PM\n\nPRICE / ADMISSION\n• Public invited\; no admission fee 
- or ticket requirement is published\n• Artwork is available to purchase\n
- \nSCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gallery\n
- • October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\n\nWHA
- T TO EXPECT\n• Artwork is available for purchase\n• Visit Big Bear inv
- ites art enthusiasts\, collectors and community members to view the compet
- ition gallery\n• The printed brochure calls this a 'Plein Air Art & Film
-  Festival\,' but the current official 2026 program lists the Plein Air Art
-  Competition and Festival of Artist Events and does not list a film progra
- m\n\nTBD / VERIFY BEFORE GOING\n• The official page invites the public b
- ut does not explicitly label gallery admission free\n\nOFFICIAL SOURCES\n
- • Official Plein Air competition page: https://www.bigbear.com/pleinair/
- \n• Official Visit Big Bear event listing: https://www.bigbear.com/event
- s/plein-air-art-competition/\n\nCALENDAR STATUS: DETAILS_TBD\nLast checked
- : 2026-09-26\nDetails can change. Recheck the official source before makin
- g a special trip.
-URL:https://www.bigbear.com/pleinair/
+ AM–12:00 PM\n\nPRICE / ADMISSION\n• No ticket or admission charge is l
+ isted on the official public gallery page\n• Artwork is available to pur
+ chase\n\nSCHEDULE\n• October 14–17: 2:00–8:00 PM — competition gal
+ lery\n• October 18: 10:00 AM–12:00 PM — gallery and awards ceremony\
+ n\nWHAT TO EXPECT\n• Artwork is available for purchase\n• Parking is a
+ vailable at Destination Big Bear Event Center\n• The printed brochure ca
+ lls this a 'Plein Air Art & Film Festival\,' but the current official 2026
+  program lists the Plein Air Art Competition and Festival of Artist Events
+  and does not list a film program\n\nOFFICIAL SOURCES\n• Official compet
+ ition gallery schedule: https://www.bigbear.com/events/big-bear-plein-air-
+ art-competition-gallery-2026/\n• Official Plein Air competition page: ht
+ tps://www.bigbear.com/pleinair/\n• Official Visit Big Bear event listing
+ : https://www.bigbear.com/events/plein-air-art-competition/\n\nCALENDAR ST
+ ATUS: CONFIRMED\nLast checked: 2026-09-26\nDetails can change. Recheck the
+  official source before making a special trip.
+URL:https://www.bigbear.com/events/big-bear-plein-air-art-competition-galle
+ ry-2026/
 CATEGORIES:Art,Gallery,Community,Likely Free
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-BIGBEAR-DETAIL-STATUS:DETAILS_TBD
+X-BIGBEAR-DETAIL-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:big-bear-lake-oktoberfest-fall-2026-10-18@big-bear-events.bry.rip
