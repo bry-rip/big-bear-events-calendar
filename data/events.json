@@ -5,7 +5,7 @@
     "timezone": "America/Los_Angeles",
     "product_id": "-//Bryan Rippetoe//Big Bear Local Events//EN",
     "refresh_interval": "PT1H",
-    "last_updated": "2026-09-26"
+    "last_updated": "2026-09-28"
   },
   "curation": {
     "price_policy": [
@@ -5044,6 +5044,58 @@
       ],
       "last_verified": "2026-09-26",
       "last_modified": "2026-09-26T23:58:00Z",
+      "sequence": 0
+    },
+    {
+      "id": "king-of-the-mountain-2-superfights-2026",
+      "title": "King of the Mountain 2 — KOTM Superfights",
+      "status": "confirmed",
+      "start": "2026-10-03T12:00",
+      "location": {
+        "name": "Ski Beach Park / Swim Beach",
+        "address": "41216 Park Ave, Big Bear Lake, CA 92315"
+      },
+      "pricing": [
+        "$30 admission"
+      ],
+      "summary": "A mountain-produced combat-sports event featuring Jiu Jitsu, Judo and Wrestling matchups, with Big Bear, Lake Arrowhead and Wrightwood athletes matched against fighters from city gyms.",
+      "schedule": [
+        "12:00 PM — doors open",
+        "2:00 PM — first matches"
+      ],
+      "details": [
+        "King of the Mountain emphasizes forward progression, takedowns and active grappling; the organizer says guard pulling and stalling are not allowed",
+        "Adult matches use three five-minute rounds; children’s matches use three three-minute rounds",
+        "The October 3 event is promoted as King of the Mountain 2"
+      ],
+      "tbd": [
+        "Published materials do not state an event end time"
+      ],
+      "conflicts": [
+        "big-bair-takeover-2026",
+        "summit-series-best-whip-2026",
+        "big-bear-lake-oktoberfest-fall",
+        "big-bear-yoga-festival-2026"
+      ],
+      "sources": [
+        {
+          "label": "Official KOTM Superfights site",
+          "url": "https://www.kotmsuperfights.com/"
+        },
+        {
+          "label": "Organizer event poster",
+          "url": "https://www.kotmsuperfights.com/"
+        }
+      ],
+      "categories": [
+        "Sports",
+        "Jiu Jitsu",
+        "Judo",
+        "Wrestling",
+        "Local"
+      ],
+      "last_verified": "2026-09-28",
+      "last_modified": "2026-09-28T09:51:00Z",
       "sequence": 0
     }
   ]
