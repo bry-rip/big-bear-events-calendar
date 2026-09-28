@@ -40,5 +40,7 @@ jobs:
           print(s[start:end])
           print("KOTM_BLOCK_END")
           PY
+      - name: Print generated feed diff
+        run: git diff --text -- public/big-bear-events.ics || true
       - name: Confirm generated feed is committed
         run: git diff --exit-code -- public/big-bear-events.ics
