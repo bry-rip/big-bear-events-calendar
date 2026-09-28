@@ -27,5 +27,18 @@ jobs:
         env:
           BASE_REVISION: ${{ github.event.pull_request.base.sha || github.event.before }}
         run: python3 scripts/validate_updates.py "$BASE_REVISION"
+      - name: Print KOTM block for feed debugging
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          s = Path("public/big-bear-events.ics").read_text(encoding="utf-8")
+          uid = "UID:king-of-the-mountain-2-superfights-2026@big-bear-events.bry.rip"
+          pos = s.index(uid)
+          start = s.rfind("BEGIN:VEVENT", 0, pos)
+          end = s.index("END:VEVENT", pos) + len("END:VEVENT")
+          print("KOTM_BLOCK_START")
+          print(s[start:end])
+          print("KOTM_BLOCK_END")
+          PY
       - name: Confirm generated feed is committed
         run: git diff --exit-code -- public/big-bear-events.ics
